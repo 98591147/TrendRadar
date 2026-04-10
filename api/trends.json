@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-04-10T15:47:50.350927+08:00",
-  "total_titles_processed": 1185,
+  "generated_at": "2026-04-10T17:15:19.516557+08:00",
+  "total_titles_processed": 1330,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "伊朗",
-      "match_count": 96,
+      "match_count": 101,
       "titles": [
         {
           "title": "伊朗副外长：只有美国真正停止在中东地区的“侵略”行为，霍尔木兹海峡才会重新开放",
@@ -89,6 +89,17 @@
           "time_info": "[06时44分 ~ 07时40分]"
         },
         {
+          "title": "伊朗战争丨谈判前夕，伊斯兰堡已进入“红色警戒”",
+          "url": "https://news.ifeng.com/loc/timeline/event/8r727OWpK5W",
+          "source": "凤凰网",
+          "ranks": [
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[15时47分 ~ 17时15分]"
+        },
+        {
           "title": "伊朗副外长：霍尔木兹海峡保持开放",
           "url": "https://www.toutiao.com/trending/7626336339914477097/",
           "source": "今日头条",
@@ -96,11 +107,12 @@
             12,
             22,
             15,
-            17
+            17,
+            14
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[01时12分 ~ 15时47分]"
+          "appearance_count": 11,
+          "time_info": "[01时12分 ~ 17时15分]"
         },
         {
           "title": "伊朗：停火以来没袭击任何国家，有关事件若属实是美以所为",
@@ -136,15 +148,15 @@
           "time_info": "05时49分"
         },
         {
-          "title": "伊朗战争丨谈判前夕，伊斯兰堡已进入“红色警戒”",
-          "url": "https://news.ifeng.com/loc/timeline/event/8r727OWpK5W",
+          "title": "美媒曝光多起疑似涉伊朗战事“内幕交易”",
+          "url": "https://news.ifeng.com/c/8sD9ENlQ29B",
           "source": "凤凰网",
           "ranks": [
-            1
+            2
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "15时47分"
+          "time_info": "17时15分"
         },
         {
           "title": "伊朗继续控制霍尔木兹海峡，北海原油价格创历史新高",
@@ -156,6 +168,32 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "05时49分"
+        },
+        {
+          "title": "伊朗每天限15艘船通过霍尔木兹海峡",
+          "url": "https://www.toutiao.com/trending/7626753597400763914/",
+          "source": "今日头条",
+          "ranks": [
+            21,
+            24,
+            18,
+            26,
+            28
+          ],
+          "is_new": false,
+          "appearance_count": 9,
+          "time_info": "[01时12分 ~ 17时15分]"
+        },
+        {
+          "title": "美以或对伊朗憋着更恶心后手？",
+          "url": "https://news.ifeng.com/c/8sDBZlSlVfb",
+          "source": "凤凰网",
+          "ranks": [
+            3
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "17时15分"
         },
         {
           "title": "中方担保伊朗官员不在谈判中被暗杀？外交部回应",
@@ -216,20 +254,6 @@
           "is_new": false,
           "appearance_count": 8,
           "time_info": "[01时12分 ~ 10时49分]"
-        },
-        {
-          "title": "伊朗每天限15艘船通过霍尔木兹海峡",
-          "url": "https://www.toutiao.com/trending/7626753597400763914/",
-          "source": "今日头条",
-          "ranks": [
-            21,
-            24,
-            18,
-            26
-          ],
-          "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[01时12分 ~ 13时28分]"
         },
         {
           "title": "伊朗驻巴基斯坦大使删除伊朗代表团将抵达伊斯兰堡的帖文，释放什么信号？双方还会如约谈判吗？",
@@ -301,6 +325,19 @@
           "is_new": false,
           "appearance_count": 7,
           "time_info": "[01时12分 ~ 07时40分]"
+        },
+        {
+          "title": "伊朗最高领袖：伊朗不寻求战争也不会放弃权利，霍尔木兹海峡的管理将进入新阶段",
+          "url": "https://wallstreetcn.com/articles/3769620",
+          "source": "华尔街见闻",
+          "ranks": [
+            10,
+            8,
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[10时49分 ~ 17时15分]"
         },
         {
           "title": "俄方希望伊朗与美国谈判进程取得成功",
@@ -389,17 +426,16 @@
           "time_info": "[05时49分 ~ 06时44分]"
         },
         {
-          "title": "伊朗最高领袖：伊朗不寻求战争也不会放弃权利，霍尔木兹海峡的管理将进入新阶段",
-          "url": "https://wallstreetcn.com/articles/3769620",
-          "source": "华尔街见闻",
+          "title": "美以袭击伊朗进入第 42 天，当前局势如何？哪些信息值得关注？",
+          "url": "https://www.zhihu.com/question/2025706275451795397",
+          "source": "知乎",
           "ranks": [
-            10,
-            8,
-            5
+            7,
+            6
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[10时49分 ~ 15时47分]"
+          "appearance_count": 5,
+          "time_info": "[07时40分 ~ 17时15分]"
         },
         {
           "title": "石油巨头向白宫抗议：如果伊朗可以收费，那新加坡和土耳其也可以",
@@ -414,6 +450,20 @@
           "is_new": false,
           "appearance_count": 5,
           "time_info": "[05时49分 ~ 13时28分]"
+        },
+        {
+          "title": "停火首日，霍尔木兹仅有4艘船通过，美国催盟友给出方案，伊朗公布安全航路图",
+          "url": "https://wallstreetcn.com/articles/3769554",
+          "source": "华尔街见闻",
+          "ranks": [
+            10,
+            8,
+            9,
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[07时40分 ~ 17时15分]"
         },
         {
           "title": "伊军高官：伊朗地形将成入侵者的监狱",
@@ -452,32 +502,6 @@
           "time_info": "[01时12分 ~ 05时49分]"
         },
         {
-          "title": "美以袭击伊朗进入第 42 天，当前局势如何？哪些信息值得关注？",
-          "url": "https://www.zhihu.com/question/2025706275451795397",
-          "source": "知乎",
-          "ranks": [
-            7,
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[07时40分 ~ 15时47分]"
-        },
-        {
-          "title": "停火首日，霍尔木兹仅有4艘船通过，美国催盟友给出方案，伊朗公布安全航路图",
-          "url": "https://wallstreetcn.com/articles/3769554",
-          "source": "华尔街见闻",
-          "ranks": [
-            10,
-            8,
-            9,
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[07时40分 ~ 15时47分]"
-        },
-        {
           "title": "伊朗最高领袖对和谈提出三点主张，包括将对霍尔木兹海峡的管理推进到「一个新阶段」，新阶段可能指什么？",
           "url": "https://www.zhihu.com/question/2025840148768712276",
           "source": "知乎",
@@ -486,8 +510,34 @@
             12
           ],
           "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[10时49分 ~ 17时15分]"
+        },
+        {
+          "title": "伊朗欲在霍尔木兹收“过路费” 能赚多少钱、能否行得通？一文读懂",
+          "url": "https://www.cls.cn/detail/2340145",
+          "source": "财联社热门",
+          "ranks": [
+            13,
+            8,
+            7
+          ],
+          "is_new": false,
           "appearance_count": 3,
-          "time_info": "[10时49分 ~ 15时47分]"
+          "time_info": "[13时28分 ~ 17时15分]"
+        },
+        {
+          "title": "在世界上伊朗的导弹水平如何？为何伊朗导弹能突破爱国者的拦截，摧毁萨德？",
+          "url": "https://www.zhihu.com/question/2022275543672833940",
+          "source": "知乎",
+          "ranks": [
+            17,
+            19,
+            18
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[13时28分 ~ 17时15分]"
         },
         {
           "title": "以军战机轰炸黎巴嫩，伊朗方面称其违反停火协议，再次关闭霍尔木兹海峡，停火还能维持吗？各方还有哪些分歧？",
@@ -513,6 +563,18 @@
           "time_info": "[07时40分 ~ 10时49分]"
         },
         {
+          "title": "报道：伊朗每天允许不超过15艘船只通过霍尔木兹海峡",
+          "url": "https://wallstreetcn.com/articles/3769603",
+          "source": "华尔街见闻",
+          "ranks": [
+            7,
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[15时47分 ~ 17时15分]"
+        },
+        {
           "title": "伊朗外交关系战略委员会主席去世，其妻已在美以袭击中遇难",
           "url": "https://wallstreetcn.com/livenews/3085347",
           "source": "华尔街见闻-快讯",
@@ -525,16 +587,16 @@
           "time_info": "[05时49分 ~ 06时44分]"
         },
         {
-          "title": "伊朗欲在霍尔木兹收“过路费” 能赚多少钱、能否行得通？一文读懂",
-          "url": "https://www.cls.cn/detail/2340145",
-          "source": "财联社热门",
+          "title": "伊朗最高领袖发表最新声明",
+          "url": "https://s.weibo.com/weibo?q=%23%E4%BC%8A%E6%9C%97%E6%9C%80%E9%AB%98%E9%A2%86%E8%A2%96%E5%8F%91%E8%A1%A8%E6%9C%80%E6%96%B0%E5%A3%B0%E6%98%8E%23&t=31&band_rank=10&Refer=top",
+          "source": "微博",
           "ranks": [
-            13,
-            8
+            10,
+            9
           ],
           "is_new": false,
           "appearance_count": 2,
-          "time_info": "[13时28分 ~ 15时47分]"
+          "time_info": "[15时47分 ~ 17时15分]"
         },
         {
           "title": "据了解，Kamal Kharazi已经在美国和以色列发动的袭击中受伤。（伊朗媒体Irna）",
@@ -583,18 +645,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[06时44分 ~ 07时40分]"
-        },
-        {
-          "title": "在世界上伊朗的导弹水平如何？为何伊朗导弹能突破爱国者的拦截，摧毁萨德？",
-          "url": "https://www.zhihu.com/question/2022275543672833940",
-          "source": "知乎",
-          "ranks": [
-            17,
-            19
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[13时28分 ~ 15时47分]"
         },
         {
           "title": "伊朗否认在停火期间向其他国家发射导弹",
@@ -652,17 +702,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "10时49分"
-        },
-        {
-          "title": "报道：伊朗每天允许不超过15艘船只通过霍尔木兹海峡",
-          "url": "https://wallstreetcn.com/articles/3769603",
-          "source": "华尔街见闻",
-          "ranks": [
-            7
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "15时47分"
         },
         {
           "title": "伊朗外长阿拉格齐：内塔尼亚胡的刑事审判将于本周日继续进行。若能达成全地区范围的停火协议（包括在黎巴嫩），则将加速其入狱的命运。如果美国真想通过让内塔尼亚胡破坏外交手段来破坏本国经济，那这将是美国自己的选择。我们认为这样做很愚蠢，但我们对此已做好了准备。",
@@ -726,7 +765,7 @@
           "ranks": [
             10
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "15时47分"
         },
@@ -740,17 +779,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "07时40分"
-        },
-        {
-          "title": "伊朗最高领袖发表最新声明",
-          "url": "https://s.weibo.com/weibo?q=%23%E4%BC%8A%E6%9C%97%E6%9C%80%E9%AB%98%E9%A2%86%E8%A2%96%E5%8F%91%E8%A1%A8%E6%9C%80%E6%96%B0%E5%A3%B0%E6%98%8E%23&t=31&band_rank=10&Refer=top",
-          "source": "微博",
-          "ranks": [
-            10
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "15时47分"
         },
         {
           "title": "世卫组织：美以军事打击致伊朗近2400人死亡",
@@ -828,6 +856,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "06时44分"
+        },
+        {
+          "title": "美媒曝光多起疑涉伊朗战事内幕交易",
+          "url": "https://www.baidu.com/s?wd=%E7%BE%8E%E5%AA%92%E6%9B%9D%E5%85%89%E5%A4%9A%E8%B5%B7%E7%96%91%E6%B6%89%E4%BC%8A%E6%9C%97%E6%88%98%E4%BA%8B%E5%86%85%E5%B9%95%E4%BA%A4%E6%98%93",
+          "source": "百度热搜",
+          "ranks": [
+            16
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "17时15分"
         },
         {
           "title": "韩国央行行长李昌镛：若伊朗战争即将结束，韩国陷入滞胀的风险较低。",
@@ -973,6 +1012,17 @@
           "time_info": "10时49分"
         },
         {
+          "title": "奥地利机构因伊朗战争下调该国经济增长预期",
+          "url": "https://flash.jin10.com/detail/20260410164858426800",
+          "source": "金十数据",
+          "ranks": [
+            23
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "17时15分"
+        },
+        {
           "title": "伊朗最高领袖：霍尔木兹海峡的管理将进入新阶段",
           "url": "https://wallstreetcn.com/livenews/3085271",
           "source": "华尔街见闻-快讯",
@@ -1094,6 +1144,17 @@
           "time_info": "13时28分"
         },
         {
+          "title": "据伊朗塔斯尼姆通讯社：伊朗总统佩泽希齐扬表示，最近达成的停火框架是在伊朗政府关键人物之间达成共识的基础上制定的，并得到了伊朗最高领袖穆杰塔巴的批准，该框架基于尊严、智慧和国家利益等原则。",
+          "url": "https://flash.jin10.com/detail/20260410164301918800",
+          "source": "金十数据",
+          "ranks": [
+            29
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "17时15分"
+        },
+        {
           "title": "一名黎巴嫩高级官员表示，任何谈判都将“单独进行，但模式相同”，类似于由巴基斯坦促成的伊朗与美国之间的停火协议。",
           "url": "https://flash.jin10.com/detail/20260410000803865800",
           "source": "金十数据",
@@ -1118,538 +1179,8 @@
       ]
     },
     {
-      "keyword_group": "DeepSeek Ai 水球泡 谷歌 google gemini 好书推荐 chatgpt openai 白银 金价石油 黄金 热梗",
-      "match_count": 45,
-      "titles": [
-        {
-          "title": "假作真时真亦假：美以伊战事陷入AI信息迷雾",
-          "url": "https://m.thepaper.cn/newsDetail_forward_32926200",
-          "source": "澎湃新闻",
-          "ranks": [
-            5,
-            4
-          ],
-          "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[01时12分 ~ 07时40分]"
-        },
-        {
-          "title": "AI红利和普通人有何关系",
-          "url": "https://search.bilibili.com/all?keyword=AI%E7%BA%A2%E5%88%A9%E5%92%8C%E6%99%AE%E9%80%9A%E4%BA%BA%E6%9C%89%E4%BD%95%E5%85%B3%E7%B3%BB",
-          "source": "bilibili 热搜",
-          "ranks": [
-            27,
-            16,
-            28,
-            3,
-            21,
-            4
-          ],
-          "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[03时12分 ~ 15时47分]"
-        },
-        {
-          "title": "玩具也要闯闯AI赛道",
-          "url": "https://search.bilibili.com/all?keyword=%E7%8E%A9%E5%85%B7%E4%B9%9F%E8%A6%81%E9%97%AF%E9%97%AFAI%E8%B5%9B%E9%81%93",
-          "source": "bilibili 热搜",
-          "ranks": [
-            30,
-            25,
-            21,
-            19,
-            29,
-            23
-          ],
-          "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[01时12分 ~ 15时47分]"
-        },
-        {
-          "title": "亚马逊据悉考虑向其他企业出售其AI芯片",
-          "url": "https://flash.jin10.com/detail/20260410004158650800",
-          "source": "金十数据",
-          "ranks": [
-            2
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "01时12分"
-        },
-        {
-          "title": "消息称Anthropic考虑自主研发AI芯片",
-          "url": "https://flash.jin10.com/detail/20260410070524223800",
-          "source": "金十数据",
-          "ranks": [
-            2
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "07时40分"
-        },
-        {
-          "title": "千问旗舰AI眼镜S1开启预约，最低到手价3499起",
-          "url": "https://wallstreetcn.com/livenews/3085594",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            4
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "13时28分"
-        },
-        {
-          "title": "xAI就科罗拉多州新AI法案提起诉讼",
-          "url": "https://flash.jin10.com/detail/20260410070147196800",
-          "source": "金十数据",
-          "ranks": [
-            5
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "07时40分"
-        },
-        {
-          "title": "上海黄金交易所黄金T+D 4月10日（周五）收盘上涨0.39%报1046.05元/克；<br/>上海黄金交易所白银T+D 4月10日（周五）收盘上涨1.53%报18550.0元/千克。",
-          "url": "https://flash.jin10.com/detail/20260410153032440800",
-          "source": "金十数据",
-          "ranks": [
-            5
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "15时47分"
-        },
-        {
-          "title": "Wait清唱挑战",
-          "url": "https://www.douyin.com/hot/2460968",
-          "source": "抖音",
-          "ranks": [
-            25,
-            15,
-            20,
-            28,
-            29,
-            26
-          ],
-          "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[01时12分 ~ 10时49分]"
-        },
-        {
-          "title": "【焦点复盘】沪指窄幅震荡收十字星，AI应用端大面积退潮，OCS产业链获持续热捧",
-          "url": "https://www.cls.cn/detail/2339282",
-          "source": "财联社热门",
-          "ranks": [
-            8,
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[01时12分 ~ 07时40分]"
-        },
-        {
-          "title": "员工离职变AI,上班不能停",
-          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28352945&amp;topic_name=%E5%91%98%E5%B7%A5%E7%A6%BB%E8%81%8C%E5%8F%98AI%2C%E4%B8%8A%E7%8F%AD%E4%B8%8D%E8%83%BD%E5%81%9C",
-          "source": "贴吧",
-          "ranks": [
-            25,
-            28
-          ],
-          "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[01时12分 ~ 10时49分]"
-        },
-        {
-          "title": "OpenAI声称其算力比Anthropic更有优势",
-          "url": "https://flash.jin10.com/detail/20260410043705456800",
-          "source": "金十数据",
-          "ranks": [
-            1,
-            26
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[04时56分 ~ 05时49分]"
-        },
-        {
-          "title": "美股芯片存储指数收涨超3.5%，与涨9%的成分股闪迪创历史新高，AI软件先驱指数跌约5.1%",
-          "url": "https://wallstreetcn.com/livenews/3085326",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            2,
-            26
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[04时56分 ~ 05时49分]"
-        },
-        {
-          "title": "AI写作年赚200万夫妻被封号",
-          "url": "https://s.weibo.com/weibo?q=%23AI%E5%86%99%E4%BD%9C%E5%B9%B4%E8%B5%9A200%E4%B8%87%E5%A4%AB%E5%A6%BB%E8%A2%AB%E5%B0%81%E5%8F%B7%23&t=31&band_rank=2&Refer=top",
-          "source": "微博",
-          "ranks": [
-            2,
-            18
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[10时49分 ~ 13时28分]"
-        },
-        {
-          "title": "AI超级周期推动需求激增，多家存储芯片企业一季度业绩预喜",
-          "url": "https://wallstreetcn.com/livenews/3085370",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            3,
-            17
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[06时44分 ~ 07时40分]"
-        },
-        {
-          "title": "微信回应夫妻用AI写公众号年赚200万",
-          "url": "https://www.baidu.com/s?wd=%E5%BE%AE%E4%BF%A1%E5%9B%9E%E5%BA%94%E5%A4%AB%E5%A6%BB%E7%94%A8AI%E5%86%99%E5%85%AC%E4%BC%97%E5%8F%B7%E5%B9%B4%E8%B5%9A200%E4%B8%87",
-          "source": "百度热搜",
-          "ranks": [
-            4,
-            27
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[10时49分 ~ 13时28分]"
-        },
-        {
-          "title": "AI写作年赚200万夫妻被封号",
-          "url": "https://www.baidu.com/s?wd=AI%E5%86%99%E4%BD%9C%E5%B9%B4%E8%B5%9A200%E4%B8%87%E5%A4%AB%E5%A6%BB%E8%A2%AB%E5%B0%81%E5%8F%B7",
-          "source": "百度热搜",
-          "ranks": [
-            4,
-            18
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[13时28分 ~ 15时47分]"
-        },
-        {
-          "title": "【VIP资讯星推官】除了光纤外，还有哪些AI分支景气度上行？",
-          "url": "https://www.cls.cn/detail/2338824",
-          "source": "财联社热门",
-          "ranks": [
-            13
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[03时12分 ~ 06时44分]"
-        },
-        {
-          "title": "AI换脸偷声侵权，那么大模型训练呢？",
-          "url": "https://m.thepaper.cn/newsDetail_forward_32934233",
-          "source": "澎湃新闻",
-          "ranks": [
-            7,
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[13时28分 ~ 15时47分]"
-        },
-        {
-          "title": "最高涨价463% 你的AI员工变贵了",
-          "url": "https://www.baidu.com/s?wd=%E6%9C%80%E9%AB%98%E6%B6%A8%E4%BB%B7463%25+%E4%BD%A0%E7%9A%84AI%E5%91%98%E5%B7%A5%E5%8F%98%E8%B4%B5%E4%BA%86",
-          "source": "百度热搜",
-          "ranks": [
-            8,
-            24
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[13时28分 ~ 15时47分]"
-        },
-        {
-          "title": "全球最大黄金ETF--SPDR Gold Trust持仓较上日减少0.571吨，当前持仓量为1052.419吨。",
-          "url": "https://flash.jin10.com/detail/20260410062543675800",
-          "source": "金十数据",
-          "ranks": [
-            8,
-            18
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[06时44分 ~ 07时40分]"
-        },
-        {
-          "title": "美国佛罗里达州总检察长对OpenAI发起调查。",
-          "url": "https://flash.jin10.com/detail/20260410061119660800",
-          "source": "金十数据",
-          "ranks": [
-            13,
-            23
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[06时44分 ~ 07时40分]"
-        },
-        {
-          "title": "全球最大白银ETF--iShares Silver Trust持仓较上日减少22.52吨，当前持仓量为15309.55吨。欢迎点击查看数据中心...",
-          "url": "https://flash.jin10.com/detail/20260410060703028800",
-          "source": "金十数据",
-          "ranks": [
-            14,
-            24
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[06时44分 ~ 07时40分]"
-        },
-        {
-          "title": "大摩策略师：黄金避险属性有所减弱",
-          "url": "https://flash.jin10.com/detail/20260410130459850800",
-          "source": "金十数据",
-          "ranks": [
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "13时28分"
-        },
-        {
-          "title": "复盘 70 年代滞胀期，千金难买“黄金坑”",
-          "url": "https://wallstreetcn.com/articles/3769541",
-          "source": "华尔街见闻",
-          "ranks": [
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "07时40分"
-        },
-        {
-          "title": "国际现货黄金或迅速回升至5000关口！沃什听证会延迟向市场提供短期稳定性？| Live分析更新中",
-          "url": "https://flash.jin10.com/detail/20260410152720130800",
-          "source": "金十数据",
-          "ranks": [
-            9
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "15时47分"
-        },
-        {
-          "title": "据Axios报道，以色列与黎巴嫩之间的直接对话将于下周在位于华盛顿的美国国务院启动。 消息出炉后，WTI原油5分钟内下跌0.52美元/桶，报97.64美元/桶。 现货黄金5分钟内下跌5.37美元/盎司，报4790.96美元/盎司。",
-          "url": "https://wallstreetcn.com/livenews/3085235",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "01时12分"
-        },
-        {
-          "title": "OpenAI告诉投资者，其计算能力优于Anthropic。",
-          "url": "https://flash.jin10.com/detail/20260410041947855800",
-          "source": "金十数据",
-          "ranks": [
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "04时56分"
-        },
-        {
-          "title": "亚马逊考虑向其他公司出售其AI芯片",
-          "url": "https://wallstreetcn.com/livenews/3085230",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            13
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "01时12分"
-        },
-        {
-          "title": "上海黄金交易所黄金T+D 4月9日（周四）晚盘收盘上涨0.86%报1051.0元/克；<br/>上海黄金交易所白银T+D 4月9日（周四）晚盘收盘上涨2.57%报18740.0元/千克。",
-          "url": "https://flash.jin10.com/detail/20260410023457645800",
-          "source": "金十数据",
-          "ranks": [
-            16
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "03时13分"
-        },
-        {
-          "title": "件股再度集体重挫，AI智能体令行业增长前景受到沉重打击",
-          "url": "https://wallstreetcn.com/livenews/3085278",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            16
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "03时13分"
-        },
-        {
-          "title": "OpenAI“星际之门”（Stargate）项目执行官Peter Hoeschele已离开公司。（The Information）",
-          "url": "https://wallstreetcn.com/livenews/3085487",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            16
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "10时49分"
-        },
-        {
-          "title": "现货黄金涨1%没能守住4800美元，现货白银涨约1.6%",
-          "url": "https://wallstreetcn.com/livenews/3085335",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            17
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "05时49分"
-        },
-        {
-          "title": "xAI的CFO Anthony Armstrong离职。（The Information）",
-          "url": "https://wallstreetcn.com/livenews/3085275",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            19
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "03时13分"
-        },
-        {
-          "title": "港股阿里巴巴(09988.HK)震荡上行涨近3%，消息面上，阿里AI视频大模型HappyHorse预计一周后对外发布。",
-          "url": "https://flash.jin10.com/detail/20260410102445186800",
-          "source": "金十数据",
-          "ranks": [
-            22
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "10时49分"
-        },
-        {
-          "title": "CoreWeave Inc.发行17.5亿美元高收益（垃圾级）债券和30亿美元2031年到期可转债。 此前，该公司宣布，与扎克伯格旗下Meta Platforms Inc.围绕AI计算达成扩大化长期合作协议，有效期持续至2032年，金额大约210亿美元。",
-          "url": "https://wallstreetcn.com/livenews/3085301",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            22
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "04时56分"
-        },
-        {
-          "title": "OpenAI创始人奥尔特曼：很高兴看到Codex受到这么多人的喜爱。应广大用户的强烈要求，我们即将推出100美元的ChatGPT Pro会员等级。",
-          "url": "https://flash.jin10.com/detail/20260410044609661800",
-          "source": "金十数据",
-          "ranks": [
-            23
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "05时49分"
-        },
-        {
-          "title": "Meta Platforms(META.O)重新调配工程师以改进AI模型。",
-          "url": "https://flash.jin10.com/detail/20260410035916165800",
-          "source": "金十数据",
-          "ranks": [
-            24
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "04时56分"
-        },
-        {
-          "title": "OpenAI推出月租100美元的Pro档订阅服务。 可以比Plus档订阅获得多出五倍的Codex使用量。",
-          "url": "https://wallstreetcn.com/livenews/3085269",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            24
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "03时13分"
-        },
-        {
-          "title": "美国佛州总检察长就涉ChatGPT枪击事件调查OpenAI",
-          "url": "https://wallstreetcn.com/livenews/3085328",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            24
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "05时49分"
-        },
-        {
-          "title": "阿里AI视频大模型HappyHorse预计一周后对外发布",
-          "url": "https://flash.jin10.com/detail/20260410102343490800",
-          "source": "金十数据",
-          "ranks": [
-            26
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "10时49分"
-        },
-        {
-          "title": "如何降低论文AI率",
-          "url": "https://search.bilibili.com/all?keyword=%E5%A6%82%E4%BD%95%E9%99%8D%E4%BD%8E%E8%AE%BA%E6%96%87AI%E7%8E%87",
-          "source": "bilibili 热搜",
-          "ranks": [
-            27
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "15时47分"
-        },
-        {
-          "title": "决战CPI！黄金仍以高位拉锯为主，等待通胀数据催化到来",
-          "url": "https://flash.jin10.com/detail/20260410151242342800",
-          "source": "金十数据",
-          "ranks": [
-            27
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "15时47分"
-        },
-        {
-          "title": "微信支付发布“AI接入工具箱”",
-          "url": "https://wallstreetcn.com/livenews/3085562",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            27
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "13时28分"
-        },
-        {
-          "title": "微信回应夫妻用AI写公众号年赚200万",
-          "url": "https://s.weibo.com/weibo?q=%23%E5%BE%AE%E4%BF%A1%E5%9B%9E%E5%BA%94%E5%A4%AB%E5%A6%BB%E7%94%A8AI%E5%86%99%E5%85%AC%E4%BC%97%E5%8F%B7%E5%B9%B4%E8%B5%9A200%E4%B8%87%23&t=31&band_rank=28&Refer=top",
-          "source": "微博",
-          "ranks": [
-            28
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "10时49分"
-        }
-      ]
-    },
-    {
       "keyword_group": "特朗普",
-      "match_count": 44,
+      "match_count": 49,
       "titles": [
         {
           "title": "特朗普：10项停战条款是“假新闻”，美军将“继续驻扎在伊朗境内及其周边”",
@@ -1709,8 +1240,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[10时49分 ~ 15时47分]"
+          "appearance_count": 4,
+          "time_info": "[10时49分 ~ 17时15分]"
         },
         {
           "title": "以总理指示尽快启动与黎巴嫩直接谈判，特朗普要求以减少袭黎，伊朗称为再发生冲突做好准备",
@@ -1721,8 +1252,8 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[10时49分 ~ 15时47分]"
+          "appearance_count": 4,
+          "time_info": "[10时49分 ~ 17时15分]"
         },
         {
           "title": "伊朗战争丨特朗普要求内塔尼亚胡减少打击黎巴嫩",
@@ -1792,6 +1323,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "13时28分"
+        },
+        {
+          "title": "特朗普真要从欧洲撤走美军？白宫称“在商讨”",
+          "url": "https://news.ifeng.com/c/8sDAVEwvCNz",
+          "source": "凤凰网",
+          "ranks": [
+            4
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "17时15分"
         },
         {
           "title": "拜登儿子约战特朗普儿子",
@@ -2020,13 +1562,24 @@
           "time_info": "04时56分"
         },
         {
+          "title": "特朗普要撤军？白宫称“在商讨”",
+          "url": "https://wallstreetcn.com/livenews/3085748",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            6
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "17时15分"
+        },
+        {
           "title": "特朗普，对鲤鱼宣战？",
           "url": "https://news.ifeng.com/c/8sD4lNUQ8Uf",
           "source": "凤凰网",
           "ranks": [
             7
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "15时47分"
         },
@@ -2062,6 +1615,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "03时13分"
+        },
+        {
+          "title": "格陵兰岛总理回应特朗普：我们不是一块冰",
+          "url": "https://news.ifeng.com/c/8sClfHB09mn",
+          "source": "凤凰网",
+          "ranks": [
+            11
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "17时15分"
         },
         {
           "title": "特朗普夫人梅拉尼娅：呼吁国会为爱泼斯坦案受害者举行公开听证会。",
@@ -2108,6 +1672,17 @@
           "time_info": "07时40分"
         },
         {
+          "title": "美伊不由战场分胜负？分析师直言：伊朗只需让市场跌至“特朗普崩溃点”！",
+          "url": "https://www.cls.cn/detail/2340037",
+          "source": "财联社热门",
+          "ranks": [
+            13
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "17时15分"
+        },
+        {
           "title": "白宫官员称，美国总统特朗普正考虑从欧洲撤出部分美军。",
           "url": "https://wallstreetcn.com/livenews/3085281",
           "source": "华尔街见闻-快讯",
@@ -2128,6 +1703,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "03时13分"
+        },
+        {
+          "title": "拜登儿子约架特朗普儿子，总统之子要肉搏？丨Hi，今天怎么看？",
+          "url": "https://flash.jin10.com/detail/20260410165334443800",
+          "source": "金十数据",
+          "ranks": [
+            18
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "17时15分"
         },
         {
           "title": "特朗普夫人梅拉尼娅：把我与爱泼斯坦扯上关系的谎言今天就必须停止。",
@@ -2161,6 +1747,558 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "06时44分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "DeepSeek Ai 水球泡 谷歌 google gemini 好书推荐 chatgpt openai 白银 金价石油 黄金 热梗",
+      "match_count": 47,
+      "titles": [
+        {
+          "title": "假作真时真亦假：美以伊战事陷入AI信息迷雾",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32926200",
+          "source": "澎湃新闻",
+          "ranks": [
+            5,
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 7,
+          "time_info": "[01时12分 ~ 07时40分]"
+        },
+        {
+          "title": "AI红利和普通人有何关系",
+          "url": "https://search.bilibili.com/all?keyword=AI%E7%BA%A2%E5%88%A9%E5%92%8C%E6%99%AE%E9%80%9A%E4%BA%BA%E6%9C%89%E4%BD%95%E5%85%B3%E7%B3%BB",
+          "source": "bilibili 热搜",
+          "ranks": [
+            27,
+            16,
+            28,
+            3,
+            21,
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 8,
+          "time_info": "[03时12分 ~ 15时47分]"
+        },
+        {
+          "title": "玩具也要闯闯AI赛道",
+          "url": "https://search.bilibili.com/all?keyword=%E7%8E%A9%E5%85%B7%E4%B9%9F%E8%A6%81%E9%97%AF%E9%97%AFAI%E8%B5%9B%E9%81%93",
+          "source": "bilibili 热搜",
+          "ranks": [
+            30,
+            25,
+            21,
+            19,
+            29,
+            23
+          ],
+          "is_new": false,
+          "appearance_count": 10,
+          "time_info": "[01时12分 ~ 15时47分]"
+        },
+        {
+          "title": "亚马逊据悉考虑向其他企业出售其AI芯片",
+          "url": "https://flash.jin10.com/detail/20260410004158650800",
+          "source": "金十数据",
+          "ranks": [
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "01时12分"
+        },
+        {
+          "title": "消息称Anthropic考虑自主研发AI芯片",
+          "url": "https://flash.jin10.com/detail/20260410070524223800",
+          "source": "金十数据",
+          "ranks": [
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "07时40分"
+        },
+        {
+          "title": "千问旗舰AI眼镜S1开启预约，最低到手价3499起",
+          "url": "https://wallstreetcn.com/livenews/3085594",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "13时28分"
+        },
+        {
+          "title": "xAI就科罗拉多州新AI法案提起诉讼",
+          "url": "https://flash.jin10.com/detail/20260410070147196800",
+          "source": "金十数据",
+          "ranks": [
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "07时40分"
+        },
+        {
+          "title": "上海黄金交易所黄金T+D 4月10日（周五）收盘上涨0.39%报1046.05元/克；<br/>上海黄金交易所白银T+D 4月10日（周五）收盘上涨1.53%报18550.0元/千克。",
+          "url": "https://flash.jin10.com/detail/20260410153032440800",
+          "source": "金十数据",
+          "ranks": [
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "15时47分"
+        },
+        {
+          "title": "Wait清唱挑战",
+          "url": "https://www.douyin.com/hot/2460968",
+          "source": "抖音",
+          "ranks": [
+            25,
+            15,
+            20,
+            28,
+            29,
+            26
+          ],
+          "is_new": false,
+          "appearance_count": 8,
+          "time_info": "[01时12分 ~ 10时49分]"
+        },
+        {
+          "title": "【焦点复盘】沪指窄幅震荡收十字星，AI应用端大面积退潮，OCS产业链获持续热捧",
+          "url": "https://www.cls.cn/detail/2339282",
+          "source": "财联社热门",
+          "ranks": [
+            8,
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 7,
+          "time_info": "[01时12分 ~ 07时40分]"
+        },
+        {
+          "title": "员工离职变AI,上班不能停",
+          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28352945&amp;topic_name=%E5%91%98%E5%B7%A5%E7%A6%BB%E8%81%8C%E5%8F%98AI%2C%E4%B8%8A%E7%8F%AD%E4%B8%8D%E8%83%BD%E5%81%9C",
+          "source": "贴吧",
+          "ranks": [
+            25,
+            28
+          ],
+          "is_new": false,
+          "appearance_count": 7,
+          "time_info": "[01时12分 ~ 10时49分]"
+        },
+        {
+          "title": "OpenAI声称其算力比Anthropic更有优势",
+          "url": "https://flash.jin10.com/detail/20260410043705456800",
+          "source": "金十数据",
+          "ranks": [
+            1,
+            26
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[04时56分 ~ 05时49分]"
+        },
+        {
+          "title": "美股芯片存储指数收涨超3.5%，与涨9%的成分股闪迪创历史新高，AI软件先驱指数跌约5.1%",
+          "url": "https://wallstreetcn.com/livenews/3085326",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            2,
+            26
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[04时56分 ~ 05时49分]"
+        },
+        {
+          "title": "AI写作年赚200万夫妻被封号",
+          "url": "https://s.weibo.com/weibo?q=%23AI%E5%86%99%E4%BD%9C%E5%B9%B4%E8%B5%9A200%E4%B8%87%E5%A4%AB%E5%A6%BB%E8%A2%AB%E5%B0%81%E5%8F%B7%23&t=31&band_rank=2&Refer=top",
+          "source": "微博",
+          "ranks": [
+            2,
+            18
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[10时49分 ~ 13时28分]"
+        },
+        {
+          "title": "AI超级周期推动需求激增，多家存储芯片企业一季度业绩预喜",
+          "url": "https://wallstreetcn.com/livenews/3085370",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            3,
+            17
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[06时44分 ~ 07时40分]"
+        },
+        {
+          "title": "微信回应夫妻用AI写公众号年赚200万",
+          "url": "https://www.baidu.com/s?wd=%E5%BE%AE%E4%BF%A1%E5%9B%9E%E5%BA%94%E5%A4%AB%E5%A6%BB%E7%94%A8AI%E5%86%99%E5%85%AC%E4%BC%97%E5%8F%B7%E5%B9%B4%E8%B5%9A200%E4%B8%87",
+          "source": "百度热搜",
+          "ranks": [
+            4,
+            27
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[10时49分 ~ 13时28分]"
+        },
+        {
+          "title": "AI写作年赚200万夫妻被封号",
+          "url": "https://www.baidu.com/s?wd=AI%E5%86%99%E4%BD%9C%E5%B9%B4%E8%B5%9A200%E4%B8%87%E5%A4%AB%E5%A6%BB%E8%A2%AB%E5%B0%81%E5%8F%B7",
+          "source": "百度热搜",
+          "ranks": [
+            4,
+            18
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[13时28分 ~ 15时47分]"
+        },
+        {
+          "title": "【VIP资讯星推官】除了光纤外，还有哪些AI分支景气度上行？",
+          "url": "https://www.cls.cn/detail/2338824",
+          "source": "财联社热门",
+          "ranks": [
+            13
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[03时12分 ~ 06时44分]"
+        },
+        {
+          "title": "AI换脸偷声侵权，那么大模型训练呢？",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32934233",
+          "source": "澎湃新闻",
+          "ranks": [
+            7,
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[13时28分 ~ 17时15分]"
+        },
+        {
+          "title": "最高涨价463% 你的AI员工变贵了",
+          "url": "https://www.baidu.com/s?wd=%E6%9C%80%E9%AB%98%E6%B6%A8%E4%BB%B7463%25+%E4%BD%A0%E7%9A%84AI%E5%91%98%E5%B7%A5%E5%8F%98%E8%B4%B5%E4%BA%86",
+          "source": "百度热搜",
+          "ranks": [
+            8,
+            24
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[13时28分 ~ 15时47分]"
+        },
+        {
+          "title": "全球最大黄金ETF--SPDR Gold Trust持仓较上日减少0.571吨，当前持仓量为1052.419吨。",
+          "url": "https://flash.jin10.com/detail/20260410062543675800",
+          "source": "金十数据",
+          "ranks": [
+            8,
+            18
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[06时44分 ~ 07时40分]"
+        },
+        {
+          "title": "美国佛罗里达州总检察长对OpenAI发起调查。",
+          "url": "https://flash.jin10.com/detail/20260410061119660800",
+          "source": "金十数据",
+          "ranks": [
+            13,
+            23
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[06时44分 ~ 07时40分]"
+        },
+        {
+          "title": "全球最大白银ETF--iShares Silver Trust持仓较上日减少22.52吨，当前持仓量为15309.55吨。欢迎点击查看数据中心...",
+          "url": "https://flash.jin10.com/detail/20260410060703028800",
+          "source": "金十数据",
+          "ranks": [
+            14,
+            24
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[06时44分 ~ 07时40分]"
+        },
+        {
+          "title": "大摩策略师：黄金避险属性有所减弱",
+          "url": "https://flash.jin10.com/detail/20260410130459850800",
+          "source": "金十数据",
+          "ranks": [
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "13时28分"
+        },
+        {
+          "title": "神秘AI视频模型 “欢乐马”屠榜！背后团队来自阿里 预计一周后发布",
+          "url": "https://www.cls.cn/detail/2340102",
+          "source": "财联社热门",
+          "ranks": [
+            8
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "17时15分"
+        },
+        {
+          "title": "复盘 70 年代滞胀期，千金难买“黄金坑”",
+          "url": "https://wallstreetcn.com/articles/3769541",
+          "source": "华尔街见闻",
+          "ranks": [
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "07时40分"
+        },
+        {
+          "title": "国际现货黄金或迅速回升至5000关口！沃什听证会延迟向市场提供短期稳定性？| Live分析更新中",
+          "url": "https://flash.jin10.com/detail/20260410152720130800",
+          "source": "金十数据",
+          "ranks": [
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "15时47分"
+        },
+        {
+          "title": "据Axios报道，以色列与黎巴嫩之间的直接对话将于下周在位于华盛顿的美国国务院启动。 消息出炉后，WTI原油5分钟内下跌0.52美元/桶，报97.64美元/桶。 现货黄金5分钟内下跌5.37美元/盎司，报4790.96美元/盎司。",
+          "url": "https://wallstreetcn.com/livenews/3085235",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "01时12分"
+        },
+        {
+          "title": "OpenAI告诉投资者，其计算能力优于Anthropic。",
+          "url": "https://flash.jin10.com/detail/20260410041947855800",
+          "source": "金十数据",
+          "ranks": [
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "04时56分"
+        },
+        {
+          "title": "亚马逊考虑向其他公司出售其AI芯片",
+          "url": "https://wallstreetcn.com/livenews/3085230",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            13
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "01时12分"
+        },
+        {
+          "title": "上海黄金交易所黄金T+D 4月9日（周四）晚盘收盘上涨0.86%报1051.0元/克；<br/>上海黄金交易所白银T+D 4月9日（周四）晚盘收盘上涨2.57%报18740.0元/千克。",
+          "url": "https://flash.jin10.com/detail/20260410023457645800",
+          "source": "金十数据",
+          "ranks": [
+            16
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "03时13分"
+        },
+        {
+          "title": "件股再度集体重挫，AI智能体令行业增长前景受到沉重打击",
+          "url": "https://wallstreetcn.com/livenews/3085278",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            16
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "03时13分"
+        },
+        {
+          "title": "OpenAI“星际之门”（Stargate）项目执行官Peter Hoeschele已离开公司。（The Information）",
+          "url": "https://wallstreetcn.com/livenews/3085487",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            16
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "10时49分"
+        },
+        {
+          "title": "现货黄金涨1%没能守住4800美元，现货白银涨约1.6%",
+          "url": "https://wallstreetcn.com/livenews/3085335",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            17
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "05时49分"
+        },
+        {
+          "title": "穆迪报告指出 AI 行业存在循环融资风险，五大巨头承诺资本开支高达 6800 亿美元，你怎么看？",
+          "url": "https://www.zhihu.com/question/2025517870495392629",
+          "source": "知乎",
+          "ranks": [
+            17
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "17时15分"
+        },
+        {
+          "title": "xAI的CFO Anthony Armstrong离职。（The Information）",
+          "url": "https://wallstreetcn.com/livenews/3085275",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            19
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "03时13分"
+        },
+        {
+          "title": "港股阿里巴巴(09988.HK)震荡上行涨近3%，消息面上，阿里AI视频大模型HappyHorse预计一周后对外发布。",
+          "url": "https://flash.jin10.com/detail/20260410102445186800",
+          "source": "金十数据",
+          "ranks": [
+            22
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "10时49分"
+        },
+        {
+          "title": "CoreWeave Inc.发行17.5亿美元高收益（垃圾级）债券和30亿美元2031年到期可转债。 此前，该公司宣布，与扎克伯格旗下Meta Platforms Inc.围绕AI计算达成扩大化长期合作协议，有效期持续至2032年，金额大约210亿美元。",
+          "url": "https://wallstreetcn.com/livenews/3085301",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            22
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "04时56分"
+        },
+        {
+          "title": "OpenAI创始人奥尔特曼：很高兴看到Codex受到这么多人的喜爱。应广大用户的强烈要求，我们即将推出100美元的ChatGPT Pro会员等级。",
+          "url": "https://flash.jin10.com/detail/20260410044609661800",
+          "source": "金十数据",
+          "ranks": [
+            23
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "05时49分"
+        },
+        {
+          "title": "Meta Platforms(META.O)重新调配工程师以改进AI模型。",
+          "url": "https://flash.jin10.com/detail/20260410035916165800",
+          "source": "金十数据",
+          "ranks": [
+            24
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "04时56分"
+        },
+        {
+          "title": "OpenAI推出月租100美元的Pro档订阅服务。 可以比Plus档订阅获得多出五倍的Codex使用量。",
+          "url": "https://wallstreetcn.com/livenews/3085269",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            24
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "03时13分"
+        },
+        {
+          "title": "美国佛州总检察长就涉ChatGPT枪击事件调查OpenAI",
+          "url": "https://wallstreetcn.com/livenews/3085328",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            24
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "05时49分"
+        },
+        {
+          "title": "阿里AI视频大模型HappyHorse预计一周后对外发布",
+          "url": "https://flash.jin10.com/detail/20260410102343490800",
+          "source": "金十数据",
+          "ranks": [
+            26
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "10时49分"
+        },
+        {
+          "title": "如何降低论文AI率",
+          "url": "https://search.bilibili.com/all?keyword=%E5%A6%82%E4%BD%95%E9%99%8D%E4%BD%8E%E8%AE%BA%E6%96%87AI%E7%8E%87",
+          "source": "bilibili 热搜",
+          "ranks": [
+            27
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "15时47分"
+        },
+        {
+          "title": "决战CPI！黄金仍以高位拉锯为主，等待通胀数据催化到来",
+          "url": "https://flash.jin10.com/detail/20260410151242342800",
+          "source": "金十数据",
+          "ranks": [
+            27
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "15时47分"
+        },
+        {
+          "title": "微信支付发布“AI接入工具箱”",
+          "url": "https://wallstreetcn.com/livenews/3085562",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            27
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "13时28分"
+        },
+        {
+          "title": "微信回应夫妻用AI写公众号年赚200万",
+          "url": "https://s.weibo.com/weibo?q=%23%E5%BE%AE%E4%BF%A1%E5%9B%9E%E5%BA%94%E5%A4%AB%E5%A6%BB%E7%94%A8AI%E5%86%99%E5%85%AC%E4%BC%97%E5%8F%B7%E5%B9%B4%E8%B5%9A200%E4%B8%87%23&t=31&band_rank=28&Refer=top",
+          "source": "微博",
+          "ranks": [
+            28
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "10时49分"
         }
       ]
     },
@@ -2248,7 +2386,7 @@
           "ranks": [
             10
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "15时47分"
         },
