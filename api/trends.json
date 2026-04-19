@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-04-19T17:56:30.221600+08:00",
-  "total_titles_processed": 994,
+  "generated_at": "2026-04-19T18:43:08.585428+08:00",
+  "total_titles_processed": 1044,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "伊朗",
-      "match_count": 107,
+      "match_count": 110,
       "titles": [
         {
           "title": "【早报】伊朗开放霍尔木兹海峡；多只光通信概念股发布重要公告",
@@ -15,8 +15,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 16,
-          "time_info": "[00时46分 ~ 17时56分]"
+          "appearance_count": 18,
+          "time_info": "[00时46分 ~ 18时43分]"
         },
         {
           "title": "伊朗开火逼退油轮，霍尔木兹不到24小时再封锁！伊军方：美国“屡次违背承诺”，已恢复控制",
@@ -27,8 +27,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 16,
-          "time_info": "[00时46分 ~ 17时56分]"
+          "appearance_count": 18,
+          "time_info": "[00时46分 ~ 18时43分]"
         },
         {
           "title": "伊朗外长宣布谈判期间开放海峡 国际油价闪崩10%、纳指冲击13连涨",
@@ -60,8 +60,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[10时57分 ~ 17时56分]"
+          "appearance_count": 8,
+          "time_info": "[10时57分 ~ 18时43分]"
         },
         {
           "title": "美军：已“完全切断”伊朗通过海路进出的经济贸易",
@@ -71,8 +71,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[10时57分 ~ 17时56分]"
+          "appearance_count": 8,
+          "time_info": "[10时57分 ~ 18时43分]"
         },
         {
           "title": "伊朗副外长：不会向美国输送浓缩铀",
@@ -82,8 +82,8 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[10时57分 ~ 17时56分]"
+          "appearance_count": 8,
+          "time_info": "[10时57分 ~ 18时43分]"
         },
         {
           "title": "伊朗对解封海峡的态度为何发生反转，专家解读",
@@ -93,8 +93,8 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[10时57分 ~ 17时56分]"
+          "appearance_count": 8,
+          "time_info": "[10时57分 ~ 18时43分]"
         },
         {
           "title": "小哈梅内伊：伊朗海军已做好准备，将给敌方造成“新的惨痛失败”",
@@ -108,8 +108,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 16,
-          "time_info": "[00时46分 ~ 17时56分]"
+          "appearance_count": 18,
+          "time_info": "[00时46分 ~ 18时43分]"
         },
         {
           "title": "伊朗尚未同意与美国举行下一轮谈判",
@@ -189,17 +189,38 @@
           "time_info": "[13时34分 ~ 15时25分]"
         },
         {
-          "title": "伊朗议长：对美不信任仍未完全化解，敦促美方对等履约",
-          "url": "https://wallstreetcn.com/livenews/3090545",
+          "title": "伊朗伊斯兰革命卫队：美方违反停火承诺，从18日傍晚起封锁霍尔木兹海峡",
+          "url": "https://wallstreetcn.com/livenews/3090523",
           "source": "华尔街见闻-快讯",
           "ranks": [
-            1,
             3,
-            5
+            14,
+            19,
+            21,
+            23,
+            25,
+            29
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[15时25分 ~ 17时56分]"
+          "appearance_count": 10,
+          "time_info": "[04时41分 ~ 18时43分]"
+        },
+        {
+          "title": "伊朗：对霍尔木兹海峡进行监控直至战争彻底结束",
+          "url": "https://wallstreetcn.com/livenews/3090522",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            4,
+            15,
+            20,
+            22,
+            24,
+            26,
+            30
+          ],
+          "is_new": false,
+          "appearance_count": 10,
+          "time_info": "[04时41分 ~ 18时43分]"
         },
         {
           "title": "穆杰塔巴：伊朗海军已做好准备，将给敌方“新的惨痛失败”",
@@ -212,38 +233,6 @@
           "is_new": false,
           "appearance_count": 11,
           "time_info": "[00时46分 ~ 10时57分]"
-        },
-        {
-          "title": "伊朗伊斯兰革命卫队：美方违反停火承诺，从18日傍晚起封锁霍尔木兹海峡",
-          "url": "https://wallstreetcn.com/livenews/3090523",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            3,
-            14,
-            19,
-            21,
-            23,
-            25
-          ],
-          "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[04时41分 ~ 17时56分]"
-        },
-        {
-          "title": "伊朗：对霍尔木兹海峡进行监控直至战争彻底结束",
-          "url": "https://wallstreetcn.com/livenews/3090522",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            4,
-            15,
-            20,
-            22,
-            24,
-            26
-          ],
-          "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[04时41分 ~ 17时56分]"
         },
         {
           "title": "伊朗军方：恢复对霍尔木兹海峡的控制",
@@ -301,6 +290,18 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[06时39分 ~ 07时39分]"
+        },
+        {
+          "title": "伊朗议长披露谈判细节：我告诉美方“如果你们再往前一步，我们肯定会开火”，最后美方求给15分钟，下令撤退",
+          "url": "https://wallstreetcn.com/articles/3770344",
+          "source": "华尔街见闻",
+          "ranks": [
+            7,
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[15时24分 ~ 18时43分]"
         },
         {
           "title": "印度外交部就伊朗问题发表声明，印度外交部长会见伊朗大使。印度称对霍尔木兹海峡船只事件表示严重关切。印度敦促伊朗大使恢复为船只提供便利。",
@@ -423,6 +424,32 @@
           "time_info": "[00时46分 ~ 07时39分]"
         },
         {
+          "title": "伊朗议长：对美不信任仍未完全化解，敦促美方对等履约",
+          "url": "https://wallstreetcn.com/livenews/3090545",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            1,
+            3,
+            5,
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[15时25分 ~ 18时43分]"
+        },
+        {
+          "title": "伊朗议长：已做好外交与军事对抗两手准备",
+          "url": "https://wallstreetcn.com/livenews/3090560",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            1,
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[17时56分 ~ 18时43分]"
+        },
+        {
           "title": "伊朗战争丨1艘集装箱船在霍尔木兹海峡附近遇袭",
           "url": "https://news.ifeng.com/loc/timeline/event/8r727OWpK5W",
           "source": "凤凰网",
@@ -456,15 +483,26 @@
           "time_info": "10时57分"
         },
         {
-          "title": "伊朗议长：已做好外交与军事对抗两手准备",
-          "url": "https://wallstreetcn.com/livenews/3090560",
+          "title": "据伊朗努尔新闻(Nour News)：伊朗革命卫队航空航天部队指挥官穆萨维表示，停火期间，发射器的补充速度比战前更快。",
+          "url": "https://flash.jin10.com/detail/20260419181634556800",
+          "source": "金十数据",
+          "ranks": [
+            1
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时43分"
+        },
+        {
+          "title": "伊朗革命卫队航天部队司令穆萨维（Mousavi）表示，停火期间补充发射器的速度比战前更高。（NoorNews）",
+          "url": "https://wallstreetcn.com/livenews/3090569",
           "source": "华尔街见闻-快讯",
           "ranks": [
             1
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "17时56分"
+          "time_info": "18时43分"
         },
         {
           "title": "伊朗第一副总统：伊朗拥有霍尔木兹海峡管理权",
@@ -506,15 +544,26 @@
           "time_info": "[00时46分 ~ 06时39分]"
         },
         {
-          "title": "伊朗议长：已做好外交与军事对抗两手准备",
-          "url": "https://flash.jin10.com/detail/20260419171616388800",
-          "source": "金十数据",
+          "title": "伊朗被激怒，印度遭了殃",
+          "url": "https://news.ifeng.com/c/8sRbbAApBUv",
+          "source": "凤凰网",
           "ranks": [
-            4
+            6
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "17时56分"
+          "is_new": false,
+          "appearance_count": 8,
+          "time_info": "[10时57分 ~ 18时43分]"
+        },
+        {
+          "title": "美以袭击伊朗进入第 51 天，当前局势如何？哪些信息值得关注？",
+          "url": "https://www.zhihu.com/question/2028957028207390825",
+          "source": "知乎",
+          "ranks": [
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 8,
+          "time_info": "[10时57分 ~ 18时43分]"
         },
         {
           "title": "伊朗副外长：我们与美国交换了信息，但美国坚持提出过高的要求。",
@@ -528,16 +577,16 @@
           "time_info": "10时57分"
         },
         {
-          "title": "伊朗议长披露谈判细节：我告诉美方“如果你们再往前一步，我们肯定会开火”，最后美方求给15分钟，下令撤退",
-          "url": "https://wallstreetcn.com/articles/3770344",
-          "source": "华尔街见闻",
+          "title": "油轮遭袭，印度召见伊朗大使抗议",
+          "url": "https://news.ifeng.com/c/8sR1TTLRwf1",
+          "source": "凤凰网",
           "ranks": [
             7,
-            4
+            8
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[15时24分 ~ 17时56分]"
+          "appearance_count": 8,
+          "time_info": "[10时57分 ~ 18时43分]"
         },
         {
           "title": "伊朗副外长：绝不会将浓缩铀交给美国",
@@ -547,11 +596,28 @@
             3,
             5,
             7,
+            9,
+            13
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[13时34分 ~ 18时43分]"
+        },
+        {
+          "title": "伊朗议长称距离与美达成最终协议仍有很长的路要走",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33003879",
+          "source": "澎湃新闻",
+          "ranks": [
+            17,
+            15,
+            14,
+            13,
+            11,
             9
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[13时34分 ~ 17时56分]"
+          "appearance_count": 8,
+          "time_info": "[10时57分 ~ 18时43分]"
         },
         {
           "title": "伊朗正在审议美方新建议 尚未回应",
@@ -617,6 +683,59 @@
           "time_info": "[02时57分 ~ 07时39分]"
         },
         {
+          "title": "现场音频曝光！印度油轮在霍尔木兹海峡遭袭，向伊朗海军喊话",
+          "url": "https://v.ifeng.com/c/8sRoJTqQdm6",
+          "source": "凤凰网",
+          "ranks": [
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 7,
+          "time_info": "[13时34分 ~ 18时43分]"
+        },
+        {
+          "title": "伊朗民航组织：伊朗领空将分4个阶段重新开放",
+          "url": "https://wallstreetcn.com/livenews/3090537",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            2,
+            7,
+            9,
+            11,
+            13,
+            17
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[10时57分 ~ 18时43分]"
+        },
+        {
+          "title": "伊朗取消军队日阅兵，穆杰塔巴发出警告：给敌人“新的惨败”",
+          "url": "https://news.ifeng.com/c/8sRmtn9XZZR",
+          "source": "凤凰网",
+          "ranks": [
+            11
+          ],
+          "is_new": false,
+          "appearance_count": 7,
+          "time_info": "[13时34分 ~ 18时43分]"
+        },
+        {
+          "title": "伊朗最高领袖：伊朗海军已做好准备，将给敌方“新的惨痛失败”",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33001079",
+          "source": "澎湃新闻",
+          "ranks": [
+            17,
+            18,
+            15,
+            14,
+            12
+          ],
+          "is_new": false,
+          "appearance_count": 7,
+          "time_info": "[13时34分 ~ 18时43分]"
+        },
+        {
           "title": "据伊朗Press TV：伊朗议会发言人称，我们果断应对了美国的扫雷行动，几乎走到了战争边缘，但敌人退却了。",
           "url": "https://flash.jin10.com/detail/20260419025451652800",
           "source": "金十数据",
@@ -668,43 +787,6 @@
           "time_info": "[05时40分 ~ 07时39分]"
         },
         {
-          "title": "伊朗民航组织：伊朗领空将分4个阶段重新开放",
-          "url": "https://wallstreetcn.com/livenews/3090537",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            2,
-            7,
-            9,
-            11,
-            13
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[10时57分 ~ 17时56分]"
-        },
-        {
-          "title": "伊朗被激怒，印度遭了殃",
-          "url": "https://news.ifeng.com/c/8sRbbAApBUv",
-          "source": "凤凰网",
-          "ranks": [
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[10时57分 ~ 17时56分]"
-        },
-        {
-          "title": "美以袭击伊朗进入第 51 天，当前局势如何？哪些信息值得关注？",
-          "url": "https://www.zhihu.com/question/2028957028207390825",
-          "source": "知乎",
-          "ranks": [
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[10时57分 ~ 17时56分]"
-        },
-        {
           "title": "伊朗战争丨伊朗议长称已做好殉道的准备",
           "url": "https://news.ifeng.com/loc/timeline/event/8r727OWpK5W",
           "source": "凤凰网",
@@ -715,18 +797,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[07时39分 ~ 10时57分]"
-        },
-        {
-          "title": "油轮遭袭，印度召见伊朗大使抗议",
-          "url": "https://news.ifeng.com/c/8sR1TTLRwf1",
-          "source": "凤凰网",
-          "ranks": [
-            7,
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[10时57分 ~ 17时56分]"
         },
         {
           "title": "美媒：海峡重启后又突然关闭 反映了伊朗内部的裂痕",
@@ -756,18 +826,19 @@
         },
         {
           "title": "伊朗议长称距离与美达成最终协议仍有很长的路要走",
-          "url": "https://m.thepaper.cn/newsDetail_forward_33003879",
-          "source": "澎湃新闻",
+          "url": "https://wallstreetcn.com/livenews/3090528",
+          "source": "华尔街见闻-快讯",
           "ranks": [
-            17,
+            10,
             15,
-            14,
-            13,
-            11
+            17,
+            19,
+            21,
+            25
           ],
           "is_new": false,
           "appearance_count": 6,
-          "time_info": "[10时57分 ~ 17时56分]"
+          "time_info": "[10时57分 ~ 18时43分]"
         },
         {
           "title": "伊朗称霍尔木兹海峡关闭",
@@ -796,6 +867,18 @@
           "is_new": false,
           "appearance_count": 4,
           "time_info": "[02时57分 ~ 05时40分]"
+        },
+        {
+          "title": "伊朗议长：已做好外交与军事对抗两手准备",
+          "url": "https://flash.jin10.com/detail/20260419171616388800",
+          "source": "金十数据",
+          "ranks": [
+            4,
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[17时56分 ~ 18时43分]"
         },
         {
           "title": "据CNN：伊朗官员表示，将优先放行支付霍尔木兹海峡通行费的船只。",
@@ -850,17 +933,6 @@
           "time_info": "[00时46分 ~ 02时57分]"
         },
         {
-          "title": "现场音频曝光！印度油轮在霍尔木兹海峡遭袭，向伊朗海军喊话",
-          "url": "https://v.ifeng.com/c/8sRoJTqQdm6",
-          "source": "凤凰网",
-          "ranks": [
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[13时34分 ~ 17时56分]"
-        },
-        {
           "title": "据伊朗国家电视台：伊朗革命卫队海军地方指挥官表示，任何在霍尔木兹海峡内无视警告的船只将成为打击目标。如果美国海军攻击伊朗船只，将遭受“沉重打击”。",
           "url": "https://flash.jin10.com/detail/20260419023821635800",
           "source": "金十数据",
@@ -886,46 +958,6 @@
           "is_new": false,
           "appearance_count": 5,
           "time_info": "[07时39分 ~ 15时25分]"
-        },
-        {
-          "title": "伊朗议长称距离与美达成最终协议仍有很长的路要走",
-          "url": "https://wallstreetcn.com/livenews/3090528",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            10,
-            15,
-            17,
-            19,
-            21
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[10时57分 ~ 17时56分]"
-        },
-        {
-          "title": "伊朗取消军队日阅兵，穆杰塔巴发出警告：给敌人“新的惨败”",
-          "url": "https://news.ifeng.com/c/8sRmtn9XZZR",
-          "source": "凤凰网",
-          "ranks": [
-            11
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[13时34分 ~ 17时56分]"
-        },
-        {
-          "title": "伊朗最高领袖：伊朗海军已做好准备，将给敌方“新的惨痛失败”",
-          "url": "https://m.thepaper.cn/newsDetail_forward_33001079",
-          "source": "澎湃新闻",
-          "ranks": [
-            17,
-            18,
-            15,
-            14
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[13时34分 ~ 17时56分]"
         },
         {
           "title": "伊朗再次关闭霍尔木兹海峡",
@@ -980,6 +1012,32 @@
           "is_new": false,
           "appearance_count": 4,
           "time_info": "[02时57分 ~ 05时40分]"
+        },
+        {
+          "title": "哈里斯：美国人不想打伊朗",
+          "url": "https://www.toutiao.com/trending/7629331030267019306/",
+          "source": "今日头条",
+          "ranks": [
+            26,
+            11,
+            17
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[16时58分 ~ 18时43分]"
+        },
+        {
+          "title": "伊朗：将控制霍尔木兹海峡通行直至战争彻底结束",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33001875",
+          "source": "澎湃新闻",
+          "ranks": [
+            16,
+            13,
+            11
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[16时58分 ~ 18时43分]"
         },
         {
           "title": "伊朗：霍尔木兹海峡于18日晚起关闭",
@@ -1091,16 +1149,15 @@
           "time_info": "[13时34分 ~ 15时25分]"
         },
         {
-          "title": "哈里斯：美国人不想打伊朗",
-          "url": "https://www.toutiao.com/trending/7629331030267019306/",
+          "title": "美评估伊朗仍保有约七成战前导弹库存",
+          "url": "https://www.toutiao.com/trending/7629872755634782259/",
           "source": "今日头条",
           "ranks": [
-            26,
             11
           ],
           "is_new": false,
           "appearance_count": 2,
-          "time_info": "[16时58分 ~ 17时56分]"
+          "time_info": "[18时42分 ~ 18时43分]"
         },
         {
           "title": "印度政府：印度外交秘书敦促驻新德里伊朗大使向伊朗当局传达印度的观点，并尽快恢复便利印度船只通过海峡的进程。",
@@ -1113,18 +1170,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[00时46分 ~ 01时39分]"
-        },
-        {
-          "title": "伊朗：将控制霍尔木兹海峡通行直至战争彻底结束",
-          "url": "https://m.thepaper.cn/newsDetail_forward_33001875",
-          "source": "澎湃新闻",
-          "ranks": [
-            16,
-            13
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[16时58分 ~ 17时56分]"
         },
         {
           "title": "印度政府：伊朗伊斯兰共和国驻新德里大使今晚被印度外交部召见，与印度外交秘书举行会晤。",
@@ -1215,7 +1260,7 @@
           "ranks": [
             10
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "17时56分"
         },
@@ -1393,19 +1438,6 @@
           "time_info": "[00时46分 ~ 07时39分]"
         },
         {
-          "title": "特朗普称若伊不达成停火或发动打击",
-          "url": "https://www.cls.cn/detail/2348194",
-          "source": "财联社热门",
-          "ranks": [
-            3,
-            4,
-            5
-          ],
-          "is_new": false,
-          "appearance_count": 16,
-          "time_info": "[00时46分 ~ 17时56分]"
-        },
-        {
           "title": "前白宫律师爆料：特朗普表现出典型的痴呆症状",
           "url": "https://news.ifeng.com/c/8sQQLEAQZYu",
           "source": "凤凰网",
@@ -1415,6 +1447,20 @@
           "is_new": false,
           "appearance_count": 10,
           "time_info": "[00时46分 ~ 07时39分]"
+        },
+        {
+          "title": "特朗普称若伊不达成停火或发动打击",
+          "url": "https://www.cls.cn/detail/2348194",
+          "source": "财联社热门",
+          "ranks": [
+            3,
+            4,
+            5,
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 18,
+          "time_info": "[00时46分 ~ 18时43分]"
         },
         {
           "title": "停火“还剩三天”，以军袭击黎巴嫩，伊朗军方关闭霍尔木兹海峡，特朗普再召“战情室会议”",
@@ -1427,8 +1473,19 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[10时57分 ~ 17时56分]"
+          "appearance_count": 8,
+          "time_info": "[10时57分 ~ 18时43分]"
+        },
+        {
+          "title": "伊朗战争丨哈里斯：特朗普意图“转移焦点”",
+          "url": "https://news.ifeng.com/loc/timeline/event/8r727OWpK5W",
+          "source": "凤凰网",
+          "ranks": [
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[16时58分 ~ 18时43分]"
         },
         {
           "title": "特朗普：以色列，适可而止",
@@ -1440,17 +1497,6 @@
           "is_new": false,
           "appearance_count": 10,
           "time_info": "[00时46分 ~ 07时39分]"
-        },
-        {
-          "title": "伊朗战争丨哈里斯：特朗普意图“转移焦点”",
-          "url": "https://news.ifeng.com/loc/timeline/event/8r727OWpK5W",
-          "source": "凤凰网",
-          "ranks": [
-            1
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[16时58分 ~ 17时56分]"
         },
         {
           "title": "特朗普称伊朗无法“要挟”美国",
@@ -1474,8 +1520,8 @@
             13
           ],
           "is_new": false,
-          "appearance_count": 16,
-          "time_info": "[00时46分 ~ 17时56分]"
+          "appearance_count": 18,
+          "time_info": "[00时46分 ~ 18时43分]"
         },
         {
           "title": "特朗普证实伊朗宣布开放霍尔木兹海峡",
@@ -1498,6 +1544,18 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "00时46分"
+        },
+        {
+          "title": "伊朗伊斯兰革命卫队宣布封锁海峡：特朗普言论不可信",
+          "url": "https://news.ifeng.com/c/8sR74oZ1935",
+          "source": "凤凰网",
+          "ranks": [
+            8,
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 8,
+          "time_info": "[10时57分 ~ 18时43分]"
         },
         {
           "title": "特朗普：美伊正对话 “今天结束前会有消息”",
@@ -1544,11 +1602,49 @@
             6,
             8,
             10,
+            12,
+            16
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[10时57分 ~ 18时43分]"
+        },
+        {
+          "title": "特朗普召开白宫战情室会议，美官员：战争可能几天内重新爆发",
+          "url": "https://news.ifeng.com/c/8sRhTpk8W0g",
+          "source": "凤凰网",
+          "ranks": [
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 7,
+          "time_info": "[13时34分 ~ 18时43分]"
+        },
+        {
+          "title": "记者还没问完，就被特朗普打断：你出去",
+          "url": "https://v.ifeng.com/c/8sRkCC6DpKL",
+          "source": "凤凰网",
+          "ranks": [
             12
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[10时57分 ~ 17时56分]"
+          "appearance_count": 7,
+          "time_info": "[13时34分 ~ 18时43分]"
+        },
+        {
+          "title": "伊朗称将控制霍尔木兹海峡直至战争结束，特朗普表示其无法要挟美国",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33004034",
+          "source": "澎湃新闻",
+          "ranks": [
+            20,
+            19,
+            17,
+            15,
+            13
+          ],
+          "is_new": false,
+          "appearance_count": 7,
+          "time_info": "[13时34分 ~ 18时43分]"
         },
         {
           "title": "特朗普集团将在格鲁吉亚首都合建摩天大楼",
@@ -1562,18 +1658,6 @@
           "is_new": false,
           "appearance_count": 4,
           "time_info": "[04时41分 ~ 07时39分]"
-        },
-        {
-          "title": "伊朗伊斯兰革命卫队宣布封锁海峡：特朗普言论不可信",
-          "url": "https://news.ifeng.com/c/8sR74oZ1935",
-          "source": "凤凰网",
-          "ranks": [
-            8,
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[10时57分 ~ 17时56分]"
         },
         {
           "title": "伊朗革命卫队海军发表声明表示，船只及其所有者应遵循伊朗革命卫队海军发布的消息，并称美国总统特朗普关于霍尔木兹海峡的声明“没有有效性”。",
@@ -1595,47 +1679,12 @@
           "source": "金十数据",
           "ranks": [
             4,
-            13
+            13,
+            19
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[16时58分 ~ 17时56分]"
-        },
-        {
-          "title": "特朗普召开白宫战情室会议，美官员：战争可能几天内重新爆发",
-          "url": "https://news.ifeng.com/c/8sRhTpk8W0g",
-          "source": "凤凰网",
-          "ranks": [
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[13时34分 ~ 17时56分]"
-        },
-        {
-          "title": "记者还没问完，就被特朗普打断：你出去",
-          "url": "https://v.ifeng.com/c/8sRkCC6DpKL",
-          "source": "凤凰网",
-          "ranks": [
-            12
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[13时34分 ~ 17时56分]"
-        },
-        {
-          "title": "伊朗称将控制霍尔木兹海峡直至战争结束，特朗普表示其无法要挟美国",
-          "url": "https://m.thepaper.cn/newsDetail_forward_33004034",
-          "source": "澎湃新闻",
-          "ranks": [
-            20,
-            19,
-            17,
-            15
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[13时34分 ~ 17时56分]"
+          "appearance_count": 3,
+          "time_info": "[16时58分 ~ 18时43分]"
         },
         {
           "title": "特朗普：加快对精神致幻药物相关研究的获取。 签署行政命令以审查某些致幻药物。 感谢小罗伯特·肯尼迪在降低药价的努力中做了“出色”的工作。",
@@ -1662,6 +1711,32 @@
           "time_info": "[02时57分 ~ 04时41分]"
         },
         {
+          "title": "白俄罗斯总统卢卡申科：一旦“大协议”准备就绪，与美国总统特朗普的会晤是可能的。",
+          "url": "https://flash.jin10.com/detail/20260419152943357800",
+          "source": "金十数据",
+          "ranks": [
+            14,
+            23,
+            29
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[16时58分 ~ 18时43分]"
+        },
+        {
+          "title": "伊朗总统佩泽希齐扬：美国总统特朗普没有任何理由剥夺伊朗的核权利。",
+          "url": "https://flash.jin10.com/detail/20260419152838627800",
+          "source": "金十数据",
+          "ranks": [
+            15,
+            24,
+            30
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[16时58分 ~ 18时43分]"
+        },
+        {
           "title": "美媒：特朗普公开表现得趾高气扬，但内心却充满恐惧",
           "url": "https://flash.jin10.com/detail/20260419125203447800",
           "source": "金十数据",
@@ -1672,30 +1747,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[13时34分 ~ 15时25分]"
-        },
-        {
-          "title": "白俄罗斯总统卢卡申科：一旦“大协议”准备就绪，与美国总统特朗普的会晤是可能的。",
-          "url": "https://flash.jin10.com/detail/20260419152943357800",
-          "source": "金十数据",
-          "ranks": [
-            14,
-            23
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[16时58分 ~ 17时56分]"
-        },
-        {
-          "title": "伊朗总统佩泽希齐扬：美国总统特朗普没有任何理由剥夺伊朗的核权利。",
-          "url": "https://flash.jin10.com/detail/20260419152838627800",
-          "source": "金十数据",
-          "ranks": [
-            15,
-            24
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[16时58分 ~ 17时56分]"
         },
         {
           "title": "哈里斯：美国人不想打伊朗 特朗普意图“转移焦点”",
@@ -1864,6 +1915,18 @@
           "time_info": "[10时57分 ~ 17时56分]"
         },
         {
+          "title": "DeepSeek 拟首次启动融资，估值超百亿美元，有何战略意图？对国内 AI 大模型赛道带来哪些改变？",
+          "url": "https://www.zhihu.com/question/2028616808370849247",
+          "source": "知乎",
+          "ranks": [
+            7,
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 7,
+          "time_info": "[13时34分 ~ 18时43分]"
+        },
+        {
           "title": "up主转战AI动画遭手绘党声讨",
           "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28353424&amp;topic_name=up%E4%B8%BB%E8%BD%AC%E6%88%98AI%E5%8A%A8%E7%94%BB%E9%81%AD%E6%89%8B%E7%BB%98%E5%85%9A%E5%A3%B0%E8%AE%A8",
           "source": "贴吧",
@@ -1871,11 +1934,12 @@
             7,
             12,
             13,
-            14
+            14,
+            15
           ],
           "is_new": false,
-          "appearance_count": 13,
-          "time_info": "[00时46分 ~ 17时56分]"
+          "appearance_count": 14,
+          "time_info": "[00时46分 ~ 18时43分]"
         },
         {
           "title": "DeepSeek被曝启动融资",
@@ -1915,11 +1979,12 @@
             11,
             16,
             17,
-            18
+            18,
+            19
           ],
           "is_new": false,
-          "appearance_count": 13,
-          "time_info": "[00时46分 ~ 17时56分]"
+          "appearance_count": 14,
+          "time_info": "[00时46分 ~ 18时43分]"
         },
         {
           "title": "AI入侵产业,2D国漫公司倒闭",
@@ -1932,20 +1997,24 @@
             27
           ],
           "is_new": false,
-          "appearance_count": 13,
-          "time_info": "[00时46分 ~ 17时56分]"
+          "appearance_count": 14,
+          "time_info": "[00时46分 ~ 18时43分]"
         },
         {
-          "title": "DeepSeek 拟首次启动融资，估值超百亿美元，有何战略意图？对国内 AI 大模型赛道带来哪些改变？",
-          "url": "https://www.zhihu.com/question/2028616808370849247",
-          "source": "知乎",
+          "title": "多名核心人员流失，AGI梦想不敌商业化现实？DeepSeek开启首次外部融资",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33002057",
+          "source": "澎湃新闻",
           "ranks": [
-            7,
-            4
+            14,
+            12,
+            11,
+            8,
+            6,
+            5
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[13时34分 ~ 17时56分]"
+          "appearance_count": 8,
+          "time_info": "[10时57分 ~ 18时43分]"
         },
         {
           "title": "CPO量产引爆AI算力底层革命，硅光与互连成最大赢家？",
@@ -1961,21 +2030,6 @@
           "time_info": "[10时57分 ~ 15时25分]"
         },
         {
-          "title": "多名核心人员流失，AGI梦想不敌商业化现实？DeepSeek开启首次外部融资",
-          "url": "https://m.thepaper.cn/newsDetail_forward_33002057",
-          "source": "澎湃新闻",
-          "ranks": [
-            14,
-            12,
-            11,
-            8,
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[10时57分 ~ 17时56分]"
-        },
-        {
           "title": "AIDC供电，短期靠燃机“救火”，长期靠这三条路线",
           "url": "https://wallstreetcn.com/articles/3770324",
           "source": "华尔街见闻",
@@ -1989,6 +2043,19 @@
           "time_info": "[10时57分 ~ 16时58分]"
         },
         {
+          "title": "DeepSeek被曝融资20亿",
+          "url": "https://www.toutiao.com/trending/7630341053001829938/",
+          "source": "今日头条",
+          "ranks": [
+            21,
+            24,
+            27
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[16时58分 ~ 18时43分]"
+        },
+        {
           "title": "特朗普对伊博格碱（Ibogaine）研究发表评论：政府正在投入资金用于对伊博格碱的研究。",
           "url": "https://wallstreetcn.com/livenews/3090487",
           "source": "华尔街见闻-快讯",
@@ -1998,6 +2065,19 @@
           "is_new": false,
           "appearance_count": 4,
           "time_info": "[00时46分 ~ 03时43分]"
+        },
+        {
+          "title": "力源信息：第一季度净利润同比增长241% AI业务如光模块、液冷等因下游需求持续爆发而大幅增加",
+          "url": "https://flash.jin10.com/detail/20260419155228082800",
+          "source": "金十数据",
+          "ranks": [
+            10,
+            19,
+            25
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[16时58分 ~ 18时43分]"
         },
         {
           "title": "DeepSeek被曝融资20亿",
@@ -2011,16 +2091,28 @@
           "time_info": "[13时34分 ~ 15时25分]"
         },
         {
-          "title": "力源信息：第一季度净利润同比增长241% AI业务如光模块、液冷等因下游需求持续爆发而大幅增加",
-          "url": "https://flash.jin10.com/detail/20260419155228082800",
+          "title": "国投白银LOF：将于2026年4月20日开市起至当日10:30停牌，自2026年4月20日10:30复牌，停牌期间赎回业务照常办理。",
+          "url": "https://flash.jin10.com/detail/20260419170314153800",
           "source": "金十数据",
           "ranks": [
-            10,
-            19
+            8,
+            14
           ],
           "is_new": false,
           "appearance_count": 2,
-          "time_info": "[16时58分 ~ 17时56分]"
+          "time_info": "[17时56分 ~ 18时43分]"
+        },
+        {
+          "title": "专家称黄金完成了阶段性的历史使命",
+          "url": "https://s.weibo.com/weibo?q=%23%E4%B8%93%E5%AE%B6%E7%A7%B0%E9%BB%84%E9%87%91%E5%AE%8C%E6%88%90%E4%BA%86%E9%98%B6%E6%AE%B5%E6%80%A7%E7%9A%84%E5%8E%86%E5%8F%B2%E4%BD%BF%E5%91%BD%23&t=31&band_rank=27&Refer=top",
+          "source": "微博",
+          "ranks": [
+            27,
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[17时56分 ~ 18时43分]"
         },
         {
           "title": "AI让人越来越累",
@@ -2035,18 +2127,6 @@
           "time_info": "[13时34分 ~ 15时25分]"
         },
         {
-          "title": "DeepSeek被曝融资20亿",
-          "url": "https://www.toutiao.com/trending/7630341053001829938/",
-          "source": "今日头条",
-          "ranks": [
-            21,
-            24
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[16时58分 ~ 17时56分]"
-        },
-        {
           "title": "AI烧钱无底洞？高盛给出回本路径：自动驾驶将引爆万亿利润池",
           "url": "https://wallstreetcn.com/articles/3770318",
           "source": "华尔街见闻",
@@ -2056,17 +2136,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "13时34分"
-        },
-        {
-          "title": "国投白银LOF：将于2026年4月20日开市起至当日10:30停牌，自2026年4月20日10:30复牌，停牌期间赎回业务照常办理。",
-          "url": "https://flash.jin10.com/detail/20260419170314153800",
-          "source": "金十数据",
-          "ranks": [
-            8
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "17时56分"
         },
         {
           "title": "美国空军首次使用AI兵棋推演系统",
@@ -2100,17 +2169,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "03时43分"
-        },
-        {
-          "title": "专家称黄金完成了阶段性的历史使命",
-          "url": "https://s.weibo.com/weibo?q=%23%E4%B8%93%E5%AE%B6%E7%A7%B0%E9%BB%84%E9%87%91%E5%AE%8C%E6%88%90%E4%BA%86%E9%98%B6%E6%AE%B5%E6%80%A7%E7%9A%84%E5%8E%86%E5%8F%B2%E4%BD%BF%E5%91%BD%23&t=31&band_rank=27&Refer=top",
-          "source": "微博",
-          "ranks": [
-            27
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "17时56分"
         }
       ]
     },
@@ -2141,8 +2199,8 @@
             7
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[15时24分 ~ 17时56分]"
+          "appearance_count": 6,
+          "time_info": "[15时24分 ~ 18时43分]"
         },
         {
           "title": "美银Hartnett：本轮美股反弹正演变为\"多头陷阱\"",
@@ -2153,8 +2211,8 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[16时58分 ~ 17时56分]"
+          "appearance_count": 4,
+          "time_info": "[16时58分 ~ 18时43分]"
         }
       ]
     }
