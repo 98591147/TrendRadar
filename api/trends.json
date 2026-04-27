@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-04-27T19:46:57.266307+08:00",
-  "total_titles_processed": 1215,
+  "generated_at": "2026-04-27T22:02:35.532603+08:00",
+  "total_titles_processed": 1377,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "伊朗",
-      "match_count": 81,
+      "match_count": 90,
       "titles": [
         {
           "title": "伊朗称“已形成霍尔木兹海峡综合管理方案”，“须缴纳相关费用，里亚尔支付优先”，美军称将继续对进出伊朗港口船只实施全面封锁",
@@ -18,6 +18,20 @@
           "is_new": false,
           "appearance_count": 11,
           "time_info": "[00时50分 ~ 07时43分]"
+        },
+        {
+          "title": "伊朗提出一项分三阶段解决的谈判方案：先谈终止战争，然后霍尔木兹海峡，最后才是核问题",
+          "url": "https://wallstreetcn.com/articles/3770927",
+          "source": "华尔街见闻",
+          "ranks": [
+            8,
+            5,
+            3,
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[14时31分 ~ 22时02分]"
         },
         {
           "title": "伊朗：美以伊战争导致伊朗3468人死亡、34060人受伤",
@@ -45,17 +59,6 @@
           "is_new": false,
           "appearance_count": 11,
           "time_info": "[00时50分 ~ 07时43分]"
-        },
-        {
-          "title": "美国以涉伊朗为由制裁中企 中方表态",
-          "url": "https://www.toutiao.com/trending/7632821618738167818/",
-          "source": "今日头条",
-          "ranks": [
-            1
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[17时22分 ~ 19时46分]"
         },
         {
           "title": "伊朗外长向巴基斯坦递交停战条件",
@@ -134,19 +137,6 @@
           "time_info": "[14时31分 ~ 19时46分]"
         },
         {
-          "title": "伊朗提出一项分三阶段解决的谈判方案：先谈终止战争，然后霍尔木兹海峡，最后才是核问题",
-          "url": "https://wallstreetcn.com/articles/3770927",
-          "source": "华尔街见闻",
-          "ranks": [
-            8,
-            5,
-            3
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[14时31分 ~ 19时46分]"
-        },
-        {
           "title": "巴媒记者披露伊朗外长折返伊斯兰堡内情",
           "url": "https://flash.jin10.com/detail/20260427073445994800",
           "source": "金十数据",
@@ -164,7 +154,7 @@
           "ranks": [
             1
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "19时46分"
         },
@@ -252,7 +242,7 @@
           "ranks": [
             5
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "19时46分"
         },
@@ -282,6 +272,18 @@
           "is_new": false,
           "appearance_count": 7,
           "time_info": "[00时50分 ~ 06时42分]"
+        },
+        {
+          "title": "美国以涉伊朗为由制裁中企 中方表态",
+          "url": "https://www.toutiao.com/trending/7632821618738167818/",
+          "source": "今日头条",
+          "ranks": [
+            1,
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[17时22分 ~ 22时02分]"
         },
         {
           "title": "轰炸中，伊朗国宝来到中国",
@@ -458,6 +460,20 @@
           "time_info": "[11时24分 ~ 19时46分]"
         },
         {
+          "title": "消息人士：伊朗提出一项分三阶段解决的谈判方案",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33060063",
+          "source": "澎湃新闻",
+          "ranks": [
+            15,
+            12,
+            10,
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[14时31分 ~ 22时02分]"
+        },
+        {
           "title": "伊朗战争“扑朔迷离”，全球科技股“爆炸上涨”！高盛对冲基金业务主管：这个市场很难做",
           "url": "https://wallstreetcn.com/articles/3770921",
           "source": "华尔街见闻",
@@ -523,17 +539,18 @@
           "time_info": "[03时01分 ~ 05时42分]"
         },
         {
-          "title": "消息人士：伊朗提出一项分三阶段解决的谈判方案",
-          "url": "https://m.thepaper.cn/newsDetail_forward_33060063",
-          "source": "澎湃新闻",
+          "title": "轰炸中伊朗国宝来到中国",
+          "url": "https://s.weibo.com/weibo?q=%23%E8%BD%B0%E7%82%B8%E4%B8%AD%E4%BC%8A%E6%9C%97%E5%9B%BD%E5%AE%9D%E6%9D%A5%E5%88%B0%E4%B8%AD%E5%9B%BD%23&t=31&band_rank=19&Refer=top",
+          "source": "微博",
           "ranks": [
-            15,
-            12,
-            10
+            19,
+            28,
+            29,
+            30
           ],
           "is_new": false,
           "appearance_count": 4,
-          "time_info": "[14时31分 ~ 19时46分]"
+          "time_info": "[14时32分 ~ 22时02分]"
         },
         {
           "title": "伊朗战争丨美国已收到伊朗谈判新方案，详情披露",
@@ -631,19 +648,6 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[00时50分 ~ 03时01分]"
-        },
-        {
-          "title": "轰炸中伊朗国宝来到中国",
-          "url": "https://s.weibo.com/weibo?q=%23%E8%BD%B0%E7%82%B8%E4%B8%AD%E4%BC%8A%E6%9C%97%E5%9B%BD%E5%AE%9D%E6%9D%A5%E5%88%B0%E4%B8%AD%E5%9B%BD%23&t=31&band_rank=19&Refer=top",
-          "source": "微博",
-          "ranks": [
-            19,
-            28,
-            29
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[14时32分 ~ 19时46分]"
         },
         {
           "title": "伊朗战争丨伊朗提出一项分三阶段解决的谈判方案",
@@ -766,7 +770,7 @@
           "ranks": [
             6
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "19时46分"
         },
@@ -780,6 +784,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "11时24分"
+        },
+        {
+          "title": "伊朗战争丨德国总理：美国正在被伊朗羞辱",
+          "url": "https://news.ifeng.com/loc/timeline/event/8r727OWpK5W?isFull=0&immersion=true&ifengsp=1",
+          "source": "凤凰网",
+          "ranks": [
+            7
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时02分"
         },
         {
           "title": "方案成形，伊朗能“管住”霍尔木兹海峡吗",
@@ -799,9 +814,20 @@
           "ranks": [
             9
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "19时46分"
+        },
+        {
+          "title": "伊朗外长抵达圣彼得堡将同普京举行会谈，会谈些啥？美伊局势转向会迎来重要契机吗？",
+          "url": "https://www.zhihu.com/question/2032051759590397567",
+          "source": "知乎",
+          "ranks": [
+            9
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时02分"
         },
         {
           "title": "俄总统普京27日将在圣彼得堡会见来访的伊朗外长阿拉格齐",
@@ -810,9 +836,20 @@
           "ranks": [
             10
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "19时46分"
+        },
+        {
+          "title": "普京：俄罗斯将尽全力维护伊朗及该地区其他国家的利益",
+          "url": "https://wallstreetcn.com/livenews/3095051",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时02分"
         },
         {
           "title": "伊朗提出一项分三阶段解决的谈判方案",
@@ -835,6 +872,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "17时22分"
+        },
+        {
+          "title": "美以袭击伊朗进入第 59 天，当前局势如何？还有哪些信息值得关注？",
+          "url": "https://www.zhihu.com/question/2031863204075106462",
+          "source": "知乎",
+          "ranks": [
+            11
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时02分"
         },
         {
           "title": "伊朗提出一项分三阶段解决的谈判方案",
@@ -868,6 +916,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "11时24分"
+        },
+        {
+          "title": "普京称已收到伊朗最高领袖传来的信息",
+          "url": "https://wallstreetcn.com/livenews/3095036",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            18
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时02分"
         },
         {
           "title": "伊朗称已成功摧毁3枚美国巨型钻地弹",
@@ -920,9 +979,31 @@
           "ranks": [
             22
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "19时46分"
+        },
+        {
+          "title": "普京会见伊朗外长阿拉格齐",
+          "url": "https://wallstreetcn.com/livenews/3095029",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            22
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时02分"
+        },
+        {
+          "title": "巴林内政部表示，因表达对伊朗袭击活动的支持，撤销69人及其家属的国籍。",
+          "url": "https://flash.jin10.com/detail/20260427211624830800",
+          "source": "金十数据",
+          "ranks": [
+            23
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时02分"
         },
         {
           "title": "伊朗议会要员：所有通过霍尔木兹海峡的船只必须缴纳通行费",
@@ -936,13 +1017,35 @@
           "time_info": "11时24分"
         },
         {
+          "title": "伊朗恢复飞往重要国际目的地航班",
+          "url": "https://wallstreetcn.com/livenews/3095026",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            25
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时02分"
+        },
+        {
+          "title": "德国财政部为暂停债务刹车“留门”，以应对伊朗战争影响",
+          "url": "https://flash.jin10.com/detail/20260427211500040800",
+          "source": "金十数据",
+          "ranks": [
+            26
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时02分"
+        },
+        {
           "title": "美国中央司令部：一艘美国军舰正在追踪一艘商船，同时美军继续对伊朗港口实施封锁，从而阻止船只进出。截至目前，美军已命令38艘船只折返或返回港口。",
           "url": "https://flash.jin10.com/detail/20260427190944117800",
           "source": "金十数据",
           "ranks": [
             27
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "19时46分"
         },
@@ -994,7 +1097,7 @@
     },
     {
       "keyword_group": "特朗普",
-      "match_count": 70,
+      "match_count": 73,
       "titles": [
         {
           "title": "特朗普被紧急疏散！白宫记者晚宴大厅发生枪击事件",
@@ -1084,8 +1187,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[11时24分 ~ 19时46分]"
+          "appearance_count": 6,
+          "time_info": "[11时24分 ~ 22时02分]"
         },
         {
           "title": "“早知这么危险就不当总统了”，特朗普撤离时摔倒，枪手系教师兼游戏开发者，作案目标是美政府官员",
@@ -1211,6 +1314,17 @@
           "time_info": "[00时50分 ~ 07时43分]"
         },
         {
+          "title": "美记者当面念枪手宣言，特朗普发怒：你真可耻",
+          "url": "https://news.ifeng.com/c/8sfY3xvuykb",
+          "source": "凤凰网",
+          "ranks": [
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[19时46分 ~ 22时02分]"
+        },
+        {
           "title": "晚宴现场枪击细节曝光：特朗普撤离时跌倒，万斯被一把带走",
           "url": "https://m.thepaper.cn/newsDetail_forward_33057646",
           "source": "澎湃新闻",
@@ -1287,11 +1401,12 @@
             18,
             24,
             27,
-            30
+            30,
+            29
           ],
           "is_new": false,
-          "appearance_count": 12,
-          "time_info": "[00时50分 ~ 19时46分]"
+          "appearance_count": 13,
+          "time_info": "[00时50分 ~ 22时02分]"
         },
         {
           "title": "枪击事件发生时，坐在特朗普旁边的华裔女记者是谁？",
@@ -1303,17 +1418,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[07时42分 ~ 07时43分]"
-        },
-        {
-          "title": "美记者当面念枪手宣言，特朗普发怒：你真可耻",
-          "url": "https://news.ifeng.com/c/8sfY3xvuykb",
-          "source": "凤凰网",
-          "ranks": [
-            1
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "19时46分"
         },
         {
           "title": "特朗普叫停特使赴巴：“想谈，打个电话就行”，伊朗递三阶段方案",
@@ -1347,6 +1451,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "07时43分"
+        },
+        {
+          "title": "美国官员表示，特朗普支持特勤局领导层。",
+          "url": "https://wallstreetcn.com/livenews/3095056",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            5
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时02分"
         },
         {
           "title": "美伊和谈未重启？特朗普称想谈可致电美国，伊朗提出“三阶段谈判方案”！",
@@ -1548,6 +1663,19 @@
           "time_info": "[00时50分 ~ 03时52分]"
         },
         {
+          "title": "为什么先救万斯？特朗普：我不愿意走，想看看怎么回事",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33060612",
+          "source": "澎湃新闻",
+          "ranks": [
+            15,
+            13,
+            11
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[17时22分 ~ 22时02分]"
+        },
+        {
           "title": "特朗普：枪击案嫌疑人留下呼吁袭击政府官员的字条",
           "url": "https://flash.jin10.com/detail/20260426235811049800",
           "source": "金十数据",
@@ -1559,18 +1687,6 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[00时50分 ~ 03时01分]"
-        },
-        {
-          "title": "为什么先救万斯？特朗普：我不愿意走，想看看怎么回事",
-          "url": "https://m.thepaper.cn/newsDetail_forward_33060612",
-          "source": "澎湃新闻",
-          "ranks": [
-            15,
-            13
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[17时22分 ~ 19时46分]"
         },
         {
           "title": "美国总统特朗普：我们将把夺取伊朗的核材料作为谈判的一部分。",
@@ -1685,7 +1801,7 @@
           "ranks": [
             8
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "19时46分"
         },
@@ -1710,6 +1826,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "17时22分"
+        },
+        {
+          "title": "一名白宫官员表示，特朗普仍支持特勤局领导层。",
+          "url": "https://flash.jin10.com/detail/20260427212509732800",
+          "source": "金十数据",
+          "ranks": [
+            14
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时02分"
         },
         {
           "title": "视频丨特朗普通报白宫记协晚宴安全事件调查细节，公布枪手强闯安检视频",
@@ -1743,6 +1870,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "07时43分"
+        },
+        {
+          "title": "自导自演晚宴枪击事件？特朗普回应",
+          "url": "https://www.baidu.com/s?wd=%E8%87%AA%E5%AF%BC%E8%87%AA%E6%BC%94%E6%99%9A%E5%AE%B4%E6%9E%AA%E5%87%BB%E4%BA%8B%E4%BB%B6%EF%BC%9F%E7%89%B9%E6%9C%97%E6%99%AE%E5%9B%9E%E5%BA%94",
+          "source": "百度热搜",
+          "ranks": [
+            21
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时02分"
         },
         {
           "title": "特朗普回应为何先救万斯",
@@ -1858,7 +1996,7 @@
     },
     {
       "keyword_group": "DeepSeek Ai 水球泡 谷歌 google gemini 好书推荐 chatgpt openai 白银 金价石油 黄金 热梗",
-      "match_count": 55,
+      "match_count": 64,
       "titles": [
         {
           "title": "高盛：DeepSeek V4对中国AI意味着什么？",
@@ -1974,6 +2112,18 @@
           "time_info": "[11时24分 ~ 19时46分]"
         },
         {
+          "title": "AI海报杀疯,设计师饭碗被砸",
+          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28353780&amp;topic_name=AI%E6%B5%B7%E6%8A%A5%E6%9D%80%E7%96%AF%2C%E8%AE%BE%E8%AE%A1%E5%B8%88%E9%A5%AD%E7%A2%97%E8%A2%AB%E7%A0%B8",
+          "source": "贴吧",
+          "ranks": [
+            2,
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[14时32分 ~ 22时02分]"
+        },
+        {
           "title": "DeepSeek输入缓存降价",
           "url": "https://wallstreetcn.com/livenews/3094547",
           "source": "华尔街见闻-快讯",
@@ -1988,16 +2138,16 @@
           "time_info": "[00时50分 ~ 07时43分]"
         },
         {
-          "title": "AI海报杀疯,设计师饭碗被砸",
-          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28353780&amp;topic_name=AI%E6%B5%B7%E6%8A%A5%E6%9D%80%E7%96%AF%2C%E8%AE%BE%E8%AE%A1%E5%B8%88%E9%A5%AD%E7%A2%97%E8%A2%AB%E7%A0%B8",
-          "source": "贴吧",
+          "title": "中国信通院：正式启动DeepSeek V4国产化适配测试工作",
+          "url": "https://www.cls.cn/detail/2356575",
+          "source": "财联社热门",
           "ranks": [
-            2,
-            1
+            3,
+            2
           ],
           "is_new": false,
           "appearance_count": 3,
-          "time_info": "[14时32分 ~ 19时46分]"
+          "time_info": "[17时22分 ~ 22时02分]"
         },
         {
           "title": "DeepSeek输入缓存降价",
@@ -2043,17 +2193,6 @@
           "is_new": false,
           "appearance_count": 13,
           "time_info": "[00时50分 ~ 14时32分]"
-        },
-        {
-          "title": "中国信通院：正式启动DeepSeek V4国产化适配测试工作",
-          "url": "https://www.cls.cn/detail/2356575",
-          "source": "财联社热门",
-          "ranks": [
-            3
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[17时22分 ~ 19时46分]"
         },
         {
           "title": "AI 香港身份证",
@@ -2102,7 +2241,7 @@
           "ranks": [
             3
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "19时46分"
         },
@@ -2127,17 +2266,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "14时32分"
-        },
-        {
-          "title": "黄金被扣30年将按正常时效处理",
-          "url": "https://s.weibo.com/weibo?q=%23%E9%BB%84%E9%87%91%E8%A2%AB%E6%89%A330%E5%B9%B4%E5%B0%86%E6%8C%89%E6%AD%A3%E5%B8%B8%E6%97%B6%E6%95%88%E5%A4%84%E7%90%86%23&t=31&band_rank=5&Refer=top",
-          "source": "微博",
-          "ranks": [
-            5
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "19时46分"
         },
         {
           "title": "AI图以假乱真,恐怖谷效应拉满",
@@ -2188,6 +2316,18 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[06时42分 ~ 07时43分]"
+        },
+        {
+          "title": "黄金被扣30年将按正常时效处理",
+          "url": "https://s.weibo.com/weibo?q=%23%E9%BB%84%E9%87%91%E8%A2%AB%E6%89%A330%E5%B9%B4%E5%B0%86%E6%8C%89%E6%AD%A3%E5%B8%B8%E6%97%B6%E6%95%88%E5%A4%84%E7%90%86%23&t=31&band_rank=5&Refer=top",
+          "source": "微博",
+          "ranks": [
+            5,
+            16
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[19时46分 ~ 22时02分]"
         },
         {
           "title": "DeepSeekV4脱离英伟达了吗",
@@ -2244,11 +2384,47 @@
           "source": "华尔街见闻",
           "ranks": [
             10,
-            8
+            8,
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[17时22分 ~ 22时02分]"
+        },
+        {
+          "title": "被AI骗去毒蛇窝徒步",
+          "url": "https://s.weibo.com/weibo?q=%E8%A2%ABAI%E9%AA%97%E5%8E%BB%E6%AF%92%E8%9B%87%E7%AA%9D%E5%BE%92%E6%AD%A5&t=31&band_rank=6&Refer=top",
+          "source": "微博",
+          "ranks": [
+            6,
+            7
           ],
           "is_new": false,
           "appearance_count": 2,
-          "time_info": "[17时22分 ~ 19时46分]"
+          "time_info": "[19时46分 ~ 22时02分]"
+        },
+        {
+          "title": "我没有编程能力，现在写了完整的游戏设计文稿，并准备了 20 万资金，想把游戏用 AI 做出来，该怎么做？",
+          "url": "https://www.zhihu.com/question/2030297015276549260",
+          "source": "知乎",
+          "ranks": [
+            6,
+            12
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[19时46分 ~ 22时02分]"
+        },
+        {
+          "title": "DeepSeek“吓崩”智谱和MiniMax，但摩根大通认为：V4打破算力束缚，是行业利好",
+          "url": "https://wallstreetcn.com/articles/3770936",
+          "source": "华尔街见闻",
+          "ranks": [
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[19时46分 ~ 22时02分]"
         },
         {
           "title": "DeepSeek 多位骨干离职去大厂，他们的去向透露出哪些信息？会对 DeepSeek 自身带来多大影响？",
@@ -2285,28 +2461,6 @@
           "time_info": "[00时50分 ~ 03时52分]"
         },
         {
-          "title": "被AI骗去毒蛇窝徒步",
-          "url": "https://s.weibo.com/weibo?q=%E8%A2%ABAI%E9%AA%97%E5%8E%BB%E6%AF%92%E8%9B%87%E7%AA%9D%E5%BE%92%E6%AD%A5&t=31&band_rank=6&Refer=top",
-          "source": "微博",
-          "ranks": [
-            6
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "19时46分"
-        },
-        {
-          "title": "我没有编程能力，现在写了完整的游戏设计文稿，并准备了 20 万资金，想把游戏用 AI 做出来，该怎么做？",
-          "url": "https://www.zhihu.com/question/2030297015276549260",
-          "source": "知乎",
-          "ranks": [
-            6
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "19时46分"
-        },
-        {
           "title": "金十图示：2026年04月27日（周一）白银ETF持仓报告",
           "url": "https://flash.jin10.com/detail/20260427065605491800",
           "source": "金十数据",
@@ -2318,15 +2472,37 @@
           "time_info": "07时43分"
         },
         {
+          "title": "美股开盘，道指开跌0.24%，标普500指数跌0.15%，纳指跌0.17%。微软(MSFT.O)跌0.5%，公司宣布OpenAI许可转为非独家且将不再向OpenAI支付收入分成。高通(QCOM.O)涨5.2%，据悉OpenAI正与联发科及高通合作开发手机处理器。",
+          "url": "https://flash.jin10.com/detail/20260427213032078800",
+          "source": "金十数据",
+          "ranks": [
+            7
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时02分"
+        },
+        {
           "title": "小红书首次公布AI治理主张：可借助AI放大创意，对AI不良行为零容忍",
           "url": "https://wallstreetcn.com/livenews/3094978",
           "source": "华尔街见闻-快讯",
           "ranks": [
             7
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "19时46分"
+        },
+        {
+          "title": "彻底失控！AI恐惧演变物理暗杀：老黄随身带5个保镖，奥特曼们沦为靶子",
+          "url": "https://wallstreetcn.com/articles/3770976",
+          "source": "华尔街见闻",
+          "ranks": [
+            8
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时02分"
         },
         {
           "title": "DeepSeek调整API计费",
@@ -2362,15 +2538,15 @@
           "time_info": "11时24分"
         },
         {
-          "title": "DeepSeek“吓崩”智谱和MiniMax，但摩根大通认为：V4打破算力束缚，是行业利好",
-          "url": "https://wallstreetcn.com/articles/3770936",
-          "source": "华尔街见闻",
+          "title": "POET Technologies美股盘前跌超40%，公司失去Celestial AI的采购订单。",
+          "url": "https://wallstreetcn.com/livenews/3095052",
+          "source": "华尔街见闻-快讯",
           "ranks": [
-            10
+            9
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "19时46分"
+          "time_info": "22时02分"
         },
         {
           "title": "港股MINIMAX-W(00100.HK)盘中跌超15%，智谱(02513.HK)跌超5%；消息面上，DeepSeek上周五发布新模型，并宣布输入缓存降价。",
@@ -2406,6 +2582,39 @@
           "time_info": "14时32分"
         },
         {
+          "title": "费城半导体指数挑战19连涨 OpenAI“自研手机”消息震动市场 | 今夜看点",
+          "url": "https://www.cls.cn/detail/2357129",
+          "source": "财联社热门",
+          "ranks": [
+            12
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时02分"
+        },
+        {
+          "title": "OpenAI与微软达成“休战协议”：取消排他性、收入分成设限",
+          "url": "https://flash.jin10.com/detail/20260427212620435800",
+          "source": "金十数据",
+          "ranks": [
+            12
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时02分"
+        },
+        {
+          "title": "DeepSeek V4哪些点被低估了",
+          "url": "https://search.bilibili.com/all?keyword=DeepSeek%20V4%E5%93%AA%E4%BA%9B%E7%82%B9%E8%A2%AB%E4%BD%8E%E4%BC%B0%E4%BA%86",
+          "source": "bilibili 热搜",
+          "ranks": [
+            13
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时02分"
+        },
+        {
           "title": "太空“拥堵”催生新基建——商业航天如何迈向“AI智驾”？",
           "url": "https://www.cls.cn/detail/2356011",
           "source": "财联社热门",
@@ -2423,9 +2632,20 @@
           "ranks": [
             14
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "19时46分"
+        },
+        {
+          "title": "微软：将不再向OpenAI支付收入分成，微软的OpenAI许可现将转为非独家许可",
+          "url": "https://wallstreetcn.com/livenews/3095041",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            16
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时02分"
         },
         {
           "title": "“假黄金”无法分辨 多家金店被骗",
@@ -2445,7 +2665,7 @@
           "ranks": [
             19
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "19时46分"
         },
@@ -2514,13 +2734,57 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "11时24分"
+        },
+        {
+          "title": "AI短剧 融脸",
+          "url": "https://s.weibo.com/weibo?q=AI%E7%9F%AD%E5%89%A7%20%E8%9E%8D%E8%84%B8&t=31&band_rank=26&Refer=top",
+          "source": "微博",
+          "ranks": [
+            26
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时02分"
+        },
+        {
+          "title": "微软(MSFT.O)：OpenAI产品将优先在Azure上发布。",
+          "url": "https://flash.jin10.com/detail/20260427211114444800",
+          "source": "金十数据",
+          "ranks": [
+            30
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时02分"
         }
       ]
     },
     {
       "keyword_group": "美股",
-      "match_count": 8,
+      "match_count": 12,
       "titles": [
+        {
+          "title": "美股盘初：三大股指小幅下跌，高通涨约7%，微软跌约1%",
+          "url": "https://wallstreetcn.com/livenews/3095061",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            1
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时02分"
+        },
+        {
+          "title": "对冲基金集体“降杠杆”、养老金将抛250亿...高盛警示美股短期风险！",
+          "url": "https://flash.jin10.com/detail/20260427213159714800",
+          "source": "金十数据",
+          "ranks": [
+            2
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时02分"
+        },
         {
           "title": "美股期货亚市盘初小幅走低，标普500指数期货、纳斯达克100指数期货均跌0.3%。",
           "url": "https://wallstreetcn.com/livenews/3094557",
@@ -2559,6 +2823,28 @@
           "time_info": "[06时42分 ~ 07时43分]"
         },
         {
+          "title": "对冲基金两年来最快速度抛售科技股，美股内部已现裂痕",
+          "url": "https://wallstreetcn.com/articles/3770942",
+          "source": "华尔街见闻",
+          "ranks": [
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[19时46分 ~ 22时02分]"
+        },
+        {
+          "title": "美伊谈判僵局难解，美股盘前小幅下跌，高通大涨10%，布油日内涨3%，镍价刷两年新高",
+          "url": "https://wallstreetcn.com/articles/3770961",
+          "source": "华尔街见闻",
+          "ranks": [
+            6
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时02分"
+        },
+        {
           "title": "高通美股盘前涨超10%",
           "url": "https://wallstreetcn.com/livenews/3094880",
           "source": "华尔街见闻-快讯",
@@ -2568,17 +2854,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "17时22分"
-        },
-        {
-          "title": "对冲基金两年来最快速度抛售科技股，美股内部已现裂痕",
-          "url": "https://wallstreetcn.com/articles/3770942",
-          "source": "华尔街见闻",
-          "ranks": [
-            9
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "19时46分"
         },
         {
           "title": "美伊冲突都没带崩美股？“巴菲特指标”冲破200%关键门槛，似有大跌之兆！",
@@ -2598,7 +2873,7 @@
           "ranks": [
             15
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "19时46分"
         },
@@ -2609,9 +2884,20 @@
           "ranks": [
             19
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "19时46分"
+        },
+        {
+          "title": "高盛称对冲基金利用美股上涨降低风险",
+          "url": "https://wallstreetcn.com/livenews/3095019",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            28
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时02分"
         }
       ]
     },
