@@ -1,12 +1,25 @@
 {
-  "generated_at": "2026-05-01T11:40:15.866835+08:00",
-  "total_titles_processed": 805,
+  "generated_at": "2026-05-01T14:40:02.261592+08:00",
+  "total_titles_processed": 961,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普",
-      "match_count": 56,
+      "match_count": 57,
       "titles": [
+        {
+          "title": "美军拟以“高超音速导弹”打击伊朗，周四将向特朗普汇报新“打击计划”",
+          "url": "https://wallstreetcn.com/articles/3771344",
+          "source": "华尔街见闻",
+          "ranks": [
+            7,
+            5,
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 11,
+          "time_info": "[00时22分 ~ 14时40分]"
+        },
         {
           "title": "当枪声在白宫记者晚宴响起——特朗普如何改写美国媒体规则？",
           "url": "https://news.ifeng.com/c/8skYq26ZNlk",
@@ -18,19 +31,6 @@
           "is_new": false,
           "appearance_count": 7,
           "time_info": "[00时22分 ~ 07时02分]"
-        },
-        {
-          "title": "美军拟以“高超音速导弹”打击伊朗，周四将向特朗普汇报新“打击计划”",
-          "url": "https://wallstreetcn.com/articles/3771344",
-          "source": "华尔街见闻",
-          "ranks": [
-            7,
-            5,
-            2
-          ],
-          "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[00时22分 ~ 11时40分]"
         },
         {
           "title": "普京与特朗普通话一个半小时，涉及众多议题",
@@ -52,8 +52,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[11时39分 ~ 11时40分]"
+          "appearance_count": 4,
+          "time_info": "[11时39分 ~ 14时40分]"
         },
         {
           "title": "特朗普还是没抵住诱惑",
@@ -63,8 +63,20 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[11时39分 ~ 11时40分]"
+          "appearance_count": 4,
+          "time_info": "[11时39分 ~ 14时40分]"
+        },
+        {
+          "title": "枪击发生时，坐在特朗普身旁的华裔记者是谁？出生于中国厦门的她，是如何一步步成为白宫记者协会主席的？",
+          "url": "https://www.zhihu.com/question/2032044326121730326",
+          "source": "知乎",
+          "ranks": [
+            16,
+            17
+          ],
+          "is_new": false,
+          "appearance_count": 11,
+          "time_info": "[00时22分 ~ 14时40分]"
         },
         {
           "title": "特朗普，居然这都能搞错？",
@@ -78,16 +90,17 @@
           "time_info": "[00时22分 ~ 00时23分]"
         },
         {
-          "title": "枪击发生时，坐在特朗普身旁的华裔记者是谁？出生于中国厦门的她，是如何一步步成为白宫记者协会主席的？",
-          "url": "https://www.zhihu.com/question/2032044326121730326",
-          "source": "知乎",
+          "title": "美媒称特朗普提出建立海上联盟新计划，以重开霍尔木兹海峡",
+          "url": "https://wallstreetcn.com/articles/3771420",
+          "source": "华尔街见闻",
           "ranks": [
-            16,
-            17
+            10,
+            8,
+            5
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[00时22分 ~ 11时40分]"
+          "appearance_count": 7,
+          "time_info": "[05时59分 ~ 14时40分]"
         },
         {
           "title": "特朗普家族支持的无人机公司与美国签署武器采购协议",
@@ -110,19 +123,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "02时12分"
-        },
-        {
-          "title": "美媒称特朗普提出建立海上联盟新计划，以重开霍尔木兹海峡",
-          "url": "https://wallstreetcn.com/articles/3771420",
-          "source": "华尔街见闻",
-          "ranks": [
-            10,
-            8,
-            5
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[05时59分 ~ 11时40分]"
         },
         {
           "title": "美国对伊战争已花掉250亿美元，特朗普欲推出“海上自由联盟”",
@@ -183,6 +183,40 @@
           "time_info": "[05时59分 ~ 07时02分]"
         },
         {
+          "title": "伊朗总统表示美国海上封锁不可容忍 特朗普称已摧毁伊朗核能力 | 环球市场",
+          "url": "https://www.cls.cn/detail/2361654",
+          "source": "财联社热门",
+          "ranks": [
+            8,
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[11时39分 ~ 14时40分]"
+        },
+        {
+          "title": "“美国不惜一切代价想得到钨矿”，特朗普的儿子有新动作",
+          "url": "https://news.ifeng.com/c/8sleYIiCFoz",
+          "source": "凤凰网",
+          "ranks": [
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[11时39分 ~ 14时40分]"
+        },
+        {
+          "title": "特朗普：大多数人说我更适合从政，但其实我最擅长搞建设",
+          "url": "https://v.ifeng.com/c/8slZgmeHYf5",
+          "source": "凤凰网",
+          "ranks": [
+            11
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[11时39分 ~ 14时40分]"
+        },
+        {
           "title": "伊朗战争丨特朗普：可能需要打破伊朗停火协议",
           "url": "https://news.ifeng.com/loc/timeline/event/8r727OWpK5W?isFull=0&immersion=true&ifengsp=1",
           "source": "凤凰网",
@@ -204,39 +238,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[05时59分 ~ 07时02分]"
-        },
-        {
-          "title": "伊朗总统表示美国海上封锁不可容忍 特朗普称已摧毁伊朗核能力 | 环球市场",
-          "url": "https://www.cls.cn/detail/2361654",
-          "source": "财联社热门",
-          "ranks": [
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[11时39分 ~ 11时40分]"
-        },
-        {
-          "title": "“美国不惜一切代价想得到钨矿”，特朗普的儿子有新动作",
-          "url": "https://news.ifeng.com/c/8sleYIiCFoz",
-          "source": "凤凰网",
-          "ranks": [
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[11时39分 ~ 11时40分]"
-        },
-        {
-          "title": "特朗普：大多数人说我更适合从政，但其实我最擅长搞建设",
-          "url": "https://v.ifeng.com/c/8slZgmeHYf5",
-          "source": "凤凰网",
-          "ranks": [
-            11
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[11时39分 ~ 11时40分]"
         },
         {
           "title": "美国总统特朗普：我们在发动伊朗战争方面并不曾需要（来自北约的）任何帮助。",
@@ -377,7 +378,7 @@
           "ranks": [
             13
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "11时40分"
         },
@@ -424,6 +425,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "04时11分"
+        },
+        {
+          "title": "特朗普称美国结束对伊朗战争",
+          "url": "https://s.weibo.com/weibo?q=%E7%89%B9%E6%9C%97%E6%99%AE%E7%A7%B0%E7%BE%8E%E5%9B%BD%E7%BB%93%E6%9D%9F%E5%AF%B9%E4%BC%8A%E6%9C%97%E6%88%98%E4%BA%89&t=31&band_rank=15&Refer=top",
+          "source": "微博",
+          "ranks": [
+            15
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "14时40分"
         },
         {
           "title": "美国总统特朗普：不在乎鲍威尔是否留在美联储，不会采取行动。",
@@ -608,7 +620,7 @@
           "ranks": [
             25
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "11时40分"
         },
@@ -638,7 +650,7 @@
     },
     {
       "keyword_group": "DeepSeek Ai 水球泡 谷歌 google gemini 好书推荐 chatgpt openai 白银 金价石油 黄金 热梗",
-      "match_count": 48,
+      "match_count": 52,
       "titles": [
         {
           "title": "美联储34年最大分歧叠加油价飙升，美债重挫，美股横盘，美元走强，黄金三连跌",
@@ -653,18 +665,6 @@
           "time_info": "[00时22分 ~ 07时02分]"
         },
         {
-          "title": "DeepSeek破底价,友商瑟瑟发抖",
-          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28353912&amp;topic_name=DeepSeek%E7%A0%B4%E5%BA%95%E4%BB%B7%2C%E5%8F%8B%E5%95%86%E7%91%9F%E7%91%9F%E5%8F%91%E6%8A%96",
-          "source": "贴吧",
-          "ranks": [
-            2,
-            4
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[00时23分 ~ 11时40分]"
-        },
-        {
           "title": "经济数据与财报提振信心，标普、纳指新高，谷歌大涨10%，日元暴涨",
           "url": "https://wallstreetcn.com/articles/3771356",
           "source": "华尔街见闻",
@@ -673,8 +673,21 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[07时01分 ~ 11时40分]"
+          "appearance_count": 6,
+          "time_info": "[07时01分 ~ 14时40分]"
+        },
+        {
+          "title": "DeepSeek破底价,友商瑟瑟发抖",
+          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28353912&amp;topic_name=DeepSeek%E7%A0%B4%E5%BA%95%E4%BB%B7%2C%E5%8F%8B%E5%95%86%E7%91%9F%E7%91%9F%E5%8F%91%E6%8A%96",
+          "source": "贴吧",
+          "ranks": [
+            2,
+            4,
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 7,
+          "time_info": "[00时23分 ~ 14时40分]"
         },
         {
           "title": "“科技四巨头”罕见同日财报：谷歌大涨Meta重挫，谷歌、微软和亚马逊云增长迅猛，谷歌和Meta上调资本开支",
@@ -703,27 +716,28 @@
           "time_info": "[00时22分 ~ 07时02分]"
         },
         {
-          "title": "AI古代铠甲勇士完结篇",
-          "url": "https://search.bilibili.com/all?keyword=AI%E5%8F%A4%E4%BB%A3%E9%93%A0%E7%94%B2%E5%8B%87%E5%A3%AB%E5%AE%8C%E7%BB%93%E7%AF%87",
-          "source": "bilibili 热搜",
-          "ranks": [
-            2
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[11时39分 ~ 11时40分]"
-        },
-        {
           "title": "云计算三巨头验证AI商业化前景 日元汇率剧烈波动 | 今夜看点",
           "url": "https://www.cls.cn/detail/2361477",
           "source": "财联社热门",
           "ranks": [
             8,
-            13
+            13,
+            11
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[00时22分 ~ 11时40分]"
+          "appearance_count": 11,
+          "time_info": "[00时22分 ~ 14时40分]"
+        },
+        {
+          "title": "美议员邀中国科学家给AI“设卡”，美国舆论炸锅",
+          "url": "https://news.ifeng.com/c/8slj4BER3rc",
+          "source": "凤凰网",
+          "ranks": [
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[14时39分 ~ 14时40分]"
         },
         {
           "title": "从硅谷视角看DeepSeekV4",
@@ -743,11 +757,35 @@
           "source": "财联社热门",
           "ranks": [
             11,
-            4
+            4,
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[07时01分 ~ 14时40分]"
+        },
+        {
+          "title": "现货黄金跌破4600美元/盎司，日内跌0.47%。",
+          "url": "https://flash.jin10.com/detail/20260501142009812800",
+          "source": "金十数据",
+          "ranks": [
+            5
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "14时40分"
+        },
+        {
+          "title": "AI古代铠甲勇士完结篇",
+          "url": "https://search.bilibili.com/all?keyword=AI%E5%8F%A4%E4%BB%A3%E9%93%A0%E7%94%B2%E5%8B%87%E5%A3%AB%E5%AE%8C%E7%BB%93%E7%AF%87",
+          "source": "bilibili 热搜",
+          "ranks": [
+            2,
+            16
           ],
           "is_new": false,
           "appearance_count": 4,
-          "time_info": "[07时01分 ~ 11时40分]"
+          "time_info": "[11时39分 ~ 14时40分]"
         },
         {
           "title": "2859.2克黄金被扣30年迎转机",
@@ -789,6 +827,19 @@
           "time_info": "[00时22分 ~ 07时02分]"
         },
         {
+          "title": "时代杂志评选2026年十大最具影响力AI公司 字节、阿里、智谱上榜",
+          "url": "https://www.cls.cn/detail/2361533",
+          "source": "财联社热门",
+          "ranks": [
+            12,
+            10,
+            11
+          ],
+          "is_new": false,
+          "appearance_count": 7,
+          "time_info": "[05时59分 ~ 14时40分]"
+        },
+        {
           "title": "胡锡进：只要中国赚钱机会越来越多，谷歌就不舍得真正“离开”",
           "url": "https://news.ifeng.com/c/8skgZ2z6e0A",
           "source": "凤凰网",
@@ -799,6 +850,19 @@
           "is_new": false,
           "appearance_count": 7,
           "time_info": "[00时22分 ~ 07时02分]"
+        },
+        {
+          "title": "AI魔改黑袍,星光姐被玩坏",
+          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28353890&amp;topic_name=AI%E9%AD%94%E6%94%B9%E9%BB%91%E8%A2%8D%2C%E6%98%9F%E5%85%89%E5%A7%90%E8%A2%AB%E7%8E%A9%E5%9D%8F",
+          "source": "贴吧",
+          "ranks": [
+            20,
+            26,
+            27
+          ],
+          "is_new": false,
+          "appearance_count": 7,
+          "time_info": "[00时23分 ~ 14时40分]"
         },
         {
           "title": "Yubico与OpenAI达成合作协议，前者用户可以通过OpenAI的安全项目购买Yubikeys。",
@@ -825,18 +889,6 @@
           "time_info": "[00时23分 ~ 02时12分]"
         },
         {
-          "title": "AI魔改黑袍,星光姐被玩坏",
-          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28353890&amp;topic_name=AI%E9%AD%94%E6%94%B9%E9%BB%91%E8%A2%8D%2C%E6%98%9F%E5%85%89%E5%A7%90%E8%A2%AB%E7%8E%A9%E5%9D%8F",
-          "source": "贴吧",
-          "ranks": [
-            20,
-            26
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[00时23分 ~ 11时40分]"
-        },
-        {
           "title": "谷歌母公司Q1营收超预期增长22%，AI驱动多板块业务增长，云业务大增63%",
           "url": "https://wallstreetcn.com/articles/3771311",
           "source": "华尔街见闻",
@@ -850,19 +902,6 @@
           "time_info": "[00时22分 ~ 05时59分]"
         },
         {
-          "title": "时代杂志评选2026年十大最具影响力AI公司 字节、阿里、智谱上榜",
-          "url": "https://www.cls.cn/detail/2361533",
-          "source": "财联社热门",
-          "ranks": [
-            12,
-            10,
-            11
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[05时59分 ~ 11时40分]"
-        },
-        {
           "title": "中央网信办部署开展“清朗·整治AI应用乱象”专项行动",
           "url": "https://www.cls.cn/detail/2361143",
           "source": "财联社热门",
@@ -873,6 +912,18 @@
           "is_new": false,
           "appearance_count": 5,
           "time_info": "[00时22分 ~ 05时59分]"
+        },
+        {
+          "title": "美股四大科技巨头「谷歌、微软、亚马逊、 Meta」2026 年 Q1 财报同时出炉，如何解析？",
+          "url": "https://www.zhihu.com/question/2033115543276930640",
+          "source": "知乎",
+          "ranks": [
+            10,
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[11时39分 ~ 14时40分]"
         },
         {
           "title": "Deepseek-V4 究竟在编程上和 Claude-Opus-4.7 差距有多大？",
@@ -925,6 +976,28 @@
           "time_info": "[11时39分 ~ 11时40分]"
         },
         {
+          "title": "DeepSeek多模态正式发布",
+          "url": "https://www.douyin.com/hot/2485029",
+          "source": "抖音",
+          "ranks": [
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[14时39分 ~ 14时40分]"
+        },
+        {
+          "title": "女子被AI误导闯入响尾蛇窝",
+          "url": "https://www.toutiao.com/trending/7634484856417468470/",
+          "source": "今日头条",
+          "ranks": [
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[14时39分 ~ 14时40分]"
+        },
+        {
           "title": "高通CEO表示：新型AI芯片业务将在2027年贡献显著营收。",
           "url": "https://wallstreetcn.com/livenews/3097630",
           "source": "华尔街见闻-快讯",
@@ -940,17 +1013,6 @@
           "title": "中国斯诺克步入黄金时代",
           "url": "https://www.toutiao.com/trending/7633863809170309170/",
           "source": "今日头条",
-          "ranks": [
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[11时39分 ~ 11时40分]"
-        },
-        {
-          "title": "美股四大科技巨头「谷歌、微软、亚马逊、 Meta」2026 年 Q1 财报同时出炉，如何解析？",
-          "url": "https://www.zhihu.com/question/2033115543276930640",
-          "source": "知乎",
           "ranks": [
             10
           ],
@@ -1055,7 +1117,7 @@
           "ranks": [
             9
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "11时40分"
         },
@@ -1099,7 +1161,7 @@
           "ranks": [
             16
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "11时40分"
         },
@@ -1121,7 +1183,7 @@
           "ranks": [
             21
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "11时40分"
         },
@@ -1165,7 +1227,7 @@
           "ranks": [
             25
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "11时40分"
         },
@@ -1187,7 +1249,7 @@
           "ranks": [
             26
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "11时40分"
         },
@@ -1206,19 +1268,8 @@
     },
     {
       "keyword_group": "伊朗",
-      "match_count": 32,
+      "match_count": 35,
       "titles": [
-        {
-          "title": "伊朗外交部：期待伊美谈判迅速达成结果并不现实",
-          "url": "https://news.ifeng.com/c/8slUlo0THc1",
-          "source": "凤凰网",
-          "ranks": [
-            4
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[11时39分 ~ 11时40分]"
-        },
         {
           "title": "美防长：“60天时限”已“暂停” 对伊朗军事行动无需寻求国会授权",
           "url": "https://www.cls.cn/detail/2361658",
@@ -1227,8 +1278,8 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[11时39分 ~ 11时40分]"
+          "appearance_count": 4,
+          "time_info": "[11时39分 ~ 14时40分]"
         },
         {
           "title": "阿联酋禁止本国公民前往伊朗、黎巴嫩和伊拉克",
@@ -1253,15 +1304,16 @@
           "time_info": "07时02分"
         },
         {
-          "title": "伊朗外长：“制止以色列侵略黎巴嫩”是伊美停火方案组成部分",
-          "url": "https://wallstreetcn.com/livenews/3097785",
-          "source": "华尔街见闻-快讯",
+          "title": "伊朗外交部：期待伊美谈判迅速达成结果并不现实",
+          "url": "https://news.ifeng.com/c/8slUlo0THc1",
+          "source": "凤凰网",
           "ranks": [
-            3
+            4,
+            7
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "11时40分"
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[11时39分 ~ 14时40分]"
         },
         {
           "title": "据伊朗学生通讯社：伊朗外交部发言人表示，期望与美国的谈判迅速取得成果是不切实际的。",
@@ -1286,6 +1338,40 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[05时59分 ~ 07时02分]"
+        },
+        {
+          "title": "伊朗外长：“制止以色列侵略黎巴嫩”是伊美停火方案组成部分",
+          "url": "https://wallstreetcn.com/livenews/3097785",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            3,
+            20
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[11时40分 ~ 14时40分]"
+        },
+        {
+          "title": "伊朗战争丨美政府官员：2月28日开始的敌对行动已结束",
+          "url": "https://news.ifeng.com/loc/timeline/event/8r727OWpK5W?isFull=0&immersion=true&ifengsp=1",
+          "source": "凤凰网",
+          "ranks": [
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[11时39分 ~ 14时40分]"
+        },
+        {
+          "title": "美以袭击伊朗进入第 63 天，当前局势如何？还有哪些信息值得关注？",
+          "url": "https://www.zhihu.com/question/2033318594176443288",
+          "source": "知乎",
+          "ranks": [
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[11时39分 ~ 14时40分]"
         },
         {
           "title": "后继乏力，美国对伊朗已使出最后手段？",
@@ -1322,28 +1408,6 @@
           "time_info": "[02时12分 ~ 04时11分]"
         },
         {
-          "title": "伊朗战争丨美政府官员：2月28日开始的敌对行动已结束",
-          "url": "https://news.ifeng.com/loc/timeline/event/8r727OWpK5W?isFull=0&immersion=true&ifengsp=1",
-          "source": "凤凰网",
-          "ranks": [
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[11时39分 ~ 11时40分]"
-        },
-        {
-          "title": "美以袭击伊朗进入第 63 天，当前局势如何？还有哪些信息值得关注？",
-          "url": "https://www.zhihu.com/question/2033318594176443288",
-          "source": "知乎",
-          "ranks": [
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[11时39分 ~ 11时40分]"
-        },
-        {
           "title": "阿联酋：禁止本国公民前往伊朗、黎巴嫩和伊拉克",
           "url": "https://wallstreetcn.com/livenews/3097721",
           "source": "华尔街见闻-快讯",
@@ -1365,6 +1429,17 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[11时39分 ~ 11时40分]"
+        },
+        {
+          "title": "24小时接收6500吨装备，以防长称或“很快恢复”对伊朗军事行动",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33086074",
+          "source": "澎湃新闻",
+          "ranks": [
+            16
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[14时39分 ~ 14时40分]"
         },
         {
           "title": "美以袭击伊朗进入第 62 天，当前局势如何？还有哪些信息值得关注？",
@@ -1439,7 +1514,7 @@
           "ranks": [
             15
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "11时40分"
         },
@@ -1450,7 +1525,7 @@
           "ranks": [
             15
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "11时40分"
         },
@@ -1475,6 +1550,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "00时23分"
+        },
+        {
+          "title": "据伊朗迈赫尔通讯社：巴基斯坦将继续作为与美国谈判的官方调解人。",
+          "url": "https://flash.jin10.com/detail/20260501134452240800",
+          "source": "金十数据",
+          "ranks": [
+            19
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "14时40分"
         },
         {
           "title": "乳胶制造商Synthomer预计第二季度表现强劲，伊朗战争对亚洲竞争对手造成干扰",
@@ -1538,7 +1624,7 @@
           "ranks": [
             28
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "11时40分"
         },
@@ -1563,6 +1649,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "00时23分"
+        },
+        {
+          "title": "伊朗对美国航空设备造成28亿美元损失",
+          "url": "https://flash.jin10.com/detail/20260501131245062800",
+          "source": "金十数据",
+          "ranks": [
+            30
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "14时40分"
         }
       ]
     },
@@ -1667,7 +1764,7 @@
           "ranks": [
             30
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "11时40分"
         }
