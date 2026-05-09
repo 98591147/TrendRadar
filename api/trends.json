@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-05-09T08:04:25.712363+08:00",
-  "total_titles_processed": 551,
+  "generated_at": "2026-05-09T12:25:30.483003+08:00",
+  "total_titles_processed": 779,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普",
-      "match_count": 32,
+      "match_count": 38,
       "titles": [
         {
           "title": "特朗普称中美元首会谈将按计划举行，外交部回应",
@@ -30,6 +30,30 @@
           "time_info": "[01时22分 ~ 08时04分]"
         },
         {
+          "title": "特朗普称中美元首会谈将按计划举行，外交部：目前无进一步信息提供",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33121956",
+          "source": "澎湃新闻",
+          "ranks": [
+            20,
+            19,
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 7,
+          "time_info": "[01时22分 ~ 12时25分]"
+        },
+        {
+          "title": "伊朗战争丨特朗普称可能恢复“自由计划”",
+          "url": "https://news.ifeng.com/loc/timeline/event/8r727OWpK5W?isFull=0&immersion=true&ifengsp=1",
+          "source": "凤凰网",
+          "ranks": [
+            1
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "12时25分"
+        },
+        {
           "title": "特朗普：俄乌9日起停火三天并交换战俘",
           "url": "https://wallstreetcn.com/livenews/3100879",
           "source": "华尔街见闻-快讯",
@@ -50,6 +74,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "03时25分"
+        },
+        {
+          "title": "受够了！德国喊话多国组建对抗特朗普新联盟",
+          "url": "https://news.ifeng.com/c/8syALbeUOvl",
+          "source": "凤凰网",
+          "ranks": [
+            5
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "12时25分"
         },
         {
           "title": "美国总统特朗普打算罢免食品药品管理局（FDA）官员Makary。（华尔街日报）",
@@ -83,18 +118,6 @@
             19,
             18,
             17
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[01时22分 ~ 08时04分]"
-        },
-        {
-          "title": "特朗普称中美元首会谈将按计划举行，外交部：目前无进一步信息提供",
-          "url": "https://m.thepaper.cn/newsDetail_forward_33121956",
-          "source": "澎湃新闻",
-          "ranks": [
-            20,
-            19
           ],
           "is_new": false,
           "appearance_count": 6,
@@ -144,9 +167,20 @@
           "ranks": [
             6
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "08时04分"
+        },
+        {
+          "title": "特朗普也嫌世界杯票价贵",
+          "url": "https://search.bilibili.com/all?keyword=%E7%89%B9%E6%9C%97%E6%99%AE%E4%B9%9F%E5%AB%8C%E4%B8%96%E7%95%8C%E6%9D%AF%E7%A5%A8%E4%BB%B7%E8%B4%B5",
+          "source": "bilibili 热搜",
+          "ranks": [
+            8
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "12时25分"
         },
         {
           "title": "特朗普称俄乌9日起停火三天并交换战俘",
@@ -177,7 +211,7 @@
           "ranks": [
             8
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "08时04分"
         },
@@ -199,7 +233,7 @@
           "ranks": [
             9
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "08时04分"
         },
@@ -232,7 +266,7 @@
           "ranks": [
             10
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "08时04分"
         },
@@ -243,7 +277,7 @@
           "ranks": [
             10
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "08时04分"
         },
@@ -254,9 +288,20 @@
           "ranks": [
             11
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "08时04分"
+        },
+        {
+          "title": "近60万买家斥资6000万美元预购特朗普手机，却没人知道发货时间",
+          "url": "https://news.ifeng.com/c/8sytAKXfO4y",
+          "source": "凤凰网",
+          "ranks": [
+            12
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "12时25分"
         },
         {
           "title": "美国总统特朗普称赞股市上涨，称赞就业数据。",
@@ -265,9 +310,20 @@
           "ranks": [
             12
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "08时04分"
+        },
+        {
+          "title": "俄方同意特朗普提出的停火方案",
+          "url": "https://www.toutiao.com/trending/7637290812788162601/",
+          "source": "今日头条",
+          "ranks": [
+            13
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "12时25分"
         },
         {
           "title": "美国总统特朗普：与波兰关系非常好。",
@@ -276,7 +332,7 @@
           "ranks": [
             13
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "08时04分"
         },
@@ -287,7 +343,7 @@
           "ranks": [
             14
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "08时04分"
         },
@@ -367,12 +423,23 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "03时25分"
+        },
+        {
+          "title": "特朗普说或把部分驻德美军转移至波兰",
+          "url": "https://wallstreetcn.com/livenews/3100978",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            27
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "12时25分"
         }
       ]
     },
     {
       "keyword_group": "伊朗",
-      "match_count": 31,
+      "match_count": 37,
       "titles": [
         {
           "title": "伊朗南部霍尔木兹甘省一港口城市传出爆炸声",
@@ -436,11 +503,12 @@
           "ranks": [
             6,
             4,
-            3
+            3,
+            2
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[03时24分 ~ 08时04分]"
+          "appearance_count": 6,
+          "time_info": "[03时24分 ~ 12时25分]"
         },
         {
           "title": "伊朗战争丨因储油罐已满而向大海排石油？伊朗回应",
@@ -449,9 +517,53 @@
           "ranks": [
             1
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "08时04分"
+        },
+        {
+          "title": "现场画面：伊朗海军扣押一艘油轮",
+          "url": "https://v.ifeng.com/c/8syr0bovpBY",
+          "source": "凤凰网",
+          "ranks": [
+            2
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "12时25分"
+        },
+        {
+          "title": "伊朗官员：最高领袖非常健康",
+          "url": "https://wallstreetcn.com/livenews/3101004",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            3
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "12时25分"
+        },
+        {
+          "title": "伊朗驻华大使：美国没法施压中国，改变对伊朗关系",
+          "url": "https://news.ifeng.com/c/8syp7qZWoVz",
+          "source": "凤凰网",
+          "ranks": [
+            4
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "12时25分"
+        },
+        {
+          "title": "据伊朗塔斯尼姆通讯社：一位军方消息人士透露，波斯湾地区的冲突目前虽已平息，但如果美国对伊朗船只制造麻烦，冲突仍有可能重燃。",
+          "url": "https://flash.jin10.com/detail/20260509114826104800",
+          "source": "金十数据",
+          "ranks": [
+            4
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "12时25分"
         },
         {
           "title": "伊朗外长与英国外交大臣通电话。（IRIB）",
@@ -471,11 +583,12 @@
           "ranks": [
             17,
             18,
-            16
+            16,
+            10
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[01时22分 ~ 08时04分]"
+          "appearance_count": 7,
+          "time_info": "[01时22分 ~ 12时25分]"
         },
         {
           "title": "伊朗外长：美国破坏性做法正在削弱外交进程",
@@ -565,7 +678,7 @@
           "ranks": [
             6
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "08时04分"
         },
@@ -581,6 +694,17 @@
           "time_info": "01时22分"
         },
         {
+          "title": "伊朗官员：最高领袖非常健康",
+          "url": "https://flash.jin10.com/detail/20260509113830997800",
+          "source": "金十数据",
+          "ranks": [
+            8
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "12时25分"
+        },
+        {
           "title": "遭美国扣押的伊朗货船抵达巴基斯坦卡拉奇港",
           "url": "https://wallstreetcn.com/livenews/3100868",
           "source": "华尔街见闻-快讯",
@@ -590,6 +714,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "03时25分"
+        },
+        {
+          "title": "伊朗议员说美驱逐舰得多配护卫舰",
+          "url": "https://flash.jin10.com/detail/20260509112007584800",
+          "source": "金十数据",
+          "ranks": [
+            15
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "12时25分"
         },
         {
           "title": "伊朗常驻联合国代表：美袭击伊朗油轮违反停火协议",
@@ -609,7 +744,7 @@
           "ranks": [
             15
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "08时04分"
         },
@@ -727,7 +862,7 @@
     },
     {
       "keyword_group": "DeepSeek Ai 水球泡 谷歌 google gemini 好书推荐 chatgpt openai 白银 金价石油 黄金 热梗",
-      "match_count": 22,
+      "match_count": 33,
       "titles": [
         {
           "title": "华为“天才少年”选择创业：用AI重构先进制造业，目标实现国产超越",
@@ -740,6 +875,17 @@
           "is_new": false,
           "appearance_count": 5,
           "time_info": "[01时22分 ~ 06时58分]"
+        },
+        {
+          "title": "看对黄金却被洗？交易前先看这6点！",
+          "url": "https://flash.jin10.com/detail/20260509120259247800",
+          "source": "金十数据",
+          "ranks": [
+            1
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "12时25分"
         },
         {
           "title": "谷歌旗下Isomorphic Labs将筹集超20亿美元新资金",
@@ -759,7 +905,7 @@
           "ranks": [
             3
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "08时04分"
         },
@@ -781,7 +927,7 @@
           "ranks": [
             4
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "08时04分"
         },
@@ -860,6 +1006,61 @@
           "time_info": "[06时58分 ~ 08时04分]"
         },
         {
+          "title": "DeepSeek识图模式大范围开放",
+          "url": "https://search.bilibili.com/all?keyword=DeepSeek%E8%AF%86%E5%9B%BE%E6%A8%A1%E5%BC%8F%E5%A4%A7%E8%8C%83%E5%9B%B4%E5%BC%80%E6%94%BE",
+          "source": "bilibili 热搜",
+          "ranks": [
+            6
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "12时25分"
+        },
+        {
+          "title": "小鹏否认被约谈立案 称相关信息系通过AI恶意炒作",
+          "url": "https://flash.jin10.com/detail/20260509114530626800",
+          "source": "金十数据",
+          "ranks": [
+            6
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "12时25分"
+        },
+        {
+          "title": "冲击中国AI融资王！报道：DeepSeek首轮融资目标500亿元，估值或突破3500亿元",
+          "url": "https://wallstreetcn.com/articles/3771864",
+          "source": "华尔街见闻",
+          "ranks": [
+            7
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "12时25分"
+        },
+        {
+          "title": "AI狂热已近尾声？“大空头”敲响警钟：市场好似互联网泡沫破裂前夕",
+          "url": "https://www.cls.cn/detail/2366653",
+          "source": "财联社热门",
+          "ranks": [
+            7
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "12时25分"
+        },
+        {
+          "title": "“百度AI称一律师被判刑”构成侵权：百度辩称AI幻觉无法预见，法院判其书面道歉",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33126767",
+          "source": "澎湃新闻",
+          "ranks": [
+            11
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "12时25分"
+        },
+        {
           "title": "Anthropic PBC与Akamai签署18亿美元计算协议。Akamai涨幅迅速扩大至28%。",
           "url": "https://wallstreetcn.com/livenews/3100869",
           "source": "华尔街见闻-快讯",
@@ -926,6 +1127,17 @@
           "time_info": "05时05分"
         },
         {
+          "title": "摆脱传统试错模式，“90后”创业者用AI解决化工研发痛点",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33120610",
+          "source": "澎湃新闻",
+          "ranks": [
+            18
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "12时25分"
+        },
+        {
           "title": "【美联储：与私人信用赎回相关的风险“是可控的”】美联储调查受访者在2026年春季调查中将地缘政治风险列为首位，较 2025 年秋季调查上升一位；人工智能（AI）从第 5 位升至第 3 位；私人信用从第 9 位升至第 4 位；通胀/紧缩政策从第 3 位降至第 5 位。 石油冲击在春季调查中被列为第 2 大风险；而在秋季调查中并未进入主要关注名单。 根据美联储半年一度的报告，地缘政治风险、石油冲击、人工智能、私人信用以及持续的通胀/货币紧缩是美国金融稳定面临的五大最受关注风险。 私人信用赎回请求对金融稳定构成的风险似乎有限且可控。 政策不确定性在春季调查中降至第 8 位风险；其在秋季曾是首要关注点。",
           "url": "https://wallstreetcn.com/livenews/3100904",
           "source": "华尔街见闻-快讯",
@@ -935,6 +1147,28 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "05时05分"
+        },
+        {
+          "title": "一季度国内黄金ETF增仓量为50.438吨，同比增长114.88%",
+          "url": "https://wallstreetcn.com/livenews/3100986",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            19
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "12时25分"
+        },
+        {
+          "title": "中国黄金协会：一季度黄金消费量同比增4.41%，其中金条及金币大增近五成",
+          "url": "https://wallstreetcn.com/livenews/3100984",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            21
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "12时25分"
         },
         {
           "title": "水贝黄金“预定价”全面崩盘始末",
@@ -970,6 +1204,28 @@
           "time_info": "03时25分"
         },
         {
+          "title": "DeepSeek正式跨入图文交互时代",
+          "url": "https://s.weibo.com/weibo?q=%23DeepSeek%E6%AD%A3%E5%BC%8F%E8%B7%A8%E5%85%A5%E5%9B%BE%E6%96%87%E4%BA%A4%E4%BA%92%E6%97%B6%E4%BB%A3%23&t=31&band_rank=27&Refer=top",
+          "source": "微博",
+          "ranks": [
+            27
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "12时25分"
+        },
+        {
+          "title": "Redis之父给DeepSeek V4造推理引擎",
+          "url": "https://www.toutiao.com/trending/7637541997703597574/",
+          "source": "今日头条",
+          "ranks": [
+            28
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "12时25分"
+        },
+        {
           "title": "报道：AI芯片制造商Cerebras将上调IPO价格区间，因需求太踊跃",
           "url": "https://wallstreetcn.com/livenews/3100890",
           "source": "华尔街见闻-快讯",
@@ -984,7 +1240,7 @@
     },
     {
       "keyword_group": "美股",
-      "match_count": 10,
+      "match_count": 11,
       "titles": [
         {
           "title": "美伊和谈疑云压制风险情绪，美股指收跌，油价走V，离岸人民币盘中创四年新高",
@@ -1003,11 +1259,23 @@
           "url": "https://www.cls.cn/detail/2366633",
           "source": "财联社热门",
           "ranks": [
-            4
+            4,
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[08时04分 ~ 12时25分]"
+        },
+        {
+          "title": "非农缓解“滞胀”担忧，美股新高，英特尔和存储芯片股暴涨，Rocket Lab绩后涨34%",
+          "url": "https://wallstreetcn.com/articles/3771825",
+          "source": "华尔街见闻",
+          "ranks": [
+            1
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "08时04分"
+          "time_info": "12时25分"
         },
         {
           "title": "非农缓解“滞胀”担忧，芯片股力撑美股新高，英特尔暴涨14%，伊朗局势不明，油价承压横盘",
@@ -1086,7 +1354,7 @@
           "ranks": [
             7
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "08时04分"
         },
@@ -1097,7 +1365,7 @@
           "ranks": [
             20
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "08时04分"
         }
