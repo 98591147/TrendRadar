@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-05-16T08:00:06.724578+08:00",
-  "total_titles_processed": 535,
+  "generated_at": "2026-05-16T11:54:53.780012+08:00",
+  "total_titles_processed": 736,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普",
-      "match_count": 40,
+      "match_count": 49,
       "titles": [
         {
           "title": "详讯丨习近平同美国总统特朗普在中南海小范围会晤",
@@ -15,8 +15,30 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[01时42分 ~ 08时00分]"
+          "appearance_count": 9,
+          "time_info": "[01时42分 ~ 11时54分]"
+        },
+        {
+          "title": "习近平同美国总统特朗普在中南海小范围会晤",
+          "url": "https://wallstreetcn.com/articles/3772334",
+          "source": "华尔街见闻",
+          "ranks": [
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 9,
+          "time_info": "[01时42分 ~ 11时54分]"
+        },
+        {
+          "title": "特朗普结束访华离开北京",
+          "url": "https://search.bilibili.com/all?keyword=%E7%89%B9%E6%9C%97%E6%99%AE%E7%BB%93%E6%9D%9F%E8%AE%BF%E5%8D%8E%E7%A6%BB%E5%BC%80%E5%8C%97%E4%BA%AC",
+          "source": "bilibili 热搜",
+          "ranks": [
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 9,
+          "time_info": "[01时42分 ~ 11时54分]"
         },
         {
           "title": "高市早苗赶忙和特朗普通电话",
@@ -43,31 +65,9 @@
           "time_info": "[01时42分 ~ 08时00分]"
         },
         {
-          "title": "习近平同美国总统特朗普在中南海小范围会晤",
-          "url": "https://wallstreetcn.com/articles/3772334",
-          "source": "华尔街见闻",
-          "ranks": [
-            2
-          ],
-          "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[01时42分 ~ 08时00分]"
-        },
-        {
           "title": "详讯丨习近平为美国总统特朗普举行欢迎宴会",
           "url": "https://m.thepaper.cn/newsDetail_forward_33178453",
           "source": "澎湃新闻",
-          "ranks": [
-            2
-          ],
-          "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[01时42分 ~ 08时00分]"
-        },
-        {
-          "title": "特朗普结束访华离开北京",
-          "url": "https://search.bilibili.com/all?keyword=%E7%89%B9%E6%9C%97%E6%99%AE%E7%BB%93%E6%9D%9F%E8%AE%BF%E5%8D%8E%E7%A6%BB%E5%BC%80%E5%8C%97%E4%BA%AC",
-          "source": "bilibili 热搜",
           "ranks": [
             2
           ],
@@ -104,11 +104,12 @@
           "source": "今日头条",
           "ranks": [
             4,
-            5
+            5,
+            15
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[01时42分 ~ 08时00分]"
+          "appearance_count": 9,
+          "time_info": "[01时42分 ~ 11时54分]"
         },
         {
           "title": "特朗普称中方同意购买200架波音飞机，外交部回应",
@@ -133,6 +134,20 @@
           "time_info": "[01时42分 ~ 06时58分]"
         },
         {
+          "title": "直播丨美国总统特朗普结束访华，乘专机离开北京",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33181476",
+          "source": "澎湃新闻",
+          "ranks": [
+            9,
+            8,
+            5,
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 9,
+          "time_info": "[01时42分 ~ 11时54分]"
+        },
+        {
           "title": "特朗普称中方同意购买200架波音飞机，外交部：中美经贸关系本质是互利共赢",
           "url": "https://www.cls.cn/detail/2372433",
           "source": "财联社热门",
@@ -144,17 +159,32 @@
           "time_info": "[01时42分 ~ 05时05分]"
         },
         {
-          "title": "直播丨美国总统特朗普结束访华，乘专机离开北京",
-          "url": "https://m.thepaper.cn/newsDetail_forward_33181476",
+          "title": "特朗普称中方同意购买200架波音飞机，外交部：中美经贸关系本质是互利共赢",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33182143",
           "source": "澎湃新闻",
           "ranks": [
-            9,
-            8,
-            5
+            7,
+            6,
+            4
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[01时42分 ~ 08时00分]"
+          "appearance_count": 9,
+          "time_info": "[01时42分 ~ 11时54分]"
+        },
+        {
+          "title": "美国总统特朗普结束访华离京",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33182040",
+          "source": "澎湃新闻",
+          "ranks": [
+            10,
+            9,
+            8,
+            7,
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 9,
+          "time_info": "[01时42分 ~ 11时54分]"
         },
         {
           "title": "特朗普政府拟设17亿美元“赔偿基金” 补偿遭拜登调查盟友",
@@ -168,29 +198,18 @@
           "time_info": "[06时58分 ~ 08时00分]"
         },
         {
-          "title": "特朗普称中方同意购买200架波音飞机，外交部：中美经贸关系本质是互利共赢",
-          "url": "https://m.thepaper.cn/newsDetail_forward_33182143",
-          "source": "澎湃新闻",
-          "ranks": [
-            7,
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[01时42分 ~ 08时00分]"
-        },
-        {
           "title": "特朗普结束访华 登空军一号挥手告别",
           "url": "https://www.toutiao.com/trending/7639187811891904539/",
           "source": "今日头条",
           "ranks": [
             6,
             9,
-            7
+            7,
+            25
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[01时42分 ~ 08时00分]"
+          "appearance_count": 9,
+          "time_info": "[01时42分 ~ 11时54分]"
         },
         {
           "title": "美国总统特朗普结束访华",
@@ -202,22 +221,52 @@
             7
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[01时42分 ~ 08时00分]"
+          "appearance_count": 9,
+          "time_info": "[01时42分 ~ 11时54分]"
         },
         {
-          "title": "美国总统特朗普结束访华离京",
-          "url": "https://m.thepaper.cn/newsDetail_forward_33182040",
-          "source": "澎湃新闻",
+          "title": "特朗普与高市早苗通电话，讨论访华细节",
+          "url": "https://news.ifeng.com/c/8tALgMrD7Pg",
+          "source": "凤凰网",
           "ranks": [
-            10,
-            9,
-            8,
-            7
+            2
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "11时54分"
+        },
+        {
+          "title": "美国总统特朗普：“伊斯兰国”极端组织全球二号人物阿布·比拉勒·明努基（Abu-Bilal al-Minuki）已被消灭。美国军队与尼日利亚武装部队联合执行了消灭阿布·比拉勒·明努基的行动。",
+          "url": "https://flash.jin10.com/detail/20260516113420199800",
+          "source": "金十数据",
+          "ranks": [
+            2
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "11时54分"
+        },
+        {
+          "title": "外交部就特朗普访华情况答记者问",
+          "url": "https://search.bilibili.com/all?keyword=%E5%A4%96%E4%BA%A4%E9%83%A8%E5%B0%B1%E7%89%B9%E6%9C%97%E6%99%AE%E8%AE%BF%E5%8D%8E%E6%83%85%E5%86%B5%E7%AD%94%E8%AE%B0%E8%80%85%E9%97%AE",
+          "source": "bilibili 热搜",
+          "ranks": [
+            11
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[01时42分 ~ 08时00分]"
+          "appearance_count": 9,
+          "time_info": "[01时42分 ~ 11时54分]"
+        },
+        {
+          "title": "特朗普松口：可接受伊朗暂停核计划20年",
+          "url": "https://news.ifeng.com/c/8tAOMUPRq30",
+          "source": "凤凰网",
+          "ranks": [
+            5
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "11时54分"
         },
         {
           "title": "特朗普说能待得惯可能都不想走了",
@@ -255,17 +304,6 @@
           "ranks": [
             20,
             8
-          ],
-          "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[01时42分 ~ 08时00分]"
-        },
-        {
-          "title": "外交部就特朗普访华情况答记者问",
-          "url": "https://search.bilibili.com/all?keyword=%E5%A4%96%E4%BA%A4%E9%83%A8%E5%B0%B1%E7%89%B9%E6%9C%97%E6%99%AE%E8%AE%BF%E5%8D%8E%E6%83%85%E5%86%B5%E7%AD%94%E8%AE%B0%E8%80%85%E9%97%AE",
-          "source": "bilibili 热搜",
-          "ranks": [
-            11
           ],
           "is_new": false,
           "appearance_count": 8,
@@ -319,6 +357,18 @@
           "time_info": "[06时58分 ~ 08时00分]"
         },
         {
+          "title": "特朗普称美伊停火系“应其他国家要求”",
+          "url": "https://wallstreetcn.com/articles/3772383",
+          "source": "华尔街见闻",
+          "ranks": [
+            10,
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[07时59分 ~ 11时54分]"
+        },
+        {
           "title": "伊朗战争致全球供应受阻 特朗普借机加速阿拉斯加产能",
           "url": "https://flash.jin10.com/detail/20260516033957346800",
           "source": "金十数据",
@@ -353,17 +403,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[06时58分 ~ 08时00分]"
-        },
-        {
-          "title": "特朗普称美伊停火系“应其他国家要求”",
-          "url": "https://wallstreetcn.com/articles/3772383",
-          "source": "华尔街见闻",
-          "ranks": [
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[07时59分 ~ 08时00分]"
         },
         {
           "title": "美国总统特朗普：预计到我任期结束时，美国将拥有（全球）芯片业务的40%-50%。",
@@ -413,6 +452,28 @@
           "time_info": "[01时42分 ~ 06时58分]"
         },
         {
+          "title": "为什么特朗普访华晚宴上有字节梁汝波，但没有腾讯阿里高管？",
+          "url": "https://www.zhihu.com/question/2038603109828486376",
+          "source": "知乎",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "11时54分"
+        },
+        {
+          "title": "特朗普抵达美国",
+          "url": "https://www.baidu.com/s?wd=%E7%89%B9%E6%9C%97%E6%99%AE%E6%8A%B5%E8%BE%BE%E7%BE%8E%E5%9B%BD",
+          "source": "百度热搜",
+          "ranks": [
+            11
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "11时54分"
+        },
+        {
           "title": "据沙特媒体Alhadath：以色列方面表示，为可能与伊朗恢复战斗做好准备。恢复对伊朗的战争决定仍然取决于特朗普总统。",
           "url": "https://flash.jin10.com/detail/20260516010528421800",
           "source": "金十数据",
@@ -422,6 +483,28 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "01时42分"
+        },
+        {
+          "title": "特朗普抵达美国现场画面",
+          "url": "https://s.weibo.com/weibo?q=%23%E7%89%B9%E6%9C%97%E6%99%AE%E6%8A%B5%E8%BE%BE%E7%BE%8E%E5%9B%BD%E7%8E%B0%E5%9C%BA%E7%94%BB%E9%9D%A2%23&t=31&band_rank=11&Refer=top",
+          "source": "微博",
+          "ranks": [
+            11
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "11时54分"
+        },
+        {
+          "title": "特朗普说随访美国商人是自己想来的",
+          "url": "https://www.toutiao.com/trending/7639597869411500086/",
+          "source": "今日头条",
+          "ranks": [
+            12
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "11时54分"
         },
         {
           "title": "【以军：以色列正在为重启对伊朗军事行动做准备】当地时间15日晚，总台记者获悉，一位以色列高级官员称，以色列正在为即将重启针对伊朗的军事行动做准备，军事行动可能将“持续数天甚至数周”。这位官员表示：“美国人明白与伊朗的谈判毫无进展”。他补充道：“我们正在为持续数天甚至数周的战斗做准备，并等待特朗普总统的最终决定。未来24小时内我们将了解更多情况”。（央视）",
@@ -444,6 +527,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "03时43分"
+        },
+        {
+          "title": "美国加州州长纽森：去年，特朗普和共和党人选择提高数百万美国人在《平价医疗法案》（ACA）医保市场上的医疗保险保费。我提出的预算方案将继续为加州低收入居民保留每月0美元保费医保计划，以帮助收拾特朗普制造的财政混乱。",
+          "url": "https://flash.jin10.com/detail/20260516095113788800",
+          "source": "金十数据",
+          "ranks": [
+            19
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "11时54分"
         },
         {
           "title": "市场消息：特朗普政府正推动加快阿拉斯加的石油许可。",
@@ -477,12 +571,23 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "01时42分"
+        },
+        {
+          "title": "特朗普称随访美国商人是自己想来的",
+          "url": "https://www.baidu.com/s?wd=%E7%89%B9%E6%9C%97%E6%99%AE%E7%A7%B0%E9%9A%8F%E8%AE%BF%E7%BE%8E%E5%9B%BD%E5%95%86%E4%BA%BA%E6%98%AF%E8%87%AA%E5%B7%B1%E6%83%B3%E6%9D%A5%E7%9A%84",
+          "source": "百度热搜",
+          "ranks": [
+            30
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "11时54分"
         }
       ]
     },
     {
       "keyword_group": "DeepSeek Ai 水球泡 谷歌 google gemini 好书推荐 chatgpt openai 白银 金价石油 黄金 热梗",
-      "match_count": 28,
+      "match_count": 32,
       "titles": [
         {
           "title": "标普纳指又新高，思科飙涨13%创新高，英国政局致英镑暴跌，白银重挫",
@@ -543,17 +648,6 @@
           "time_info": "05时05分"
         },
         {
-          "title": "周五（5月15日），美股人工智能（AI）赢家指数跌3.07%，报389.89点，本周累跌0.81%，整体呈现出M形走势。 AI软件先驱指数涨1.94%，报105.57点，本周累跌0.45%，整体呈现出V形走势。",
-          "url": "https://wallstreetcn.com/livenews/3104673",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            3
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "08时00分"
-        },
-        {
           "title": "美股收盘：通胀忧虑升温压制AI行情 美债收益率飙升 三大指数均跌超1%",
           "url": "https://www.cls.cn/detail/2373036",
           "source": "财联社热门",
@@ -562,8 +656,19 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[06时57分 ~ 08时00分]"
+          "appearance_count": 5,
+          "time_info": "[06时57分 ~ 11时54分]"
+        },
+        {
+          "title": "周五（5月15日），美股人工智能（AI）赢家指数跌3.07%，报389.89点，本周累跌0.81%，整体呈现出M形走势。 AI软件先驱指数涨1.94%，报105.57点，本周累跌0.45%，整体呈现出V形走势。",
+          "url": "https://wallstreetcn.com/livenews/3104673",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "08时00分"
         },
         {
           "title": "Deepseek不语 只是一味跟团",
@@ -579,6 +684,18 @@
           "time_info": "[03时43分 ~ 08时00分]"
         },
         {
+          "title": "AI全员娘化,豆包变呆瓜",
+          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28354319&amp;topic_name=AI%E5%85%A8%E5%91%98%E5%A8%98%E5%8C%96%2C%E8%B1%86%E5%8C%85%E5%8F%98%E5%91%86%E7%93%9C",
+          "source": "贴吧",
+          "ranks": [
+            7,
+            13
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[01时42分 ~ 11时54分]"
+        },
+        {
           "title": "【AI冲击初现端倪，美国数类职业连续出现严重岗位流失】2025年美国多个被认为易受人工智能(AI)影响的职业领域连续第二年出现严重的职位流失，其中以客户服务代表以及特定类型的秘书和销售人员受到冲击最为严重。根据周五发布的年度数据，在2024年5月至2025年5月期间，美国劳工统计局标记为暴露在AI风险之下的18个职业组别（涉及约1000万个工作岗位）的就业人数下降了0.2%。相比之下，同期美国整体就业人数增长了0.8%。",
           "url": "https://wallstreetcn.com/livenews/3104628",
           "source": "华尔街见闻-快讯",
@@ -591,17 +708,6 @@
           "time_info": "[05时05分 ~ 06时58分]"
         },
         {
-          "title": "AI全员娘化,豆包变呆瓜",
-          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28354319&amp;topic_name=AI%E5%85%A8%E5%91%98%E5%A8%98%E5%8C%96%2C%E8%B1%86%E5%8C%85%E5%8F%98%E5%91%86%E7%93%9C",
-          "source": "贴吧",
-          "ranks": [
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[01时42分 ~ 08时00分]"
-        },
-        {
           "title": "AI热潮催生2026最大IPO！“英伟达挑战者”Cerebras首秀盘中翻倍高涨",
           "url": "https://wallstreetcn.com/articles/3772300",
           "source": "华尔街见闻",
@@ -611,6 +717,18 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[01时42分 ~ 03时43分]"
+        },
+        {
+          "title": "云南小伙用AI制作短片爆红",
+          "url": "https://www.douyin.com/hot/2499805",
+          "source": "抖音",
+          "ranks": [
+            13,
+            15
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[03时42分 ~ 11时54分]"
         },
         {
           "title": "如何评价米哈游 AI 技术分享大会「未来 3 年 AI 研发投入 1000 亿」？",
@@ -672,17 +790,6 @@
           "time_info": "[06时58分 ~ 08时00分]"
         },
         {
-          "title": "云南小伙用AI制作短片爆红",
-          "url": "https://www.douyin.com/hot/2499805",
-          "source": "抖音",
-          "ranks": [
-            13
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[03时42分 ~ 03时43分]"
-        },
-        {
           "title": "13F报告显示：Citadel Advisors LLC.一季度建仓阿斯利康、iShares白银信托等，增持美光、Meta、华纳兄弟探索等。 清仓以色列Teva等，减持亚马逊、Visa、英伟达等。 重仓英伟达、亚马逊、美光。",
           "url": "https://wallstreetcn.com/livenews/3104643",
           "source": "华尔街见闻-快讯",
@@ -706,6 +813,17 @@
           "time_info": "03时43分"
         },
         {
+          "title": "伯克希尔“新王新气象”：Q1减仓零售、油气，加仓谷歌，还建仓了航空",
+          "url": "https://wallstreetcn.com/articles/3772402",
+          "source": "华尔街见闻",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "11时54分"
+        },
+        {
           "title": "13F报告显示：Third Point建仓Meta、谷歌A等。 清仓微软等，减持英伟达等。",
           "url": "https://wallstreetcn.com/livenews/3104622",
           "source": "华尔街见闻-快讯",
@@ -726,6 +844,28 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "05时05分"
+        },
+        {
+          "title": "席瑞对话 Cecilia，他认为「AI 能给答案，但给不了孩子问出好问题的能力」，你认可这个观点吗？",
+          "url": "https://www.zhihu.com/question/2038564529353839746",
+          "source": "知乎",
+          "ranks": [
+            11
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "11时54分"
+        },
+        {
+          "title": "白银暴跌逾10%失守80美元关口 知名投资人阿克曼宣布建仓微软 | 环球市场",
+          "url": "https://www.cls.cn/detail/2373051",
+          "source": "财联社热门",
+          "ranks": [
+            13
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "11时54分"
         },
         {
           "title": "纽交所黄金矿商指数收跌6.9%，创3月份以来最大单日跌幅。",
@@ -783,6 +923,17 @@
           "time_info": "01时42分"
         },
         {
+          "title": "今年早些时候，OpenAI收购了weights.gg。（纽约时报）",
+          "url": "https://wallstreetcn.com/livenews/3104694",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            24
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "11时54分"
+        },
+        {
           "title": "美国商品期货交易委员会（CFTC）：5月12日当周，投机者所持COMEX黄金净多头头寸增加4,963手合约，至100,627手合约，创八周新高。 所持COMEX白银净多头头寸创18周新高。 所持COMEX铜净多头头寸创20周新高。 所持NYMEX铂金净多头头寸创四周新高，所持COMEX钯金净空头头寸有所增加。",
           "url": "https://wallstreetcn.com/livenews/3104603",
           "source": "华尔街见闻-快讯",
@@ -818,8 +969,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[06时57分 ~ 08时00分]"
+          "appearance_count": 5,
+          "time_info": "[06时57分 ~ 11时54分]"
         },
         {
           "title": "原油大涨掀债市抛售潮，美股回落，盘中纳指跌2%，加息预期升温，金银重挫",
@@ -850,7 +1001,7 @@
           "ranks": [
             2
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "08时00分"
         },
@@ -861,7 +1012,7 @@
           "ranks": [
             4
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "08时00分"
         },
@@ -872,7 +1023,7 @@
           "ranks": [
             5
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "08时00分"
         },
@@ -972,7 +1123,7 @@
     },
     {
       "keyword_group": "伊朗",
-      "match_count": 7,
+      "match_count": 11,
       "titles": [
         {
           "title": "美国已拒绝伊朗就结束战争提出的书面方案",
@@ -986,6 +1137,17 @@
           "is_new": false,
           "appearance_count": 8,
           "time_info": "[01时42分 ~ 08时00分]"
+        },
+        {
+          "title": "伊朗外长：伊美同意推进浓缩铀问题谈判",
+          "url": "https://news.ifeng.com/c/8tAN0RWSj16",
+          "source": "凤凰网",
+          "ranks": [
+            4
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "11时54分"
         },
         {
           "title": "美以袭击伊朗进入第 77 天，当前局势如何？哪些信息值得关注？",
@@ -1011,6 +1173,17 @@
           "time_info": "[05时05分 ~ 08时00分]"
         },
         {
+          "title": "伊朗外长：欢迎中国发挥作用",
+          "url": "https://news.ifeng.com/c/8tAOoYSElQ3",
+          "source": "凤凰网",
+          "ranks": [
+            6
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "11时54分"
+        },
+        {
           "title": "伊朗最高领袖顾问：新的秩序正在迅速调整规则，而这些规则不再以美国为中心。",
           "url": "https://flash.jin10.com/detail/20260516032352430800",
           "source": "金十数据",
@@ -1031,6 +1204,28 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "03时43分"
+        },
+        {
+          "title": "伊朗外长感谢中国提供帮助",
+          "url": "https://www.baidu.com/s?wd=%E4%BC%8A%E6%9C%97%E5%A4%96%E9%95%BF%E6%84%9F%E8%B0%A2%E4%B8%AD%E5%9B%BD%E6%8F%90%E4%BE%9B%E5%B8%AE%E5%8A%A9",
+          "source": "百度热搜",
+          "ranks": [
+            16
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "11时54分"
+        },
+        {
+          "title": "伊朗外长感谢中国提供帮助",
+          "url": "https://wallstreetcn.com/livenews/3104697",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            21
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "11时54分"
         },
         {
           "title": "以官员：以色列正在为重启对伊朗军事行动做准备",
@@ -1058,8 +1253,22 @@
     },
     {
       "keyword_group": "美债",
-      "match_count": 4,
+      "match_count": 5,
       "titles": [
+        {
+          "title": "黑色星期五！全球股债双杀：韩股暴跌6%，美债收益率飙升，这次市场在怕什么？",
+          "url": "https://wallstreetcn.com/articles/3772362",
+          "source": "华尔街见闻",
+          "ranks": [
+            7,
+            8,
+            6,
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 9,
+          "time_info": "[01时42分 ~ 11时54分]"
+        },
         {
           "title": "美债收益率飙升重创股市 芯片板块领跌",
           "url": "https://flash.jin10.com/detail/20260516042845764800",
@@ -1073,19 +1282,6 @@
           "time_info": "[05时05分 ~ 08时00分]"
         },
         {
-          "title": "黑色星期五！全球股债双杀：韩股暴跌6%，美债收益率飙升，这次市场在怕什么？",
-          "url": "https://wallstreetcn.com/articles/3772362",
-          "source": "华尔街见闻",
-          "ranks": [
-            7,
-            8,
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[01时42分 ~ 08时00分]"
-        },
-        {
           "title": "油价与美债收益率齐升 美股期指集体走低 芯片股盘前普跌 | 今夜看点",
           "url": "https://www.cls.cn/detail/2372862",
           "source": "财联社热门",
@@ -1094,8 +1290,19 @@
             11
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[01时42分 ~ 08时00分]"
+          "appearance_count": 9,
+          "time_info": "[01时42分 ~ 11时54分]"
+        },
+        {
+          "title": "美债技术性破位，日债抛售恐慌，全球利率风暴正在形成",
+          "url": "https://wallstreetcn.com/articles/3772386",
+          "source": "华尔街见闻",
+          "ranks": [
+            6
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "11时54分"
         },
         {
           "title": "美债价格连跌五周",
@@ -1104,7 +1311,7 @@
           "ranks": [
             9
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "08时00分"
         }
