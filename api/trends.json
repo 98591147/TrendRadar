@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-05-26T05:13:25.785059+08:00",
-  "total_titles_processed": 442,
+  "generated_at": "2026-05-26T07:07:50.222337+08:00",
+  "total_titles_processed": 512,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "伊朗",
-      "match_count": 33,
+      "match_count": 43,
       "titles": [
         {
           "title": "美国与伊朗的草案协议允许免费开放霍尔木兹海峡，并清除水雷。 草案协议允许伊朗出售和出口石油。 草案协议规定继续进行核谈判，以达成长期共识。",
@@ -19,26 +19,26 @@
           "time_info": "01时09分"
         },
         {
-          "title": "伊朗Bandar Abbas市出现爆炸声，原因不明。（伊朗Mehr新闻社）",
-          "url": "https://wallstreetcn.com/livenews/3109024",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            3
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "05时13分"
-        },
-        {
           "title": "据伊朗迈赫尔通讯社：伊朗霍尔木兹甘省霍尔木兹港市传出爆炸声，原因尚不明。",
           "url": "https://flash.jin10.com/detail/20260526043043853800",
           "source": "金十数据",
           "ranks": [
             4
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "05时13分"
+        },
+        {
+          "title": "美国国务院：美国国务卿鲁比奥与俄罗斯外长拉夫罗夫就俄罗斯-乌克兰冲突、双边关系及伊朗局势进行了交流。",
+          "url": "https://flash.jin10.com/detail/20260526064906747800",
+          "source": "金十数据",
+          "ranks": [
+            4
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "07时07分"
         },
         {
           "title": "报道：美伊就伊朗被冻结资产达成谅解，协议或明日宣布",
@@ -47,7 +47,7 @@
           "ranks": [
             5
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "05时13分"
         },
@@ -76,6 +76,18 @@
           "time_info": "[03时45分 ~ 05时13分]"
         },
         {
+          "title": "伊朗Bandar Abbas市出现爆炸声，原因不明。（伊朗Mehr新闻社）",
+          "url": "https://wallstreetcn.com/livenews/3109024",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            3,
+            30
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[05时13分 ~ 07时07分]"
+        },
+        {
           "title": "市场消息：美国与伊朗的草案协议允许免费开放霍尔木兹海峡，并清除水雷。草案协议允许伊朗出售和出口石油。草案协议规定继续进行核谈判，以达成长期共识。",
           "url": "https://flash.jin10.com/detail/20260526004316730800",
           "source": "金十数据",
@@ -95,8 +107,8 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[01时08分 ~ 05时13分]"
+          "appearance_count": 5,
+          "time_info": "[01时08分 ~ 07时07分]"
         },
         {
           "title": "伊朗称中国推动美伊停火谈判进程",
@@ -104,22 +116,24 @@
           "source": "今日头条",
           "ranks": [
             12,
-            14
+            14,
+            25
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[01时08分 ~ 05时13分]"
+          "appearance_count": 5,
+          "time_info": "[01时08分 ~ 07时07分]"
         },
         {
           "title": "伊朗总统称准备向世界保证不寻求核武器，如何看待这一表态？会推动美伊达成协议吗？",
           "url": "https://www.zhihu.com/question/2042201889626907656",
           "source": "知乎",
           "ranks": [
-            18
+            18,
+            19
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[01时08分 ~ 03时45分]"
+          "appearance_count": 4,
+          "time_info": "[01时08分 ~ 07时07分]"
         },
         {
           "title": "伊媒：伊朗总统已下令恢复国际互联网接入",
@@ -200,7 +214,7 @@
           "ranks": [
             6
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "05时13分"
         },
@@ -222,7 +236,7 @@
           "ranks": [
             7
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "05时13分"
         },
@@ -244,7 +258,7 @@
           "ranks": [
             11
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "05时13分"
         },
@@ -266,7 +280,7 @@
           "ranks": [
             15
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "05时13分"
         },
@@ -280,6 +294,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "01时09分"
+        },
+        {
+          "title": "美国和以色列袭击霍尔木兹海峡的多艘伊朗船只。（Nour）",
+          "url": "https://wallstreetcn.com/livenews/3109039",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            17
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "07时07分"
         },
         {
           "title": "伊朗最高国家安全委员会秘书在一则发布的消息中表示将“不会有投降或退缩”。",
@@ -315,6 +340,17 @@
           "time_info": "03时45分"
         },
         {
+          "title": "伊朗阿巴斯港传出爆炸声，媒体说无需担心",
+          "url": "https://wallstreetcn.com/livenews/3109037",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            19
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "07时07分"
+        },
+        {
           "title": "墨西哥总统辛鲍姆：美国宣称不希望举办与伊朗有关的足球赛事之后，墨西哥政府同意让伊朗足球国家队在世界杯期间滞留墨西哥。",
           "url": "https://wallstreetcn.com/livenews/3108954",
           "source": "华尔街见闻-快讯",
@@ -324,6 +360,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "01时09分"
+        },
+        {
+          "title": "伊朗媒体Mehr：伊朗Bandar Abbas的局势在控制之中。",
+          "url": "https://wallstreetcn.com/livenews/3109036",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            20
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "07时07分"
         },
         {
           "title": "报道称伊朗将在美伊达成停战协议后重开霍尔木兹海峡，美油跌穿90美元关口",
@@ -359,6 +406,61 @@
           "time_info": "03时45分"
         },
         {
+          "title": "伊朗南部阿巴斯港传出连续爆炸声",
+          "url": "https://wallstreetcn.com/livenews/3109031",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            24
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "07时07分"
+        },
+        {
+          "title": "伊朗阿巴斯港传出爆炸声 媒体说无需担心",
+          "url": "https://flash.jin10.com/detail/20260526053123872800",
+          "source": "金十数据",
+          "ranks": [
+            25
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "07时07分"
+        },
+        {
+          "title": "据伊朗迈赫尔通讯社：伊朗阿巴斯港局势受控，该市东部发生爆炸后无需担忧。",
+          "url": "https://flash.jin10.com/detail/20260526052630196800",
+          "source": "金十数据",
+          "ranks": [
+            26
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "07时07分"
+        },
+        {
+          "title": "伊朗亿万豪门千金或让丈夫净身出户",
+          "url": "https://s.weibo.com/weibo?q=%E4%BC%8A%E6%9C%97%E4%BA%BF%E4%B8%87%E8%B1%AA%E9%97%A8%E5%8D%83%E9%87%91%E6%88%96%E8%AE%A9%E4%B8%88%E5%A4%AB%E5%87%80%E8%BA%AB%E5%87%BA%E6%88%B7&t=31&band_rank=27&Refer=top",
+          "source": "微博",
+          "ranks": [
+            27
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "07时07分"
+        },
+        {
+          "title": "伊朗南部阿巴斯港传出连续爆炸声",
+          "url": "https://flash.jin10.com/detail/20260526050429003800",
+          "source": "金十数据",
+          "ranks": [
+            28
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "07时07分"
+        },
+        {
           "title": "欧洲斯托克50指数上涨2%，抹去了自伊朗战争爆发以来的所有跌幅。",
           "url": "https://wallstreetcn.com/livenews/3108944",
           "source": "华尔街见闻-快讯",
@@ -379,188 +481,41 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "03时45分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "DeepSeek Ai 水球泡 谷歌 google gemini 好书推荐 chatgpt openai 白银 金价石油 黄金 热梗",
-      "match_count": 13,
-      "titles": [
-        {
-          "title": "摩根大通中国峰会：将“大消费”作为“AI和机器人”配置的资金来源",
-          "url": "https://wallstreetcn.com/articles/3773014",
-          "source": "华尔街见闻",
-          "ranks": [
-            4,
-            5
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[01时08分 ~ 05时13分]"
         },
         {
-          "title": "AI吸附挂泛滥,力度碾压端游",
-          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28354571&amp;topic_name=AI%E5%90%B8%E9%99%84%E6%8C%82%E6%B3%9B%E6%BB%A5%2C%E5%8A%9B%E5%BA%A6%E7%A2%BE%E5%8E%8B%E7%AB%AF%E6%B8%B8",
-          "source": "贴吧",
-          "ranks": [
-            3
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[01时09分 ~ 05时13分]"
-        },
-        {
-          "title": "美、布两油短线小幅下挫0.4美元，现货黄金波动不大。",
-          "url": "https://flash.jin10.com/detail/20260526004406841800",
+          "title": "伊朗部分地区传出爆炸声 原因尚不明",
+          "url": "https://flash.jin10.com/detail/20260526045359340800",
           "source": "金十数据",
           "ranks": [
-            4,
-            24
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[01时09分 ~ 03时45分]"
-        },
-        {
-          "title": "上海黄金交易所黄金T+D 5月25日（周一）晚盘收盘上涨0.33%报999.82元/克；<br/>上海黄金交易所白银T+D 5月25日（周一）晚盘收盘上涨0.9%报19050.0元/千克。",
-          "url": "https://flash.jin10.com/detail/20260526023853541800",
-          "source": "金十数据",
-          "ranks": [
-            4,
-            20
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[03时45分 ~ 05时13分]"
-        },
-        {
-          "title": "黄金三个月跌了近20% 后市如何",
-          "url": "https://www.toutiao.com/trending/7643815607711829513/",
-          "source": "今日头条",
-          "ranks": [
-            6,
-            20,
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[01时08分 ~ 05时13分]"
-        },
-        {
-          "title": "【每日收评】科创50指数放量涨近6%，芯片产业链卷土重来，AI硬件反复活跃",
-          "url": "https://www.cls.cn/detail/2380739",
-          "source": "财联社热门",
-          "ranks": [
-            9,
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[01时08分 ~ 05时13分]"
-        },
-        {
-          "title": "戛纳电影节「抵制 AI」、毕业典礼嘘声四起，海外「反 AI」浪潮反映了何种社会心态？",
-          "url": "https://www.zhihu.com/question/2040478565859381749",
-          "source": "知乎",
-          "ranks": [
-            16,
-            7,
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[01时08分 ~ 05时13分]"
-        },
-        {
-          "title": "“渡边太太”重返战场！AI牛市引爆日本散户狂欢，日股日均成交额飙破10万亿日元",
-          "url": "https://wallstreetcn.com/articles/3773034",
-          "source": "华尔街见闻",
-          "ranks": [
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[01时08分 ~ 05时13分]"
-        },
-        {
-          "title": "xAI：Grok Build预测版本现在向所有SuperGrok用户和X Premium+用户开放。",
-          "url": "https://wallstreetcn.com/livenews/3109003",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            9,
-            18
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[03时45分 ~ 05时13分]"
-        },
-        {
-          "title": "对话中邮资管张戬：基于账户负债属性平衡票息与波段，哑铃策略锚定“六张网”、AI及高安全三大方向",
-          "url": "https://www.cls.cn/detail/2380627",
-          "source": "财联社热门",
-          "ranks": [
-            13
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[03时45分 ~ 05时13分]"
-        },
-        {
-          "title": "超六成游戏工作室采用 AI 进行开发，AI 将会如何改变游戏行业？",
-          "url": "https://www.zhihu.com/question/649375328",
-          "source": "知乎",
-          "ranks": [
-            20
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[01时08分 ~ 01时09分]"
-        },
-        {
-          "title": "现货黄金涨超1.3%，白银涨超3.3%",
-          "url": "https://wallstreetcn.com/livenews/3109016",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            8
+            30
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "05时13分"
-        },
-        {
-          "title": "谈判重启黄金反弹，空头压制真解除了吗？",
-          "url": "https://flash.jin10.com/detail/20260525233135465800",
-          "source": "金十数据",
-          "ranks": [
-            21
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "01时09分"
+          "time_info": "07时07分"
         }
       ]
     },
     {
       "keyword_group": "特朗普",
-      "match_count": 9,
+      "match_count": 17,
       "titles": [
-        {
-          "title": "特朗普称美伊协议基本谈成，油价跳水，全球股市走强，日股指新高，金银齐涨",
-          "url": "https://wallstreetcn.com/articles/3773010",
-          "source": "华尔街见闻",
-          "ranks": [
-            1
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[01时08分 ~ 05时13分]"
-        },
         {
           "title": "不小心把特朗普归类为“白痴”，鲁比奥紧急救场",
           "url": "https://v.ifeng.com/c/8tPourOxMbK",
           "source": "凤凰网",
           "ranks": [
             4
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[01时08分 ~ 07时07分]"
+        },
+        {
+          "title": "特朗普称美伊协议基本谈成，油价跳水，全球股市走强，日股指新高，金银齐涨",
+          "url": "https://wallstreetcn.com/articles/3773010",
+          "source": "华尔街见闻",
+          "ranks": [
+            1
           ],
           "is_new": false,
           "appearance_count": 4,
@@ -615,6 +570,50 @@
           "time_info": "[03时45分 ~ 05时13分]"
         },
         {
+          "title": "特朗普提出伊朗浓缩铀两种处理方法",
+          "url": "https://flash.jin10.com/detail/20260526064730179800",
+          "source": "金十数据",
+          "ranks": [
+            6
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "07时07分"
+        },
+        {
+          "title": "【特朗普称伊朗浓缩铀可运到其他地点销毁】美国总统特朗普25日在社交媒体发文称，伊朗的浓缩铀可以“现场销毁”或者在“另一个可以接受的地点”销毁。（新华社）",
+          "url": "https://wallstreetcn.com/livenews/3109042",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            13
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "07时07分"
+        },
+        {
+          "title": "美国总统特朗普：伊朗要么移交浓缩铀给美国，要么销毁。",
+          "url": "https://wallstreetcn.com/livenews/3109041",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            15
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "07时07分"
+        },
+        {
+          "title": "据Axios记者：特朗普有关伊朗浓缩铀的最新表态似乎表明美国在浓缩铀库存问题上的立场有所软化，更接近伊朗在这一问题上的立场。",
+          "url": "https://flash.jin10.com/detail/20260526060746668800",
+          "source": "金十数据",
+          "ranks": [
+            16
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "07时07分"
+        },
+        {
           "title": "美司法部：白宫附近枪击案是针对特朗普的暗杀图谋",
           "url": "https://wallstreetcn.com/livenews/3108956",
           "source": "华尔街见闻-快讯",
@@ -637,6 +636,50 @@
           "time_info": "03时45分"
         },
         {
+          "title": "特朗普要求先签“亚伯拉罕协议” 沙特方面回应",
+          "url": "https://wallstreetcn.com/livenews/3109035",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            21
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "07时07分"
+        },
+        {
+          "title": "特朗普：浓缩铀要么移交给美国 要么销毁",
+          "url": "https://flash.jin10.com/detail/20260526054700468800",
+          "source": "金十数据",
+          "ranks": [
+            23
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "07时07分"
+        },
+        {
+          "title": "报道称，图尔西·加巴德辞职后，副总统万斯在美国总统特朗普的政府内部愈发孤立，其在伊朗问题上的非干涉主义主张与特朗普发生冲突，而国务卿卢比奥的影响力正在上升。（每日邮报）",
+          "url": "https://wallstreetcn.com/livenews/3109030",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            25
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "07时07分"
+        },
+        {
+          "title": "特朗普要求先签“亚伯拉罕协议” 沙特方面回应",
+          "url": "https://flash.jin10.com/detail/20260526051929396800",
+          "source": "金十数据",
+          "ranks": [
+            27
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "07时07分"
+        },
+        {
           "title": "特朗普敦促沙特承认以色列，将其作为伊朗协议的一部分",
           "url": "https://wallstreetcn.com/livenews/3108943",
           "source": "华尔街见闻-快讯",
@@ -650,8 +693,189 @@
       ]
     },
     {
+      "keyword_group": "DeepSeek Ai 水球泡 谷歌 google gemini 好书推荐 chatgpt openai 白银 金价石油 黄金 热梗",
+      "match_count": 15,
+      "titles": [
+        {
+          "title": "摩根大通中国峰会：将“大消费”作为“AI和机器人”配置的资金来源",
+          "url": "https://wallstreetcn.com/articles/3773014",
+          "source": "华尔街见闻",
+          "ranks": [
+            4,
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[01时08分 ~ 07时07分]"
+        },
+        {
+          "title": "AI吸附挂泛滥,力度碾压端游",
+          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28354571&amp;topic_name=AI%E5%90%B8%E9%99%84%E6%8C%82%E6%B3%9B%E6%BB%A5%2C%E5%8A%9B%E5%BA%A6%E7%A2%BE%E5%8E%8B%E7%AB%AF%E6%B8%B8",
+          "source": "贴吧",
+          "ranks": [
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[01时09分 ~ 07时07分]"
+        },
+        {
+          "title": "欧盟计划对谷歌处以高达数亿欧元的罚款",
+          "url": "https://wallstreetcn.com/livenews/3109054",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            5
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "07时07分"
+        },
+        {
+          "title": "美、布两油短线小幅下挫0.4美元，现货黄金波动不大。",
+          "url": "https://flash.jin10.com/detail/20260526004406841800",
+          "source": "金十数据",
+          "ranks": [
+            4,
+            24
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[01时09分 ~ 03时45分]"
+        },
+        {
+          "title": "上海黄金交易所黄金T+D 5月25日（周一）晚盘收盘上涨0.33%报999.82元/克；<br/>上海黄金交易所白银T+D 5月25日（周一）晚盘收盘上涨0.9%报19050.0元/千克。",
+          "url": "https://flash.jin10.com/detail/20260526023853541800",
+          "source": "金十数据",
+          "ranks": [
+            4,
+            20
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[03时45分 ~ 05时13分]"
+        },
+        {
+          "title": "黄金三个月跌了近20% 后市如何",
+          "url": "https://www.toutiao.com/trending/7643815607711829513/",
+          "source": "今日头条",
+          "ranks": [
+            6,
+            20,
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[01时08分 ~ 07时07分]"
+        },
+        {
+          "title": "【每日收评】科创50指数放量涨近6%，芯片产业链卷土重来，AI硬件反复活跃",
+          "url": "https://www.cls.cn/detail/2380739",
+          "source": "财联社热门",
+          "ranks": [
+            9,
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[01时08分 ~ 07时07分]"
+        },
+        {
+          "title": "戛纳电影节「抵制 AI」、毕业典礼嘘声四起，海外「反 AI」浪潮反映了何种社会心态？",
+          "url": "https://www.zhihu.com/question/2040478565859381749",
+          "source": "知乎",
+          "ranks": [
+            16,
+            7,
+            10,
+            13
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[01时08分 ~ 07时07分]"
+        },
+        {
+          "title": "“渡边太太”重返战场！AI牛市引爆日本散户狂欢，日股日均成交额飙破10万亿日元",
+          "url": "https://wallstreetcn.com/articles/3773034",
+          "source": "华尔街见闻",
+          "ranks": [
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[01时08分 ~ 07时07分]"
+        },
+        {
+          "title": "xAI：Grok Build预测版本现在向所有SuperGrok用户和X Premium+用户开放。",
+          "url": "https://wallstreetcn.com/livenews/3109003",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            9,
+            18
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[03时45分 ~ 05时13分]"
+        },
+        {
+          "title": "对话中邮资管张戬：基于账户负债属性平衡票息与波段，哑铃策略锚定“六张网”、AI及高安全三大方向",
+          "url": "https://www.cls.cn/detail/2380627",
+          "source": "财联社热门",
+          "ranks": [
+            13
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[03时45分 ~ 05时13分]"
+        },
+        {
+          "title": "超六成游戏工作室采用 AI 进行开发，AI 将会如何改变游戏行业？",
+          "url": "https://www.zhihu.com/question/649375328",
+          "source": "知乎",
+          "ranks": [
+            20
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[01时08分 ~ 01时09分]"
+        },
+        {
+          "title": "现货黄金涨超1.3%，白银涨超3.3%",
+          "url": "https://wallstreetcn.com/livenews/3109016",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "05时13分"
+        },
+        {
+          "title": "现货黄金小幅低开，报4571美元/盎司。",
+          "url": "https://flash.jin10.com/detail/20260526060251128800",
+          "source": "金十数据",
+          "ranks": [
+            20
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "07时07分"
+        },
+        {
+          "title": "谈判重启黄金反弹，空头压制真解除了吗？",
+          "url": "https://flash.jin10.com/detail/20260525233135465800",
+          "source": "金十数据",
+          "ranks": [
+            21
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "01时09分"
+        }
+      ]
+    },
+    {
       "keyword_group": "美股",
-      "match_count": 3,
+      "match_count": 4,
       "titles": [
         {
           "title": "中国500万美股账户被冻结 后续怎么办",
@@ -686,6 +910,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "01时09分"
+        },
+        {
+          "title": "美股三大股指期货走高，纳斯达克期货上涨1.3%，标普500指数期货涨0.9%，道指期货涨0.87%。",
+          "url": "https://flash.jin10.com/detail/20260526060620011800",
+          "source": "金十数据",
+          "ranks": [
+            17
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "07时07分"
         }
       ]
     },
@@ -700,7 +935,7 @@
           "ranks": [
             5
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "05时13分"
         },
@@ -711,7 +946,7 @@
           "ranks": [
             6
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "05时13分"
         },
