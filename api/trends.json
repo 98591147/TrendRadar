@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-05-25T08:03:15.075946+08:00",
-  "total_titles_processed": 529,
+  "generated_at": "2026-05-25T13:22:54.204406+08:00",
+  "total_titles_processed": 747,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "伊朗",
-      "match_count": 40,
+      "match_count": 43,
       "titles": [
         {
           "title": "伊朗最高领袖顾问表示，如果再次遭遇攻击，伊朗将打破美国海军的封锁，并退出《不扩散核武器条约》。",
@@ -41,6 +41,18 @@
           "time_info": "06时05分"
         },
         {
+          "title": "美媒：协议含放弃浓缩铀 伊朗：暂不谈核问题",
+          "url": "https://wallstreetcn.com/articles/3772994",
+          "source": "华尔街见闻",
+          "ranks": [
+            9,
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 8,
+          "time_info": "[01时05分 ~ 13时22分]"
+        },
+        {
           "title": "伊朗官员：霍尔木兹海峡的管理不会恢复到战前状态",
           "url": "https://wallstreetcn.com/livenews/3108549",
           "source": "华尔街见闻-快讯",
@@ -51,18 +63,6 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[05时00分 ~ 08时03分]"
-        },
-        {
-          "title": "美媒：协议含放弃浓缩铀 伊朗：暂不谈核问题",
-          "url": "https://wallstreetcn.com/articles/3772994",
-          "source": "华尔街见闻",
-          "ranks": [
-            9,
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[01时05分 ~ 08时03分]"
         },
         {
           "title": "伊朗最高领袖顾问：管控霍尔木兹海峡是“合法权利”",
@@ -273,6 +273,28 @@
           "time_info": "06时05分"
         },
         {
+          "title": "美以袭击伊朗进入第 87 天，当前局势如何？哪些信息值得关注？",
+          "url": "https://www.zhihu.com/question/2042012817000067505",
+          "source": "知乎",
+          "ranks": [
+            11
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "13时22分"
+        },
+        {
+          "title": "伊朗：准备向全世界保证不寻求拥核",
+          "url": "https://www.toutiao.com/trending/7643313675294244883/",
+          "source": "今日头条",
+          "ranks": [
+            13
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "13时22分"
+        },
+        {
           "title": "伊朗外交部发言人强烈谴责发生在奎达铁路站的恐怖袭击行为，该事件已导致大量巴基斯坦公民伤亡。",
           "url": "https://flash.jin10.com/detail/20260524235117070800",
           "source": "金十数据",
@@ -301,7 +323,7 @@
           "ranks": [
             14
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "08时03分"
         },
@@ -323,7 +345,7 @@
           "ranks": [
             16
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "08时03分"
         },
@@ -348,6 +370,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "03时21分"
+        },
+        {
+          "title": "美国国务卿鲁比奥谈伊朗问题：将尽一切努力通过外交途径取得成功。 在伊朗问题上仍有工作在推进中。 我们现在正全力关注黎巴嫩局势。 （谈到伊朗协议）可能就在今天，但不必过度解读。",
+          "url": "https://wallstreetcn.com/livenews/3108657",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            17
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "13时22分"
         },
         {
           "title": "据以色列时报：以色列国防军制定黎巴嫩计划，担忧伊朗协议可能限制与真主党的冲突。",
@@ -411,7 +444,7 @@
           "ranks": [
             22
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "08时03分"
         },
@@ -474,7 +507,7 @@
     },
     {
       "keyword_group": "DeepSeek Ai 水球泡 谷歌 google gemini 好书推荐 chatgpt openai 白银 金价石油 黄金 热梗",
-      "match_count": 18,
+      "match_count": 21,
       "titles": [
         {
           "title": "周末要闻汇总：特朗普称美伊协议基本谈成；DeepSeek宣布永久降价",
@@ -485,8 +518,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[01时05分 ~ 08时03分]"
+          "appearance_count": 8,
+          "time_info": "[01时05分 ~ 13时22分]"
         },
         {
           "title": "什么情况下，本轮AI大行情会结束？",
@@ -494,11 +527,12 @@
           "source": "华尔街见闻",
           "ranks": [
             4,
-            3
+            3,
+            1
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[01时05分 ~ 08时03分]"
+          "appearance_count": 8,
+          "time_info": "[01时05分 ~ 13时22分]"
         },
         {
           "title": "【早报】国家数据局将把推动词元经济发展纳入工作体系；DeepSeek宣布永久降价",
@@ -513,13 +547,25 @@
           "time_info": "[01时05分 ~ 08时03分]"
         },
         {
+          "title": "梁文锋与DeepSeek的十万亿美元棋盘",
+          "url": "https://wallstreetcn.com/articles/3772995",
+          "source": "华尔街见闻",
+          "ranks": [
+            8,
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 8,
+          "time_info": "[01时05分 ~ 13时22分]"
+        },
+        {
           "title": "现货黄金日内涨幅扩大至1.5%，现货白银涨幅扩大至4%。",
           "url": "https://wallstreetcn.com/livenews/3108567",
           "source": "华尔街见闻-快讯",
           "ranks": [
             1
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "08时03分"
         },
@@ -530,20 +576,9 @@
           "ranks": [
             4
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "08时03分"
-        },
-        {
-          "title": "梁文锋与DeepSeek的十万亿美元棋盘",
-          "url": "https://wallstreetcn.com/articles/3772995",
-          "source": "华尔街见闻",
-          "ranks": [
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[01时05分 ~ 08时03分]"
         },
         {
           "title": "欧洲央行将呼吁银行业解决因人工智能（AI）而暴露出来的瑕疵。 欧洲央行计划强调Anthropic模型Mythos构成的威胁的严重程度。 欧洲央行将于周二召开银行业会议讨论网络安全事宜。（英国金融时报）",
@@ -563,11 +598,12 @@
           "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28354527&amp;topic_name=deepseek%E7%8B%82%E9%99%8D%E4%BB%B7%2C%E5%8F%8B%E5%95%86%E8%A2%AB%E5%8D%B7%E5%93%AD",
           "source": "贴吧",
           "ranks": [
-            12
+            12,
+            17
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[01时05分 ~ 08时03分]"
+          "appearance_count": 6,
+          "time_info": "[01时05分 ~ 13时22分]"
         },
         {
           "title": "世界杯主题曲Dai Dai MV正式上线",
@@ -575,11 +611,12 @@
           "source": "bilibili 热搜",
           "ranks": [
             27,
-            24
+            24,
+            30
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[04时59分 ~ 08时03分]"
+          "appearance_count": 5,
+          "time_info": "[04时59分 ~ 13时22分]"
         },
         {
           "title": "训练AI取代自己？纺织工和外卖骑手正收集“第一人称视角数据”",
@@ -593,15 +630,72 @@
           "time_info": "[08时02分 ~ 08时03分]"
         },
         {
+          "title": "金十图示：2026年05月25日（周一）白银ETF持仓报告",
+          "url": "https://flash.jin10.com/detail/20260525060659697800",
+          "source": "金十数据",
+          "ranks": [
+            26,
+            24
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[08时03分 ~ 13时22分]"
+        },
+        {
+          "title": "金十图示：2026年05月25日（周一）黄金ETF持仓报告",
+          "url": "https://flash.jin10.com/detail/20260525060643592800",
+          "source": "金十数据",
+          "ranks": [
+            28,
+            25
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[08时03分 ~ 13时22分]"
+        },
+        {
+          "title": "特朗普称美伊协议基本谈成，油价跳水，美股期货、黄金齐涨、日经强势涨破65000点",
+          "url": "https://wallstreetcn.com/articles/3773010",
+          "source": "华尔街见闻",
+          "ranks": [
+            7
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "13时22分"
+        },
+        {
+          "title": "券商晨会精华：看好AI产业链与算力网建设",
+          "url": "https://www.cls.cn/detail/2380227",
+          "source": "财联社热门",
+          "ranks": [
+            8
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "13时22分"
+        },
+        {
           "title": "现货白银站上78美元/盎司，日内涨3.41%。",
           "url": "https://flash.jin10.com/detail/20260525070428948800",
           "source": "金十数据",
           "ranks": [
             8
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "08时03分"
+        },
+        {
+          "title": "多家巨头密集押注 “百镜大战”催热供应链！AI眼镜有望加速进入千万台级别市场？",
+          "url": "https://www.cls.cn/detail/2380061",
+          "source": "财联社热门",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "13时22分"
         },
         {
           "title": "现货白银日内涨幅达3%，现报77.71美元/盎司。",
@@ -610,7 +704,7 @@
           "ranks": [
             12
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "08时03分"
         },
@@ -621,7 +715,7 @@
           "ranks": [
             18
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "08时03分"
         },
@@ -637,17 +731,6 @@
           "time_info": "03时21分"
         },
         {
-          "title": "金十图示：2026年05月25日（周一）白银ETF持仓报告",
-          "url": "https://flash.jin10.com/detail/20260525060659697800",
-          "source": "金十数据",
-          "ranks": [
-            26
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "08时03分"
-        },
-        {
           "title": "印度外交部长苏杰生：与来访的美国国务卿卢比奥讨论了关键矿物、人工智能（AI）、核、以及其他问题。",
           "url": "https://wallstreetcn.com/livenews/3108500",
           "source": "华尔街见闻-快讯",
@@ -659,24 +742,13 @@
           "time_info": "01时05分"
         },
         {
-          "title": "金十图示：2026年05月25日（周一）黄金ETF持仓报告",
-          "url": "https://flash.jin10.com/detail/20260525060643592800",
-          "source": "金十数据",
-          "ranks": [
-            28
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "08时03分"
-        },
-        {
           "title": "现货黄金日内涨幅达1.00%，现报4552.92美元/盎司。纽约期银日内涨幅扩大至2.00%，现报77.77美元/盎司。",
           "url": "https://flash.jin10.com/detail/20260525060458075800",
           "source": "金十数据",
           "ranks": [
             29
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "08时03分"
         }
@@ -684,7 +756,7 @@
     },
     {
       "keyword_group": "特朗普",
-      "match_count": 18,
+      "match_count": 21,
       "titles": [
         {
           "title": "特朗普称美伊协议基本谈成，内容包括开放霍尔木兹海峡，伊媒称将继续由伊朗“管理”，以媒称“对以非常不利”",
@@ -868,6 +940,39 @@
           "time_info": "[08时02分 ~ 08时03分]"
         },
         {
+          "title": "智胜特朗普？美媒酸了：中国取消对非关税这招太“高明”了",
+          "url": "https://news.ifeng.com/c/8tOEfLcy7On",
+          "source": "凤凰网",
+          "ranks": [
+            7
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "13时22分"
+        },
+        {
+          "title": "又改口？特朗普：美伊尚未“完全谈妥” 美国不急于达成协议",
+          "url": "https://www.cls.cn/detail/2380246",
+          "source": "财联社热门",
+          "ranks": [
+            11
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "13时22分"
+        },
+        {
+          "title": "报道：特朗普想把美伊协议同“亚伯拉罕协议”挂钩",
+          "url": "https://wallstreetcn.com/livenews/3108666",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            11
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "13时22分"
+        },
+        {
           "title": "据以色列第13频道：内塔尼亚胡在安全会议中表示“对美国总统特朗普的影响力有限”。",
           "url": "https://flash.jin10.com/detail/20260525014506415800",
           "source": "金十数据",
@@ -924,7 +1029,7 @@
           "ranks": [
             27
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "08时03分"
         }
@@ -941,7 +1046,7 @@
           "ranks": [
             17
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "08时03分"
         }
