@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-05-27T17:58:02.504955+08:00",
-  "total_titles_processed": 1004,
+  "generated_at": "2026-05-27T20:57:35.431171+08:00",
+  "total_titles_processed": 1186,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "DeepSeek Ai 水球泡 谷歌 google gemini 好书推荐 chatgpt openai 白银 金价石油 黄金 热梗",
-      "match_count": 34,
+      "match_count": 47,
       "titles": [
         {
           "title": "和平预期与AI热潮双轮驱动，标普、纳指创新高，半导体指数五连涨，美光飙涨20%",
@@ -14,11 +14,12 @@
           "ranks": [
             3,
             2,
-            1
+            1,
+            4
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[06时22分 ~ 17时58分]"
+          "appearance_count": 7,
+          "time_info": "[06时22分 ~ 20时57分]"
         },
         {
           "title": "黄仁勋：AI时代“孩子学什么专业并不重要”，关键是如何用AI放大能力",
@@ -55,6 +56,17 @@
           "time_info": "08时09分"
         },
         {
+          "title": "黄金每隔4小时就被砸？真正卖家是谁",
+          "url": "https://flash.jin10.com/detail/20260527203042884800",
+          "source": "金十数据",
+          "ranks": [
+            2
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时57分"
+        },
+        {
           "title": "中信建投：机器人是AI最好的物理载体之一，看好板块行情演绎",
           "url": "https://wallstreetcn.com/livenews/3109694",
           "source": "华尔街见闻-快讯",
@@ -64,6 +76,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "08时09分"
+        },
+        {
+          "title": "AI大行其道,古法PS吧没落",
+          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28354633&amp;topic_name=AI%E5%A4%A7%E8%A1%8C%E5%85%B6%E9%81%93%2C%E5%8F%A4%E6%B3%95PS%E5%90%A7%E6%B2%A1%E8%90%BD",
+          "source": "贴吧",
+          "ranks": [
+            3
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时57分"
         },
         {
           "title": "现货黄金跌破4490美元/盎司，日内跌1.77%。",
@@ -83,9 +106,33 @@
           "ranks": [
             5
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "17时58分"
+        },
+        {
+          "title": "布伦特原油日内跌幅达4%，报92.78美元/桶。 WTI原油日内跌幅达5.5%，报88.69美元/桶。 现货黄金5分钟内上涨28.58美元/盎司，报4457.7美元/盎司。 美债收益率扩大跌幅，30年期收益率下跌3个基点至4.99%。 欧洲斯托克600指数涨0.6%，刷新日高。 伊朗电视台称获得了非官方的美伊谅解备忘录草案。",
+          "url": "https://wallstreetcn.com/livenews/3110086",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            5
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时57分"
+        },
+        {
+          "title": "AI吸附挂泛滥,力度碾压端游",
+          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28354571&amp;topic_name=AI%E5%90%B8%E9%99%84%E6%8C%82%E6%B3%9B%E6%BB%A5%2C%E5%8A%9B%E5%BA%A6%E7%A2%BE%E5%8E%8B%E7%AB%AF%E6%B8%B8",
+          "source": "贴吧",
+          "ranks": [
+            14,
+            20,
+            29
+          ],
+          "is_new": false,
+          "appearance_count": 7,
+          "time_info": "[02时29分 ~ 20时57分]"
         },
         {
           "title": "从周期股到AI新王者！美光科技跻身万亿美元俱乐部",
@@ -101,29 +148,17 @@
           "time_info": "[06时22分 ~ 13时19分]"
         },
         {
-          "title": "AI吸附挂泛滥,力度碾压端游",
-          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28354571&amp;topic_name=AI%E5%90%B8%E9%99%84%E6%8C%82%E6%B3%9B%E6%BB%A5%2C%E5%8A%9B%E5%BA%A6%E7%A2%BE%E5%8E%8B%E7%AB%AF%E6%B8%B8",
-          "source": "贴吧",
-          "ranks": [
-            14,
-            20,
-            29
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[02时29分 ~ 17时58分]"
-        },
-        {
           "title": "AI坑爹,棒球名帅丢饭碗",
           "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28354604&amp;topic_name=AI%E5%9D%91%E7%88%B9%2C%E6%A3%92%E7%90%83%E5%90%8D%E5%B8%85%E4%B8%A2%E9%A5%AD%E7%A2%97",
           "source": "贴吧",
           "ranks": [
             3,
-            11
+            11,
+            14
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[13时19分 ~ 17时58分]"
+          "appearance_count": 3,
+          "time_info": "[13时19分 ~ 20时57分]"
         },
         {
           "title": "一人之下被指用AI作画",
@@ -136,6 +171,18 @@
           "is_new": false,
           "appearance_count": 4,
           "time_info": "[02时29分 ~ 06时23分]"
+        },
+        {
+          "title": "野生vs养殖,AI大战鲤鱼图",
+          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28354618&amp;topic_name=%E9%87%8E%E7%94%9Fvs%E5%85%BB%E6%AE%96%2CAI%E5%A4%A7%E6%88%98%E9%B2%A4%E9%B1%BC%E5%9B%BE",
+          "source": "贴吧",
+          "ranks": [
+            7,
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[17时58分 ~ 20时57分]"
         },
         {
           "title": "如何评价 comma.ai 创始人 George Hotz 断言 AI 编程 Agent 无法真正编程？",
@@ -172,15 +219,15 @@
           "time_info": "[17时57分 ~ 17时58分]"
         },
         {
-          "title": "野生vs养殖,AI大战鲤鱼图",
-          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28354618&amp;topic_name=%E9%87%8E%E7%94%9Fvs%E5%85%BB%E6%AE%96%2CAI%E5%A4%A7%E6%88%98%E9%B2%A4%E9%B1%BC%E5%9B%BE",
-          "source": "贴吧",
+          "title": "AI热潮推动下，美股期指涨幅扩大，盘前美光涨近10%，石油股下跌，金银油齐跌",
+          "url": "https://wallstreetcn.com/articles/3773196",
+          "source": "华尔街见闻",
           "ranks": [
-            7
+            6
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "17时58分"
+          "time_info": "20时57分"
         },
         {
           "title": "多家AI回应高考期间是否禁用解题",
@@ -205,13 +252,24 @@
           "time_info": "08时09分"
         },
         {
+          "title": "现货黄金短线上扬30美元，报4457美元/盎司。",
+          "url": "https://flash.jin10.com/detail/20260527202210705800",
+          "source": "金十数据",
+          "ranks": [
+            9
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时57分"
+        },
+        {
           "title": "德福科技：拟投资31亿元建设年产5万吨高端AI电子电路铜箔项目",
           "url": "https://wallstreetcn.com/livenews/3109988",
           "source": "华尔街见闻-快讯",
           "ranks": [
             9
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "17时58分"
         },
@@ -238,6 +296,17 @@
           "time_info": "08时09分"
         },
         {
+          "title": "快手程一笑：一季度快手AI漫剧营销消耗同比增长超100倍",
+          "url": "https://wallstreetcn.com/livenews/3110080",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时57分"
+        },
+        {
           "title": "“港版纳指”掉队，恒生科技指数迎来“AI化”重估",
           "url": "https://wallstreetcn.com/livenews/3109683",
           "source": "华尔街见闻-快讯",
@@ -255,7 +324,7 @@
           "ranks": [
             12
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "17时58分"
         },
@@ -266,7 +335,7 @@
           "ranks": [
             13
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "17时58分"
         },
@@ -299,9 +368,20 @@
           "ranks": [
             20
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "17时58分"
+        },
+        {
+          "title": "现货白银日内跌幅达4.0%，报73.73美元/盎司；纽约银日内跌幅达3.5%，报73.89美元/盎司。 现货黄金日内跌幅达1.5%，报4437.55美元/盎司；纽约金日内跌幅达1.5%，报4466.3美元/盎司。",
+          "url": "https://wallstreetcn.com/livenews/3110062",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            20
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时57分"
         },
         {
           "title": "现货黄金日内涨幅达0.5%，报4536.84美元/盎司。",
@@ -337,15 +417,48 @@
           "time_info": "08时09分"
         },
         {
+          "title": "黄金提前抢跑，震荡区间是否打破，空头还会再下一城吗？金十研究员Steven正在直播，立即观看>><font class=\"important-text\"></font>",
+          "url": "https://flash.jin10.com/detail/20260527201056292800",
+          "source": "金十数据",
+          "ranks": [
+            23
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时57分"
+        },
+        {
           "title": "可灵AI一季度营收同比增长超300%，3月ARR近5亿美元",
           "url": "https://wallstreetcn.com/livenews/3109967",
           "source": "华尔街见闻-快讯",
           "ranks": [
             24
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "17时58分"
+        },
+        {
+          "title": "快手创始人兼CEO程一笑：可灵AI 3月ARR近5亿美元 较去年同期增长4倍",
+          "url": "https://flash.jin10.com/detail/20260527200727558800",
+          "source": "金十数据",
+          "ranks": [
+            25
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时57分"
+        },
+        {
+          "title": "现货白银日内跌幅达3.5%，报74.15美元/盎司。",
+          "url": "https://wallstreetcn.com/livenews/3110051",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            26
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时57分"
         },
         {
           "title": "千问AI眼镜全系列线上零售额市场份额超30%",
@@ -354,7 +467,7 @@
           "ranks": [
             27
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "17时58分"
         },
@@ -381,6 +494,17 @@
           "time_info": "08时09分"
         },
         {
+          "title": "挂单报告：国际现货黄金持续下跌 美日此处多单集中",
+          "url": "https://flash.jin10.com/detail/20260527200333805800",
+          "source": "金十数据",
+          "ranks": [
+            28
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时57分"
+        },
+        {
           "title": "全球最大黄金ETF--SPDR Gold Trust持仓较上日维持不变，当前持仓量为1034.853吨。",
           "url": "https://flash.jin10.com/detail/20260527063446040800",
           "source": "金十数据",
@@ -390,12 +514,34 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "08时09分"
+        },
+        {
+          "title": "快手创始人兼CEO程一笑：一季度快手AI漫剧营销消耗同比增长超100倍",
+          "url": "https://flash.jin10.com/detail/20260527200333613800",
+          "source": "金十数据",
+          "ranks": [
+            29
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时57分"
+        },
+        {
+          "title": "现货黄金日内跌幅达1%，报4461.2美元/盎司。 纽约金日内跌幅达1%，报4484.9美元/盎司。",
+          "url": "https://wallstreetcn.com/livenews/3110045",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            30
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时57分"
         }
       ]
     },
     {
       "keyword_group": "伊朗",
-      "match_count": 32,
+      "match_count": 41,
       "titles": [
         {
           "title": "停火协议形同废纸！伊朗开火，回击美国空袭，小哈梅内伊：中东地区国家将不再庇护美军",
@@ -478,6 +624,30 @@
           "time_info": "[02时29分 ~ 04时56分]"
         },
         {
+          "title": "王毅谈当前伊朗局势僵局",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33242584",
+          "source": "澎湃新闻",
+          "ranks": [
+            12,
+            5,
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[13时19分 ~ 20时57分]"
+        },
+        {
+          "title": "伊朗官员称美国将在所有战线停火60天",
+          "url": "https://news.ifeng.com/c/8tTBSVzined",
+          "source": "凤凰网",
+          "ranks": [
+            1
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时57分"
+        },
+        {
           "title": "伊朗最近一天允许25艘船只通过霍尔木兹海峡。（伊朗媒体Tasnim）",
           "url": "https://wallstreetcn.com/livenews/3109610",
           "source": "华尔街见闻-快讯",
@@ -495,9 +665,20 @@
           "ranks": [
             1
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "17时58分"
+        },
+        {
+          "title": "伊媒：文件披露，美军事力量将撤出伊朗周边",
+          "url": "https://news.ifeng.com/c/8tTRdrF2SL8",
+          "source": "凤凰网",
+          "ranks": [
+            2
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时57分"
         },
         {
           "title": "据伊朗塔斯尼姆通讯社：伊朗伊斯兰革命卫队海军表示，在过去24小时内，有25艘油轮、集装箱船以及其他商业船只在获得伊朗许可的情况下通过了霍尔木兹海峡。",
@@ -511,6 +692,17 @@
           "time_info": "02时29分"
         },
         {
+          "title": "伊朗情报部：敌方正通过“软战争”向伊朗施压",
+          "url": "https://news.ifeng.com/c/8tTK6rP01M9",
+          "source": "凤凰网",
+          "ranks": [
+            3
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时57分"
+        },
+        {
           "title": "伊朗大不里士国际机场恢复运营",
           "url": "https://flash.jin10.com/detail/20260527125126650800",
           "source": "金十数据",
@@ -520,6 +712,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "13时19分"
+        },
+        {
+          "title": "伊朗：美方承诺在所有战线停火60天，战争重新爆发的可能性\"低\"",
+          "url": "https://wallstreetcn.com/articles/3773227",
+          "source": "华尔街见闻",
+          "ranks": [
+            5
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时57分"
         },
         {
           "title": "伊朗总统：毫不动摇捍卫领土与国家主权",
@@ -544,18 +747,6 @@
           "is_new": false,
           "appearance_count": 5,
           "time_info": "[02时29分 ~ 08时09分]"
-        },
-        {
-          "title": "王毅谈当前伊朗局势僵局",
-          "url": "https://m.thepaper.cn/newsDetail_forward_33242584",
-          "source": "澎湃新闻",
-          "ranks": [
-            12,
-            5
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[13时19分 ~ 17时58分]"
         },
         {
           "title": "美国对伊朗实施打击，打击目标包括导弹发射阵地以及正试图布设水雷的伊朗船只，美国为何在停火期发动打击？",
@@ -593,6 +784,17 @@
           "time_info": "02时29分"
         },
         {
+          "title": "一份协议如何让双方“宣布胜利”？美国提出新要求，伊朗有两个目标",
+          "url": "https://wallstreetcn.com/articles/3773194",
+          "source": "华尔街见闻",
+          "ranks": [
+            8
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时57分"
+        },
+        {
           "title": "据黎巴嫩电视台Al-Mayadeen：伊朗议会议长卡利巴夫的顾问表示，如果美国“玩文字游戏”，德黑兰将退出谈判。",
           "url": "https://flash.jin10.com/detail/20260527013502637800",
           "source": "金十数据",
@@ -602,6 +804,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "02时29分"
+        },
+        {
+          "title": "伊美谅解备忘录初步非正式文件内容披露：伊朗将于一个月内恢复霍尔木兹海峡商业船只通行量",
+          "url": "https://wallstreetcn.com/livenews/3110063",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            8
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时57分"
         },
         {
           "title": "伊朗公布击落美MQ-9死神无人机画面",
@@ -632,7 +845,7 @@
           "ranks": [
             11
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "17时58分"
         },
@@ -646,6 +859,28 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "13时19分"
+        },
+        {
+          "title": "欧洲央行副行长金多斯：6月会议必须考虑伊朗战争对经济增长的影响",
+          "url": "https://wallstreetcn.com/livenews/3110077",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            12
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时57分"
+        },
+        {
+          "title": "据伊朗国家电视台：已有一份与美国的初步非正式谅解备忘录草案。",
+          "url": "https://flash.jin10.com/detail/20260527201856027800",
+          "source": "金十数据",
+          "ranks": [
+            13
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时57分"
         },
         {
           "title": "伊朗公布击落美MQ-9“死神”无人机画面",
@@ -665,7 +900,7 @@
           "ranks": [
             14
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "17时58分"
         },
@@ -725,6 +960,17 @@
           "time_info": "08时09分"
         },
         {
+          "title": "伊朗称敌对国家船只仍被禁止通过霍尔木兹海峡",
+          "url": "https://wallstreetcn.com/livenews/3110061",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            21
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时57分"
+        },
+        {
           "title": "伊朗民众：美方言行不可信 必须保持高度警惕",
           "url": "https://flash.jin10.com/detail/20260527070124074800",
           "source": "金十数据",
@@ -742,7 +988,7 @@
           "ranks": [
             22
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "17时58分"
         },
@@ -761,7 +1007,7 @@
     },
     {
       "keyword_group": "特朗普",
-      "match_count": 23,
+      "match_count": 24,
       "titles": [
         {
           "title": "特朗普体检后称“结果非常完美”，下个月将迎来80岁生日",
@@ -769,11 +1015,12 @@
           "source": "凤凰网",
           "ranks": [
             2,
-            3
+            3,
+            4
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[13时19分 ~ 17时58分]"
+          "appearance_count": 4,
+          "time_info": "[13时19分 ~ 20时57分]"
         },
         {
           "title": "释新闻｜美伊谈判冲刺阶段，特朗普为何突然提起《亚伯拉罕协议》？",
@@ -799,6 +1046,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "06时23分"
+        },
+        {
+          "title": "特朗普要求多国签《亚伯拉罕协议》，专家：警惕“美式陷阱”",
+          "url": "https://news.ifeng.com/c/8tTPXgoAD0P",
+          "source": "凤凰网",
+          "ranks": [
+            5
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时57分"
         },
         {
           "title": "特朗普：内阁会议将由戴维营改至白宫举行",
@@ -1030,7 +1288,7 @@
     },
     {
       "keyword_group": "美股",
-      "match_count": 12,
+      "match_count": 18,
       "titles": [
         {
           "title": "【早报】暴涨超19%，美股存储芯片巨头市值首破万亿；兆易创新、沪电股份等热门股发布重要公告",
@@ -1055,6 +1313,39 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[08时09分 ~ 13时19分]"
+        },
+        {
+          "title": "WTI原油日内跌幅达6.0%，报88.12美元/桶；布伦特原油跌近5%，报91.98美元/桶。 美股期货走高，纳斯达克100指数期货涨1%，美国联合航空、美国航空、达美航空股价盘前上涨约2%。",
+          "url": "https://wallstreetcn.com/livenews/3110090",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            2
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时57分"
+        },
+        {
+          "title": "美股期货短线拉升，道指期货涨约0.3%，标普500指数期货涨0.4%，纳指期货涨近0.9%。",
+          "url": "https://flash.jin10.com/detail/20260527202936094800",
+          "source": "金十数据",
+          "ranks": [
+            3
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时57分"
+        },
+        {
+          "title": "美股石油股盘前下跌，埃克森美孚跌1.4%，雪佛龙跌1.7%。",
+          "url": "https://wallstreetcn.com/livenews/3110088",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            3
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时57分"
         },
         {
           "title": "新兴市场ETF收涨超3.8%，领跑美股大类资产类ETF，布油基金跌超3.4%",
@@ -1103,6 +1394,17 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[04时56分 ~ 06时23分]"
+        },
+        {
+          "title": "美光科技美股盘前涨近10%，前一交易日收涨超19%。",
+          "url": "https://wallstreetcn.com/livenews/3110081",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            9
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时57分"
         },
         {
           "title": "美股收盘：标普500和纳指再创新高",
@@ -1169,12 +1471,34 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "04时56分"
+        },
+        {
+          "title": "美光科技(MU.O)美股盘前延续涨势，一度涨9.9%。",
+          "url": "https://flash.jin10.com/detail/20260527200458116800",
+          "source": "金十数据",
+          "ranks": [
+            27
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时57分"
+        },
+        {
+          "title": "Bath & Body Works第一季度调整后每股收益0.32美元，上年同期0.49美元，预估0.29美元。 第一季度每股收益0.90美元，上年同期0.49美元。 第一季度销售净额13.8亿美元，同比下降3.2%，预估13.6亿美元。 第一季度调整后运营收益1.51亿美元，预估1.419亿美元。 Bath & Body Works仍然预测全年调整后每股收益2.40美元至2.65美元。 Bath & Body Works美股盘前跌近1%。",
+          "url": "https://wallstreetcn.com/livenews/3110049",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            27
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时57分"
         }
       ]
     },
     {
       "keyword_group": "美债",
-      "match_count": 3,
+      "match_count": 4,
       "titles": [
         {
           "title": "美伊边打边谈，美股开盘半导体股普涨，美光大涨12%，美债收益率回落，金银下挫",
@@ -1186,6 +1510,17 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[02时29分 ~ 04时56分]"
+        },
+        {
+          "title": "美债收益率继续下跌，30年期收益率下降3个基点至4.99%。",
+          "url": "https://flash.jin10.com/detail/20260527202445540800",
+          "source": "金十数据",
+          "ranks": [
+            6
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时57分"
         },
         {
           "title": "2/10年期美债收益率跌约7个基点",
@@ -1213,7 +1548,7 @@
     },
     {
       "keyword_group": "美元",
-      "match_count": 2,
+      "match_count": 3,
       "titles": [
         {
           "title": "美元指数26日上涨",
@@ -1226,6 +1561,17 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[04时56分 ~ 06时23分]"
+        },
+        {
+          "title": "美元指数DXY失守99，日内跌幅0.15%。纽元兑美元NZD/USD突破0.59，日内涨1.09%。",
+          "url": "https://flash.jin10.com/detail/20260527202225371800",
+          "source": "金十数据",
+          "ranks": [
+            7
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时57分"
         },
         {
           "title": "周二（5月26日）纽约尾盘，ICE美元指数跌0.07%，报99.172点，日内交投区间为99.009-99.251点。 彭博美元指数涨0.15%，报1201.38点，日内交投区间为1199.58-1202.25点。 美元兑日元涨0.26%，报159.32日元，日内交投区间为158.86-159.38日元。",
