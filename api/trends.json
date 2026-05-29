@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-05-29T16:02:39.788433+08:00",
-  "total_titles_processed": 962,
+  "generated_at": "2026-05-29T19:38:57.513838+08:00",
+  "total_titles_processed": 1152,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "DeepSeek Ai 水球泡 谷歌 google gemini 好书推荐 chatgpt openai 白银 金价石油 黄金 热梗",
-      "match_count": 63,
+      "match_count": 69,
       "titles": [
         {
           "title": "国家大基金领投DeepSeek，投前估值450亿美元",
@@ -42,6 +42,18 @@
           "time_info": "[05时58分 ~ 07时24分]"
         },
         {
+          "title": "美伊停火传言搅动市场，美股三大指数收创新高，黄金深V反转，原油震荡走平",
+          "url": "https://wallstreetcn.com/articles/3773313",
+          "source": "华尔街见闻",
+          "ranks": [
+            1,
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[11时55分 ~ 19时38分]"
+        },
+        {
           "title": "黄金为什么暴涨暴跌",
           "url": "https://www.toutiao.com/trending/7644938884576448042/",
           "source": "今日头条",
@@ -53,17 +65,6 @@
           "is_new": false,
           "appearance_count": 5,
           "time_info": "[03时37分 ~ 07时24分]"
-        },
-        {
-          "title": "美伊停火传言搅动市场，美股三大指数收创新高，黄金深V反转，原油震荡走平",
-          "url": "https://wallstreetcn.com/articles/3773313",
-          "source": "华尔街见闻",
-          "ranks": [
-            1
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[11时55分 ~ 16时02分]"
         },
         {
           "title": "【早报】美股AI应用软件板块大爆发；中国首款4nm智驾芯片发布",
@@ -258,6 +259,18 @@
           "time_info": "[00时55分 ~ 07时24分]"
         },
         {
+          "title": "“我们在赢”！戴尔电话会：业绩炸裂，但炸的不只是AI服务器，四大业务全赢麻了",
+          "url": "https://wallstreetcn.com/articles/3773407",
+          "source": "华尔街见闻",
+          "ranks": [
+            9,
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[11时55分 ~ 19时38分]"
+        },
+        {
           "title": "美国芝商所下调黄金与白银期货合约保证金",
           "url": "https://wallstreetcn.com/livenews/3110959",
           "source": "华尔街见闻-快讯",
@@ -270,16 +283,16 @@
           "time_info": "[05时58分 ~ 07时24分]"
         },
         {
-          "title": "“我们在赢”！戴尔电话会：业绩炸裂，但炸的不只是AI服务器，四大业务全赢麻了",
-          "url": "https://wallstreetcn.com/articles/3773407",
-          "source": "华尔街见闻",
+          "title": "存储三巨头参投 全球AI公司估值天花板触达万亿美金 纯烧钱项目正遭资本摒弃",
+          "url": "https://www.cls.cn/detail/2385245",
+          "source": "财联社热门",
           "ranks": [
-            9,
+            13,
             4
           ],
           "is_new": false,
           "appearance_count": 2,
-          "time_info": "[11时55分 ~ 16时02分]"
+          "time_info": "[16时02分 ~ 19时38分]"
         },
         {
           "title": "白银暴跌后多家投行唱空：工业需求遭高价反噬 银价或继续承压",
@@ -327,6 +340,30 @@
           "time_info": "[00时56分 ~ 07时24分]"
         },
         {
+          "title": "戴尔绩后暴涨！Q1营收增长88%，AI收入暴增757%，全年指引大幅上调｜财报见闻",
+          "url": "https://wallstreetcn.com/articles/3773393",
+          "source": "华尔街见闻",
+          "ranks": [
+            8,
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[11时55分 ~ 19时38分]"
+        },
+        {
+          "title": "与主席沃什看法相左！美联储官员穆萨莱姆称不能指望AI降低通胀",
+          "url": "https://wallstreetcn.com/articles/3773387",
+          "source": "华尔街见闻",
+          "ranks": [
+            7,
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[11时55分 ~ 19时38分]"
+        },
+        {
           "title": "广东90后女生用AI接了400万大单",
           "url": "https://s.weibo.com/weibo?q=%23%E5%B9%BF%E4%B8%9C90%E5%90%8E%E5%A5%B3%E7%94%9F%E7%94%A8AI%E6%8E%A5%E4%BA%86400%E4%B8%87%E5%A4%A7%E5%8D%95%23&t=31&band_rank=19&Refer=top",
           "source": "微博",
@@ -339,27 +376,16 @@
           "time_info": "[00时56分 ~ 05时58分]"
         },
         {
-          "title": "戴尔绩后暴涨！Q1营收增长88%，AI收入暴增757%，全年指引大幅上调｜财报见闻",
-          "url": "https://wallstreetcn.com/articles/3773393",
-          "source": "华尔街见闻",
+          "title": "AI眼镜的“iPhone时刻”快来了吗",
+          "url": "https://www.cls.cn/detail/2385164",
+          "source": "财联社热门",
           "ranks": [
-            8,
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[11时55分 ~ 16时02分]"
-        },
-        {
-          "title": "与主席沃什看法相左！美联储官员穆萨莱姆称不能指望AI降低通胀",
-          "url": "https://wallstreetcn.com/articles/3773387",
-          "source": "华尔街见闻",
-          "ranks": [
+            11,
             7
           ],
           "is_new": false,
           "appearance_count": 2,
-          "time_info": "[11时55分 ~ 16时02分]"
+          "time_info": "[16时02分 ~ 19时38分]"
         },
         {
           "title": "三星出货业界首款HBM4E样品 Anthropic登顶全球最值钱AI创企 | 环球市场",
@@ -372,6 +398,17 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[11时55分 ~ 16时02分]"
+        },
+        {
+          "title": "18倍PS？Anthropic最新估值达9650亿美元，首超OpenAI！",
+          "url": "https://wallstreetcn.com/articles/3773389",
+          "source": "华尔街见闻",
+          "ranks": [
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[16时02分 ~ 19时38分]"
         },
         {
           "title": "AI服务器收入激增757%！戴尔交出炸裂财报 盘后股价暴涨近40%",
@@ -464,17 +501,6 @@
           "time_info": "00时56分"
         },
         {
-          "title": "18倍PS？Anthropic最新估值达9650亿美元，首超OpenAI！",
-          "url": "https://wallstreetcn.com/articles/3773389",
-          "source": "华尔街见闻",
-          "ranks": [
-            9
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "16时02分"
-        },
-        {
           "title": "谷歌云：Nano Banana 2和Nano Banana Pro已正式上线。",
           "url": "https://wallstreetcn.com/livenews/3110860",
           "source": "华尔街见闻-快讯",
@@ -497,15 +523,15 @@
           "time_info": "07时24分"
         },
         {
-          "title": "AI眼镜的“iPhone时刻”快来了吗",
-          "url": "https://www.cls.cn/detail/2385164",
-          "source": "财联社热门",
+          "title": "“广东高考将用AI批卷”不实",
+          "url": "https://www.baidu.com/s?wd=%E2%80%9C%E5%B9%BF%E4%B8%9C%E9%AB%98%E8%80%83%E5%B0%86%E7%94%A8AI%E6%89%B9%E5%8D%B7%E2%80%9D%E4%B8%8D%E5%AE%9E",
+          "source": "百度热搜",
           "ranks": [
             11
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "16时02分"
+          "time_info": "19时38分"
         },
         {
           "title": "戴尔美股盘后狂飙将近40%，高管直呼“AI机遇未见放缓迹象”",
@@ -536,7 +562,7 @@
           "ranks": [
             12
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "16时02分"
         },
@@ -563,24 +589,13 @@
           "time_info": "11时55分"
         },
         {
-          "title": "存储三巨头参投 全球AI公司估值天花板触达万亿美金 纯烧钱项目正遭资本摒弃",
-          "url": "https://www.cls.cn/detail/2385245",
-          "source": "财联社热门",
-          "ranks": [
-            13
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "16时02分"
-        },
-        {
           "title": "如何看待美国 CIA 官员利用职务之便从国库转移 300 多公斤黄金藏于家中？",
           "url": "https://www.zhihu.com/question/2043440192086857649",
           "source": "知乎",
           "ranks": [
             14
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "16时02分"
         },
@@ -594,6 +609,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "07时24分"
+        },
+        {
+          "title": "官方出手,AI吸附遭刑事打击",
+          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28354704&amp;topic_name=%E5%AE%98%E6%96%B9%E5%87%BA%E6%89%8B%2CAI%E5%90%B8%E9%99%84%E9%81%AD%E5%88%91%E4%BA%8B%E6%89%93%E5%87%BB",
+          "source": "贴吧",
+          "ranks": [
+            14
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时38分"
         },
         {
           "title": "美光、SK海力士等入局！Anthropic新一轮融资后估值达9650亿美元，超越OpenAI",
@@ -618,6 +644,17 @@
           "time_info": "07时24分"
         },
         {
+          "title": "华为发表韬 (τ) 定律，实现晶体管密度与系统性能突破，是芯片制造领域另一个 deepseek 时刻吗？",
+          "url": "https://www.zhihu.com/question/2042260682780009473",
+          "source": "知乎",
+          "ranks": [
+            16
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时38分"
+        },
+        {
           "title": "周四（5月28日）纽约尾盘，现货黄金涨0.95%，报4496.21美元/盎司，日内交投于4366.74-4516.60美元区间，北京时间11:00-21:00低位窄幅震荡。 现货白银涨1.37%，报75.6572美元/盎司。 COMEX铜期货涨1.25%，报6.4195美元/磅。 现货铂金跌0.27%，现货钯金跌1.14%。",
           "url": "https://wallstreetcn.com/livenews/3110942",
           "source": "华尔街见闻-快讯",
@@ -638,6 +675,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "03时38分"
+        },
+        {
+          "title": "字节跳动AI4S团队调整，由杨震原负责管理",
+          "url": "https://wallstreetcn.com/livenews/3111381",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            18
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时38分"
         },
         {
           "title": "上海黄金交易所黄金T+D 5月28日（周四）晚盘收盘上涨2.12%报983.5元/克；<br/>上海黄金交易所白银T+D 5月28日（周四）晚盘收盘上涨3.49%报18380.0元/千克。",
@@ -695,13 +743,35 @@
           "time_info": "03时38分"
         },
         {
+          "title": "廉价手机的黄金时代正在迎来终结",
+          "url": "https://www.baidu.com/s?wd=%E5%BB%89%E4%BB%B7%E6%89%8B%E6%9C%BA%E7%9A%84%E9%BB%84%E9%87%91%E6%97%B6%E4%BB%A3%E6%AD%A3%E5%9C%A8%E8%BF%8E%E6%9D%A5%E7%BB%88%E7%BB%93",
+          "source": "百度热搜",
+          "ranks": [
+            24
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时38分"
+        },
+        {
+          "title": "现货黄金日内涨幅达1.0%，报4542.06美元/盎司。",
+          "url": "https://wallstreetcn.com/livenews/3111375",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            24
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时38分"
+        },
+        {
           "title": "国产AI芯片三国杀",
           "url": "https://www.toutiao.com/trending/7645160711315787327/",
           "source": "今日头条",
           "ranks": [
             26
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "16时02分"
         },
@@ -723,7 +793,7 @@
           "ranks": [
             28
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "16时02分"
         }
@@ -731,7 +801,7 @@
     },
     {
       "keyword_group": "伊朗",
-      "match_count": 35,
+      "match_count": 38,
       "titles": [
         {
           "title": "伊朗称击落一架美军飞机，美方回应",
@@ -742,8 +812,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[11时55分 ~ 16时02分]"
+          "appearance_count": 3,
+          "time_info": "[11时55分 ~ 19时38分]"
         },
         {
           "title": "美国副总统万斯：（谈及伊朗）尚未达成协议，但已非常接近。",
@@ -804,6 +874,17 @@
           "time_info": "05时58分"
         },
         {
+          "title": "伊朗称过去24小时有24艘船通过霍尔木兹海峡",
+          "url": "https://flash.jin10.com/detail/20260529191920565800",
+          "source": "金十数据",
+          "ranks": [
+            4
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时38分"
+        },
+        {
           "title": "美国财长：美国将对伊朗航司实施多方面限制",
           "url": "https://wallstreetcn.com/livenews/3110865",
           "source": "华尔街见闻-快讯",
@@ -813,6 +894,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "00时56分"
+        },
+        {
+          "title": "伊朗称过去24小时有24艘船通过霍尔木兹海峡",
+          "url": "https://wallstreetcn.com/livenews/3111401",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            5
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时38分"
         },
         {
           "title": "伊朗对美国空军基地实施打击",
@@ -845,11 +937,12 @@
           "source": "今日头条",
           "ranks": [
             20,
-            25
+            25,
+            24
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[11时55分 ~ 16时02分]"
+          "appearance_count": 3,
+          "time_info": "[11时55分 ~ 19时38分]"
         },
         {
           "title": "美或至少3年才能补齐在伊朗消耗弹药",
@@ -1083,6 +1176,17 @@
           "time_info": "05时58分"
         },
         {
+          "title": "伊官员：伊朗对霍尔木兹海峡的控制已是世界公认的事实",
+          "url": "https://wallstreetcn.com/livenews/3111376",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            23
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时38分"
+        },
+        {
           "title": "伊朗说“亚伯拉罕协议”加剧地区不安全",
           "url": "https://wallstreetcn.com/livenews/3110844",
           "source": "华尔街见闻-快讯",
@@ -1153,8 +1257,8 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[00时55分 ~ 16时02分]"
+          "appearance_count": 10,
+          "time_info": "[00时55分 ~ 19时38分]"
         },
         {
           "title": "特朗普调侃赫格塞思：他热衷战争",
@@ -1177,6 +1281,18 @@
           "is_new": false,
           "appearance_count": 7,
           "time_info": "[00时55分 ~ 07时24分]"
+        },
+        {
+          "title": "黄仁勋披露访华细节：特朗普让我在华盛顿登机，可我在西海岸",
+          "url": "https://news.ifeng.com/c/8tW3etoYczE",
+          "source": "凤凰网",
+          "ranks": [
+            11,
+            12
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[16时02分 ~ 19时38分]"
         },
         {
           "title": "据福克斯新闻记者：美国消息人士向白宫记者团证实，美国和伊朗已达成一项初步协议，但该协议尚待特朗普总统批准。",
@@ -1210,17 +1326,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "00时56分"
-        },
-        {
-          "title": "黄仁勋披露访华细节：特朗普让我在华盛顿登机，可我在西海岸",
-          "url": "https://news.ifeng.com/c/8tW3etoYczE",
-          "source": "凤凰网",
-          "ranks": [
-            11
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "16时02分"
         },
         {
           "title": "美国财长贝森特：美国财政部正着手筹备一款印有特朗普总统头像的250美元新版纸币。",
