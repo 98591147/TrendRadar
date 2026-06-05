@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-06-05T17:57:00.965772+08:00",
-  "total_titles_processed": 1034,
+  "generated_at": "2026-06-05T20:42:04.464921+08:00",
+  "total_titles_processed": 1194,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "DeepSeek Ai 水球泡 谷歌 google gemini 好书推荐 chatgpt openai 白银 金价石油 黄金 热梗",
-      "match_count": 55,
+      "match_count": 62,
       "titles": [
         {
           "title": "AI交易降温，纳指走V仍收跌，道指创新高，博通大跌超12%，原油下挫，金银反弹",
@@ -15,8 +15,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[08时12分 ~ 17时57分]"
+          "appearance_count": 6,
+          "time_info": "[08时12分 ~ 20时42分]"
         },
         {
           "title": "罕见！“AI巨头”呼吁全球暂停AI开发，警告模型正逐步具备“自我升级”能力",
@@ -27,8 +27,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[13时21分 ~ 17时57分]"
+          "appearance_count": 5,
+          "time_info": "[13时21分 ~ 20时42分]"
         },
         {
           "title": "博通电话会：CEO坦言谷歌正“另寻新欢”，但需求旺盛订单排到2028年，将打造算力融资平台",
@@ -42,6 +42,17 @@
           "time_info": "[02时21分 ~ 06时27分]"
         },
         {
+          "title": "母亲把黄金藏水壶被女儿当废品卖了",
+          "url": "https://www.toutiao.com/trending/7647722605785612351/",
+          "source": "今日头条",
+          "ranks": [
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[20时41分 ~ 20时42分]"
+        },
+        {
           "title": "【早报】深夜，美股半导体板块剧烈分化；高盛：SpaceX的AI收入将激增100倍",
           "url": "https://www.cls.cn/detail/2391272",
           "source": "财联社热门",
@@ -52,6 +63,28 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[08时12分 ~ 13时21分]"
+        },
+        {
+          "title": "谷歌计划两年内释放 3200 万只蚊子，旨在减少蚊子数抑制疾病传播，放蚊为啥能灭蚊？背后是什么原理？",
+          "url": "https://www.zhihu.com/question/2045932866278895886",
+          "source": "知乎",
+          "ranks": [
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[20时41分 ~ 20时42分]"
+        },
+        {
+          "title": "现货黄金短线下挫近20美元，现报4447.73美元/盎司。",
+          "url": "https://flash.jin10.com/detail/20260605203116255800",
+          "source": "金十数据",
+          "ranks": [
+            4
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时42分"
         },
         {
           "title": "华为云发布Agentic AI系列新品",
@@ -74,6 +107,18 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "08时12分"
+        },
+        {
+          "title": "报道：美国政府拟收购AI公司股份并向全民派息，OpenAI Altman是主要推手",
+          "url": "https://wallstreetcn.com/articles/3773921",
+          "source": "华尔街见闻",
+          "ranks": [
+            7,
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[17时56分 ~ 20时42分]"
         },
         {
           "title": "SpaceX IPO路演盛况空前！华尔街火力全开 高喊AI收入将激增百倍",
@@ -102,6 +147,19 @@
           "time_info": "[04时59分 ~ 13时21分]"
         },
         {
+          "title": "Anthropic：高昂的计算成本是推动IPO的主因，呼吁全球暂缓前沿AI研发",
+          "url": "https://wallstreetcn.com/articles/3773907",
+          "source": "华尔街见闻",
+          "ranks": [
+            9,
+            6,
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[13时21分 ~ 20时42分]"
+        },
+        {
           "title": "AI脸泛滥成灾,建模师没活了",
           "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28354826&amp;topic_name=AI%E8%84%B8%E6%B3%9B%E6%BB%A5%E6%88%90%E7%81%BE%2C%E5%BB%BA%E6%A8%A1%E5%B8%88%E6%B2%A1%E6%B4%BB%E4%BA%86",
           "source": "贴吧",
@@ -126,6 +184,40 @@
           "time_info": "[02时21分 ~ 08时12分]"
         },
         {
+          "title": "【焦点复盘】沪指冲高回落失守半年线，TMT产业链遭深幅回调，物理AI概念逆势活跃",
+          "url": "https://www.cls.cn/detail/2391959",
+          "source": "财联社热门",
+          "ranks": [
+            11,
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[17时56分 ~ 20时42分]"
+        },
+        {
+          "title": "陈果：牛市不仅仅是AI，中国消费股遍地黄金，处于历史大底",
+          "url": "https://wallstreetcn.com/articles/3773916",
+          "source": "华尔街见闻",
+          "ranks": [
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[17时56分 ~ 20时42分]"
+        },
+        {
+          "title": "【每日收评】创业板指放量跌超3%，多只AI硬件权重遭遇重挫，机器人概念逆势爆发",
+          "url": "https://www.cls.cn/detail/2391915",
+          "source": "财联社热门",
+          "ranks": [
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[17时56分 ~ 20时42分]"
+        },
+        {
           "title": "好怕现实中也有人长AI这样",
           "url": "https://s.weibo.com/weibo?q=%E5%A5%BD%E6%80%95%E7%8E%B0%E5%AE%9E%E4%B8%AD%E4%B9%9F%E6%9C%89%E4%BA%BA%E9%95%BFAI%E8%BF%99%E6%A0%B7&t=31&band_rank=14&Refer=top",
           "source": "微博",
@@ -138,6 +230,30 @@
           "is_new": false,
           "appearance_count": 4,
           "time_info": "[02时21分 ~ 08时12分]"
+        },
+        {
+          "title": "母亲把黄金藏水壶被女儿当废品卖了",
+          "url": "https://www.baidu.com/s?wd=%E6%AF%8D%E4%BA%B2%E6%8A%8A%E9%BB%84%E9%87%91%E8%97%8F%E6%B0%B4%E5%A3%B6%E8%A2%AB%E5%A5%B3%E5%84%BF%E5%BD%93%E5%BA%9F%E5%93%81%E5%8D%96%E4%BA%86",
+          "source": "百度热搜",
+          "ranks": [
+            28,
+            14
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[17时56分 ~ 20时42分]"
+        },
+        {
+          "title": "AI外呼技术兴起，骚扰电话高频化如何治理？上海市监局答复",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33310752",
+          "source": "澎湃新闻",
+          "ranks": [
+            18,
+            20
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[17时56分 ~ 20时42分]"
         },
         {
           "title": "最灿烂不一定要许多钻石黄金",
@@ -177,18 +293,6 @@
           "time_info": "[02时21分 ~ 06时27分]"
         },
         {
-          "title": "Anthropic：高昂的计算成本是推动IPO的主因，呼吁全球暂缓前沿AI研发",
-          "url": "https://wallstreetcn.com/articles/3773907",
-          "source": "华尔街见闻",
-          "ranks": [
-            9,
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[13时21分 ~ 17时57分]"
-        },
-        {
           "title": "AI 动画公司能否在一年内替代大部分传统动画公司？",
           "url": "https://www.zhihu.com/question/13090511317",
           "source": "知乎",
@@ -215,6 +319,18 @@
           "time_info": "[02时21分 ~ 06时27分]"
         },
         {
+          "title": "严防作弊!高考期间AI搜题关停",
+          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28354901&amp;topic_name=%E4%B8%A5%E9%98%B2%E4%BD%9C%E5%BC%8A%21%E9%AB%98%E8%80%83%E6%9C%9F%E9%97%B4AI%E6%90%9C%E9%A2%98%E5%85%B3%E5%81%9C",
+          "source": "贴吧",
+          "ranks": [
+            6,
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[17时57分 ~ 20时42分]"
+        },
+        {
           "title": "AI交易降温，纳指跌超1%，博通大跌14%，金涨油跌，比特币承压",
           "url": "https://wallstreetcn.com/articles/3773843",
           "source": "华尔街见闻",
@@ -225,17 +341,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[02时21分 ~ 04时59分]"
-        },
-        {
-          "title": "报道：美国政府拟收购AI公司股份并向全民派息，OpenAI Altman是主要推手",
-          "url": "https://wallstreetcn.com/articles/3773921",
-          "source": "华尔街见闻",
-          "ranks": [
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[17时56分 ~ 17时57分]"
         },
         {
           "title": "中方回应外媒称AI进入“中美争霸”",
@@ -254,28 +359,6 @@
           "source": "财联社热门",
           "ranks": [
             8
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[17时56分 ~ 17时57分]"
-        },
-        {
-          "title": "陈果：牛市不仅仅是AI，中国消费股遍地黄金，处于历史大底",
-          "url": "https://wallstreetcn.com/articles/3773916",
-          "source": "华尔街见闻",
-          "ranks": [
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[17时56分 ~ 17时57分]"
-        },
-        {
-          "title": "【每日收评】创业板指放量跌超3%，多只AI硬件权重遭遇重挫，机器人概念逆势爆发",
-          "url": "https://www.cls.cn/detail/2391915",
-          "source": "财联社热门",
-          "ranks": [
-            9
           ],
           "is_new": false,
           "appearance_count": 2,
@@ -305,37 +388,15 @@
           "time_info": "[17时56分 ~ 17时57分]"
         },
         {
-          "title": "【焦点复盘】沪指冲高回落失守半年线，TMT产业链遭深幅回调，物理AI概念逆势活跃",
-          "url": "https://www.cls.cn/detail/2391959",
-          "source": "财联社热门",
+          "title": "创业板大跌超3%，机器人午后爆发，芯片半导体集体下挫，恒科指跌近2%，AI大模型股急跌",
+          "url": "https://wallstreetcn.com/articles/3773923",
+          "source": "华尔街见闻",
           "ranks": [
-            11
+            10
           ],
           "is_new": false,
           "appearance_count": 2,
-          "time_info": "[17时56分 ~ 17时57分]"
-        },
-        {
-          "title": "AI外呼技术兴起，骚扰电话高频化如何治理？上海市监局答复",
-          "url": "https://m.thepaper.cn/newsDetail_forward_33310752",
-          "source": "澎湃新闻",
-          "ranks": [
-            18
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[17时56分 ~ 17时57分]"
-        },
-        {
-          "title": "母亲把黄金藏水壶被女儿当废品卖了",
-          "url": "https://www.baidu.com/s?wd=%E6%AF%8D%E4%BA%B2%E6%8A%8A%E9%BB%84%E9%87%91%E8%97%8F%E6%B0%B4%E5%A3%B6%E8%A2%AB%E5%A5%B3%E5%84%BF%E5%BD%93%E5%BA%9F%E5%93%81%E5%8D%96%E4%BA%86",
-          "source": "百度热搜",
-          "ranks": [
-            28
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[17时56分 ~ 17时57分]"
+          "time_info": "[20时41分 ~ 20时42分]"
         },
         {
           "title": "猎鹰崛起AI先导片",
@@ -359,17 +420,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "06时27分"
-        },
-        {
-          "title": "严防作弊!高考期间AI搜题关停",
-          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28354901&amp;topic_name=%E4%B8%A5%E9%98%B2%E4%BD%9C%E5%BC%8A%21%E9%AB%98%E8%80%83%E6%9C%9F%E9%97%B4AI%E6%90%9C%E9%A2%98%E5%85%B3%E5%81%9C",
-          "source": "贴吧",
-          "ranks": [
-            6
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "17时57分"
         },
         {
           "title": "桥水达利欧：随着财富转化为现金，AI泡沫终将破裂",
@@ -504,6 +554,28 @@
           "time_info": "08时12分"
         },
         {
+          "title": "印度央行：截至5月29日，印度黄金储备规模为1126亿美元，低于前一周的1147.9亿美元。",
+          "url": "https://wallstreetcn.com/livenews/3115100",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            17
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时42分"
+        },
+        {
+          "title": "母亲60g黄金藏水壶被女儿当废品卖了",
+          "url": "https://s.weibo.com/weibo?q=%23%E6%AF%8D%E4%BA%B260g%E9%BB%84%E9%87%91%E8%97%8F%E6%B0%B4%E5%A3%B6%E8%A2%AB%E5%A5%B3%E5%84%BF%E5%BD%93%E5%BA%9F%E5%93%81%E5%8D%96%E4%BA%86%23&t=31&band_rank=17&Refer=top",
+          "source": "微博",
+          "ranks": [
+            17
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时42分"
+        },
+        {
           "title": "标普500指数初步收涨0.4%，医疗保健板块涨3.1%，金融板块涨2.6%，电信板块涨2%，能源板块跌0.1%，科技板块跌1.2%。 纳斯达克100指数初步收跌0.4%，成分股中，博通初步收跌12.4%，美光跌7%，Arm控股跌5%，闪迪跌4%，Diamondback Energy跌3.6%，西部数据跌2.7%，谷歌A涨3.8%，迈威尔科技涨5%，Axon涨6.8%。 联合健康初步收涨5.2%，领跑道指成分股，高盛涨5%，Merck涨4.6%，美国运通、摩根大通、波音、思科至少涨2.8%，雪佛龙跌0.7%，Salesforce跌0.9%，霍尼韦尔跌2.3%，VZ跌3.8%。 半导体指数跌2%。",
           "url": "https://wallstreetcn.com/livenews/3114609",
           "source": "华尔街见闻-快讯",
@@ -535,6 +607,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "08时12分"
+        },
+        {
+          "title": "湖北成立工业物理AI实验室，围绕“AI+工业软件+物理机理+制造数据”开展研发攻关",
+          "url": "https://wallstreetcn.com/livenews/3115097",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            20
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时42分"
         },
         {
           "title": "华尔街预计：SpaceX旗下AI业务收入到2030年将飙升100倍",
@@ -631,7 +714,7 @@
           "ranks": [
             30
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "17时57分"
         }
@@ -639,7 +722,7 @@
     },
     {
       "keyword_group": "特朗普",
-      "match_count": 48,
+      "match_count": 49,
       "titles": [
         {
           "title": "特朗普：乐见“普泽会”，俄乌会“妥协”",
@@ -817,6 +900,17 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[04时59分 ~ 06时27分]"
+        },
+        {
+          "title": "特朗普称若达成协议，不排除与伊朗最高领袖会晤",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33313125",
+          "source": "澎湃新闻",
+          "ranks": [
+            13
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[20时41分 ~ 20时42分]"
         },
         {
           "title": "美众议院通过决议，限制特朗普对伊动武权力",
@@ -1046,7 +1140,7 @@
           "ranks": [
             18
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "17时57分"
         },
@@ -1186,7 +1280,7 @@
     },
     {
       "keyword_group": "伊朗",
-      "match_count": 10,
+      "match_count": 15,
       "titles": [
         {
           "title": "据黎巴嫩电视台Al-Mayadeen：伊朗外长阿拉格齐表示，伊朗有能力维持战争，但不寻求战争。",
@@ -1200,6 +1294,17 @@
           "time_info": "02时21分"
         },
         {
+          "title": "伊朗否认已同意将部分浓缩铀转移至第三国",
+          "url": "https://wallstreetcn.com/livenews/3115122",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            2
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时42分"
+        },
+        {
           "title": "哈马斯高官与伊朗外长通话，讨论地区局势",
           "url": "https://wallstreetcn.com/livenews/3114653",
           "source": "华尔街见闻-快讯",
@@ -1209,6 +1314,29 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "06时27分"
+        },
+        {
+          "title": "伊朗军队向美军舰开火示警 美舰船随后驶离阿曼湾",
+          "url": "https://wallstreetcn.com/livenews/3115119",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            5
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时42分"
+        },
+        {
+          "title": "一图看懂｜主战还是主和？伊朗高层有什么分歧？",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33310457",
+          "source": "澎湃新闻",
+          "ranks": [
+            9,
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[13时21分 ~ 20时42分]"
         },
         {
           "title": "伊朗“圣城旅”喊话以色列",
@@ -1225,17 +1353,6 @@
           "time_info": "[02时21分 ~ 08时12分]"
         },
         {
-          "title": "一图看懂｜主战还是主和？伊朗高层有什么分歧？",
-          "url": "https://m.thepaper.cn/newsDetail_forward_33310457",
-          "source": "澎湃新闻",
-          "ranks": [
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[13时21分 ~ 17时57分]"
-        },
-        {
           "title": "伊朗外长回忆哈梅内伊遇袭当天细节",
           "url": "https://news.ifeng.com/c/8thzeBSBwEz",
           "source": "凤凰网",
@@ -1245,6 +1362,17 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[17时56分 ~ 17时57分]"
+        },
+        {
+          "title": "美以袭击伊朗进入第 98 天，当前局势如何？哪些信息值得关注？",
+          "url": "https://www.zhihu.com/question/2046131640967984631",
+          "source": "知乎",
+          "ranks": [
+            11
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[20时41分 ~ 20时42分]"
         },
         {
           "title": "航运数据显示，伊朗5月份石油出口量降至每日30万桶以下，创至少六年来的新低。",
@@ -1269,6 +1397,17 @@
           "time_info": "06时27分"
         },
         {
+          "title": "伊朗媒体：伊朗将两艘美军驱逐舰驱离阿曼湾",
+          "url": "https://wallstreetcn.com/livenews/3115106",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            12
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时42分"
+        },
+        {
           "title": "哈马斯高官与伊朗外长通话讨论地区局势",
           "url": "https://flash.jin10.com/detail/20260605070736550800",
           "source": "金十数据",
@@ -1286,9 +1425,20 @@
           "ranks": [
             21
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "17时57分"
+        },
+        {
+          "title": "美国印太司令部：已对油轮“达维娜”号（MT Davina）实施登船检查。 “达维娜”号与伊朗有关。",
+          "url": "https://wallstreetcn.com/livenews/3115093",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            22
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时42分"
         },
         {
           "title": "伊朗外长：地区国家不应让美国利用其领土攻击伊朗",
@@ -1305,7 +1455,7 @@
     },
     {
       "keyword_group": "美股",
-      "match_count": 7,
+      "match_count": 8,
       "titles": [
         {
           "title": "中东局势再度升级，原油走高，美股债双杀，标普九连涨终结，金属和加密货币齐跌",
@@ -1370,6 +1520,17 @@
           "time_info": "[02时21分 ~ 08时12分]"
         },
         {
+          "title": "反“金发姑娘”！今晚非农：好消息和坏消息，对美股而言都是坏消息",
+          "url": "https://wallstreetcn.com/articles/3773949",
+          "source": "华尔街见闻",
+          "ranks": [
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[20时41分 ~ 20时42分]"
+        },
+        {
           "title": "银行ETF、医疗业ETF收涨超3%，领跑美股行业ETF",
           "url": "https://wallstreetcn.com/livenews/3114624",
           "source": "华尔街见闻-快讯",
@@ -1396,7 +1557,7 @@
     },
     {
       "keyword_group": "美元",
-      "match_count": 2,
+      "match_count": 3,
       "titles": [
         {
           "title": "美元指数4日下跌",
@@ -1408,6 +1569,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "06时27分"
+        },
+        {
+          "title": "非农就业远超预期，美元指数DXY短线走高15点，现报99.36。",
+          "url": "https://flash.jin10.com/detail/20260605203046176800",
+          "source": "金十数据",
+          "ranks": [
+            5
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时42分"
         },
         {
           "title": "周四（6月4日）纽约尾盘，ICE美元指数跌0.10%，报99.432点，全天处于下跌状态，北京时间16:00之前持稳于99.450点附近，之后呈现出V形走势、20:00刷新日低至99.179点。 彭博美元指数跌0.06%，报1204.71点，欧股盘初曾短线转涨、15:41刷新日高至1205.94点，随后出现V型行情、20:00也刷新日低至1202.49点。 美元兑日元跌0.03%，报160.02日元，在一波短线跳水行情中、12:34刷新日低至159.61日元。",
