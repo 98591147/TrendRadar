@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-06-06T12:56:02.690067+08:00",
-  "total_titles_processed": 757,
+  "generated_at": "2026-06-06T15:48:28.600447+08:00",
+  "total_titles_processed": 909,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "DeepSeek Ai 水球泡 谷歌 google gemini 好书推荐 chatgpt openai 白银 金价石油 黄金 热梗",
-      "match_count": 51,
+      "match_count": 55,
       "titles": [
         {
           "title": "罕见！“AI巨头”呼吁全球暂停AI开发，警告模型正逐步具备“自我升级”能力",
@@ -26,8 +26,23 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[08时09分 ~ 12时56分]"
+          "appearance_count": 5,
+          "time_info": "[08时09分 ~ 15时48分]"
+        },
+        {
+          "title": "马上评｜该对AI外呼骚扰电话出手了",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33316001",
+          "source": "澎湃新闻",
+          "ranks": [
+            12,
+            10,
+            6,
+            2,
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 9,
+          "time_info": "[01时59分 ~ 15时48分]"
         },
         {
           "title": "黄金",
@@ -51,20 +66,6 @@
           "is_new": false,
           "appearance_count": 4,
           "time_info": "[01时59分 ~ 06时17分]"
-        },
-        {
-          "title": "马上评｜该对AI外呼骚扰电话出手了",
-          "url": "https://m.thepaper.cn/newsDetail_forward_33316001",
-          "source": "澎湃新闻",
-          "ranks": [
-            12,
-            10,
-            6,
-            2
-          ],
-          "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[01时59分 ~ 12时56分]"
         },
         {
           "title": "男子偷走百万黄金 留下半瓶可乐",
@@ -103,15 +104,15 @@
           "time_info": "[01时59分 ~ 06时17分]"
         },
         {
-          "title": "AI模型也能流水线批量生产了",
-          "url": "https://flash.jin10.com/detail/20260606123406700800",
-          "source": "金十数据",
+          "title": "废品站称没见60g黄金母亲疑其撒谎",
+          "url": "https://s.weibo.com/weibo?q=%23%E5%BA%9F%E5%93%81%E7%AB%99%E7%A7%B0%E6%B2%A1%E8%A7%8160g%E9%BB%84%E9%87%91%E6%AF%8D%E4%BA%B2%E7%96%91%E5%85%B6%E6%92%92%E8%B0%8E%23&t=31&band_rank=2&Refer=top",
+          "source": "微博",
           "ranks": [
             2
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "12时56分"
+          "time_info": "15时48分"
         },
         {
           "title": "美国商品期货交易委员会（CFTC）：6月2日当周，投机者所持COMEX黄金净多头头寸增加14,410手合约，至111,341手合约，创18周新高。 所持COMEX白银净多头头寸降低至10,433手合约。 所持COMEX铜净多头头寸增至77,131手合约，创逾五年新高。 所持NYMEX铂金净多头头寸减少至11,974手合约，创10周新低。 所持NYMEX钯金净空头头寸降低至3,476手合约。",
@@ -145,6 +146,18 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "04时06分"
+        },
+        {
+          "title": "黑色星期五！“人人赚钱”的全球AI大牛市遭遇“当头棒喝”",
+          "url": "https://wallstreetcn.com/articles/3774007",
+          "source": "华尔街见闻",
+          "ranks": [
+            9,
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[12时55分 ~ 15时48分]"
         },
         {
           "title": "报道：美国政府拟收购AI公司股份并向全民派息，OpenAI Altman是主要推手",
@@ -183,17 +196,43 @@
           "time_info": "[01时59分 ~ 08时10分]"
         },
         {
+          "title": "AI模型也能流水线批量生产了",
+          "url": "https://flash.jin10.com/detail/20260606123406700800",
+          "source": "金十数据",
+          "ranks": [
+            2,
+            28
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[12时56分 ~ 15时48分]"
+        },
+        {
           "title": "严防作弊!高考期间AI搜题关停",
           "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28354901&amp;topic_name=%E4%B8%A5%E9%98%B2%E4%BD%9C%E5%BC%8A%21%E9%AB%98%E8%80%83%E6%9C%9F%E9%97%B4AI%E6%90%9C%E9%A2%98%E5%85%B3%E5%81%9C",
           "source": "贴吧",
           "ranks": [
             10,
             11,
-            18
+            18,
+            19
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[02时00分 ~ 15时48分]"
+        },
+        {
+          "title": "开麦丨AI在电话那头等你，接还是不接？",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33316762",
+          "source": "澎湃新闻",
+          "ranks": [
+            20,
+            18,
+            17
           ],
           "is_new": false,
           "appearance_count": 5,
-          "time_info": "[02时00分 ~ 12时56分]"
+          "time_info": "[08时09分 ~ 15时48分]"
         },
         {
           "title": "Anthropic：高昂的计算成本是推动IPO的主因，呼吁全球暂缓前沿AI研发",
@@ -219,18 +258,6 @@
           "time_info": "[01时59分 ~ 06时17分]"
         },
         {
-          "title": "开麦丨AI在电话那头等你，接还是不接？",
-          "url": "https://m.thepaper.cn/newsDetail_forward_33316762",
-          "source": "澎湃新闻",
-          "ranks": [
-            20,
-            18
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[08时09分 ~ 12时56分]"
-        },
-        {
           "title": "最灿烂不一定要许多钻石黄金",
           "url": "https://www.douyin.com/hot/2523543",
           "source": "抖音",
@@ -247,22 +274,70 @@
           "url": "https://www.cls.cn/detail/2392464",
           "source": "财联社热门",
           "ranks": [
-            6
+            6,
+            7
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[12时55分 ~ 12时56分]"
+          "appearance_count": 3,
+          "time_info": "[12时55分 ~ 15时48分]"
         },
         {
-          "title": "黑色星期五！“人人赚钱”的全球AI大牛市遭遇“当头棒喝”",
-          "url": "https://wallstreetcn.com/articles/3774007",
-          "source": "华尔街见闻",
+          "title": "IPO前夕再获重磅订单！谷歌每月支付9.2亿美元租用SpaceX算力",
+          "url": "https://www.cls.cn/detail/2392502",
+          "source": "财联社热门",
           "ranks": [
-            9
+            10,
+            12
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[12时55分 ~ 12时56分]"
+          "appearance_count": 3,
+          "time_info": "[12时55分 ~ 15时48分]"
+        },
+        {
+          "title": "下一个是OpenAI？特朗普证实：政府考虑入股人工智能公司",
+          "url": "https://www.cls.cn/detail/2392488",
+          "source": "财联社热门",
+          "ranks": [
+            12,
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[12时55分 ~ 15时48分]"
+        },
+        {
+          "title": "高考要用AI改卷系谣言",
+          "url": "https://www.baidu.com/s?wd=%E9%AB%98%E8%80%83%E8%A6%81%E7%94%A8AI%E6%94%B9%E5%8D%B7%E7%B3%BB%E8%B0%A3%E8%A8%80",
+          "source": "百度热搜",
+          "ranks": [
+            11
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[12时55分 ~ 15时48分]"
+        },
+        {
+          "title": "抖音副总裁回应豆包误判蘑菇致用户中毒，称 AI 回应仅供参考，如何看待这一回应？这件事豆包该背锅吗？",
+          "url": "https://www.zhihu.com/question/2046268823192302620",
+          "source": "知乎",
+          "ranks": [
+            13
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[12时55分 ~ 15时48分]"
+        },
+        {
+          "title": "腾讯高管称今年大部分代码由 AI 生成，工程师更侧重架构设计，怎样看待这一变化？会成为行业趋势吗？",
+          "url": "https://www.zhihu.com/question/2046240341729042945",
+          "source": "知乎",
+          "ranks": [
+            15,
+            17
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[12时55分 ~ 15时48分]"
         },
         {
           "title": "腾讯姚顺雨称 AI 实用价值高于「刷榜」价值，如何看待这一观点？国产大模型该告别榜单内卷吗？",
@@ -287,17 +362,6 @@
           "time_info": "[08时09分 ~ 08时10分]"
         },
         {
-          "title": "IPO前夕再获重磅订单！谷歌每月支付9.2亿美元租用SpaceX算力",
-          "url": "https://www.cls.cn/detail/2392502",
-          "source": "财联社热门",
-          "ranks": [
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[12时55分 ~ 12时56分]"
-        },
-        {
           "title": "阿波罗资管和黑石集团已为Anthropic敲定350亿美元的融资方案，用于扩建其AI基础设施。",
           "url": "https://wallstreetcn.com/livenews/3115354",
           "source": "华尔街见闻-快讯",
@@ -308,50 +372,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[06时17分 ~ 08时10分]"
-        },
-        {
-          "title": "高考要用AI改卷系谣言",
-          "url": "https://www.baidu.com/s?wd=%E9%AB%98%E8%80%83%E8%A6%81%E7%94%A8AI%E6%94%B9%E5%8D%B7%E7%B3%BB%E8%B0%A3%E8%A8%80",
-          "source": "百度热搜",
-          "ranks": [
-            11
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[12时55分 ~ 12时56分]"
-        },
-        {
-          "title": "下一个是OpenAI？特朗普证实：政府考虑入股人工智能公司",
-          "url": "https://www.cls.cn/detail/2392488",
-          "source": "财联社热门",
-          "ranks": [
-            12
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[12时55分 ~ 12时56分]"
-        },
-        {
-          "title": "抖音副总裁回应豆包误判蘑菇致用户中毒，称 AI 回应仅供参考，如何看待这一回应？这件事豆包该背锅吗？",
-          "url": "https://www.zhihu.com/question/2046268823192302620",
-          "source": "知乎",
-          "ranks": [
-            13
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[12时55分 ~ 12时56分]"
-        },
-        {
-          "title": "腾讯高管称今年大部分代码由 AI 生成，工程师更侧重架构设计，怎样看待这一变化？会成为行业趋势吗？",
-          "url": "https://www.zhihu.com/question/2046240341729042945",
-          "source": "知乎",
-          "ranks": [
-            15
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[12时55分 ~ 12时56分]"
         },
         {
           "title": "谷歌与SpaceX签署协议 计划以每月9.2亿美元的价格购买算力",
@@ -416,7 +436,7 @@
           "ranks": [
             6
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "12时56分"
         },
@@ -449,7 +469,7 @@
           "ranks": [
             9
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "12时56分"
         },
@@ -463,6 +483,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "04时06分"
+        },
+        {
+          "title": "全球AI大牛市遭遇“当头棒喝”",
+          "url": "https://www.toutiao.com/trending/7648110650903760422/",
+          "source": "今日头条",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "15时48分"
         },
         {
           "title": "谷歌关联的预付能源债券引发市政债券交易员抢购潮",
@@ -520,6 +551,17 @@
           "time_info": "04时06分"
         },
         {
+          "title": "以色列国防军：针对敌方飞行器侵入泽拉伊特（Zerait）地区发出警报后，监测到一架无人机在以色列国防军于黎巴嫩南部开展行动的区域附近坠落。该飞行器未进入以色列领土，未造成人员伤亡。",
+          "url": "https://flash.jin10.com/detail/20260606140145387800",
+          "source": "金十数据",
+          "ranks": [
+            17
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "15时48分"
+        },
+        {
           "title": "英媒：Meta拟通过股票发行筹集数百亿美元资金 以支持在AI领域的雄心",
           "url": "https://flash.jin10.com/detail/20260606041131799800",
           "source": "金十数据",
@@ -548,9 +590,20 @@
           "ranks": [
             22
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "12时56分"
+        },
+        {
+          "title": "分析师：持有黄金的成本正在变得越来越高",
+          "url": "https://flash.jin10.com/detail/20260606130821651800",
+          "source": "金十数据",
+          "ranks": [
+            24
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "15时48分"
         },
         {
           "title": "Meta考虑对消费者AI智能体工具收费每个月200美元。（The Information）",
@@ -570,7 +623,7 @@
           "ranks": [
             27
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "12时56分"
         },
@@ -610,8 +663,8 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[12时55分 ~ 12时56分]"
+          "appearance_count": 3,
+          "time_info": "[12时55分 ~ 15时48分]"
         },
         {
           "title": "美国总统特朗普：将在十月会议上将降息决定交给美联储主席沃什处理。",
@@ -656,17 +709,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "02时00分"
-        },
-        {
-          "title": "特朗普赦免因内幕交易获罪前议员",
-          "url": "https://wallstreetcn.com/livenews/3115419",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            4
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "12时56分"
         },
         {
           "title": "美媒：特朗普称已敦促普尔特对国家情报局进行裁员",
@@ -737,6 +779,18 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[06时17分 ~ 08时10分]"
+        },
+        {
+          "title": "特朗普赦免因内幕交易获罪前议员",
+          "url": "https://wallstreetcn.com/livenews/3115419",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            4,
+            18
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[12时56分 ~ 15时48分]"
         },
         {
           "title": "美国总统特朗普：（谈及能源与化肥领域）正在筹划相关举措。",
@@ -860,6 +914,18 @@
           "time_info": "[06时17分 ~ 08时10分]"
         },
         {
+          "title": "特朗普改口：肯尼迪中心将继续由我而非国会掌管",
+          "url": "https://wallstreetcn.com/livenews/3115408",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            15,
+            29
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[12时56分 ~ 15时48分]"
+        },
+        {
           "title": "美国总统特朗普：伊朗别无选择，但这需要一些时间。",
           "url": "https://flash.jin10.com/detail/20260606060257951800",
           "source": "金十数据",
@@ -968,17 +1034,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "08时10分"
-        },
-        {
-          "title": "特朗普改口：肯尼迪中心将继续由我而非国会掌管",
-          "url": "https://wallstreetcn.com/livenews/3115408",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            15
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "12时56分"
         },
         {
           "title": "美国总统特朗普：美联储主席沃什将做一份不错的工作。 我们正在处理前美联储主席鲍威尔。",
@@ -1108,7 +1163,7 @@
           "ranks": [
             28
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "12时56分"
         }
@@ -1116,7 +1171,7 @@
     },
     {
       "keyword_group": "伊朗",
-      "match_count": 21,
+      "match_count": 27,
       "titles": [
         {
           "title": "伊朗称美军第五舰队总部遭打击，美方否认",
@@ -1126,8 +1181,8 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[12时55分 ~ 12时56分]"
+          "appearance_count": 3,
+          "time_info": "[12时55分 ~ 15时48分]"
         },
         {
           "title": "美军称击落四架向霍尔木兹海峡发射的伊朗无人机",
@@ -1141,6 +1196,17 @@
           "time_info": "08时10分"
         },
         {
+          "title": "巴林谴责伊朗对其领土和科威特的导弹袭击",
+          "url": "https://flash.jin10.com/detail/20260606151202520800",
+          "source": "金十数据",
+          "ranks": [
+            1
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "15时48分"
+        },
+        {
           "title": "据CNN，一名美国官员表示伊朗已向霍尔木兹海峡方向发射了多架无人机。该官员表示，美军已击落了其中至少3架。",
           "url": "https://flash.jin10.com/detail/20260606060734761800",
           "source": "金十数据",
@@ -1150,6 +1216,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "08时10分"
+        },
+        {
+          "title": "伊朗外长：哈梅内伊遇害那一刻，我就在他办公室里",
+          "url": "https://news.ifeng.com/c/8tjg7UwVKTV",
+          "source": "凤凰网",
+          "ranks": [
+            3
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "15时48分"
         },
         {
           "title": "据伊朗媒体Fars News：美国尚未向伊朗足球队的部分技术和行政人员签发世界杯签证。",
@@ -1170,8 +1247,8 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[08时09分 ~ 12时56分]"
+          "appearance_count": 5,
+          "time_info": "[08时09分 ~ 15时48分]"
         },
         {
           "title": "一图看懂｜主战还是主和？伊朗高层有什么分歧？",
@@ -1198,6 +1275,18 @@
           "time_info": "[06时17分 ~ 08时10分]"
         },
         {
+          "title": "伊朗称拦截违规油轮后遭美军攻击 警告美勿重演恶行",
+          "url": "https://wallstreetcn.com/livenews/3115407",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            16,
+            30
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[12时56分 ~ 15时48分]"
+        },
+        {
           "title": "伊朗革命卫队：中东地区美军基地遭袭",
           "url": "https://www.baidu.com/s?wd=%E4%BC%8A%E6%9C%97%E9%9D%A9%E5%91%BD%E5%8D%AB%E9%98%9F%EF%BC%9A%E4%B8%AD%E4%B8%9C%E5%9C%B0%E5%8C%BA%E7%BE%8E%E5%86%9B%E5%9F%BA%E5%9C%B0%E9%81%AD%E8%A2%AD",
           "source": "百度热搜",
@@ -1220,15 +1309,37 @@
           "time_info": "08时10分"
         },
         {
+          "title": "报道：多名伊朗世界杯工作人员被美国拒签",
+          "url": "https://wallstreetcn.com/livenews/3115430",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            7
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "15时48分"
+        },
+        {
           "title": "伊朗最高领袖军事顾问警告美国或将“损失惨重”",
           "url": "https://flash.jin10.com/detail/20260606120510241800",
           "source": "金十数据",
           "ranks": [
             10
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "12时56分"
+        },
+        {
+          "title": "白宫：伊朗国足已获得签证",
+          "url": "https://wallstreetcn.com/livenews/3115427",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "15时48分"
         },
         {
           "title": "黎巴嫩总统指责伊朗将该国当作筹码 伊朗外长暗示其敌友不分",
@@ -1237,9 +1348,20 @@
           "ranks": [
             11
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "12时56分"
+        },
+        {
+          "title": "美国军事网站“战区”报道称，美国空军正紧急寻求填补MQ-9无人机库存，此前该机型在针对伊朗的行动中损失了近30架，在针对胡塞武装的任务中也有所损失。由于MQ-9A已停产，美国空军计划从通用原子公司采购未使用的库存飞机，但可供采购的数量不足10架。美军MQ-9机队规模已从2026财年初的165架减少到目前的约135架。",
+          "url": "https://flash.jin10.com/detail/20260606143356956800",
+          "source": "金十数据",
+          "ranks": [
+            11
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "15时48分"
         },
         {
           "title": "伊朗最高领袖顾问重申：伊朗和阿曼对霍尔木兹海峡拥有主权",
@@ -1259,9 +1381,20 @@
           "ranks": [
             13
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "12时56分"
+        },
+        {
+          "title": "伊朗最高领袖军事顾问警告美国或将“损失惨重”",
+          "url": "https://wallstreetcn.com/livenews/3115423",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            14
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "15时48分"
         },
         {
           "title": "白宫官员：伊朗世界杯足球运动员已获签证进入美国。",
@@ -1286,24 +1419,13 @@
           "time_info": "08时10分"
         },
         {
-          "title": "伊朗称拦截违规油轮后遭美军攻击 警告美勿重演恶行",
-          "url": "https://wallstreetcn.com/livenews/3115407",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            16
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "12时56分"
-        },
-        {
           "title": "美军称拦截伊朗导弹和无人机",
           "url": "https://wallstreetcn.com/livenews/3115405",
           "source": "华尔街见闻-快讯",
           "ranks": [
             17
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "12时56分"
         },
@@ -1314,7 +1436,7 @@
           "ranks": [
             20
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "12时56分"
         },
@@ -1325,7 +1447,7 @@
           "ranks": [
             26
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "12时56分"
         },
@@ -1336,7 +1458,7 @@
           "ranks": [
             29
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "12时56分"
         },
@@ -1347,7 +1469,7 @@
           "ranks": [
             29
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "12时56分"
         }
@@ -1355,7 +1477,7 @@
     },
     {
       "keyword_group": "美股",
-      "match_count": 12,
+      "match_count": 13,
       "titles": [
         {
           "title": "反“金发姑娘”！今晚非农：好消息和坏消息，对美股而言都是坏消息",
@@ -1378,8 +1500,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[08时09分 ~ 12时56分]"
+          "appearance_count": 5,
+          "time_info": "[08时09分 ~ 15时48分]"
         },
         {
           "title": "美股三大指数集体收跌，纳指跌超 1100 点，美国非农数据大幅超预期，加息预期升温，哪些信息值得关注？",
@@ -1389,8 +1511,8 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[12时55分 ~ 12时56分]"
+          "appearance_count": 3,
+          "time_info": "[12时55分 ~ 15时48分]"
         },
         {
           "title": "美股七巨头收盘播报｜特斯拉收跌超6.5%，英伟达也跌6.2%",
@@ -1413,6 +1535,17 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[08时09分 ~ 08时10分]"
+        },
+        {
+          "title": "美股三大指数缘何齐跌",
+          "url": "https://www.toutiao.com/trending/7648114822579490346/",
+          "source": "今日头条",
+          "ranks": [
+            7
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "15时48分"
         },
         {
           "title": "周五（6月5日），美股存储芯片与硬件供应链指数收跌10.92%，报198.69点，本周累计下跌5.67%，整体冲高回落。 周五当天，成分股全线溃败，Rambus收跌14.20%，美光科技跌13.25%，泰瑞达、闪迪至少跌11.39%，西部数据跌11.08%，拉姆研究、应用材料、希捷科技至少跌8.48%。",
@@ -1502,11 +1635,12 @@
           "url": "https://wallstreetcn.com/articles/3773996",
           "source": "华尔街见闻",
           "ranks": [
-            7
+            7,
+            5
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[12时55分 ~ 12时56分]"
+          "appearance_count": 3,
+          "time_info": "[12时55分 ~ 15时48分]"
         },
         {
           "title": "美元指数5日上涨",
