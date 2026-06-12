@@ -1,11 +1,13 @@
 {
-  "generated_at": "2026-06-12T12:15:11.265588+08:00",
-  "total_titles_processed": 757,
-  "failed_sources": [],
+  "generated_at": "2026-06-12T17:02:17.630252+08:00",
+  "total_titles_processed": 984,
+  "failed_sources": [
+    "bilibili-hot-search"
+  ],
   "trends": [
     {
       "keyword_group": "特朗普",
-      "match_count": 48,
+      "match_count": 52,
       "titles": [
         {
           "title": "国际油价飙升！特朗普：今晚将重创伊朗，“在不久的将来”将占领哈尔克岛",
@@ -17,8 +19,33 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[02时17分 ~ 12时15分]"
+          "appearance_count": 9,
+          "time_info": "[02时17分 ~ 17时02分]"
+        },
+        {
+          "title": "美伊局势再陷“迷雾”：特朗普称有望周末签署协议，伊朗“光速否认”！",
+          "url": "https://www.cls.cn/detail/2397803",
+          "source": "财联社热门",
+          "ranks": [
+            4,
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[12时14分 ~ 17时02分]"
+        },
+        {
+          "title": "几小时内反转！特朗普称取消打击伊朗计划，协议基本定稿、伊朗各方批准，或周末在欧洲签署",
+          "url": "https://wallstreetcn.com/articles/3774457",
+          "source": "华尔街见闻",
+          "ranks": [
+            6,
+            3,
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[07时25分 ~ 17时02分]"
         },
         {
           "title": "特朗普称取消打击伊朗行动",
@@ -59,17 +86,6 @@
           "source": "凤凰网",
           "ranks": [
             3
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[12时14分 ~ 12时15分]"
-        },
-        {
-          "title": "美伊局势再陷“迷雾”：特朗普称有望周末签署协议，伊朗“光速否认”！",
-          "url": "https://www.cls.cn/detail/2397803",
-          "source": "财联社热门",
-          "ranks": [
-            4
           ],
           "is_new": false,
           "appearance_count": 2,
@@ -186,18 +202,6 @@
           "time_info": "02时17分"
         },
         {
-          "title": "几小时内反转！特朗普称取消打击伊朗计划，协议基本定稿、伊朗各方批准，或周末在欧洲签署",
-          "url": "https://wallstreetcn.com/articles/3774457",
-          "source": "华尔街见闻",
-          "ranks": [
-            6,
-            3
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[07时25分 ~ 12时15分]"
-        },
-        {
           "title": "不断强调“接近协议”，如今又开启“强硬打击”，特朗普能打破美伊“不战不和”僵局吗？",
           "url": "https://wallstreetcn.com/articles/3774371",
           "source": "华尔街见闻",
@@ -234,6 +238,28 @@
           "time_info": "[05时24分 ~ 07时26分]"
         },
         {
+          "title": "特朗普第38次声称和平协议即将达成？好消息是：华尔街又信了……",
+          "url": "https://www.cls.cn/detail/2397839",
+          "source": "财联社热门",
+          "ranks": [
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[17时01分 ~ 17时02分]"
+        },
+        {
+          "title": "内塔尼亚胡：特朗普没提前告诉我",
+          "url": "https://news.ifeng.com/c/8ttf3o3HpAs",
+          "source": "凤凰网",
+          "ranks": [
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[17时01分 ~ 17时02分]"
+        },
+        {
           "title": "特朗普称有望周末签署美伊协议 伊朗称尚未达成最终结论 | 环球市场",
           "url": "https://www.cls.cn/detail/2397778",
           "source": "财联社热门",
@@ -254,6 +280,17 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[12时14分 ~ 12时15分]"
+        },
+        {
+          "title": "特朗普说了30多次“即将达成协议”，市场却一直相信他",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33365641",
+          "source": "澎湃新闻",
+          "ranks": [
+            19
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[17时01分 ~ 17时02分]"
         },
         {
           "title": "美国总统特朗普谈及伊朗问题，声称：基本完成。 我们得到了我们想要的一切。",
@@ -284,9 +321,20 @@
           "ranks": [
             8
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "12时15分"
+        },
+        {
+          "title": "特朗普涉伊朗表态“大转弯” 以总理“猝不及防”",
+          "url": "https://wallstreetcn.com/livenews/3118751",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            8
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "17时02分"
         },
         {
           "title": "特朗普差点又开炸，三国领导人紧急打电话：别打，协议马上到！",
@@ -295,7 +343,7 @@
           "ranks": [
             9
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "12时15分"
         },
@@ -545,7 +593,7 @@
     },
     {
       "keyword_group": "伊朗",
-      "match_count": 41,
+      "match_count": 46,
       "titles": [
         {
           "title": "伊朗阿巴斯港传出爆炸声",
@@ -654,6 +702,18 @@
           "time_info": "[02时17分 ~ 07时26分]"
         },
         {
+          "title": "伊朗战争推高通胀压力，欧洲央行近三年来首次加息！",
+          "url": "https://wallstreetcn.com/articles/3774438",
+          "source": "华尔街见闻",
+          "ranks": [
+            7,
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[12时14分 ~ 17时02分]"
+        },
+        {
           "title": "美军称再次对伊朗目标实施“自卫性”打击",
           "url": "https://m.thepaper.cn/newsDetail_forward_33355301",
           "source": "澎湃新闻",
@@ -689,15 +749,26 @@
           "time_info": "[12时14分 ~ 12时15分]"
         },
         {
-          "title": "伊朗战争推高通胀压力，欧洲央行近三年来首次加息！",
-          "url": "https://wallstreetcn.com/articles/3774438",
-          "source": "华尔街见闻",
+          "title": "伊朗方面公布伊美谅解备忘录新细节",
+          "url": "https://news.ifeng.com/c/8ttmPg8dMjP",
+          "source": "凤凰网",
           "ranks": [
             7
           ],
           "is_new": false,
           "appearance_count": 2,
-          "time_info": "[12时14分 ~ 12时15分]"
+          "time_info": "[17时01分 ~ 17时02分]"
+        },
+        {
+          "title": "伊朗大使馆发图讽刺世界杯是战争杯",
+          "url": "https://www.baidu.com/s?wd=%E4%BC%8A%E6%9C%97%E5%A4%A7%E4%BD%BF%E9%A6%86%E5%8F%91%E5%9B%BE%E8%AE%BD%E5%88%BA%E4%B8%96%E7%95%8C%E6%9D%AF%E6%98%AF%E6%88%98%E4%BA%89%E6%9D%AF",
+          "source": "百度热搜",
+          "ranks": [
+            20
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[17时01分 ~ 17时02分]"
         },
         {
           "title": "伊朗外交部发言人：如果伊朗打算在压力和威胁下放弃其原则立场，那我们在一年前就会这么做了。",
@@ -799,6 +870,28 @@
           "time_info": "07时26分"
         },
         {
+          "title": "伊朗公布“14点谅解备忘录草案”的细节",
+          "url": "https://flash.jin10.com/detail/20260612164733270800",
+          "source": "金十数据",
+          "ranks": [
+            9
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "17时02分"
+        },
+        {
+          "title": "国际油价持续下跌，布伦特原油、WTI原油均跌超5%。伊朗与美国的14点谅解备忘录草案新细节已公布，包括美国承诺解除制裁、从伊朗周边撤军、解除海上封锁、开放霍尔木兹海峡以及解冻伊朗被冻结的资产等。",
+          "url": "https://wallstreetcn.com/livenews/3118748",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            11
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "17时02分"
+        },
+        {
           "title": "以色列：美国与伊朗的MoU不包含我方",
           "url": "https://wallstreetcn.com/livenews/3118396",
           "source": "华尔街见闻-快讯",
@@ -882,9 +975,20 @@
           "ranks": [
             18
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "12时15分"
+        },
+        {
+          "title": "据伊朗迈赫尔通讯社：美国和伊朗的谅解备忘录规定霍尔木兹海峡将在30天内重新开放。 美国将从伊朗周边地区撤军。 对伊朗的石油制裁将被解除。 将就核问题启动为期60天的谈判。",
+          "url": "https://wallstreetcn.com/livenews/3118739",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            18
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "17时02分"
         },
         {
           "title": "据沙特阿拉比亚电视台报道，消息人士称，根据美国与伊朗之间的框架协议草案，各方将承诺立即停止进攻性军事行动。协议规定，在实施期间不得进行军事打击。违规行为应通过调解人协调机制解决。",
@@ -915,7 +1019,7 @@
           "ranks": [
             20
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "12时15分"
         },
@@ -981,7 +1085,7 @@
           "ranks": [
             26
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "12时15分"
         },
@@ -1011,8 +1115,20 @@
     },
     {
       "keyword_group": "DeepSeek Ai 水球泡 谷歌 google gemini 好书推荐 chatgpt openai 白银 金价石油 黄金 热梗",
-      "match_count": 35,
+      "match_count": 43,
       "titles": [
+        {
+          "title": "特朗普“TACO”主导市场，原油大跌，美股债大反弹，半导体指数大涨8%，黄金收复4200",
+          "url": "https://wallstreetcn.com/articles/3774389",
+          "source": "华尔街见闻",
+          "ranks": [
+            2,
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[07时25分 ~ 17时02分]"
+        },
         {
           "title": "补贴→Token计费→降价！OpenAI打响价格战，Token经济学拐点将至？",
           "url": "https://wallstreetcn.com/articles/3774400",
@@ -1025,18 +1141,6 @@
           "is_new": false,
           "appearance_count": 7,
           "time_info": "[02时17分 ~ 12时15分]"
-        },
-        {
-          "title": "特朗普“TACO”主导市场，原油大跌，美股债大反弹，半导体指数大涨8%，黄金收复4200",
-          "url": "https://wallstreetcn.com/articles/3774389",
-          "source": "华尔街见闻",
-          "ranks": [
-            2,
-            1
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[07时25分 ~ 12时15分]"
         },
         {
           "title": "伊朗局势骤然升级，原油大涨，科技股抛售拖累美股，盘后甲骨文跳水9%，黄金暴跌",
@@ -1062,6 +1166,19 @@
           "time_info": "[02时17分 ~ 05时24分]"
         },
         {
+          "title": "四年来首次入熊，黄金背刺了所有相信它的人",
+          "url": "https://wallstreetcn.com/articles/3774419",
+          "source": "华尔街见闻",
+          "ranks": [
+            9,
+            7,
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 9,
+          "time_info": "[02时17分 ~ 17时02分]"
+        },
+        {
           "title": "一份研报引爆AI硬件“惊魂时刻”，CPO和800VDC故事要改写？",
           "url": "https://www.cls.cn/detail/2397553",
           "source": "财联社热门",
@@ -1080,7 +1197,7 @@
           "ranks": [
             2
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "12时15分"
         },
@@ -1091,7 +1208,7 @@
           "ranks": [
             3
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "12时15分"
         },
@@ -1102,9 +1219,20 @@
           "ranks": [
             4
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "12时15分"
+        },
+        {
+          "title": "AI正在杀死音乐吗",
+          "url": "https://search.bilibili.com/all?keyword=AI%E6%AD%A3%E5%9C%A8%E6%9D%80%E6%AD%BB%E9%9F%B3%E4%B9%90%E5%90%97",
+          "source": "bilibili 热搜",
+          "ranks": [
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "17时01分"
         },
         {
           "title": "【早报】特朗普取消打击伊朗；黄金、白银大涨；世界杯开幕，墨西哥2比0战胜南非",
@@ -1117,19 +1245,6 @@
           "is_new": false,
           "appearance_count": 4,
           "time_info": "[07时25分 ~ 12时15分]"
-        },
-        {
-          "title": "四年来首次入熊，黄金背刺了所有相信它的人",
-          "url": "https://wallstreetcn.com/articles/3774419",
-          "source": "华尔街见闻",
-          "ranks": [
-            9,
-            7,
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[02时17分 ~ 12时15分]"
         },
         {
           "title": "抖音AI创作大赛来了",
@@ -1205,6 +1320,18 @@
           "time_info": "[02时17分 ~ 07时26分]"
         },
         {
+          "title": "代理式AI引爆CPU需求！美银：到2030年服务器CPU市场规模料激增4倍",
+          "url": "https://www.cls.cn/detail/2397804",
+          "source": "财联社热门",
+          "ranks": [
+            12,
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[12时14分 ~ 17时02分]"
+        },
+        {
           "title": "华尔街激辩“Token经济学”：AI账单失控了吗？",
           "url": "https://wallstreetcn.com/articles/3774382",
           "source": "华尔街见闻",
@@ -1240,6 +1367,17 @@
           "time_info": "[02时17分 ~ 07时26分]"
         },
         {
+          "title": "澎湃回声｜男子30年前被扣押2859克黄金续：盖州市公安局已返还财产，双方和解",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33364376",
+          "source": "澎湃新闻",
+          "ranks": [
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[17时01分 ~ 17时02分]"
+        },
+        {
           "title": "贝索斯驳斥“AI抢饭碗”论：未来十年将迎多个黄金时代",
           "url": "https://www.cls.cn/detail/2397705",
           "source": "财联社热门",
@@ -1273,15 +1411,37 @@
           "time_info": "[12时14分 ~ 12时15分]"
         },
         {
-          "title": "代理式AI引爆CPU需求！美银：到2030年服务器CPU市场规模料激增4倍",
-          "url": "https://www.cls.cn/detail/2397804",
+          "title": "权威机构：SpaceX世纪IPO引爆“散户套现热”，热门AI股成“ATM机”！",
+          "url": "https://www.cls.cn/detail/2398028",
           "source": "财联社热门",
           "ranks": [
-            12
+            11
           ],
           "is_new": false,
           "appearance_count": 2,
-          "time_info": "[12时14分 ~ 12时15分]"
+          "time_info": "[17时01分 ~ 17时02分]"
+        },
+        {
+          "title": "我们真的需要又一个 DeepSeek V5 吗？",
+          "url": "https://www.zhihu.com/question/2031303606524186735",
+          "source": "知乎",
+          "ranks": [
+            11
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[17时01分 ~ 17时02分]"
+        },
+        {
+          "title": "价值2700万黄金盗窃案告破",
+          "url": "https://www.toutiao.com/trending/7649914474413490185/",
+          "source": "今日头条",
+          "ranks": [
+            24
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[17时01分 ~ 17时02分]"
         },
         {
           "title": "女子买黄金从赚30万到亏近20万",
@@ -1339,6 +1499,17 @@
           "time_info": "02时17分"
         },
         {
+          "title": "猛男舞团翻跳Dai Dai",
+          "url": "https://search.bilibili.com/all?keyword=%E7%8C%9B%E7%94%B7%E8%88%9E%E5%9B%A2%E7%BF%BB%E8%B7%B3Dai%20Dai",
+          "source": "bilibili 热搜",
+          "ranks": [
+            13
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "17时01分"
+        },
+        {
           "title": "美股大类资产类ETF多数收涨，新兴市场ETF涨约4.4%，黄金ETF涨超3.1%",
           "url": "https://wallstreetcn.com/livenews/3118395",
           "source": "华尔街见闻-快讯",
@@ -1356,7 +1527,7 @@
           "ranks": [
             16
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "12时15分"
         },
@@ -1394,15 +1565,37 @@
           "time_info": "07时26分"
         },
         {
+          "title": "英国科技大臣：将加大力度支持本土AI行业",
+          "url": "https://flash.jin10.com/detail/20260612163619783800",
+          "source": "金十数据",
+          "ranks": [
+            21
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "17时02分"
+        },
+        {
           "title": "恒生指数涨超2%，恒生科技指数涨1.67%，黄金、有色金属、航空、商业航天、存储等板块涨幅居前。",
           "url": "https://flash.jin10.com/detail/20260612112824448800",
           "source": "金十数据",
           "ranks": [
             22
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "12时15分"
+        },
+        {
+          "title": "LKs AI和真人推歌大PK",
+          "url": "https://search.bilibili.com/all?keyword=LKs%20AI%E5%92%8C%E7%9C%9F%E4%BA%BA%E6%8E%A8%E6%AD%8C%E5%A4%A7PK",
+          "source": "bilibili 热搜",
+          "ranks": [
+            23
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "17时01分"
         },
         {
           "title": "周末也开盘！ 芝商所拟推全天候交易的原油黄金合约",
@@ -1419,7 +1612,7 @@
     },
     {
       "keyword_group": "美股",
-      "match_count": 6,
+      "match_count": 7,
       "titles": [
         {
           "title": "美股收盘：美伊局势反转纳指升超2.5% 芯片股强反弹费城指数涨8%",
@@ -1488,6 +1681,67 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "05时24分"
+        },
+        {
+          "title": "美股盘前，存储芯片概念股走低，美光科技跌超2%。美股太空概念股普涨，Rocket Lab涨超8%，ASTS涨超5%，回声星通信涨近5%。",
+          "url": "https://wallstreetcn.com/livenews/3118723",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            30
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "17时02分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "美元",
+      "match_count": 4,
+      "titles": [
+        {
+          "title": "彭博美元指数创逾1个月最大跌幅，特朗普暗示美伊协议即将达成",
+          "url": "https://wallstreetcn.com/livenews/3118400",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "05时24分"
+        },
+        {
+          "title": "美元指数回吐日内涨幅；国际油价下跌，布伦特原油、WTI原油均跌超4%。此前报道称，美国和伊朗的谅解备忘录规定霍尔木兹海峡将在30天内重新开放。",
+          "url": "https://wallstreetcn.com/livenews/3118730",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            16
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "17时02分"
+        },
+        {
+          "title": "最近24小时，MarketVectorTM数字资产100小盘指数跌0.22%，暂报2238.79点，北京时间01:00-12:00走出一波V形反转行情——06:18刷新日低至2159.74点，12:00以来大致持平。 MarketVectorTM数字资产100中盘指数涨0.50%，报2554.94点。 MarketVector数字资产100指数涨0.42%，报12343.45点。 目前，Solana涨2.78%，狗狗币涨1.62%，XRP涨0.71%。 比特币涨1.09%，暂报62524.99美元；以太坊涨0.62%，暂报1637.85美元。",
+          "url": "https://wallstreetcn.com/livenews/3118326",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            25
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "02时17分"
+        },
+        {
+          "title": "美元指数周四跌超0.2%，纽约中午跳水，南非兰特涨1.9%，巴西雷亚尔涨超1.7%",
+          "url": "https://wallstreetcn.com/livenews/3118421",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            26
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "07时26分"
         }
       ]
     },
@@ -1523,45 +1777,6 @@
           "source": "华尔街见闻-快讯",
           "ranks": [
             30
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "07时26分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "美元",
-      "match_count": 3,
-      "titles": [
-        {
-          "title": "彭博美元指数创逾1个月最大跌幅，特朗普暗示美伊协议即将达成",
-          "url": "https://wallstreetcn.com/livenews/3118400",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "05时24分"
-        },
-        {
-          "title": "最近24小时，MarketVectorTM数字资产100小盘指数跌0.22%，暂报2238.79点，北京时间01:00-12:00走出一波V形反转行情——06:18刷新日低至2159.74点，12:00以来大致持平。 MarketVectorTM数字资产100中盘指数涨0.50%，报2554.94点。 MarketVector数字资产100指数涨0.42%，报12343.45点。 目前，Solana涨2.78%，狗狗币涨1.62%，XRP涨0.71%。 比特币涨1.09%，暂报62524.99美元；以太坊涨0.62%，暂报1637.85美元。",
-          "url": "https://wallstreetcn.com/livenews/3118326",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            25
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "02时17分"
-        },
-        {
-          "title": "美元指数周四跌超0.2%，纽约中午跳水，南非兰特涨1.9%，巴西雷亚尔涨超1.7%",
-          "url": "https://wallstreetcn.com/livenews/3118421",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            26
           ],
           "is_new": false,
           "appearance_count": 1,
