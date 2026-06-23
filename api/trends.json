@@ -1,35 +1,12 @@
 {
-  "generated_at": "2026-06-23T08:10:20.098434+08:00",
-  "total_titles_processed": 548,
+  "generated_at": "2026-06-23T13:04:53.291634+08:00",
+  "total_titles_processed": 784,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "伊朗",
-      "match_count": 36,
+      "match_count": 40,
       "titles": [
-        {
-          "title": "如何看待伊朗队在洛杉矶更衣室留下的感谢信？",
-          "url": "https://www.zhihu.com/question/2052442119843701055",
-          "source": "知乎",
-          "ranks": [
-            3,
-            2
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[03时33分 ~ 08时10分]"
-        },
-        {
-          "title": "王毅会见伊朗最高国家安全委员会副秘书",
-          "url": "https://news.ifeng.com/c/8uASwuIqJQf",
-          "source": "凤凰网",
-          "ranks": [
-            3
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[03时33分 ~ 08时10分]"
-        },
         {
           "title": "伊朗谈判团队称伊美谈判达成5项要点",
           "url": "https://wallstreetcn.com/articles/3775177",
@@ -37,6 +14,17 @@
           "ranks": [
             5,
             4
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[03时33分 ~ 13时04分]"
+        },
+        {
+          "title": "王毅会见伊朗最高国家安全委员会副秘书",
+          "url": "https://news.ifeng.com/c/8uASwuIqJQf",
+          "source": "凤凰网",
+          "ranks": [
+            3
           ],
           "is_new": false,
           "appearance_count": 4,
@@ -65,6 +53,31 @@
           "time_info": "[03时33分 ~ 06时06分]"
         },
         {
+          "title": "如何看待伊朗队在洛杉矶更衣室留下的感谢信？",
+          "url": "https://www.zhihu.com/question/2052442119843701055",
+          "source": "知乎",
+          "ranks": [
+            3,
+            2,
+            13
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[03时33分 ~ 13时04分]"
+        },
+        {
+          "title": "伊朗议长：霍尔木兹海峡将按伊方制定的机制进行管理",
+          "url": "https://news.ifeng.com/c/8u8tDRAoBuA",
+          "source": "凤凰网",
+          "ranks": [
+            5,
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[08时10分 ~ 13时04分]"
+        },
+        {
           "title": "伊朗否认将用解冻资金买美农产品",
           "url": "https://flash.jin10.com/detail/20260623055417183800",
           "source": "金十数据",
@@ -76,15 +89,15 @@
           "time_info": "06时06分"
         },
         {
-          "title": "伊朗议长：霍尔木兹海峡将按伊方制定的机制进行管理",
-          "url": "https://news.ifeng.com/c/8u8tDRAoBuA",
+          "title": "伊朗公布首批解冻资金用途",
+          "url": "https://news.ifeng.com/c/8uBeuEEfSWu",
           "source": "凤凰网",
           "ranks": [
             5
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "08时10分"
+          "time_info": "13时04分"
         },
         {
           "title": "据伊朗塔斯尼姆通讯社：伊朗谈判代表团团长在阿曼外长的欢迎下抵达马斯喀特。",
@@ -107,8 +120,8 @@
             11
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[03时33分 ~ 08时10分]"
+          "appearance_count": 5,
+          "time_info": "[03时33分 ~ 13时04分]"
         },
         {
           "title": "比利时0-0伊朗",
@@ -117,11 +130,12 @@
           "ranks": [
             17,
             18,
-            16
+            16,
+            22
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[03时33分 ~ 08时10分]"
+          "appearance_count": 5,
+          "time_info": "[03时33分 ~ 13时04分]"
         },
         {
           "title": "头条世界杯｜贝兰万德封神！坚硬的不是球门，是这支伊朗的命",
@@ -197,7 +211,7 @@
           "ranks": [
             9
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "08时10分"
         },
@@ -219,7 +233,7 @@
           "ranks": [
             10
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "08时10分"
         },
@@ -233,6 +247,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "06时06分"
+        },
+        {
+          "title": "内塔尼亚胡：只要我还是以色列总理，伊朗就别想拥有核武器",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33428620",
+          "source": "澎湃新闻",
+          "ranks": [
+            13
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "13时04分"
         },
         {
           "title": "伊朗将在已故最高领袖葬礼期间实施航班管制",
@@ -301,6 +326,17 @@
           "time_info": "06时06分"
         },
         {
+          "title": "以色列担忧美国在黎巴嫩问题上“扶伊朗上位”",
+          "url": "https://flash.jin10.com/detail/20260623120605485800",
+          "source": "金十数据",
+          "ranks": [
+            18
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "13时04分"
+        },
+        {
           "title": "伊朗说将按现行机制继续与国际原子能机构合作",
           "url": "https://wallstreetcn.com/livenews/3122979",
           "source": "华尔街见闻-快讯",
@@ -340,9 +376,20 @@
           "ranks": [
             21
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "08时10分"
+        },
+        {
+          "title": "伊朗央行行长：没有义务从美国购买农产品",
+          "url": "https://wallstreetcn.com/livenews/3123147",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            21
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "13时04分"
         },
         {
           "title": "日企掏钱,伊朗白捡三千亿",
@@ -351,7 +398,7 @@
           "ranks": [
             21
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "08时10分"
         },
@@ -373,7 +420,7 @@
           "ranks": [
             22
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "08时10分"
         },
@@ -384,7 +431,7 @@
           "ranks": [
             25
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "08时10分"
         },
@@ -395,7 +442,7 @@
           "ranks": [
             25
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "08时10分"
         },
@@ -414,7 +461,7 @@
     },
     {
       "keyword_group": "DeepSeek Ai 水球泡 谷歌 google gemini 好书推荐 chatgpt openai 白银 金价石油 黄金 热梗",
-      "match_count": 21,
+      "match_count": 27,
       "titles": [
         {
           "title": "米游AI女友上线,玩家有福了",
@@ -427,6 +474,17 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[06时06分 ~ 08时10分]"
+        },
+        {
+          "title": "字节跳动正式发布Seed2.1，深入AI生产力",
+          "url": "https://flash.jin10.com/detail/20260623123140387800",
+          "source": "金十数据",
+          "ranks": [
+            5
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "13时04分"
         },
         {
           "title": "【焦点复盘】沪指放量长阳收复30日均线，全市场超200股涨逾10%，AI上游材料方向持续火爆",
@@ -449,8 +507,8 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[03时33分 ~ 08时10分]"
+          "appearance_count": 5,
+          "time_info": "[03时33分 ~ 13时04分]"
         },
         {
           "title": "DeepSeek 2.0时刻？智谱市值突破万亿港元，GLM-5.2刷屏华尔街",
@@ -465,6 +523,30 @@
           "time_info": "[03时33分 ~ 08时10分]"
         },
         {
+          "title": "OpenAI、Anthropic左右开弓挖人 谷歌遭遇近一年最惨一跌",
+          "url": "https://www.cls.cn/detail/2406155",
+          "source": "财联社热门",
+          "ranks": [
+            12,
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[08时10分 ~ 13时04分]"
+        },
+        {
+          "title": "SpaceX据称斩获AI算力大单 合同总价值最高达63亿美元",
+          "url": "https://www.cls.cn/detail/2406127",
+          "source": "财联社热门",
+          "ranks": [
+            11,
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[08时10分 ~ 13时04分]"
+        },
+        {
           "title": "美国FAA选用Air Space Intelligence打造AI空管工具",
           "url": "https://wallstreetcn.com/livenews/3123036",
           "source": "华尔街见闻-快讯",
@@ -476,13 +558,24 @@
           "time_info": "06时06分"
         },
         {
+          "title": "AI算力新变局：谁能动英伟达奶酪",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33431385",
+          "source": "澎湃新闻",
+          "ranks": [
+            9
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "13时04分"
+        },
+        {
           "title": "华尔街五大行罕见同调：黄金短期没戏！",
           "url": "https://flash.jin10.com/detail/20260623074217257800",
           "source": "金十数据",
           "ranks": [
             9
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "08时10分"
         },
@@ -509,28 +602,6 @@
           "time_info": "06时06分"
         },
         {
-          "title": "SpaceX据称斩获AI算力大单 合同总价值最高达63亿美元",
-          "url": "https://www.cls.cn/detail/2406127",
-          "source": "财联社热门",
-          "ranks": [
-            11
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "08时10分"
-        },
-        {
-          "title": "OpenAI、Anthropic左右开弓挖人 谷歌遭遇近一年最惨一跌",
-          "url": "https://www.cls.cn/detail/2406155",
-          "source": "财联社热门",
-          "ranks": [
-            12
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "08时10分"
-        },
-        {
           "title": "上海黄金交易所黄金T+D 6月22日（周一）晚盘收盘下跌0.1%报912.62元/克；<br/>上海黄金交易所白银T+D 6月22日（周一）晚盘收盘下跌2.06%报15577.0元/千克。",
           "url": "https://flash.jin10.com/detail/20260623023114771800",
           "source": "金十数据",
@@ -542,13 +613,46 @@
           "time_info": "03时33分"
         },
         {
+          "title": "德意志银行：如果美联储加息，黄金价格可能会跌至3800美元/盎司。",
+          "url": "https://flash.jin10.com/detail/20260623121000175800",
+          "source": "金十数据",
+          "ranks": [
+            15
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "13时04分"
+        },
+        {
+          "title": "德意志银行：预计第三季度黄金价格将达到4300美元/盎司，第四季度将达4800美元/盎司。",
+          "url": "https://flash.jin10.com/detail/20260623120926115800",
+          "source": "金十数据",
+          "ranks": [
+            16
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "13时04分"
+        },
+        {
+          "title": "美联储今年不降息黄金恐崩",
+          "url": "https://s.weibo.com/weibo?q=%23%E7%BE%8E%E8%81%94%E5%82%A8%E4%BB%8A%E5%B9%B4%E4%B8%8D%E9%99%8D%E6%81%AF%E9%BB%84%E9%87%91%E6%81%90%E5%B4%A9%23&t=31&band_rank=20&Refer=top",
+          "source": "微博",
+          "ranks": [
+            20
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "13时04分"
+        },
+        {
           "title": "AI飞轮驱动加速，半导体更多领域进入上行周期",
           "url": "https://wallstreetcn.com/livenews/3123052",
           "source": "华尔街见闻-快讯",
           "ranks": [
             21
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "08时10分"
         },
@@ -570,7 +674,7 @@
           "ranks": [
             23
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "08时10分"
         },
@@ -581,7 +685,7 @@
           "ranks": [
             23
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "08时10分"
         },
@@ -592,7 +696,7 @@
           "ranks": [
             24
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "08时10分"
         },
@@ -608,13 +712,24 @@
           "time_info": "03时33分"
         },
         {
+          "title": "国际超算大会聚焦AI、量子计算",
+          "url": "https://www.toutiao.com/trending/7654411692633227270/",
+          "source": "今日头条",
+          "ranks": [
+            26
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "13时04分"
+        },
+        {
           "title": "物理AI第一股上市首日高开302%",
           "url": "https://s.weibo.com/weibo?q=%23%E7%89%A9%E7%90%86AI%E7%AC%AC%E4%B8%80%E8%82%A1%E4%B8%8A%E5%B8%82%E9%A6%96%E6%97%A5%E9%AB%98%E5%BC%80302%25%23&t=31&band_rank=26&Refer=top",
           "source": "微博",
           "ranks": [
             26
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "08时10分"
         },
@@ -636,7 +751,7 @@
           "ranks": [
             29
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "08时10分"
         },
@@ -647,7 +762,7 @@
           "ranks": [
             30
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "08时10分"
         }
@@ -655,7 +770,7 @@
     },
     {
       "keyword_group": "特朗普",
-      "match_count": 18,
+      "match_count": 21,
       "titles": [
         {
           "title": "美伊艰难谈判：万斯称“取得巨大进展”，特朗普威胁“谈不好就炸”，伊朗强硬“合照不拍，抗议离场”",
@@ -701,6 +816,39 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "03时33分"
+        },
+        {
+          "title": "哥伦比亚右翼大选中险胜，特朗普背书成助力",
+          "url": "https://news.ifeng.com/c/8uBgi1AZcfM",
+          "source": "凤凰网",
+          "ranks": [
+            7
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "13时04分"
+        },
+        {
+          "title": "芝加哥周末枪击致多人死伤，特朗普借机再推联邦派兵",
+          "url": "https://flash.jin10.com/detail/20260623122219001800",
+          "source": "金十数据",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "13时04分"
+        },
+        {
+          "title": "特朗普政府加码量子战略！设定2028年科研级量子计算机突破目标",
+          "url": "https://www.cls.cn/detail/2406197",
+          "source": "财联社热门",
+          "ranks": [
+            13
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "13时04分"
         },
         {
           "title": "特朗普签署两项行政令，推动2028年部署用于科学研究的量子计算机",
@@ -860,7 +1008,7 @@
     },
     {
       "keyword_group": "美股",
-      "match_count": 8,
+      "match_count": 9,
       "titles": [
         {
           "title": "美伊达成协议文件，美股盘初涨跌互现，半导体股普涨，油价跌超2%",
@@ -878,11 +1026,23 @@
           "url": "https://www.cls.cn/detail/2406186",
           "source": "财联社热门",
           "ranks": [
+            3,
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[08时10分 ~ 13时04分]"
+        },
+        {
+          "title": "美股即将大幅回调20%！资深策略师“捕捉”到六大预警信号",
+          "url": "https://www.cls.cn/detail/2406236",
+          "source": "财联社热门",
+          "ranks": [
             3
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "08时10分"
+          "time_info": "13时04分"
         },
         {
           "title": "美股期指小幅上涨 美光科技盘前涨超4% | 今夜看点",
@@ -902,7 +1062,7 @@
           "ranks": [
             8
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "08时10分"
         },
@@ -991,9 +1151,9 @@
           "ranks": [
             1
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "08时10分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[08时10分 ~ 13时04分]"
         }
       ]
     }
