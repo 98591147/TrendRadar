@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-06-23T17:46:09.328865+08:00",
-  "total_titles_processed": 1022,
+  "generated_at": "2026-06-23T20:35:56.538875+08:00",
+  "total_titles_processed": 1192,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "伊朗",
-      "match_count": 52,
+      "match_count": 54,
       "titles": [
         {
           "title": "伊朗谈判团队称伊美谈判达成5项要点",
@@ -107,7 +107,7 @@
           "ranks": [
             2
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "17时46分"
         },
@@ -118,7 +118,7 @@
           "ranks": [
             3
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "17时46分"
         },
@@ -145,8 +145,8 @@
             23
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[03时33分 ~ 17时46分]"
+          "appearance_count": 8,
+          "time_info": "[03时33分 ~ 20时35分]"
         },
         {
           "title": "伊朗的抗争是否在实际意义上阻止了第三次世界大战的爆发？",
@@ -235,7 +235,7 @@
           "ranks": [
             8
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "17时46分"
         },
@@ -257,7 +257,7 @@
           "ranks": [
             9
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "17时46分"
         },
@@ -301,7 +301,7 @@
           "ranks": [
             10
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "17时46分"
         },
@@ -315,6 +315,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "06时06分"
+        },
+        {
+          "title": "阿曼和伊朗将协调霍尔木兹海峡未来航行管理",
+          "url": "https://wallstreetcn.com/livenews/3123426",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            12
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时35分"
         },
         {
           "title": "内塔尼亚胡：只要我还是以色列总理，伊朗就别想拥有核武器",
@@ -345,7 +356,7 @@
           "ranks": [
             13
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "17时46分"
         },
@@ -367,7 +378,7 @@
           "ranks": [
             14
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "17时46分"
         },
@@ -444,7 +455,7 @@
           "ranks": [
             18
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "17时46分"
         },
@@ -469,6 +480,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "03时33分"
+        },
+        {
+          "title": "阿曼和伊朗将就霍尔木兹海峡航行服务以及相关费用进行磋商",
+          "url": "https://wallstreetcn.com/livenews/3123412",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            20
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时35分"
         },
         {
           "title": "历史性逆转！美国数十年来首允伊朗以美元卖油",
@@ -532,7 +554,7 @@
           "ranks": [
             24
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "17时46分"
         },
@@ -554,7 +576,7 @@
           "ranks": [
             25
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "17时46分"
         },
@@ -576,7 +598,7 @@
           "ranks": [
             26
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "17时46分"
         },
@@ -595,18 +617,19 @@
     },
     {
       "keyword_group": "DeepSeek Ai 水球泡 谷歌 google gemini 好书推荐 chatgpt openai 白银 金价石油 黄金 热梗",
-      "match_count": 41,
+      "match_count": 50,
       "titles": [
         {
           "title": "科技热潮降温 ，全球股市“黑色星期二”，纳指期货跌2%，美光盘前跌超10%，韩股收跌10%，现货黄金失守4100",
           "url": "https://wallstreetcn.com/articles/3775262",
           "source": "华尔街见闻",
           "ranks": [
-            2
+            2,
+            1
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[17时45分 ~ 17时46分]"
+          "appearance_count": 3,
+          "time_info": "[17时45分 ~ 20时35分]"
         },
         {
           "title": "米游AI女友上线,玩家有福了",
@@ -619,6 +642,30 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[06时06分 ~ 08时10分]"
+        },
+        {
+          "title": "AI算力新变局：谁能动英伟达奶酪",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33431385",
+          "source": "澎湃新闻",
+          "ranks": [
+            9,
+            4,
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[13时04分 ~ 20时35分]"
+        },
+        {
+          "title": "黄金日内直跌100美金，短线是否站稳？还会继续下行吗？金十VIP正在直播，立即观看>><font class=\"important-text\"></font>",
+          "url": "https://flash.jin10.com/detail/20260623201537829800",
+          "source": "金十数据",
+          "ranks": [
+            4
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时35分"
         },
         {
           "title": "字节跳动正式发布Seed2.1，深入AI生产力",
@@ -656,18 +703,6 @@
           "time_info": "[03时33分 ~ 17时46分]"
         },
         {
-          "title": "AI算力新变局：谁能动英伟达奶酪",
-          "url": "https://m.thepaper.cn/newsDetail_forward_33431385",
-          "source": "澎湃新闻",
-          "ranks": [
-            9,
-            4
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[13时04分 ~ 17时46分]"
-        },
-        {
           "title": "DeepSeek 2.0时刻？智谱市值突破万亿港元，GLM-5.2刷屏华尔街",
           "url": "https://wallstreetcn.com/articles/3775170",
           "source": "华尔街见闻",
@@ -684,11 +719,72 @@
           "url": "https://www.zhihu.com/question/2044875348719005741",
           "source": "知乎",
           "ranks": [
-            6
+            6,
+            11
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[17时45分 ~ 17时46分]"
+          "appearance_count": 3,
+          "time_info": "[17时45分 ~ 20时35分]"
+        },
+        {
+          "title": "“空头”末日预言：AI“强弩之末”，美股最快Q3见顶、跌幅30-50%，美版YCC和美债大重组，私募信贷危机待引爆",
+          "url": "https://wallstreetcn.com/articles/3775250",
+          "source": "华尔街见闻",
+          "ranks": [
+            10,
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[17时45分 ~ 20时35分]"
+        },
+        {
+          "title": "【每日收评】创业板震荡走低跌近4%，有色、AI硬件集体调整，创新药板块逆势走强",
+          "url": "https://www.cls.cn/detail/2406846",
+          "source": "财联社热门",
+          "ranks": [
+            11,
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[17时45分 ~ 20时35分]"
+        },
+        {
+          "title": "微博 CEO 讨论 WPS 背刺随后删除称为龙虾误发，如何看待这一操作？AI 这篇点评有道理吗？",
+          "url": "https://www.zhihu.com/question/2052439090260178506",
+          "source": "知乎",
+          "ranks": [
+            20,
+            15
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[17时45分 ~ 20时35分]"
+        },
+        {
+          "title": "《十日终焉》原著作者借助 AI 批判自己的写作大纲，以此打磨作品，如何看待这种 AI 辅助创作方式？",
+          "url": "https://www.zhihu.com/question/2052545440508108960",
+          "source": "知乎",
+          "ranks": [
+            19,
+            18
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[17时45分 ~ 20时35分]"
+        },
+        {
+          "title": "黄金失宠",
+          "url": "https://www.toutiao.com/trending/7654431285573586482/",
+          "source": "今日头条",
+          "ranks": [
+            28,
+            30
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[17时45分 ~ 20时35分]"
         },
         {
           "title": "OpenAI、Anthropic左右开弓挖人 谷歌遭遇近一年最惨一跌",
@@ -703,17 +799,6 @@
           "time_info": "[08时10分 ~ 13时04分]"
         },
         {
-          "title": "“空头”末日预言：AI“强弩之末”，美股最快Q3见顶、跌幅30-50%，美版YCC和美债大重组，私募信贷危机待引爆",
-          "url": "https://wallstreetcn.com/articles/3775250",
-          "source": "华尔街见闻",
-          "ranks": [
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[17时45分 ~ 17时46分]"
-        },
-        {
           "title": "SpaceX据称斩获AI算力大单 合同总价值最高达63亿美元",
           "url": "https://www.cls.cn/detail/2406127",
           "source": "财联社热门",
@@ -724,17 +809,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[08时10分 ~ 13时04分]"
-        },
-        {
-          "title": "【每日收评】创业板震荡走低跌近4%，有色、AI硬件集体调整，创新药板块逆势走强",
-          "url": "https://www.cls.cn/detail/2406846",
-          "source": "财联社热门",
-          "ranks": [
-            11
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[17时45分 ~ 17时46分]"
         },
         {
           "title": "港股AI双雄遭空头伏击 7月超千亿港元解禁潮如何考验其成色？",
@@ -748,48 +822,26 @@
           "time_info": "[17时45分 ~ 17时46分]"
         },
         {
-          "title": "《十日终焉》原著作者借助 AI 批判自己的写作大纲，以此打磨作品，如何看待这种 AI 辅助创作方式？",
-          "url": "https://www.zhihu.com/question/2052545440508108960",
-          "source": "知乎",
-          "ranks": [
-            19
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[17时45分 ~ 17时46分]"
-        },
-        {
-          "title": "微博 CEO 讨论 WPS 背刺随后删除称为龙虾误发，如何看待这一操作？AI 这篇点评有道理吗？",
-          "url": "https://www.zhihu.com/question/2052439090260178506",
-          "source": "知乎",
-          "ranks": [
-            20
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[17时45分 ~ 17时46分]"
-        },
-        {
-          "title": "黄金失宠",
-          "url": "https://www.toutiao.com/trending/7654431285573586482/",
-          "source": "今日头条",
-          "ranks": [
-            28
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[17时45分 ~ 17时46分]"
-        },
-        {
           "title": "【企业微信agent“大圆”开始内测】6月23日，在微信的AI内测消息曝出后，企业微信也即将推出名为“大圆”的AI agent，目前已进入内测阶段。据了解，该产品并不要求用户反复说上下文，而是可以基于企业微信内已有的群聊、文档、会议、邮件、日程等工作数据，自动理解用户诉求，并结合对应场景给出回复。（界面新闻）",
           "url": "https://wallstreetcn.com/livenews/3123339",
           "source": "华尔街见闻-快讯",
           "ranks": [
             6
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "17时46分"
+        },
+        {
+          "title": "华尔街大行集体“变脸”！继高盛之后，德银也大砍黄金目标价",
+          "url": "https://www.cls.cn/detail/2406794",
+          "source": "财联社热门",
+          "ranks": [
+            7
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时35分"
         },
         {
           "title": "美国FAA选用Air Space Intelligence打造AI空管工具",
@@ -801,6 +853,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "06时06分"
+        },
+        {
+          "title": "AI时代不想被淘汰？这5个能力很重要",
+          "url": "https://www.toutiao.com/trending/7654532881838001673/",
+          "source": "今日头条",
+          "ranks": [
+            8
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时35分"
         },
         {
           "title": "华尔街五大行罕见同调：黄金短期没戏！",
@@ -836,6 +899,17 @@
           "time_info": "06时06分"
         },
         {
+          "title": "AI周期已接近终点？空头大佬警告：暴跌30%至50%的大熊市即将到来",
+          "url": "https://www.cls.cn/detail/2406973",
+          "source": "财联社热门",
+          "ranks": [
+            11
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时35分"
+        },
+        {
           "title": "上海黄金交易所黄金T+D 6月22日（周一）晚盘收盘下跌0.1%报912.62元/克；<br/>上海黄金交易所白银T+D 6月22日（周一）晚盘收盘下跌2.06%报15577.0元/千克。",
           "url": "https://flash.jin10.com/detail/20260623023114771800",
           "source": "金十数据",
@@ -858,13 +932,24 @@
           "time_info": "13时04分"
         },
         {
+          "title": "上海黄金交易所黄金T+D 6月23日（周二）晚盘盘初下跌0.5%报899.0元/克；<br/>上海黄金交易所白银T+D 6月23日（周二）晚盘盘初下跌1.89%报14959.0元/千克。",
+          "url": "https://flash.jin10.com/detail/20260623200100014800",
+          "source": "金十数据",
+          "ranks": [
+            15
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时35分"
+        },
+        {
           "title": "DeepSeek新部门疯狂招人，负责人否认“不招外国人”",
           "url": "https://wallstreetcn.com/livenews/3123327",
           "source": "华尔街见闻-快讯",
           "ranks": [
             15
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "17时46分"
         },
@@ -886,9 +971,20 @@
           "ranks": [
             19
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "17时46分"
+        },
+        {
+          "title": "挂单报告：国际现货黄金空单密布 国际现货白银关注下行押注",
+          "url": "https://flash.jin10.com/detail/20260623195712865800",
+          "source": "金十数据",
+          "ranks": [
+            19
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时35分"
         },
         {
           "title": "法国向Harmattan AI订购5,000架作战无人机",
@@ -897,7 +993,7 @@
           "ranks": [
             19
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "17时46分"
         },
@@ -911,6 +1007,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "13时04分"
+        },
+        {
+          "title": "半夏投资李蓓提示 AI 板块风险，自家产品一周净值跌 15%，如何看待李蓓的投资理念？",
+          "url": "https://www.zhihu.com/question/2052692253181572540",
+          "source": "知乎",
+          "ranks": [
+            20
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时35分"
         },
         {
           "title": "AI飞轮驱动加速，半导体更多领域进入上行周期",
@@ -930,7 +1037,7 @@
           "ranks": [
             22
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "17时46分"
         },
@@ -968,6 +1075,28 @@
           "time_info": "08时10分"
         },
         {
+          "title": "大模型横评:多款AI翻车实录",
+          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28355576&amp;topic_name=%E5%A4%A7%E6%A8%A1%E5%9E%8B%E6%A8%AA%E8%AF%84%3A%E5%A4%9A%E6%AC%BEAI%E7%BF%BB%E8%BD%A6%E5%AE%9E%E5%BD%95",
+          "source": "贴吧",
+          "ranks": [
+            23
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时35分"
+        },
+        {
+          "title": "国际金多头在此处防守意愿强烈 白银额外面临需求端重大利空 | Live分析更新中",
+          "url": "https://flash.jin10.com/detail/20260623195017309800",
+          "source": "金十数据",
+          "ranks": [
+            24
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时35分"
+        },
+        {
           "title": "甲骨文一年裁员2.1万人，称AI已取代部分岗位",
           "url": "https://wallstreetcn.com/livenews/3123049",
           "source": "华尔街见闻-快讯",
@@ -996,7 +1125,7 @@
           "ranks": [
             25
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "17时46分"
         },
@@ -1059,7 +1188,7 @@
     },
     {
       "keyword_group": "特朗普",
-      "match_count": 24,
+      "match_count": 28,
       "titles": [
         {
           "title": "美伊艰难谈判：万斯称“取得巨大进展”，特朗普威胁“谈不好就炸”，伊朗强硬“合照不拍，抗议离场”",
@@ -1084,6 +1213,29 @@
           "time_info": "[03时33分 ~ 06时06分]"
         },
         {
+          "title": "美部长拍特朗普马屁，当场被打脸",
+          "url": "https://news.ifeng.com/c/8uBxMmUnV4m",
+          "source": "凤凰网",
+          "ranks": [
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[17时45分 ~ 20时35分]"
+        },
+        {
+          "title": "特朗普宣布美国汽车巨头将开始生产武器，包括巡航导弹和防空系统，释放了哪些信号？将对世界产生哪些影响？",
+          "url": "https://www.zhihu.com/question/2052711074215081192",
+          "source": "知乎",
+          "ranks": [
+            12,
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[17时45分 ~ 20时35分]"
+        },
+        {
           "title": "特朗普威胁伊朗,美伊谈判暂停",
           "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28355324&amp;topic_name=%E7%89%B9%E6%9C%97%E6%99%AE%E5%A8%81%E8%83%81%E4%BC%8A%E6%9C%97%2C%E7%BE%8E%E4%BC%8A%E8%B0%88%E5%88%A4%E6%9A%82%E5%81%9C",
           "source": "贴吧",
@@ -1096,33 +1248,11 @@
           "time_info": "[06时06分 ~ 08时10分]"
         },
         {
-          "title": "美部长拍特朗普马屁，当场被打脸",
-          "url": "https://news.ifeng.com/c/8uBxMmUnV4m",
-          "source": "凤凰网",
-          "ranks": [
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[17时45分 ~ 17时46分]"
-        },
-        {
           "title": "特朗普点名英意德差劲",
           "url": "https://news.ifeng.com/c/8uC00MLRSEF",
           "source": "凤凰网",
           "ranks": [
             9
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[17时45分 ~ 17时46分]"
-        },
-        {
-          "title": "特朗普宣布美国汽车巨头将开始生产武器，包括巡航导弹和防空系统，释放了哪些信号？将对世界产生哪些影响？",
-          "url": "https://www.zhihu.com/question/2052711074215081192",
-          "source": "知乎",
-          "ranks": [
-            12
           ],
           "is_new": false,
           "appearance_count": 2,
@@ -1149,6 +1279,28 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "13时04分"
+        },
+        {
+          "title": "【特朗普称允许霍尔木兹海峡保持开放】美国总统特朗普23日在社交媒体发文说，基于伊朗作出的让步，他已同意允许霍尔木兹海峡保持开放，不再实施海上封锁。“不过，所有船只仍将原地待命，以备必要时重新实施封锁。尽管目前看来，这种可能性极低。”（新华社）",
+          "url": "https://wallstreetcn.com/livenews/3123433",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            7
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时35分"
+        },
+        {
+          "title": "特朗普：昨天有1900万桶石油从霍尔木兹海峡流出",
+          "url": "https://wallstreetcn.com/livenews/3123432",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            8
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时35分"
         },
         {
           "title": "芝加哥周末枪击致多人死伤，特朗普借机再推联邦派兵",
@@ -1182,6 +1334,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "06时06分"
+        },
+        {
+          "title": "特朗普发帖：伊朗已经完全、彻底同意最高级别的核核查",
+          "url": "https://wallstreetcn.com/livenews/3123424",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            13
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时35分"
         },
         {
           "title": "据Newsweek：特朗普的前盟友、美国知名保守派媒体人塔克·卡尔森宣布与共和党决裂。他的这一举动表明，随着伊朗战争和美以政策成为共和党内部辩论的焦点，右翼内部的分裂正在加深。",
@@ -1226,6 +1389,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "06时06分"
+        },
+        {
+          "title": "特朗普“羞辱”梅洛尼有何连锁反应",
+          "url": "https://www.toutiao.com/trending/7654533191415369252/",
+          "source": "今日头条",
+          "ranks": [
+            20
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时35分"
         },
         {
           "title": "美国总统特朗普：祝愿（刚刚辞去英国首相职务的）斯塔默一切顺利。",
@@ -1330,7 +1504,7 @@
     },
     {
       "keyword_group": "美股",
-      "match_count": 9,
+      "match_count": 11,
       "titles": [
         {
           "title": "美股即将大幅回调20%！资深策略师“捕捉”到六大预警信号",
@@ -1368,6 +1542,17 @@
           "time_info": "[08时10分 ~ 13时04分]"
         },
         {
+          "title": "SpaceX美股盘前涨幅扩大至2.5%。",
+          "url": "https://wallstreetcn.com/livenews/3123440",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            5
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时35分"
+        },
+        {
           "title": "美股期指小幅上涨 美光科技盘前涨超4% | 今夜看点",
           "url": "https://www.cls.cn/detail/2405983",
           "source": "财联社热门",
@@ -1388,6 +1573,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "08时10分"
+        },
+        {
+          "title": "SpaceX美股盘前转涨，此前一度跌近5%。",
+          "url": "https://wallstreetcn.com/livenews/3123430",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时35分"
         },
         {
           "title": "Credo Technology Group Holding Ltd.维持超过11%的涨幅，暂报303.90美元，美股盘初曾涨至308.67美元创盘中历史新高，Evercore ISI给予该公司超配的初始评级、目标价325美元，分析师Mark Lipacis认为，Credo将越来越被看做一家广泛的铜缆与光纤连接玩家/铜缆+光纤综合方案供应商。",
@@ -1472,11 +1668,12 @@
           "url": "https://wallstreetcn.com/articles/3775156",
           "source": "华尔街见闻",
           "ranks": [
-            1
+            1,
+            4
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[08时10分 ~ 17时46分]"
+          "appearance_count": 5,
+          "time_info": "[08时10分 ~ 20时35分]"
         }
       ]
     }
