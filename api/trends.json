@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-06-24T12:20:53.926838+08:00",
-  "total_titles_processed": 845,
+  "generated_at": "2026-06-24T16:25:24.204849+08:00",
+  "total_titles_processed": 1042,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "DeepSeek Ai 水球泡 谷歌 google gemini 好书推荐 chatgpt openai 白银 金价石油 黄金 热梗",
-      "match_count": 49,
+      "match_count": 54,
       "titles": [
         {
           "title": "AI算力新变局：谁能动英伟达奶酪",
@@ -89,8 +89,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[01时59分 ~ 12时20分]"
+          "appearance_count": 8,
+          "time_info": "[01时59分 ~ 16时25分]"
         },
         {
           "title": "美国参议院共和党成员Steve Daines：参议院正酝酿自己版本的加密货币税收草案。 预计将“宜早不宜迟地”披露我们的计划。 可能会在秋季公之于众。",
@@ -128,6 +128,17 @@
           "time_info": "[01时59分 ~ 08时02分]"
         },
         {
+          "title": "韩股“V型反弹”，美股盘前半导体股上扬、美光涨3%，美元触及七个月高位，黄金跌超1.3%",
+          "url": "https://wallstreetcn.com/articles/3775351",
+          "source": "华尔街见闻",
+          "ranks": [
+            5
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时25分"
+        },
+        {
           "title": "谷歌A(GOOGL.O)美股盘后涨超1%，将取代Verizon(VZ.N)在道琼斯指数中的位置；Verizon(VZ.N)盘后跌0.6%。",
           "url": "https://flash.jin10.com/detail/20260624054152810800",
           "source": "金十数据",
@@ -137,6 +148,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "06时17分"
+        },
+        {
+          "title": "霓虹AI超美?实则组队打工仔",
+          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28355608&amp;topic_name=%E9%9C%93%E8%99%B9AI%E8%B6%85%E7%BE%8E%3F%E5%AE%9E%E5%88%99%E7%BB%84%E9%98%9F%E6%89%93%E5%B7%A5%E4%BB%94",
+          "source": "贴吧",
+          "ranks": [
+            5
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时25分"
         },
         {
           "title": "美股收盘：AI投资热潮遭重新审视 芯片股重挫拖累纳指跌超2%",
@@ -158,11 +180,12 @@
             23,
             24,
             22,
-            20
+            20,
+            17
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[01时59分 ~ 12时20分]"
+          "appearance_count": 8,
+          "time_info": "[01时59分 ~ 16时25分]"
         },
         {
           "title": "AI周期已接近终点？空头大佬警告：暴跌30%至50%的大熊市即将到来",
@@ -234,11 +257,24 @@
             12,
             13,
             16,
-            20
+            20,
+            23
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[02时00分 ~ 12时20分]"
+          "appearance_count": 6,
+          "time_info": "[02时00分 ~ 16时25分]"
+        },
+        {
+          "title": "AI交易遭遇加息考验：除了美元、美债，一切都在跌",
+          "url": "https://wallstreetcn.com/articles/3775294",
+          "source": "华尔街见闻",
+          "ranks": [
+            9,
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[08时01分 ~ 16时25分]"
         },
         {
           "title": "AI 写了 60% 的代码，为什么企业研发效率还是没飞起来？",
@@ -265,18 +301,6 @@
           "time_info": "[01时59分 ~ 06时17分]"
         },
         {
-          "title": "AI交易遭遇加息考验：除了美元、美债，一切都在跌",
-          "url": "https://wallstreetcn.com/articles/3775294",
-          "source": "华尔街见闻",
-          "ranks": [
-            9,
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[08时01分 ~ 12时20分]"
-        },
-        {
           "title": "大模型横评:多款AI翻车实录",
           "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28355576&amp;topic_name=%E5%A4%A7%E6%A8%A1%E5%9E%8B%E6%A8%AA%E8%AF%84%3A%E5%A4%9A%E6%AC%BEAI%E7%BF%BB%E8%BD%A6%E5%AE%9E%E5%BD%95",
           "source": "贴吧",
@@ -300,6 +324,17 @@
           "time_info": "[08时01分 ~ 08时02分]"
         },
         {
+          "title": "用AI制作一部玄幻短片",
+          "url": "https://www.douyin.com/hot/2545425",
+          "source": "抖音",
+          "ranks": [
+            11
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[12时20分 ~ 16时25分]"
+        },
+        {
           "title": "DeepseekV4.1 即将发布，网友期待「降价、打爆国外 AI」，它将如何改变 AI 市场格局？",
           "url": "https://www.zhihu.com/question/2044875348719005741",
           "source": "知乎",
@@ -309,6 +344,17 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[01时59分 ~ 02时00分]"
+        },
+        {
+          "title": "黄金月内再次跌破 4100 美元，白银跌破 62 美元，黄金 4000 美元关口能否守住？普通投资者该如何应对？",
+          "url": "https://www.zhihu.com/question/2052784601471493284",
+          "source": "知乎",
+          "ranks": [
+            20
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[12时20分 ~ 16时25分]"
         },
         {
           "title": "AI时代计算机专业还能学吗",
@@ -331,6 +377,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "02时00分"
+        },
+        {
+          "title": "低估了AI全球泡沫，宁泉杨东发声“不敢再参与”，私募圈AI分歧推到前台",
+          "url": "https://www.cls.cn/detail/2407855",
+          "source": "财联社热门",
+          "ranks": [
+            8
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时25分"
         },
         {
           "title": "被问及卡车司机面临着因AI而失去工作的高风险，美国总统特朗普表示：他们不会失业。现在找工作并不难。我们的就业数据处于历史最高水平。",
@@ -372,18 +429,7 @@
           "ranks": [
             10
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "12时20分"
-        },
-        {
-          "title": "用AI制作一部玄幻短片",
-          "url": "https://www.douyin.com/hot/2545425",
-          "source": "抖音",
-          "ranks": [
-            11
-          ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "12时20分"
         },
@@ -460,18 +506,7 @@
           "ranks": [
             19
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "12时20分"
-        },
-        {
-          "title": "黄金月内再次跌破 4100 美元，白银跌破 62 美元，黄金 4000 美元关口能否守住？普通投资者该如何应对？",
-          "url": "https://www.zhihu.com/question/2052784601471493284",
-          "source": "知乎",
-          "ranks": [
-            20
-          ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "12时20分"
         },
@@ -493,7 +528,7 @@
           "ranks": [
             22
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "12时20分"
         },
@@ -526,9 +561,20 @@
           "ranks": [
             23
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "12时20分"
+        },
+        {
+          "title": "金十图示：2026年06月24日（周三）上海黄金交易所市场行情",
+          "url": "https://flash.jin10.com/detail/20260624160403351800",
+          "source": "金十数据",
+          "ranks": [
+            24
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时25分"
         },
         {
           "title": "从“找竹竿”到“挖短板”，基金经理直面AI“缩圈”",
@@ -540,6 +586,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "08时02分"
+        },
+        {
+          "title": "上海黄金交易所6月24日（周三）交易行情",
+          "url": "https://flash.jin10.com/detail/20260624160401531800",
+          "source": "金十数据",
+          "ranks": [
+            25
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时25分"
         },
         {
           "title": "AI算力需求传导，“纤维之王”对位芳纶步入高景气周期",
@@ -578,7 +635,7 @@
     },
     {
       "keyword_group": "特朗普",
-      "match_count": 46,
+      "match_count": 48,
       "titles": [
         {
           "title": "特朗普称美国正致力于与伊朗达成一项公平协议",
@@ -598,7 +655,7 @@
           "ranks": [
             1
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "12时20分"
         },
@@ -717,6 +774,29 @@
           "time_info": "[01时59分 ~ 06时17分]"
         },
         {
+          "title": "盘点｜“G7团结”演不下去了，特朗普如何惹恼多国领导人",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33439614",
+          "source": "澎湃新闻",
+          "ranks": [
+            19,
+            16
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[12时20分 ~ 16时25分]"
+        },
+        {
+          "title": "梅洛尼与特朗普突然“翻脸”后，意大利试图“降调”缓和关系",
+          "url": "https://news.ifeng.com/c/8uDcqo1sDyJ",
+          "source": "凤凰网",
+          "ranks": [
+            7
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时25分"
+        },
+        {
           "title": "据美联社：近几周与美国总统特朗普意见不合的共和党参议员们，有机会在周三国会大厦参加派对午宴时面对面质问特朗普。",
           "url": "https://flash.jin10.com/detail/20260624035737318800",
           "source": "金十数据",
@@ -728,13 +808,24 @@
           "time_info": "04时19分"
         },
         {
+          "title": "特朗普向选民打包票：伊朗战争结束后 美国经济将“飞向新高度”！",
+          "url": "https://www.cls.cn/detail/2407452",
+          "source": "财联社热门",
+          "ranks": [
+            9
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时25分"
+        },
+        {
           "title": "史上首次！美参众两院通过决议，共同限制特朗普战争权力",
           "url": "https://news.ifeng.com/c/8uClVTnMwCW",
           "source": "凤凰网",
           "ranks": [
             9
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "12时20分"
         },
@@ -778,7 +869,7 @@
           "ranks": [
             10
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "12时20分"
         },
@@ -789,7 +880,7 @@
           "ranks": [
             10
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "12时20分"
         },
@@ -924,17 +1015,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "04时19分"
-        },
-        {
-          "title": "盘点｜“G7团结”演不下去了，特朗普如何惹恼多国领导人",
-          "url": "https://m.thepaper.cn/newsDetail_forward_33439614",
-          "source": "澎湃新闻",
-          "ranks": [
-            19
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "12时20分"
         },
         {
           "title": "美国总统特朗普：当务之急是确保伊朗永远不会拥有核武器。",
@@ -1086,7 +1166,7 @@
           "ranks": [
             29
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "12时20分"
         }
@@ -1094,8 +1174,30 @@
     },
     {
       "keyword_group": "伊朗",
-      "match_count": 17,
+      "match_count": 23,
       "titles": [
+        {
+          "title": "伊朗议长说中东安全由中东国家决定",
+          "url": "https://flash.jin10.com/detail/20260624162206329800",
+          "source": "金十数据",
+          "ranks": [
+            1
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时25分"
+        },
+        {
+          "title": "伊朗议长说中东安全由中东国家决定",
+          "url": "https://wallstreetcn.com/livenews/3123904",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            1
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时25分"
+        },
         {
           "title": "路透社/益普索民调显示，仅有23%的美国人认为战后美国与伊朗的关系更加牢固，而35%的人认为关系更加脆弱。",
           "url": "https://flash.jin10.com/detail/20260624014359534800",
@@ -1156,6 +1258,18 @@
           "time_info": "[01时59分 ~ 04时19分]"
         },
         {
+          "title": "伊朗官宣霍尔木兹海峡免费开放 60 天，60 天后通行规则由美伊谈判决定，哪些信息值得关注？",
+          "url": "https://www.zhihu.com/question/2052882056875603762",
+          "source": "知乎",
+          "ranks": [
+            11,
+            16
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[12时20分 ~ 16时25分]"
+        },
+        {
           "title": "伊朗总统：伊美谅解备忘录不涉及导弹问题",
           "url": "https://wallstreetcn.com/livenews/3123592",
           "source": "华尔街见闻-快讯",
@@ -1173,7 +1287,7 @@
           "ranks": [
             8
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "12时20分"
         },
@@ -1187,17 +1301,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "02时00分"
-        },
-        {
-          "title": "伊朗官宣霍尔木兹海峡免费开放 60 天，60 天后通行规则由美伊谈判决定，哪些信息值得关注？",
-          "url": "https://www.zhihu.com/question/2052882056875603762",
-          "source": "知乎",
-          "ranks": [
-            11
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "12时20分"
         },
         {
           "title": "富国银行新兴市场策略师Álvaro Vivanco：我们正进一步进入这样一个时期：在全球经济增速放缓和美联储鹰派立场主导下，伊朗问题全面解决所剩无几的微小溢价将被抹平。 这意味着新兴市场外汇将面临压力，同时利率也仍有进一步压缩的空间。",
@@ -1266,6 +1369,17 @@
           "time_info": "02时00分"
         },
         {
+          "title": "伊朗议长卡利巴夫：黎巴嫩停火与伊朗停火同等重要。",
+          "url": "https://wallstreetcn.com/livenews/3123875",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            22
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时25分"
+        },
+        {
           "title": "伊朗总统称若无导弹伊朗已成加沙",
           "url": "https://flash.jin10.com/detail/20260624010738078800",
           "source": "金十数据",
@@ -1275,6 +1389,39 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "02时00分"
+        },
+        {
+          "title": "伊朗总统称若无导弹伊朗已成加沙",
+          "url": "https://search.bilibili.com/all?keyword=%E4%BC%8A%E6%9C%97%E6%80%BB%E7%BB%9F%E7%A7%B0%E8%8B%A5%E6%97%A0%E5%AF%BC%E5%BC%B9%E4%BC%8A%E6%9C%97%E5%B7%B2%E6%88%90%E5%8A%A0%E6%B2%99",
+          "source": "bilibili 热搜",
+          "ranks": [
+            24
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时25分"
+        },
+        {
+          "title": "报道：伊朗告知哈马斯将在与美国的谈判中提出加沙遭袭问题",
+          "url": "https://wallstreetcn.com/livenews/3123873",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            24
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时25分"
+        },
+        {
+          "title": "伊朗总统种树太投入 巴总理拦不住",
+          "url": "https://www.baidu.com/s?wd=%E4%BC%8A%E6%9C%97%E6%80%BB%E7%BB%9F%E7%A7%8D%E6%A0%91%E5%A4%AA%E6%8A%95%E5%85%A5+%E5%B7%B4%E6%80%BB%E7%90%86%E6%8B%A6%E4%B8%8D%E4%BD%8F",
+          "source": "百度热搜",
+          "ranks": [
+            25
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时25分"
         },
         {
           "title": "国际能源署（IEA）：6月初，阿联酋石油出口飙升至430万桶/日，为（美国和以色列对伊朗发动）战争之前水平的大约85%，3月份仅仅190万桶/日。",
@@ -1291,7 +1438,7 @@
     },
     {
       "keyword_group": "美股",
-      "match_count": 16,
+      "match_count": 18,
       "titles": [
         {
           "title": "金十图示：2026年06月23日（周二）美股热门股票行情一览（美股收盘）",
@@ -1340,6 +1487,18 @@
           "time_info": "[02时00分 ~ 06时17分]"
         },
         {
+          "title": "6月24日投资避雷针：美股半导体指数暴跌超7% 闪迪、美光科技跌超13%",
+          "url": "https://www.cls.cn/detail/2407435",
+          "source": "财联社热门",
+          "ranks": [
+            8,
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[12时20分 ~ 16时25分]"
+        },
+        {
           "title": "美股芯片股全线重挫",
           "url": "https://www.baidu.com/s?wd=%E7%BE%8E%E8%82%A1%E8%8A%AF%E7%89%87%E8%82%A1%E5%85%A8%E7%BA%BF%E9%87%8D%E6%8C%AB",
           "source": "百度热搜",
@@ -1362,6 +1521,17 @@
           "time_info": "04时19分"
         },
         {
+          "title": "美股盘前，半导体股多数上涨，英特尔涨约2%，美光科技涨约3%，高通涨约3%，ARM涨3.5%。",
+          "url": "https://wallstreetcn.com/livenews/3123895",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            6
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时25分"
+        },
+        {
           "title": "美股收盘：纳指跌超2% 芯片股重挫",
           "url": "https://flash.jin10.com/detail/20260624040129835800",
           "source": "金十数据",
@@ -1371,17 +1541,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "04时19分"
-        },
-        {
-          "title": "6月24日投资避雷针：美股半导体指数暴跌超7% 闪迪、美光科技跌超13%",
-          "url": "https://www.cls.cn/detail/2407435",
-          "source": "财联社热门",
-          "ranks": [
-            8
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "12时20分"
         },
         {
           "title": "Cerebras Systems美股盘后跌幅扩大至10%。",
@@ -1461,6 +1620,17 @@
           "time_info": "06时17分"
         },
         {
+          "title": "美股半导体股盘前普涨，美光科技(MU.O)、高通(QCOM.O)涨超3%，英特尔(INTC.O)、迈威尔科技(MRVL.O)涨约2%，AMD(AMD.O)涨1.5%。",
+          "url": "https://flash.jin10.com/detail/20260624160341350800",
+          "source": "金十数据",
+          "ranks": [
+            26
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时25分"
+        },
+        {
           "title": "新兴市场ETF收跌将近5.7%，与纳指ETF领跌美股大类资产类ETF",
           "url": "https://wallstreetcn.com/livenews/3123636",
           "source": "华尔街见闻-快讯",
@@ -1478,6 +1648,17 @@
       "match_count": 5,
       "titles": [
         {
+          "title": "科技热潮降温 ，纳指跌超2%，芯片指数跌近8%，美债美元齐涨，金银下挫",
+          "url": "https://wallstreetcn.com/articles/3775262",
+          "source": "华尔街见闻",
+          "ranks": [
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[08时01分 ~ 16时25分]"
+        },
+        {
           "title": "科技巨头下挫拖累美股大盘，芯片股指新高，原油转跌，美债收益率“补涨”",
           "url": "https://wallstreetcn.com/articles/3775156",
           "source": "华尔街见闻",
@@ -1487,17 +1668,6 @@
           "is_new": false,
           "appearance_count": 4,
           "time_info": "[01时59分 ~ 06时17分]"
-        },
-        {
-          "title": "科技热潮降温 ，纳指跌超2%，芯片指数跌近8%，美债美元齐涨，金银下挫",
-          "url": "https://wallstreetcn.com/articles/3775262",
-          "source": "华尔街见闻",
-          "ranks": [
-            1
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[08时01分 ~ 12时20分]"
         },
         {
           "title": "科技热潮降温 ，纳指跌超2%，芯片指数跌近8%，美债美元齐升，金银下挫",
