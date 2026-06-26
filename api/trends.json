@@ -1,12 +1,25 @@
 {
-  "generated_at": "2026-06-26T11:58:45.064478+08:00",
-  "total_titles_processed": 800,
-  "failed_sources": [],
+  "generated_at": "2026-06-26T16:02:02.928373+08:00",
+  "total_titles_processed": 1012,
+  "failed_sources": [
+    "ifeng"
+  ],
   "trends": [
     {
       "keyword_group": "DeepSeek Ai 水球泡 谷歌 google gemini 好书推荐 chatgpt openai 白银 金价石油 黄金 热梗",
-      "match_count": 63,
+      "match_count": 72,
       "titles": [
+        {
+          "title": "苹果微软拖累标普收平，美光飙升15%领涨芯片股，油价涨，黄金重回4000",
+          "url": "https://wallstreetcn.com/articles/3775470",
+          "source": "华尔街见闻",
+          "ranks": [
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[07时21分 ~ 16时02分]"
+        },
         {
           "title": "一图看懂 | AI赛道利润格局“大洗牌”，上游材料躺赚红利",
           "url": "https://www.cls.cn/detail/2409082",
@@ -31,15 +44,15 @@
           "time_info": "[00时28分 ~ 07时22分]"
         },
         {
-          "title": "苹果微软拖累标普收平，美光飙升15%领涨芯片股，油价涨，黄金重回4000",
-          "url": "https://wallstreetcn.com/articles/3775470",
-          "source": "华尔街见闻",
+          "title": "【早报】苹果市值一夜蒸发1.8万亿元，美股七巨头集体下挫；原油大涨超2%，黄金、白银收涨",
+          "url": "https://www.cls.cn/detail/2409666",
+          "source": "财联社热门",
           "ranks": [
             1
           ],
           "is_new": false,
           "appearance_count": 3,
-          "time_info": "[07时21分 ~ 11时58分]"
+          "time_info": "[11时58分 ~ 16时02分]"
         },
         {
           "title": "苹果重挫5%拖累科技板块，纳指转跌超1%，美光涨幅收窄至8%，黄金重回4000，白银转涨",
@@ -54,6 +67,29 @@
           "time_info": "[00时28分 ~ 05时46分]"
         },
         {
+          "title": "你如何看待钟南山院士在广州医科大学毕业典礼上，叮嘱学生要抓住老年慢性病和二甲医院提质扩容的黄金窗口期？",
+          "url": "https://www.zhihu.com/question/2053077287700883043",
+          "source": "知乎",
+          "ranks": [
+            4,
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[11时58分 ~ 16时02分]"
+        },
+        {
+          "title": "全速扩容！DeepSeek“招兵买马”扩编一倍",
+          "url": "https://www.cls.cn/detail/2409672",
+          "source": "财联社热门",
+          "ranks": [
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[11时58分 ~ 16时02分]"
+        },
+        {
           "title": "美光季报炸裂！营收增超三倍、净利增近14倍，料AI存储供应紧张持续至2027年后 | 财报见闻",
           "url": "https://wallstreetcn.com/articles/3775443",
           "source": "华尔街见闻",
@@ -65,24 +101,13 @@
           "time_info": "[00时28分 ~ 03时07分]"
         },
         {
-          "title": "【早报】苹果市值一夜蒸发1.8万亿元，美股七巨头集体下挫；原油大涨超2%，黄金、白银收涨",
-          "url": "https://www.cls.cn/detail/2409666",
-          "source": "财联社热门",
-          "ranks": [
-            1
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "11时58分"
-        },
-        {
           "title": "五粮液总经理华涛：按期兑现分红承诺 真金白银回馈全体股东",
           "url": "https://flash.jin10.com/detail/20260626115036012800",
           "source": "金十数据",
           "ranks": [
             1
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "11时58分"
         },
@@ -96,17 +121,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "00时28分"
-        },
-        {
-          "title": "全速扩容！DeepSeek“招兵买马”扩编一倍",
-          "url": "https://www.cls.cn/detail/2409672",
-          "source": "财联社热门",
-          "ranks": [
-            3
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "11时58分"
         },
         {
           "title": "蒙罗能源：应急人员已扑灭位于宾夕法尼亚州特雷纳（Trainer）炼油厂的火灾，目前已宣布火势“已得到控制”。",
@@ -126,7 +140,7 @@
           "ranks": [
             3
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "11时58分"
         },
@@ -148,18 +162,7 @@
           "ranks": [
             4
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "11时58分"
-        },
-        {
-          "title": "你如何看待钟南山院士在广州医科大学毕业典礼上，叮嘱学生要抓住老年慢性病和二甲医院提质扩容的黄金窗口期？",
-          "url": "https://www.zhihu.com/question/2053077287700883043",
-          "source": "知乎",
-          "ranks": [
-            4
-          ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "11时58分"
         },
@@ -175,6 +178,21 @@
           "time_info": "00时28分"
         },
         {
+          "title": "AI机器女友发布,仿真拉满",
+          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28355638&amp;topic_name=AI%E6%9C%BA%E5%99%A8%E5%A5%B3%E5%8F%8B%E5%8F%91%E5%B8%83%2C%E4%BB%BF%E7%9C%9F%E6%8B%89%E6%BB%A1",
+          "source": "贴吧",
+          "ranks": [
+            5,
+            7,
+            9,
+            14,
+            19
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[00时28分 ~ 16时02分]"
+        },
+        {
           "title": "你对AI脸产生生理性厌恶了吗",
           "url": "https://www.baidu.com/s?wd=%E4%BD%A0%E5%AF%B9AI%E8%84%B8%E4%BA%A7%E7%94%9F%E7%94%9F%E7%90%86%E6%80%A7%E5%8E%8C%E6%81%B6%E4%BA%86%E5%90%97",
           "source": "百度热搜",
@@ -188,18 +206,17 @@
           "time_info": "[00时28分 ~ 07时22分]"
         },
         {
-          "title": "AI机器女友发布,仿真拉满",
-          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28355638&amp;topic_name=AI%E6%9C%BA%E5%99%A8%E5%A5%B3%E5%8F%8B%E5%8F%91%E5%B8%83%2C%E4%BB%BF%E7%9C%9F%E6%8B%89%E6%BB%A1",
-          "source": "贴吧",
+          "title": "加息会杀死黄金吗？机构：当前更像1978年——黄金新一轮大涨前夜",
+          "url": "https://wallstreetcn.com/articles/3775510",
+          "source": "华尔街见闻",
           "ranks": [
-            5,
-            7,
-            9,
-            14
+            10,
+            8,
+            9
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[00时28分 ~ 11时58分]"
+          "appearance_count": 6,
+          "time_info": "[05时46分 ~ 16时02分]"
         },
         {
           "title": "周四（6月25日），美股超大规模云服务商（Hyperscalers）跌2.27%，报87.43点，6月1日达到106.56点之后，持续回撤，逼近4月7日顶部82.45点。 成分股全线溃败，微软收跌3.46%，甲骨文跌3.22%，亚马逊跌3.10%，Meta Platforms跌2.65%，谷歌A跌0.46%。",
@@ -288,18 +305,6 @@
           "time_info": "[00时28分 ~ 07时22分]"
         },
         {
-          "title": "加息会杀死黄金吗？机构：当前更像1978年——黄金新一轮大涨前夜",
-          "url": "https://wallstreetcn.com/articles/3775510",
-          "source": "华尔街见闻",
-          "ranks": [
-            10,
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[05时46分 ~ 11时58分]"
-        },
-        {
           "title": "霓虹AI超美?实则组队打工仔",
           "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28355608&amp;topic_name=%E9%9C%93%E8%99%B9AI%E8%B6%85%E7%BE%8E%3F%E5%AE%9E%E5%88%99%E7%BB%84%E9%98%9F%E6%89%93%E5%B7%A5%E4%BB%94",
           "source": "贴吧",
@@ -326,6 +331,18 @@
           "time_info": "[00时28分 ~ 05时46分]"
         },
         {
+          "title": "所有部门规模至少扩大一倍！DeepSeek发布“英雄帖”：人类正处于AGI前夜",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33454877",
+          "source": "澎湃新闻",
+          "ranks": [
+            10,
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[11时58分 ~ 16时02分]"
+        },
+        {
           "title": "美光业绩提振AI板块 纳指期货涨超2% PCE数据缓解加息担忧 | 今夜看点",
           "url": "https://www.cls.cn/detail/2409443",
           "source": "财联社热门",
@@ -336,6 +353,30 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[03时07分 ~ 11时58分]"
+        },
+        {
+          "title": "网传 Google 内部称 Gemini 模型竞争力下降至行业第四，具体情况如何？下降原因可能有哪些？",
+          "url": "https://www.zhihu.com/question/2052444159282082405",
+          "source": "知乎",
+          "ranks": [
+            11,
+            14
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[11时58分 ~ 16时02分]"
+        },
+        {
+          "title": "国际金价跌破4000美元后重返关口，华安黄金ETF近三日遭净赎回21亿",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33454301",
+          "source": "澎湃新闻",
+          "ranks": [
+            19,
+            20
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[11时58分 ~ 16时02分]"
         },
         {
           "title": "黄金回到“8”字头 实探金店",
@@ -351,6 +392,28 @@
           "time_info": "[00时28分 ~ 05时46分]"
         },
         {
+          "title": "中金：黄金牛市结束了吗？",
+          "url": "https://wallstreetcn.com/articles/3775561",
+          "source": "华尔街见闻",
+          "ranks": [
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[15时59分 ~ 16时02分]"
+        },
+        {
+          "title": "苹果、微软被迫涨价，库克承认“40年来前所未见”，AI正在推升新一轮通胀？",
+          "url": "https://wallstreetcn.com/articles/3775558",
+          "source": "华尔街见闻",
+          "ranks": [
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[15时59分 ~ 16时02分]"
+        },
+        {
           "title": "UP主手搓AI实时生成游戏",
           "url": "https://search.bilibili.com/all?keyword=UP%E4%B8%BB%E6%89%8B%E6%90%93AI%E5%AE%9E%E6%97%B6%E7%94%9F%E6%88%90%E6%B8%B8%E6%88%8F",
           "source": "bilibili 热搜",
@@ -360,6 +423,17 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[07时21分 ~ 07时22分]"
+        },
+        {
+          "title": "白银之城二分法测试PV",
+          "url": "https://search.bilibili.com/all?keyword=%E7%99%BD%E9%93%B6%E4%B9%8B%E5%9F%8E%E4%BA%8C%E5%88%86%E6%B3%95%E6%B5%8B%E8%AF%95PV",
+          "source": "bilibili 热搜",
+          "ranks": [
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[15时59分 ~ 16时02分]"
         },
         {
           "title": "主流AI Coding开发鹅腿识别",
@@ -397,6 +471,40 @@
           "time_info": "[05时46分 ~ 07时22分]"
         },
         {
+          "title": "黄金跌到不敢买了",
+          "url": "https://s.weibo.com/weibo?q=%23%E9%BB%84%E9%87%91%E8%B7%8C%E5%88%B0%E4%B8%8D%E6%95%A2%E4%B9%B0%E4%BA%86%23&t=31&band_rank=11&Refer=top",
+          "source": "微博",
+          "ranks": [
+            11,
+            13
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[11时58分 ~ 16时02分]"
+        },
+        {
+          "title": "AI算力“烤”热培育钻石 金刚石散热现成长拐点 业内：2027年或迎放量期",
+          "url": "https://www.cls.cn/detail/2409699",
+          "source": "财联社热门",
+          "ranks": [
+            13
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[15时59分 ~ 16时02分]"
+        },
+        {
+          "title": "黄金回收商家称现在别卖黄金",
+          "url": "https://www.baidu.com/s?wd=%E9%BB%84%E9%87%91%E5%9B%9E%E6%94%B6%E5%95%86%E5%AE%B6%E7%A7%B0%E7%8E%B0%E5%9C%A8%E5%88%AB%E5%8D%96%E9%BB%84%E9%87%91",
+          "source": "百度热搜",
+          "ranks": [
+            14
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[15时59分 ~ 16时02分]"
+        },
+        {
           "title": "如何看待现货黄金跌破 4000 美元 / 盎司关口？",
           "url": "https://www.zhihu.com/question/2053415711725151834",
           "source": "知乎",
@@ -407,6 +515,17 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[00时28分 ~ 03时07分]"
+        },
+        {
+          "title": "于正这部AI剧夯爆了",
+          "url": "https://www.douyin.com/hot/2547720",
+          "source": "抖音",
+          "ranks": [
+            29
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[15时59分 ~ 16时02分]"
         },
         {
           "title": "黄金盘中跌3.6%破4000美元，期银大跌10%，三年金银牛市戛然而止?",
@@ -448,7 +567,7 @@
           "ranks": [
             9
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "11时58分"
         },
@@ -459,18 +578,7 @@
           "ranks": [
             10
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "11时58分"
-        },
-        {
-          "title": "所有部门规模至少扩大一倍！DeepSeek发布“英雄帖”：人类正处于AGI前夜",
-          "url": "https://m.thepaper.cn/newsDetail_forward_33454877",
-          "source": "澎湃新闻",
-          "ranks": [
-            10
-          ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "11时58分"
         },
@@ -481,29 +589,7 @@
           "ranks": [
             10
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "11时58分"
-        },
-        {
-          "title": "黄金跌到不敢买了",
-          "url": "https://s.weibo.com/weibo?q=%23%E9%BB%84%E9%87%91%E8%B7%8C%E5%88%B0%E4%B8%8D%E6%95%A2%E4%B9%B0%E4%BA%86%23&t=31&band_rank=11&Refer=top",
-          "source": "微博",
-          "ranks": [
-            11
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "11时58分"
-        },
-        {
-          "title": "网传 Google 内部称 Gemini 模型竞争力下降至行业第四，具体情况如何？下降原因可能有哪些？",
-          "url": "https://www.zhihu.com/question/2052444159282082405",
-          "source": "知乎",
-          "ranks": [
-            11
-          ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "11时58分"
         },
@@ -539,6 +625,28 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "00时28分"
+        },
+        {
+          "title": "花旗策略师称现在就断言AI交易终结还为时尚早",
+          "url": "https://wallstreetcn.com/livenews/3125120",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            13
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时02分"
+        },
+        {
+          "title": "短剧男主自曝因AI失业已返乡卖菜",
+          "url": "https://s.weibo.com/weibo?q=%23%E7%9F%AD%E5%89%A7%E7%94%B7%E4%B8%BB%E8%87%AA%E6%9B%9D%E5%9B%A0AI%E5%A4%B1%E4%B8%9A%E5%B7%B2%E8%BF%94%E4%B9%A1%E5%8D%96%E8%8F%9C%23&t=31&band_rank=14&Refer=top",
+          "source": "微博",
+          "ranks": [
+            14
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时02分"
         },
         {
           "title": "全球最大黄金ETF--SPDR Gold Trust持仓较上日减少6.28吨，当前持仓量为1007.075吨。",
@@ -602,18 +710,7 @@
           "ranks": [
             17
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "11时58分"
-        },
-        {
-          "title": "国际金价跌破4000美元后重返关口，华安黄金ETF近三日遭净赎回21亿",
-          "url": "https://m.thepaper.cn/newsDetail_forward_33454301",
-          "source": "澎湃新闻",
-          "ranks": [
-            19
-          ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "11时58分"
         },
@@ -646,7 +743,7 @@
           "ranks": [
             21
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "11时58分"
         },
@@ -657,7 +754,7 @@
           "ranks": [
             22
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "11时58分"
         },
@@ -668,7 +765,7 @@
           "ranks": [
             24
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "11时58分"
         },
@@ -712,7 +809,7 @@
           "ranks": [
             27
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "11时58分"
         },
@@ -726,6 +823,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "03时07分"
+        },
+        {
+          "title": "现货黄金转涨，现报4032.50美元/盎司，此前一度跌超1%；现货白银涨0.8%，此前一度跌超3%。",
+          "url": "https://wallstreetcn.com/livenews/3125098",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            30
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时02分"
         }
       ]
     },
@@ -827,6 +935,18 @@
           "time_info": "[00时28分 ~ 07时22分]"
         },
         {
+          "title": "曾嘲讽泽连斯基“无牌可打”，如今特朗普又夸“打得不错”",
+          "url": "https://news.ifeng.com/c/8uFlkiiXNU5",
+          "source": "凤凰网",
+          "ranks": [
+            11,
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[11时58分 ~ 15时59分]"
+        },
+        {
           "title": "特朗普寻求为陷入困境的美国农民提供111亿美元新援助",
           "url": "https://wallstreetcn.com/livenews/3124855",
           "source": "华尔街见闻-快讯",
@@ -867,7 +987,7 @@
           "ranks": [
             8
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "11时58分"
         },
@@ -881,17 +1001,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "00时28分"
-        },
-        {
-          "title": "曾嘲讽泽连斯基“无牌可打”，如今特朗普又夸“打得不错”",
-          "url": "https://news.ifeng.com/c/8uFlkiiXNU5",
-          "source": "凤凰网",
-          "ranks": [
-            11
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "11时58分"
         },
         {
           "title": "加拿大总理卡尼：美国总统特朗普周三打电话给我，我们讨论了很长时间。",
@@ -984,6 +1093,234 @@
       ]
     },
     {
+      "keyword_group": "伊朗",
+      "match_count": 20,
+      "titles": [
+        {
+          "title": "霍尔木兹波澜又起！有船只遭袭、疏散行动暂停 伊朗再发警告",
+          "url": "https://www.cls.cn/detail/2409704",
+          "source": "财联社热门",
+          "ranks": [
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[11时58分 ~ 16时02分]"
+        },
+        {
+          "title": "伊朗外交部：希望那些领土和设施曾被美以侵略者用于近期强加战争中对伊朗发动攻击的地区国家，能够重新审视其立场。",
+          "url": "https://flash.jin10.com/detail/20260626155047553800",
+          "source": "金十数据",
+          "ranks": [
+            1
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时02分"
+        },
+        {
+          "title": "伊朗外交部：关于“美国对海湾合作委员会成员国安全的持久承诺”的说法，不过是空洞言论和对现实的歪曲。",
+          "url": "https://flash.jin10.com/detail/20260626155025723800",
+          "source": "金十数据",
+          "ranks": [
+            2
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时02分"
+        },
+        {
+          "title": "意大利协助美国打伊朗？梅洛尼：吕特你别乱说",
+          "url": "https://news.ifeng.com/c/8uGv7gSoz4a",
+          "source": "凤凰网",
+          "ranks": [
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "15时59分"
+        },
+        {
+          "title": "伊朗外交部：伊朗外交部认为，美国国务卿鲁比奥与海湾合作委员会外长于2026年6月25日发表的联合声明中所持立场具有干预性、不负责任且具有挑衅性，并地区好战及干预行为的持续提出警告。",
+          "url": "https://flash.jin10.com/detail/20260626154937869800",
+          "source": "金十数据",
+          "ranks": [
+            4
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时02分"
+        },
+        {
+          "title": "美飞行员曝伊朗「创新武器」，简直是外星来的东西，具体情况如何？伊朗无人机研发是什么水平？",
+          "url": "https://www.zhihu.com/question/2053109056487822677",
+          "source": "知乎",
+          "ranks": [
+            12,
+            18,
+            13
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[00时28分 ~ 07时22分]"
+        },
+        {
+          "title": "伊朗攻击货船、考验美伊停火协议：不走我们指定的路，不可接受且极其危险",
+          "url": "https://flash.jin10.com/detail/20260626065429633800",
+          "source": "金十数据",
+          "ranks": [
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "07时22分"
+        },
+        {
+          "title": "黎巴嫩真主党领导人纳伊姆·卡西姆：美国和以色列试图通过改变伊朗政权并控制该国来消灭伊朗，他们相信自己能够做到这一点。",
+          "url": "https://flash.jin10.com/detail/20260626154516356800",
+          "source": "金十数据",
+          "ranks": [
+            8
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时02分"
+        },
+        {
+          "title": "在伊华商：战争改变伊朗民众对中国的看法",
+          "url": "https://news.ifeng.com/c/8uGjlCe4dNV",
+          "source": "凤凰网",
+          "ranks": [
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "15时59分"
+        },
+        {
+          "title": "一位接近谈判团队的伊朗消息人士表示，以色列从黎巴嫩撤军是伊朗与美国达成最终协议的条件，也是伊朗的“红线”。",
+          "url": "https://flash.jin10.com/detail/20260626000157341800",
+          "source": "金十数据",
+          "ranks": [
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "00时28分"
+        },
+        {
+          "title": "美国官员：伊朗袭击了霍尔木兹海峡的一艘船。（华尔街日报）",
+          "url": "https://wallstreetcn.com/livenews/3124808",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            12
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "03时07分"
+        },
+        {
+          "title": "伊朗阿曼外长通话讨论霍尔木兹海峡问题",
+          "url": "https://wallstreetcn.com/livenews/3124766",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            13
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "00时28分"
+        },
+        {
+          "title": "意大利外长否认美军使用该国军事基地轰炸伊朗",
+          "url": "https://flash.jin10.com/detail/20260625233908276800",
+          "source": "金十数据",
+          "ranks": [
+            18
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "00时28分"
+        },
+        {
+          "title": "美媒：伊朗袭击货船，考验美伊停火协议",
+          "url": "https://flash.jin10.com/detail/20260626021302970800",
+          "source": "金十数据",
+          "ranks": [
+            19
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "03时07分"
+        },
+        {
+          "title": "伊朗测算：若建霍尔木兹海峡“收费站”，或可年赚400亿美元",
+          "url": "https://flash.jin10.com/detail/20260626153928285800",
+          "source": "金十数据",
+          "ranks": [
+            20
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时02分"
+        },
+        {
+          "title": "伊朗阿曼外长通话讨论霍尔木兹海峡问题",
+          "url": "https://flash.jin10.com/detail/20260625233541514800",
+          "source": "金十数据",
+          "ranks": [
+            22
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "00时28分"
+        },
+        {
+          "title": "消息人士：以军撤离黎巴嫩是伊朗重要“红线”",
+          "url": "https://wallstreetcn.com/livenews/3124790",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            25
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "03时07分"
+        },
+        {
+          "title": "美媒：伊朗估计每年海峡服务收费将达400亿美元",
+          "url": "https://wallstreetcn.com/livenews/3124750",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            28
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "00时28分"
+        },
+        {
+          "title": "美国：预计伊朗石油出口将达到200万桶/日",
+          "url": "https://wallstreetcn.com/livenews/3124749",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            29
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "00时28分"
+        },
+        {
+          "title": "欧盟石油协调小组：来自伊朗/中东地区的供应到达欧洲将需要时间。",
+          "url": "https://flash.jin10.com/detail/20260626153534754800",
+          "source": "金十数据",
+          "ranks": [
+            30
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时02分"
+        }
+      ]
+    },
+    {
       "keyword_group": "美股",
       "match_count": 12,
       "titles": [
@@ -996,8 +1333,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[07时21分 ~ 11时58分]"
+          "appearance_count": 5,
+          "time_info": "[07时21分 ~ 16时02分]"
         },
         {
           "title": "美股",
@@ -1124,146 +1461,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "05时46分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "伊朗",
-      "match_count": 12,
-      "titles": [
-        {
-          "title": "霍尔木兹波澜又起！有船只遭袭、疏散行动暂停 伊朗再发警告",
-          "url": "https://www.cls.cn/detail/2409704",
-          "source": "财联社热门",
-          "ranks": [
-            5
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "11时58分"
-        },
-        {
-          "title": "美飞行员曝伊朗「创新武器」，简直是外星来的东西，具体情况如何？伊朗无人机研发是什么水平？",
-          "url": "https://www.zhihu.com/question/2053109056487822677",
-          "source": "知乎",
-          "ranks": [
-            12,
-            18,
-            13
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[00时28分 ~ 07时22分]"
-        },
-        {
-          "title": "伊朗攻击货船、考验美伊停火协议：不走我们指定的路，不可接受且极其危险",
-          "url": "https://flash.jin10.com/detail/20260626065429633800",
-          "source": "金十数据",
-          "ranks": [
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "07时22分"
-        },
-        {
-          "title": "一位接近谈判团队的伊朗消息人士表示，以色列从黎巴嫩撤军是伊朗与美国达成最终协议的条件，也是伊朗的“红线”。",
-          "url": "https://flash.jin10.com/detail/20260626000157341800",
-          "source": "金十数据",
-          "ranks": [
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时28分"
-        },
-        {
-          "title": "美国官员：伊朗袭击了霍尔木兹海峡的一艘船。（华尔街日报）",
-          "url": "https://wallstreetcn.com/livenews/3124808",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            12
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "03时07分"
-        },
-        {
-          "title": "伊朗阿曼外长通话讨论霍尔木兹海峡问题",
-          "url": "https://wallstreetcn.com/livenews/3124766",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            13
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时28分"
-        },
-        {
-          "title": "意大利外长否认美军使用该国军事基地轰炸伊朗",
-          "url": "https://flash.jin10.com/detail/20260625233908276800",
-          "source": "金十数据",
-          "ranks": [
-            18
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时28分"
-        },
-        {
-          "title": "美媒：伊朗袭击货船，考验美伊停火协议",
-          "url": "https://flash.jin10.com/detail/20260626021302970800",
-          "source": "金十数据",
-          "ranks": [
-            19
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "03时07分"
-        },
-        {
-          "title": "伊朗阿曼外长通话讨论霍尔木兹海峡问题",
-          "url": "https://flash.jin10.com/detail/20260625233541514800",
-          "source": "金十数据",
-          "ranks": [
-            22
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时28分"
-        },
-        {
-          "title": "消息人士：以军撤离黎巴嫩是伊朗重要“红线”",
-          "url": "https://wallstreetcn.com/livenews/3124790",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            25
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "03时07分"
-        },
-        {
-          "title": "美媒：伊朗估计每年海峡服务收费将达400亿美元",
-          "url": "https://wallstreetcn.com/livenews/3124750",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            28
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时28分"
-        },
-        {
-          "title": "美国：预计伊朗石油出口将达到200万桶/日",
-          "url": "https://wallstreetcn.com/livenews/3124749",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            29
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时28分"
         }
       ]
     },
