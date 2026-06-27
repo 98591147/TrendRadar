@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-06-27T11:41:08.863173+08:00",
-  "total_titles_processed": 766,
+  "generated_at": "2026-06-27T14:55:19.840838+08:00",
+  "total_titles_processed": 913,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "伊朗",
-      "match_count": 42,
+      "match_count": 53,
       "titles": [
         {
           "title": "美伊签署谅解备忘录后，美军首次发动袭击，伊朗回应",
@@ -15,8 +15,19 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[11时40分 ~ 11时41分]"
+          "appearance_count": 3,
+          "time_info": "[11时40分 ~ 14时55分]"
+        },
+        {
+          "title": "美伊签协议后美军首次开火，称空袭伊朗回应商船在霍尔木兹遭袭，伊方称挫败美袭击、将严厉回应",
+          "url": "https://wallstreetcn.com/articles/3775654",
+          "source": "华尔街见闻",
+          "ranks": [
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[11时40分 ~ 14时55分]"
         },
         {
           "title": "据福克斯新闻：美国针对伊朗目标的打击行动目前“正在进行中”。",
@@ -29,17 +40,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[05时21分 ~ 07时10分]"
-        },
-        {
-          "title": "美伊签协议后美军首次开火，称空袭伊朗回应商船在霍尔木兹遭袭，伊方称挫败美袭击、将严厉回应",
-          "url": "https://wallstreetcn.com/articles/3775654",
-          "source": "华尔街见闻",
-          "ranks": [
-            2
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[11时40分 ~ 11时41分]"
         },
         {
           "title": "美国中央司令部：美国对伊朗发动打击，以回应其袭击商船的行为",
@@ -77,6 +77,50 @@
           "time_info": "07时10分"
         },
         {
+          "title": "巴基斯坦、伊朗两国外长通话讨论地区形势",
+          "url": "https://flash.jin10.com/detail/20260627142447191800",
+          "source": "金十数据",
+          "ranks": [
+            1
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "14时55分"
+        },
+        {
+          "title": "巴基斯坦、伊朗两国外长通话讨论地区形势",
+          "url": "https://wallstreetcn.com/livenews/3125552",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            1
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "14时55分"
+        },
+        {
+          "title": "伊朗战事将如何影响美军中东布局？",
+          "url": "https://news.ifeng.com/c/8uIHeNUEBHC",
+          "source": "凤凰网",
+          "ranks": [
+            2
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "14时55分"
+        },
+        {
+          "title": "伊朗越位绝杀被吹",
+          "url": "https://s.weibo.com/weibo?q=%E4%BC%8A%E6%9C%97%E8%B6%8A%E4%BD%8D%E7%BB%9D%E6%9D%80%E8%A2%AB%E5%90%B9&t=31&band_rank=2&Refer=top",
+          "source": "微博",
+          "ranks": [
+            2
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "14时55分"
+        },
+        {
           "title": "据伊朗努尔新闻：伊朗革命卫队发言人否认有关伊朗与美国在霍尔木兹海峡存在直接沟通渠道的说法，称其“完全是谎言”，并表示霍尔木兹海峡是“伊朗领土，与美国无关”。",
           "url": "https://flash.jin10.com/detail/20260627004716323800",
           "source": "金十数据",
@@ -88,37 +132,15 @@
           "time_info": "01时03分"
         },
         {
-          "title": "伊朗迈赫通讯社援引当地官员的话称，美国的攻击并未对西里克港造成损害。",
-          "url": "https://flash.jin10.com/detail/20260627104211270800",
-          "source": "金十数据",
+          "title": "伊朗绝杀越位：超了半只球鞋",
+          "url": "https://www.toutiao.com/trending/7655910922537566218/",
+          "source": "今日头条",
           "ranks": [
-            3
+            5
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "11时41分"
-        },
-        {
-          "title": "伊朗革命卫队：打击美军多个目标以回应美空袭伊朗",
-          "url": "https://wallstreetcn.com/livenews/3125536",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            3
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "11时41分"
-        },
-        {
-          "title": "美军公布最新袭击伊朗画面",
-          "url": "https://wallstreetcn.com/livenews/3125535",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            4
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "11时41分"
+          "time_info": "14时55分"
         },
         {
           "title": "意大利协助美国打伊朗？梅洛尼：吕特你别乱说",
@@ -144,6 +166,30 @@
           "time_info": "[05时21分 ~ 07时10分]"
         },
         {
+          "title": "伊朗迈赫通讯社援引当地官员的话称，美国的攻击并未对西里克港造成损害。",
+          "url": "https://flash.jin10.com/detail/20260627104211270800",
+          "source": "金十数据",
+          "ranks": [
+            3,
+            20
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[11时41分 ~ 14时55分]"
+        },
+        {
+          "title": "伊朗革命卫队：打击美军多个目标以回应美空袭伊朗",
+          "url": "https://wallstreetcn.com/livenews/3125536",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            3,
+            15
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[11时41分 ~ 14时55分]"
+        },
+        {
           "title": "美军称对伊朗发动打击以回应商船遭袭事件",
           "url": "https://wallstreetcn.com/livenews/3125461",
           "source": "华尔街见闻-快讯",
@@ -154,6 +200,18 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[05时21分 ~ 07时10分]"
+        },
+        {
+          "title": "美军公布最新袭击伊朗画面",
+          "url": "https://wallstreetcn.com/livenews/3125535",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            4,
+            16
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[11时41分 ~ 14时55分]"
         },
         {
           "title": "美军对伊朗目标的袭击“正在发生”。（福克斯新闻）",
@@ -181,6 +239,18 @@
           "time_info": "[01时02分 ~ 07时10分]"
         },
         {
+          "title": "美军深夜空袭伊朗",
+          "url": "https://www.toutiao.com/trending/7655846117610884671/",
+          "source": "今日头条",
+          "ranks": [
+            7,
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[11时40分 ~ 14时55分]"
+        },
+        {
           "title": "新加坡籍货船在阿曼湾遭袭，美方称伊朗无人机干的，伊方称不走指定航线的船没安全保障，如何看待此事？",
           "url": "https://www.zhihu.com/question/2053826098052518882",
           "source": "知乎",
@@ -190,17 +260,6 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[07时10分 ~ 11时41分]"
-        },
-        {
-          "title": "美军深夜空袭伊朗",
-          "url": "https://www.toutiao.com/trending/7655846117610884671/",
-          "source": "今日头条",
-          "ranks": [
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[11时40分 ~ 11时41分]"
         },
         {
           "title": "美军深夜空袭伊朗",
@@ -350,6 +409,28 @@
           "time_info": "07时10分"
         },
         {
+          "title": "伊朗称受袭锡里克港运营正常",
+          "url": "https://wallstreetcn.com/livenews/3125545",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            7
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "14时55分"
+        },
+        {
+          "title": "伊朗绝杀球被吹 1-1战平埃及",
+          "url": "https://www.baidu.com/s?wd=%E4%BC%8A%E6%9C%97%E7%BB%9D%E6%9D%80%E7%90%83%E8%A2%AB%E5%90%B9+1-1%E6%88%98%E5%B9%B3%E5%9F%83%E5%8F%8A",
+          "source": "百度热搜",
+          "ranks": [
+            8
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "14时55分"
+        },
+        {
           "title": "伊朗国家媒体援引伊斯兰革命卫队消息报道称，该部队已针对美军在该地区的多个部署地点实施打击。",
           "url": "https://wallstreetcn.com/livenews/3125481",
           "source": "华尔街见闻-快讯",
@@ -359,6 +440,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "07时10分"
+        },
+        {
+          "title": "世界杯小组赛 G 组，埃及 1-1 伊朗，哈利勒扎德绝杀无效，伊朗小组第 3，如何评价本场比赛？",
+          "url": "https://www.zhihu.com/question/2053876403502674506",
+          "source": "知乎",
+          "ranks": [
+            11
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "14时55分"
         },
         {
           "title": "万斯：美国将对伊朗“以暴制暴”",
@@ -394,13 +486,24 @@
           "time_info": "01时03分"
         },
         {
+          "title": "埃及1-1伊朗",
+          "url": "https://search.bilibili.com/all?keyword=%E5%9F%83%E5%8F%8A1-1%E4%BC%8A%E6%9C%97",
+          "source": "bilibili 热搜",
+          "ranks": [
+            16
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "14时55分"
+        },
+        {
           "title": "美副总统威胁：若伊朗诉诸暴力，将遭武力回击",
           "url": "https://flash.jin10.com/detail/20260627090443331800",
           "source": "金十数据",
           "ranks": [
             17
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "11时41分"
         },
@@ -427,6 +530,17 @@
           "time_info": "07时10分"
         },
         {
+          "title": "伊朗门将裆下漏球",
+          "url": "https://www.baidu.com/s?wd=%E4%BC%8A%E6%9C%97%E9%97%A8%E5%B0%86%E8%A3%86%E4%B8%8B%E6%BC%8F%E7%90%83",
+          "source": "百度热搜",
+          "ranks": [
+            19
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "14时55分"
+        },
+        {
           "title": "伊朗革命卫队：挫败美军袭击，将严厉回应",
           "url": "https://wallstreetcn.com/livenews/3125467",
           "source": "华尔街见闻-快讯",
@@ -444,7 +558,7 @@
           "ranks": [
             22
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "11时41分"
         },
@@ -471,6 +585,17 @@
           "time_info": "03时52分"
         },
         {
+          "title": "伊朗也捅韩国一刀",
+          "url": "https://s.weibo.com/weibo?q=%23%E4%BC%8A%E6%9C%97%E4%B9%9F%E6%8D%85%E9%9F%A9%E5%9B%BD%E4%B8%80%E5%88%80%23&t=31&band_rank=26&Refer=top",
+          "source": "微博",
+          "ranks": [
+            26
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "14时55分"
+        },
+        {
           "title": "据伊朗伊斯兰共和国广播公司：塔赫罗耶赫市和锡里克市传出三声不明来源的爆炸声。",
           "url": "https://wallstreetcn.com/livenews/3125468",
           "source": "华尔街见闻-快讯",
@@ -485,7 +610,7 @@
     },
     {
       "keyword_group": "DeepSeek Ai 水球泡 谷歌 google gemini 好书推荐 chatgpt openai 白银 金价石油 黄金 热梗",
-      "match_count": 40,
+      "match_count": 43,
       "titles": [
         {
           "title": "苹果涨价——压垮AI存储泡沫的最后一根稻草？",
@@ -497,8 +622,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[01时02分 ~ 11时41分]"
+          "appearance_count": 8,
+          "time_info": "[01时02分 ~ 14时55分]"
         },
         {
           "title": "DeepSeek 宣布所有部门至少扩大一倍，进行大规模招聘，这一举动意味着什么？",
@@ -569,8 +694,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[11时40分 ~ 11时41分]"
+          "appearance_count": 3,
+          "time_info": "[11时40分 ~ 14时55分]"
         },
         {
           "title": "苹果、微软被迫涨价，库克承认“40年来前所未见”，AI正在推升新一轮通胀？",
@@ -593,8 +718,23 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[07时10分 ~ 11时41分]"
+          "appearance_count": 4,
+          "time_info": "[07时10分 ~ 14时55分]"
+        },
+        {
+          "title": "纯中二?美官员把AI当英雄",
+          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28355671&amp;topic_name=%E7%BA%AF%E4%B8%AD%E4%BA%8C%3F%E7%BE%8E%E5%AE%98%E5%91%98%E6%8A%8AAI%E5%BD%93%E8%8B%B1%E9%9B%84",
+          "source": "贴吧",
+          "ranks": [
+            8,
+            10,
+            12,
+            15,
+            19
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[01时03分 ~ 14时55分]"
         },
         {
           "title": "报道：苹果负责Vision Pro和智能眼镜业务的负责人将跳槽至OpenAI",
@@ -631,20 +771,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[03时52分 ~ 05时21分]"
-        },
-        {
-          "title": "纯中二?美官员把AI当英雄",
-          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28355671&amp;topic_name=%E7%BA%AF%E4%B8%AD%E4%BA%8C%3F%E7%BE%8E%E5%AE%98%E5%91%98%E6%8A%8AAI%E5%BD%93%E8%8B%B1%E9%9B%84",
-          "source": "贴吧",
-          "ranks": [
-            8,
-            10,
-            12,
-            15
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[01时03分 ~ 11时41分]"
         },
         {
           "title": "【每日收评】创业板指跌超4%，全市场超4600股收绿，AI硬件股集体重挫",
@@ -702,11 +828,46 @@
           "source": "华尔街见闻",
           "ranks": [
             10,
+            6,
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[07时10分 ~ 14时55分]"
+        },
+        {
+          "title": "AI交易退潮席卷科技股：安森美暴跌24%，甲骨文创2001年来最大周跌，七巨头全线周跌",
+          "url": "https://wallstreetcn.com/articles/3775658",
+          "source": "华尔街见闻",
+          "ranks": [
+            7,
             6
           ],
           "is_new": false,
           "appearance_count": 3,
-          "time_info": "[07时10分 ~ 11时41分]"
+          "time_info": "[11时40分 ~ 14时55分]"
+        },
+        {
+          "title": "我喜欢的漫画被AI改编了",
+          "url": "https://www.douyin.com/hot/2549059",
+          "source": "抖音",
+          "ranks": [
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[11时40分 ~ 14时55分]"
+        },
+        {
+          "title": "黄金回落 8 开头，金店挤满抄底投资者，现在是投资的最佳时期吗？普通消费者啥时候买最划算？",
+          "url": "https://www.zhihu.com/question/2053812306593543147",
+          "source": "知乎",
+          "ranks": [
+            18
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[11时40分 ~ 14时55分]"
         },
         {
           "title": "白银之城二分法测试PV",
@@ -721,26 +882,28 @@
           "time_info": "[01时02分 ~ 03时52分]"
         },
         {
-          "title": "AI交易退潮席卷科技股：安森美暴跌24%，甲骨文创2001年来最大周跌，七巨头全线周跌",
-          "url": "https://wallstreetcn.com/articles/3775658",
-          "source": "华尔街见闻",
+          "title": "一周热榜精选：黄金4000关口能否顺利守住？原油打回伊朗冲突前原形",
+          "url": "https://flash.jin10.com/detail/20260627095343701800",
+          "source": "金十数据",
           "ranks": [
-            7
+            8,
+            25
           ],
           "is_new": false,
           "appearance_count": 2,
-          "time_info": "[11时40分 ~ 11时41分]"
+          "time_info": "[11时41分 ~ 14时55分]"
         },
         {
-          "title": "我喜欢的漫画被AI改编了",
-          "url": "https://www.douyin.com/hot/2549059",
-          "source": "抖音",
+          "title": "韩国政府组建跨部门机构应对涉AI犯罪",
+          "url": "https://wallstreetcn.com/livenews/3125531",
+          "source": "华尔街见闻-快讯",
           "ranks": [
-            8
+            8,
+            20
           ],
           "is_new": false,
           "appearance_count": 2,
-          "time_info": "[11时40分 ~ 11时41分]"
+          "time_info": "[11时41分 ~ 14时55分]"
         },
         {
           "title": "内存涨价反噬终端需求！苹果涨价+OpenAI IPO推迟引爆亚洲芯片股崩盘",
@@ -800,39 +963,6 @@
           "time_info": "[03时52分 ~ 05时21分]"
         },
         {
-          "title": "黄金回落 8 开头，金店挤满抄底投资者，现在是投资的最佳时期吗？普通消费者啥时候买最划算？",
-          "url": "https://www.zhihu.com/question/2053812306593543147",
-          "source": "知乎",
-          "ranks": [
-            18
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[11时40分 ~ 11时41分]"
-        },
-        {
-          "title": "一周热榜精选：黄金4000关口能否顺利守住？原油打回伊朗冲突前原形",
-          "url": "https://flash.jin10.com/detail/20260627095343701800",
-          "source": "金十数据",
-          "ranks": [
-            8
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "11时41分"
-        },
-        {
-          "title": "韩国政府组建跨部门机构应对涉AI犯罪",
-          "url": "https://wallstreetcn.com/livenews/3125531",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            8
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "11时41分"
-        },
-        {
           "title": "业内：遇到4种情况大胆抄底黄金",
           "url": "https://www.toutiao.com/trending/7655695576956145188/",
           "source": "今日头条",
@@ -853,6 +983,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "01时03分"
+        },
+        {
+          "title": "黄金大跌 多家银行发布公告",
+          "url": "https://www.baidu.com/s?wd=%E9%BB%84%E9%87%91%E5%A4%A7%E8%B7%8C+%E5%A4%9A%E5%AE%B6%E9%93%B6%E8%A1%8C%E5%8F%91%E5%B8%83%E5%85%AC%E5%91%8A",
+          "source": "百度热搜",
+          "ranks": [
+            12
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "14时55分"
         },
         {
           "title": "SemiAnalysis：H100云端指数现货价格正在下跌，现在每小时2.42美元，比5月峰值低约40%。生态系统担心这表明计算需求以及由此延伸的人工智能AI需求正在减弱。 重要的信号是，这很可能是一个现货价格指数，而不是期限定价。我们针对1年期H100合同价格的新云调查显示，该价格反而从去年末的大约每小时1.70美元的低谷攀升至如今的每小时约2.65美元。",
@@ -899,6 +1040,17 @@
           "time_info": "07时10分"
         },
         {
+          "title": "48小时行情过山车，揭秘AI拥挤交易有多脆弱？｜大师复盘",
+          "url": "https://flash.jin10.com/detail/20260627112200280800",
+          "source": "金十数据",
+          "ranks": [
+            17
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "14时55分"
+        },
+        {
           "title": "DeepSeek新晋独角兽第一",
           "url": "https://s.weibo.com/weibo?q=%23DeepSeek%E6%96%B0%E6%99%8B%E7%8B%AC%E8%A7%92%E5%85%BD%E7%AC%AC%E4%B8%80%23&t=31&band_rank=19&Refer=top",
           "source": "微博",
@@ -916,7 +1068,7 @@
           "ranks": [
             19
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "11时41分"
         },
@@ -938,7 +1090,7 @@
           "ranks": [
             24
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "11时41分"
         },
@@ -949,15 +1101,26 @@
           "ranks": [
             26
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "11时41分"
+        },
+        {
+          "title": "OpenAI发布GPT5.6",
+          "url": "https://www.baidu.com/s?wd=OpenAI%E5%8F%91%E5%B8%83GPT5.6",
+          "source": "百度热搜",
+          "ranks": [
+            28
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "14时55分"
         }
       ]
     },
     {
       "keyword_group": "特朗普",
-      "match_count": 23,
+      "match_count": 24,
       "titles": [
         {
           "title": "委内瑞拉强震突发，特朗普火速援救背后全是霸权算计",
@@ -998,11 +1161,12 @@
           "source": "财联社热门",
           "ranks": [
             12,
-            10
+            10,
+            13
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[07时10分 ~ 11时41分]"
+          "appearance_count": 4,
+          "time_info": "[07时10分 ~ 14时55分]"
         },
         {
           "title": "美国总统特朗普：伊朗仍然具备某些（军事打击）能力，但不太大。 （美国）汽油价格很快就会跌到每加仑2.5美元。",
@@ -1089,7 +1253,7 @@
           "ranks": [
             15
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "11时41分"
         },
@@ -1122,7 +1286,7 @@
           "ranks": [
             19
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "11时41分"
         },
@@ -1182,6 +1346,17 @@
           "time_info": "01时03分"
         },
         {
+          "title": "伊朗称特朗普不遵守谈判和停火原则",
+          "url": "https://www.toutiao.com/trending/7655588812406407178/",
+          "source": "今日头条",
+          "ranks": [
+            25
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "14时55分"
+        },
+        {
           "title": "美国总统特朗普：汽油价格很快就会跌到每加仑2.5美元。",
           "url": "https://flash.jin10.com/detail/20260627023141682800",
           "source": "金十数据",
@@ -1218,7 +1393,7 @@
     },
     {
       "keyword_group": "美股",
-      "match_count": 6,
+      "match_count": 7,
       "titles": [
         {
           "title": "科技股拖累全球股市，美股指下挫，光通信板块普跌，美光跌6%，金银走高，油价跌近4%",
@@ -1239,8 +1414,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[11时40分 ~ 11时41分]"
+          "appearance_count": 3,
+          "time_info": "[11时40分 ~ 14时55分]"
         },
         {
           "title": "美股收盘：三大指数小幅收跌 存储概念股全线重挫",
@@ -1251,8 +1426,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[07时10分 ~ 11时41分]"
+          "appearance_count": 4,
+          "time_info": "[07时10分 ~ 14时55分]"
         },
         {
           "title": "MAG7“信仰”松动：科技巨头技术面剧烈分化，美股资金加速涌向估值洼地",
@@ -1262,8 +1437,19 @@
             10
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[11时40分 ~ 11时41分]"
+          "appearance_count": 3,
+          "time_info": "[11时40分 ~ 14时55分]"
+        },
+        {
+          "title": "美股连跌的“核心逻辑”:“最大权重”Mag 7陨落",
+          "url": "https://wallstreetcn.com/articles/3775664",
+          "source": "华尔街见闻",
+          "ranks": [
+            9
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "14时55分"
         },
         {
           "title": "医疗业ETF收涨3%，与生物科技ETF领跑美股行业ETF",
