@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-06-30T08:07:32.191472+08:00",
-  "total_titles_processed": 589,
+  "generated_at": "2026-06-30T13:07:33.930527+08:00",
+  "total_titles_processed": 819,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普",
-      "match_count": 28,
+      "match_count": 30,
       "titles": [
         {
           "title": "特朗普：住房法案尚未提交给我，等法案送到后，我会决定如何处理。",
@@ -36,9 +36,21 @@
           "ranks": [
             2
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "08时07分"
+        },
+        {
+          "title": "特朗普坚称美伊周二会谈 科技板块起势反弹 | 今夜看点",
+          "url": "https://www.cls.cn/detail/2412084",
+          "source": "财联社热门",
+          "ranks": [
+            8,
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[01时40分 ~ 13时07分]"
         },
         {
           "title": "美国总统特朗普：（住房法案）我目前还不知道对此有什么计划。",
@@ -80,7 +92,7 @@
           "ranks": [
             5
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "08时07分"
         },
@@ -95,17 +107,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[04时02分 ~ 06时10分]"
-        },
-        {
-          "title": "特朗普坚称美伊周二会谈 科技板块起势反弹 | 今夜看点",
-          "url": "https://www.cls.cn/detail/2412084",
-          "source": "财联社热门",
-          "ranks": [
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[01时40分 ~ 08时07分]"
         },
         {
           "title": "特朗普新关税阴霾笼罩！全球零售商抢先囤货 中美航线运费飙涨六成",
@@ -131,6 +132,18 @@
           "time_info": "[04时02分 ~ 06时10分]"
         },
         {
+          "title": "特朗普“和粉丝吵翻了”",
+          "url": "https://news.ifeng.com/c/8uMPZ6rxaBi",
+          "source": "凤凰网",
+          "ranks": [
+            11,
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[08时07分 ~ 13时07分]"
+        },
+        {
           "title": "美国总统特朗普：油价已大幅下跌。",
           "url": "https://flash.jin10.com/detail/20260630032956729800",
           "source": "金十数据",
@@ -148,9 +161,20 @@
           "ranks": [
             6
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "08时07分"
+        },
+        {
+          "title": "美伊和谈前景不明！特朗普坚称今日举行会谈 伊方连连否认",
+          "url": "https://www.cls.cn/detail/2412327",
+          "source": "财联社热门",
+          "ranks": [
+            7
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "13时07分"
         },
         {
           "title": "美国总统特朗普签署关于汽车售后零部件的备忘录。",
@@ -175,15 +199,15 @@
           "time_info": "04时02分"
         },
         {
-          "title": "特朗普“和粉丝吵翻了”",
-          "url": "https://news.ifeng.com/c/8uMPZ6rxaBi",
+          "title": "特朗普性侵案上诉失败，被裁决赔偿女作家500万美元",
+          "url": "https://news.ifeng.com/c/8uN6TfbvLaw",
           "source": "凤凰网",
           "ranks": [
             11
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "08时07分"
+          "time_info": "13时07分"
         },
         {
           "title": "解雇美联储理事？特朗普在最高法院“碰钉子”",
@@ -192,7 +216,7 @@
           "ranks": [
             12
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "08时07分"
         },
@@ -203,7 +227,7 @@
           "ranks": [
             12
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "08时07分"
         },
@@ -225,7 +249,7 @@
           "ranks": [
             13
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "08时07分"
         },
@@ -236,7 +260,7 @@
           "ranks": [
             14
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "08时07分"
         },
@@ -247,7 +271,7 @@
           "ranks": [
             19
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "08时07分"
         },
@@ -269,7 +293,7 @@
           "ranks": [
             22
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "08时07分"
         },
@@ -321,7 +345,7 @@
     },
     {
       "keyword_group": "DeepSeek Ai 水球泡 谷歌 google gemini 好书推荐 chatgpt openai 白银 金价石油 黄金 热梗",
-      "match_count": 18,
+      "match_count": 25,
       "titles": [
         {
           "title": "还吹吗?韩国黄金时代光速崩塌",
@@ -330,11 +354,23 @@
           "ranks": [
             1,
             2,
-            3
+            3,
+            6
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[01时40分 ~ 08时07分]"
+          "appearance_count": 5,
+          "time_info": "[01时40分 ~ 13时07分]"
+        },
+        {
+          "title": "科技股力撑美股反弹，标普纳指终结五连跌，谷歌涨5%，油价反弹，日元跌至40年低位",
+          "url": "https://wallstreetcn.com/articles/3775727",
+          "source": "华尔街见闻",
+          "ranks": [
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[08时07分 ~ 13时07分]"
         },
         {
           "title": "DeepSeek V4 正式版官宣 7 月中旬上线，引入峰谷定价机制，你怎么看？",
@@ -349,17 +385,6 @@
           "time_info": "[01时40分 ~ 04时02分]"
         },
         {
-          "title": "科技股力撑美股反弹，标普纳指终结五连跌，谷歌涨5%，油价反弹，日元跌至40年低位",
-          "url": "https://wallstreetcn.com/articles/3775727",
-          "source": "华尔街见闻",
-          "ranks": [
-            1
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "08时07分"
-        },
-        {
           "title": "现货黄金周二小幅高开，向上触及4020美元/盎司，日内涨0.10%。",
           "url": "https://flash.jin10.com/detail/20260630060233206800",
           "source": "金十数据",
@@ -369,6 +394,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "06时10分"
+        },
+        {
+          "title": "日本经济产业省将向新的AI企业提供3873亿日元支持。（日本共同社）",
+          "url": "https://wallstreetcn.com/livenews/3126483",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            5
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "13时07分"
         },
         {
           "title": "美股大类资产类ETF周一多数收涨，纳指100 ETF涨2.49%，标普500 ETF、巴克莱美国可转债ETF、美国布伦特油价基金至多涨1.65%，道指ETF涨0.76%，新兴市场ETF、欧元做多、美国国债20+年ETF至多涨0.36%。 日元做多、罗素2000指数ETF、做多美元指数则至多收跌0.53%，农产品基金跌1.08%，大豆基金跌1.14%，黄金ETF跌1.35%。",
@@ -458,6 +494,30 @@
           "time_info": "[01时40分 ~ 06时10分]"
         },
         {
+          "title": "AI牛市的悬头之剑：不只是韩国，美股杠杆同样触目惊心",
+          "url": "https://wallstreetcn.com/articles/3775756",
+          "source": "华尔街见闻",
+          "ranks": [
+            10,
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[08时07分 ~ 13时07分]"
+        },
+        {
+          "title": "AI账单越来越高 企业开始转向更便宜的模型 DeepSeek等中国AI有望受益",
+          "url": "https://www.cls.cn/detail/2412167",
+          "source": "财联社热门",
+          "ranks": [
+            12,
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[08时07分 ~ 13时07分]"
+        },
+        {
           "title": "DeepSeek启动成立来最大规模招聘",
           "url": "https://www.baidu.com/s?wd=DeepSeek%E5%90%AF%E5%8A%A8%E6%88%90%E7%AB%8B%E6%9D%A5%E6%9C%80%E5%A4%A7%E8%A7%84%E6%A8%A1%E6%8B%9B%E8%81%98",
           "source": "百度热搜",
@@ -468,6 +528,17 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[01时40分 ~ 04时02分]"
+        },
+        {
+          "title": "黄金暴跌的真相是什么",
+          "url": "https://www.toutiao.com/trending/7657016762080169513/",
+          "source": "今日头条",
+          "ranks": [
+            7
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "13时07分"
         },
         {
           "title": "分析师：OpenAI或于今年启动IPO 无需等到2027年",
@@ -492,26 +563,26 @@
           "time_info": "06时10分"
         },
         {
-          "title": "AI牛市的悬头之剑：不只是韩国，美股杠杆同样触目惊心",
-          "url": "https://wallstreetcn.com/articles/3775756",
+          "title": "“玻璃桥”冲击到底有多大？华尔街：FAU厂商面临颠覆压力，AI光模块企业暂时相对安全",
+          "url": "https://wallstreetcn.com/articles/3775770",
+          "source": "华尔街见闻",
+          "ranks": [
+            8
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "13时07分"
+        },
+        {
+          "title": "DeepSeek V4定档7月中旬，峰谷API定价同步落地",
+          "url": "https://wallstreetcn.com/articles/3775761",
           "source": "华尔街见闻",
           "ranks": [
             10
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "08时07分"
-        },
-        {
-          "title": "AI账单越来越高 企业开始转向更便宜的模型 DeepSeek等中国AI有望受益",
-          "url": "https://www.cls.cn/detail/2412167",
-          "source": "财联社热门",
-          "ranks": [
-            12
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "08时07分"
+          "time_info": "13时07分"
         },
         {
           "title": "城堡证券EMEA固定收益销售主管Nohshad Shah警告称：人工智能（AI）日益成为政治议题。",
@@ -525,21 +596,54 @@
           "time_info": "01时40分"
         },
         {
+          "title": "“黄金一代”倒在小组赛！“荒唐”背后的韩国足球“密室行政”与财阀控局",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33479214",
+          "source": "澎湃新闻",
+          "ranks": [
+            16
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "13时07分"
+        },
+        {
           "title": "谷歌母公司支持旨在助推太空产业的金融科技公司",
           "url": "https://wallstreetcn.com/livenews/3126341",
           "source": "华尔街见闻-快讯",
           "ranks": [
             16
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "08时07分"
+        },
+        {
+          "title": "黄金跌到月末，七月流动性将定生死！",
+          "url": "https://flash.jin10.com/detail/20260630122939103800",
+          "source": "金十数据",
+          "ranks": [
+            23
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "13时07分"
+        },
+        {
+          "title": "交通银行：将关闭上海黄金交易所贵金属代理个人业务功能",
+          "url": "https://wallstreetcn.com/livenews/3126454",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            23
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "13时07分"
         }
       ]
     },
     {
       "keyword_group": "伊朗",
-      "match_count": 16,
+      "match_count": 19,
       "titles": [
         {
           "title": "伊朗副外长：本周在多哈进行伊美技术性谈判不属实",
@@ -562,6 +666,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "01时40分"
+        },
+        {
+          "title": "以色列防长：准备好独立打击伊朗",
+          "url": "https://news.ifeng.com/c/8uN7QjuqM13",
+          "source": "凤凰网",
+          "ranks": [
+            5
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "13时07分"
         },
         {
           "title": "伊朗称未来几天内没有与美方开展任何谈判的计划",
@@ -656,6 +771,17 @@
           "time_info": "01时40分"
         },
         {
+          "title": "据伊朗国家媒体：两名革命卫队成员在伊朗西部遭不明枪手袭击身亡。",
+          "url": "https://flash.jin10.com/detail/20260630125106486800",
+          "source": "金十数据",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "13时07分"
+        },
+        {
           "title": "伊朗外交部发言人：伊朗技术代表团将于本周访问卡塔尔，讨论谅解备忘录的执行事宜。未来几天没有与美方举行谈判的计划。",
           "url": "https://flash.jin10.com/detail/20260630011938646800",
           "source": "金十数据",
@@ -665,6 +791,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "01时40分"
+        },
+        {
+          "title": "伊朗称排雷将由伊方单独执行 美高院扩大总统解职高级官员的权力 | 环球市场",
+          "url": "https://www.cls.cn/detail/2412298",
+          "source": "财联社热门",
+          "ranks": [
+            12
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "13时07分"
         },
         {
           "title": "伊朗外交部发言人：伊朗当前的优先事项是跟进谅解备忘录的落实情况。",
@@ -728,6 +865,18 @@
       "match_count": 12,
       "titles": [
         {
+          "title": "【早报】美股大反弹；3大存储巨头，遭集体诉讼；金银下跌，油价收涨",
+          "url": "https://www.cls.cn/detail/2412290",
+          "source": "财联社热门",
+          "ranks": [
+            3,
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[08时07分 ~ 13时07分]"
+        },
+        {
           "title": "美股三大指数高开低走，纳指转跌，美光跌3.5%，油价回到70上方",
           "url": "https://wallstreetcn.com/articles/3775727",
           "source": "华尔街见闻",
@@ -737,6 +886,18 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[01时40分 ~ 04时02分]"
+        },
+        {
+          "title": "美股收盘：芯片股绝地反攻强势翻红 纳指涨超2%道指收新高",
+          "url": "https://www.cls.cn/detail/2412265",
+          "source": "财联社热门",
+          "ranks": [
+            4,
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[08时07分 ~ 13时07分]"
         },
         {
           "title": "科技股领涨，美股全线收涨，油价反弹，日元跌至40年低位",
@@ -750,17 +911,6 @@
           "time_info": "06时10分"
         },
         {
-          "title": "【早报】美股大反弹；3大存储巨头，遭集体诉讼；金银下跌，油价收涨",
-          "url": "https://www.cls.cn/detail/2412290",
-          "source": "财联社热门",
-          "ranks": [
-            3
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "08时07分"
-        },
-        {
           "title": "金十图示：2026年06月29日（周一）美股热门股票行情一览（美股盘中）",
           "url": "https://flash.jin10.com/detail/20260630012810152800",
           "source": "金十数据",
@@ -770,17 +920,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "01时40分"
-        },
-        {
-          "title": "美股收盘：芯片股绝地反攻强势翻红 纳指涨超2%道指收新高",
-          "url": "https://www.cls.cn/detail/2412265",
-          "source": "财联社热门",
-          "ranks": [
-            4
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "08时07分"
         },
         {
           "title": "金十图示：2026年06月29日（周一）热门中概股行情一览（美股盘中）",
@@ -857,7 +996,7 @@
           "ranks": [
             28
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "08时07分"
         }
