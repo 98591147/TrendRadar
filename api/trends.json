@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-07-04T00:27:47.306694+08:00",
-  "total_titles_processed": 310,
+  "generated_at": "2026-07-04T02:15:18.477999+08:00",
+  "total_titles_processed": 393,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "DeepSeek Ai 水球泡 谷歌 google gemini 好书推荐 chatgpt openai 白银 金价石油 黄金 热梗",
-      "match_count": 12,
+      "match_count": 17,
       "titles": [
         {
           "title": "非农降温击碎鹰派叙事，道指新高，芯片股再重挫，纳指100盘中跌2%，黄金大涨",
@@ -15,8 +15,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时27分"
+          "appearance_count": 2,
+          "time_info": "[00时27分 ~ 02时15分]"
         },
         {
           "title": "芯片股两连跌！AI“鬼故事”不断：Meta、Anthropic相继传出新动作，市场开始重估AI交易？",
@@ -26,8 +26,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时27分"
+          "appearance_count": 2,
+          "time_info": "[00时27分 ~ 02时15分]"
         },
         {
           "title": "AI情绪逆转！全球股市反弹，韩股收涨5.8%，金铜拉涨，美元下跌",
@@ -37,8 +37,8 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时27分"
+          "appearance_count": 2,
+          "time_info": "[00时27分 ~ 02时15分]"
         },
         {
           "title": "4名大学生出题 AI考了0分",
@@ -48,8 +48,41 @@
             5
           ],
           "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[00时27分 ~ 02时15分]"
+        },
+        {
+          "title": "摩根大通：黄金短期承压 2026下半年或冲4500美元",
+          "url": "https://flash.jin10.com/detail/20260704014528189800",
+          "source": "金十数据",
+          "ranks": [
+            1
+          ],
+          "is_new": true,
           "appearance_count": 1,
-          "time_info": "00时27分"
+          "time_info": "02时15分"
+        },
+        {
+          "title": "摩根大通维持对黄金的长期看涨展望，并预计金价将在2027年进一步回升。",
+          "url": "https://flash.jin10.com/detail/20260704012107426800",
+          "source": "金十数据",
+          "ranks": [
+            5
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "02时15分"
+        },
+        {
+          "title": "摩根大通：预计黄金价格将在近期区间震荡，然后才会出现复苏。 预计2026年三季度均价4300美元/盎司，四季度料位4500美元。 维持长期看涨金价的立场不变，预计将在2027年进一步复苏。",
+          "url": "https://wallstreetcn.com/livenews/3128809",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            5
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "02时15分"
         },
         {
           "title": "对话｜硅谷为何争抢哲学家？AI生成内容越廉价，判断力越是稀缺能力",
@@ -59,8 +92,8 @@
             7
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时27分"
+          "appearance_count": 2,
+          "time_info": "[00时27分 ~ 02时15分]"
         },
         {
           "title": "Meta收跌5%！报道：扎克伯格称Meta AI智能体开发不及预期",
@@ -70,19 +103,20 @@
             8
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时27分"
+          "appearance_count": 2,
+          "time_info": "[00时27分 ~ 02时15分]"
         },
         {
           "title": "Anthropic自研AI芯片计划引发美股半导体大跌！闪迪大跌14%，费城半导体指数两日重挫12%",
           "url": "https://wallstreetcn.com/articles/3776091",
           "source": "华尔街见闻",
           "ranks": [
-            9
+            9,
+            10
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时27分"
+          "appearance_count": 2,
+          "time_info": "[00时27分 ~ 02时15分]"
         },
         {
           "title": "AI填志愿实测：信息更新可能有偏差，决策还得考生自己做",
@@ -92,8 +126,8 @@
             12
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时27分"
+          "appearance_count": 2,
+          "time_info": "[00时27分 ~ 02时15分]"
         },
         {
           "title": "黄金暴力拉涨日内涨幅扩大至 2.3%，背后有哪些原因？这会是黄金止跌的信号吗？",
@@ -103,8 +137,42 @@
             13
           ],
           "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[00时27分 ~ 02时15分]"
+        },
+        {
+          "title": "博主：黄金真正的长期买点正在出现",
+          "url": "https://www.toutiao.com/trending/7658287601106816531/",
+          "source": "今日头条",
+          "ranks": [
+            25,
+            27
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[00时27分 ~ 02时15分]"
+        },
+        {
+          "title": "摩根大通：预计黄金短期内将维持区间震荡，随后回升，2026年第三季度均价为4,300美元/盎司，第四季度均价为4,500美元/盎司。",
+          "url": "https://flash.jin10.com/detail/20260704011652357800",
+          "source": "金十数据",
+          "ranks": [
+            7
+          ],
+          "is_new": true,
           "appearance_count": 1,
-          "time_info": "00时27分"
+          "time_info": "02时15分"
+        },
+        {
+          "title": "加拿大养老基金向EQT的AI基础设施建设投资17.5亿美元",
+          "url": "https://wallstreetcn.com/livenews/3128806",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            7
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "02时15分"
         },
         {
           "title": "行业最直观的风向标闪烁红灯，词元经济学动摇AI热潮叙事",
@@ -112,17 +180,6 @@
           "source": "华尔街见闻-快讯",
           "ranks": [
             21
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时27分"
-        },
-        {
-          "title": "博主：黄金真正的长期买点正在出现",
-          "url": "https://www.toutiao.com/trending/7658287601106816531/",
-          "source": "今日头条",
-          "ranks": [
-            25
           ],
           "is_new": false,
           "appearance_count": 1,
@@ -143,19 +200,8 @@
     },
     {
       "keyword_group": "伊朗",
-      "match_count": 10,
+      "match_count": 12,
       "titles": [
-        {
-          "title": "据伊朗学生通讯社：伊朗和巴基斯坦双方在伊朗前最高领袖哈梅内伊的葬礼后举行会谈。",
-          "url": "https://flash.jin10.com/detail/20260703235631921800",
-          "source": "金十数据",
-          "ranks": [
-            1
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时27分"
-        },
         {
           "title": "伊朗总统在哈梅内伊葬礼上双手掩面",
           "url": "https://v.ifeng.com/c/8uSml4XgzRh",
@@ -164,8 +210,19 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时27分"
+          "appearance_count": 2,
+          "time_info": "[00时27分 ~ 02时15分]"
+        },
+        {
+          "title": "伊朗议长会见中方代表，称已解决中国船只通过海峡问题",
+          "url": "https://news.ifeng.com/c/8uSnvabtNsd",
+          "source": "凤凰网",
+          "ranks": [
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[00时27分 ~ 02时15分]"
         },
         {
           "title": "全国人大常委会副委员长何维代表中方出席伊朗已故最高领袖哈梅内伊葬礼",
@@ -179,48 +236,64 @@
           "time_info": "00时27分"
         },
         {
+          "title": "据伊朗学生通讯社：伊朗和巴基斯坦双方在伊朗前最高领袖哈梅内伊的葬礼后举行会谈。",
+          "url": "https://flash.jin10.com/detail/20260703235631921800",
+          "source": "金十数据",
+          "ranks": [
+            1,
+            24
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[00时27分 ~ 02时15分]"
+        },
+        {
           "title": "伊朗与巴基斯坦在前最高领袖哈梅内伊葬礼结束后举行了会谈。（ISNA）",
           "url": "https://wallstreetcn.com/livenews/3128790",
           "source": "华尔街见闻-快讯",
           "ranks": [
-            2
+            2,
+            22
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时27分"
+          "appearance_count": 2,
+          "time_info": "[00时27分 ~ 02时15分]"
         },
         {
           "title": "全国人大常委会副委员长何维代表中方出席伊朗已故最高领袖哈梅内伊葬礼",
           "url": "https://wallstreetcn.com/livenews/3128789",
           "source": "华尔街见闻-快讯",
           "ranks": [
-            3
+            3,
+            23
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时27分"
-        },
-        {
-          "title": "伊朗议长会见中方代表，称已解决中国船只通过海峡问题",
-          "url": "https://news.ifeng.com/c/8uSnvabtNsd",
-          "source": "凤凰网",
-          "ranks": [
-            4
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时27分"
+          "appearance_count": 2,
+          "time_info": "[00时27分 ~ 02时15分]"
         },
         {
           "title": "以总理办公室否认计划暗杀伊朗谈判代表",
           "url": "https://wallstreetcn.com/livenews/3128785",
           "source": "华尔街见闻-快讯",
           "ranks": [
-            7
+            7,
+            27
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时27分"
+          "appearance_count": 2,
+          "time_info": "[00时27分 ~ 02时15分]"
+        },
+        {
+          "title": "英国央行行长贝利：如果美国和以色列没有对伊朗发动战争，英国通胀将达到目标。",
+          "url": "https://wallstreetcn.com/livenews/3128784",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            8,
+            28
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[00时27分 ~ 02时15分]"
         },
         {
           "title": "以总理办公室否认计划暗杀伊朗谈判代表",
@@ -234,15 +307,15 @@
           "time_info": "00时27分"
         },
         {
-          "title": "英国央行行长贝利：如果美国和以色列没有对伊朗发动战争，英国通胀将达到目标。",
-          "url": "https://wallstreetcn.com/livenews/3128784",
-          "source": "华尔街见闻-快讯",
+          "title": "据伊朗伊斯兰共和国通讯社（IRNA）：伊朗国防部副部长表示，伊朗和巴基斯坦可以成为该地区新安全安排的基石。",
+          "url": "https://flash.jin10.com/detail/20260704004754888800",
+          "source": "金十数据",
           "ranks": [
-            8
+            16
           ],
-          "is_new": false,
+          "is_new": true,
           "appearance_count": 1,
-          "time_info": "00时27分"
+          "time_info": "02时15分"
         },
         {
           "title": "也门胡塞武装：在沙特军机试图阻拦一架伊朗民航客机降落萨那期间，胡塞武装在也门领空对沙特军机进行了对峙。 沙特若发动进一步袭击，将“遭到对沙特机场及核心利益的打击”。",
@@ -254,12 +327,23 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "00时27分"
+        },
+        {
+          "title": "惠誉评级：重新评估全球企业部门面临的与伊朗相关的持续风险。",
+          "url": "https://flash.jin10.com/detail/20260704004150306800",
+          "source": "金十数据",
+          "ranks": [
+            19
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "02时15分"
         }
       ]
     },
     {
       "keyword_group": "特朗普",
-      "match_count": 8,
+      "match_count": 10,
       "titles": [
         {
           "title": "从保守派宠儿到MAGA公敌，她为什么敢“背叛”特朗普？",
@@ -269,8 +353,19 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时27分"
+          "appearance_count": 2,
+          "time_info": "[00时27分 ~ 02时15分]"
+        },
+        {
+          "title": "借总统身份捞钱？特朗普：赚钱没犯法，不管我家人做啥都有人说“利益冲突”",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33509069",
+          "source": "澎湃新闻",
+          "ranks": [
+            11
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[00时27分 ~ 02时15分]"
         },
         {
           "title": "特朗普：我知道沃什想做什么，但他须做分内之事，美联储理事会可能有点“敌对”",
@@ -295,15 +390,15 @@
           "time_info": "00时27分"
         },
         {
-          "title": "借总统身份捞钱？特朗普：赚钱没犯法，不管我家人做啥都有人说“利益冲突”",
-          "url": "https://m.thepaper.cn/newsDetail_forward_33509069",
-          "source": "澎湃新闻",
+          "title": "美国总统特朗普周五与内塔尼亚胡通电话。（Axios）",
+          "url": "https://wallstreetcn.com/livenews/3128798",
+          "source": "华尔街见闻-快讯",
           "ranks": [
-            11
+            15
           ],
-          "is_new": false,
+          "is_new": true,
           "appearance_count": 1,
-          "time_info": "00时27分"
+          "time_info": "02时15分"
         },
         {
           "title": "哥伦比亚总统佩特罗：与美国总统特朗普进行了友好交谈。",
@@ -315,6 +410,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "00时27分"
+        },
+        {
+          "title": "据AXIOS网站：美国总统特朗普今天与以色列总理内塔尼亚胡通了电话。以色列总理办公室表示，双方同意近期在美国举行会晤。",
+          "url": "https://flash.jin10.com/detail/20260704003454888800",
+          "source": "金十数据",
+          "ranks": [
+            21
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "02时15分"
         },
         {
           "title": "哥伦比亚总统办公室：哥伦比亚总统佩特罗请求将其从制裁名单中移除，美国总统特朗普表示将“尽力而为”。",
@@ -363,8 +469,25 @@
             7
           ],
           "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[00时27分 ~ 02时15分]"
+        }
+      ]
+    },
+    {
+      "keyword_group": "美元",
+      "match_count": 1,
+      "titles": [
+        {
+          "title": "最近24小时，MarketVectorTM数字资产100小盘指数涨2.33%，暂报2234.25点，上周五结束交易以来（7*24）累计上涨5.08%，6月27-30日低位持稳于2100点附近，7月1-3日持续上扬。 MarketVectorTM数字资产100中盘指数涨1.85%，报2573.64点，最近七天累涨3.75%。 MarketVector数字资产100指数涨0.95%，报12402.25点，最近七天累涨4.56%。 目前，Solana涨0.64%、最近七天迄今累涨13%，狗狗币涨2.98%、最近七天迄今累涨1.37%，XRP涨2.77%、、最近七天迄今累涨6.81%。 比特币涨0.85%，暂报62032.74美元，最近七天迄今累涨4.07%；以太坊涨1.97%，暂报1732.62美元，最近七天迄今累涨10.49%。",
+          "url": "https://wallstreetcn.com/livenews/3128802",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            11
+          ],
+          "is_new": true,
           "appearance_count": 1,
-          "time_info": "00时27分"
+          "time_info": "02时15分"
         }
       ]
     }
