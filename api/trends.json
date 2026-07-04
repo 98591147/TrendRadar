@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-07-04T15:49:36.537789+08:00",
-  "total_titles_processed": 938,
+  "generated_at": "2026-07-04T18:13:46.301476+08:00",
+  "total_titles_processed": 1060,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "DeepSeek Ai 水球泡 谷歌 google gemini 好书推荐 chatgpt openai 白银 金价石油 黄金 热梗",
-      "match_count": 36,
+      "match_count": 39,
       "titles": [
         {
           "title": "芯片股两连跌！AI“鬼故事”不断：Meta、Anthropic相继传出新动作，市场开始重估AI交易？",
@@ -20,6 +20,19 @@
           "time_info": "[00时27分 ~ 08时07分]"
         },
         {
+          "title": "AI焦虑暂退，科技股反弹，欧股两日连创新高，布油两日反弹但连跌四周",
+          "url": "https://wallstreetcn.com/articles/3776124",
+          "source": "华尔街见闻",
+          "ranks": [
+            2,
+            1,
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[08时07分 ~ 18时13分]"
+        },
+        {
           "title": "非农降温击碎鹰派叙事，道指新高，芯片股再重挫，纳指100盘中跌2%，黄金大涨",
           "url": "https://wallstreetcn.com/articles/3776024",
           "source": "华尔街见闻",
@@ -29,18 +42,6 @@
           "is_new": false,
           "appearance_count": 4,
           "time_info": "[00时27分 ~ 06时07分]"
-        },
-        {
-          "title": "AI焦虑暂退，科技股反弹，欧股两日连创新高，布油两日反弹但连跌四周",
-          "url": "https://wallstreetcn.com/articles/3776124",
-          "source": "华尔街见闻",
-          "ranks": [
-            2,
-            1
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[08时07分 ~ 15时49分]"
         },
         {
           "title": "4名大学生出题 AI考了0分",
@@ -197,6 +198,18 @@
           "time_info": "[00时27分 ~ 06时07分]"
         },
         {
+          "title": "DeepSeek高峰涨价意味着什么?高盛：国内大模型竞争正回归理性",
+          "url": "https://wallstreetcn.com/articles/3776170",
+          "source": "华尔街见闻",
+          "ranks": [
+            8,
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[12时37分 ~ 18时13分]"
+        },
+        {
           "title": "黄金暴力拉涨日内涨幅扩大至 2.3%，背后有哪些原因？这会是黄金止跌的信号吗？",
           "url": "https://www.zhihu.com/question/2056301842225525732",
           "source": "知乎",
@@ -207,18 +220,6 @@
           "is_new": false,
           "appearance_count": 4,
           "time_info": "[00时27分 ~ 08时07分]"
-        },
-        {
-          "title": "DeepSeek高峰涨价意味着什么?高盛：国内大模型竞争正回归理性",
-          "url": "https://wallstreetcn.com/articles/3776170",
-          "source": "华尔街见闻",
-          "ranks": [
-            8,
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[12时37分 ~ 15时49分]"
         },
         {
           "title": "特朗普前AI顾问：美国不会设立类FDA的AI监管机构",
@@ -350,6 +351,28 @@
           "time_info": "08时07分"
         },
         {
+          "title": "如何评价 7 月 15 日将实施的 AI 情感陪伴新规，以及豆包、千问、元宝等 App 届时将下架智能体的决定？",
+          "url": "https://www.zhihu.com/question/2056532907695649760",
+          "source": "知乎",
+          "ranks": [
+            8
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时13分"
+        },
+        {
+          "title": "黄金结束四周连跌！但分析师认为，持续复苏仍需三个条件",
+          "url": "https://wallstreetcn.com/articles/3776180",
+          "source": "华尔街见闻",
+          "ranks": [
+            9
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时13分"
+        },
+        {
           "title": "宇树高管谈具身智能ChatGPT时刻",
           "url": "https://flash.jin10.com/detail/20260704110855518800",
           "source": "金十数据",
@@ -361,13 +384,24 @@
           "time_info": "12时38分"
         },
         {
+          "title": "黄金如今又看美联储的脸色了",
+          "url": "https://wallstreetcn.com/articles/3776189",
+          "source": "华尔街见闻",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时13分"
+        },
+        {
           "title": "业内首个AI-eSIM产业协同平台成立",
           "url": "https://wallstreetcn.com/livenews/3128902",
           "source": "华尔街见闻-快讯",
           "ranks": [
             12
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "15时49分"
         },
@@ -378,7 +412,7 @@
           "ranks": [
             20
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "15时49分"
         },
@@ -430,7 +464,7 @@
     },
     {
       "keyword_group": "伊朗",
-      "match_count": 25,
+      "match_count": 27,
       "titles": [
         {
           "title": "伊朗总统在哈梅内伊葬礼上双手掩面",
@@ -452,8 +486,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[12时37分 ~ 15时49分]"
+          "appearance_count": 4,
+          "time_info": "[12时37分 ~ 18时13分]"
         },
         {
           "title": "伊朗议长会见中方代表，称已解决中国船只通过海峡问题",
@@ -561,6 +595,18 @@
           "time_info": "[04时17分 ~ 08时07分]"
         },
         {
+          "title": "伊朗官员警告他国勿在霍尔木兹海峡采取军事行动",
+          "url": "https://wallstreetcn.com/livenews/3128909",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            6,
+            25
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[15时49分 ~ 18时13分]"
+        },
+        {
           "title": "以总理办公室否认计划暗杀伊朗谈判代表",
           "url": "https://wallstreetcn.com/livenews/3128785",
           "source": "华尔街见闻-快讯",
@@ -571,6 +617,18 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[00时27分 ~ 02时15分]"
+        },
+        {
+          "title": "伊朗警告英法勿干涉霍尔木兹海峡（事务）。（迈赫尔通讯社）",
+          "url": "https://wallstreetcn.com/livenews/3128908",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            7,
+            26
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[15时49分 ~ 18时13分]"
         },
         {
           "title": "英国央行行长贝利：如果美国和以色列没有对伊朗发动战争，英国通胀将达到目标。",
@@ -585,6 +643,18 @@
           "time_info": "[00时27分 ~ 02时15分]"
         },
         {
+          "title": "伊朗官员警告他国勿在霍尔木兹海峡采取军事行动",
+          "url": "https://flash.jin10.com/detail/20260704144842898800",
+          "source": "金十数据",
+          "ranks": [
+            10,
+            25
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[15时49分 ~ 18时13分]"
+        },
+        {
           "title": "伊朗总统与俄罗斯就扩大合作进行了会谈",
           "url": "https://wallstreetcn.com/livenews/3128816",
           "source": "华尔街见闻-快讯",
@@ -595,28 +665,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[04时17分 ~ 06时07分]"
-        },
-        {
-          "title": "伊朗官员警告他国勿在霍尔木兹海峡采取军事行动",
-          "url": "https://wallstreetcn.com/livenews/3128909",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            6
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "15时49分"
-        },
-        {
-          "title": "伊朗警告英法勿干涉霍尔木兹海峡（事务）。（迈赫尔通讯社）",
-          "url": "https://wallstreetcn.com/livenews/3128908",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            7
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "15时49分"
         },
         {
           "title": "以总理办公室否认计划暗杀伊朗谈判代表",
@@ -630,15 +678,15 @@
           "time_info": "00时27分"
         },
         {
-          "title": "伊朗官员警告他国勿在霍尔木兹海峡采取军事行动",
-          "url": "https://flash.jin10.com/detail/20260704144842898800",
+          "title": "据伊朗塔斯尼姆通讯社：黎巴嫩消息人士称，以色列在萨迪金市附近进行了一次无人机袭击。",
+          "url": "https://flash.jin10.com/detail/20260704161949297800",
           "source": "金十数据",
           "ranks": [
             10
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "15时49分"
+          "time_info": "18时13分"
         },
         {
           "title": "伊朗为已故最高领袖哈梅内伊举行公众告别与悼念仪式",
@@ -650,6 +698,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "12时38分"
+        },
+        {
+          "title": "伊朗民众泪别哈梅内伊",
+          "url": "https://wallstreetcn.com/livenews/3128923",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            11
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时13分"
         },
         {
           "title": "伊朗为已故最高领袖哈梅内伊举行公众告别与悼念仪式",
@@ -669,7 +728,7 @@
           "ranks": [
             14
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "15时49分"
         },
@@ -680,7 +739,7 @@
           "ranks": [
             15
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "15时49分"
         },
@@ -721,8 +780,19 @@
     },
     {
       "keyword_group": "特朗普",
-      "match_count": 16,
+      "match_count": 18,
       "titles": [
+        {
+          "title": "特朗普还不死心：我平息了8场战争，却依然没拿到诺贝尔奖",
+          "url": "https://v.ifeng.com/c/8uU91uEdDMo",
+          "source": "凤凰网",
+          "ranks": [
+            5
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时13分"
+        },
         {
           "title": "从保守派宠儿到MAGA公敌，她为什么敢“背叛”特朗普？",
           "url": "https://news.ifeng.com/c/8uSuVg66mIs",
@@ -795,6 +865,17 @@
           "time_info": "[12时38分 ~ 15时49分]"
         },
         {
+          "title": "特朗普吹嘘美国“战绩” 称“我们很善良”",
+          "url": "https://wallstreetcn.com/livenews/3128926",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            8
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时13分"
+        },
+        {
           "title": "哥伦比亚总统佩特罗：特朗普此前并不知道我被列入美国财政部海外资产控制办公室（OFAC）制裁名单，特朗普表示将对此采取行动。",
           "url": "https://flash.jin10.com/detail/20260703234037205800",
           "source": "金十数据",
@@ -834,7 +915,7 @@
           "ranks": [
             18
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "15时49分"
         },
@@ -911,6 +992,19 @@
       "match_count": 3,
       "titles": [
         {
+          "title": "韩国股市杠杆失控：450亿美元资金狂飙，SK海力士单只ETF规模碾压美股科技巨头",
+          "url": "https://wallstreetcn.com/articles/3776174",
+          "source": "华尔街见闻",
+          "ranks": [
+            5,
+            4,
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[12时37分 ~ 18时13分]"
+        },
+        {
           "title": "“大空头”Burry：周三在1051.87狙空美光！美股半导体面临30%回调",
           "url": "https://wallstreetcn.com/articles/3776105",
           "source": "华尔街见闻",
@@ -925,25 +1019,13 @@
           "time_info": "[00时27分 ~ 12时38分]"
         },
         {
-          "title": "韩国股市杠杆失控：450亿美元资金狂飙，SK海力士单只ETF规模碾压美股科技巨头",
-          "url": "https://wallstreetcn.com/articles/3776174",
-          "source": "华尔街见闻",
-          "ranks": [
-            5,
-            4
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[12时37分 ~ 15时49分]"
-        },
-        {
           "title": "美股遭遇近四个月最大单周资金流出，美银Hartnett：\"卖出信号\"仍在闪烁",
           "url": "https://wallstreetcn.com/articles/3776162",
           "source": "华尔街见闻",
           "ranks": [
             10
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "15时49分"
         }
