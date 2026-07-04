@@ -1,12 +1,26 @@
 {
-  "generated_at": "2026-07-04T18:13:46.301476+08:00",
-  "total_titles_processed": 1060,
+  "generated_at": "2026-07-04T20:09:20.081146+08:00",
+  "total_titles_processed": 1162,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "DeepSeek Ai 水球泡 谷歌 google gemini 好书推荐 chatgpt openai 白银 金价石油 黄金 热梗",
-      "match_count": 39,
+      "match_count": 40,
       "titles": [
+        {
+          "title": "AI焦虑暂退，科技股反弹，欧股两日连创新高，布油两日反弹但连跌四周",
+          "url": "https://wallstreetcn.com/articles/3776124",
+          "source": "华尔街见闻",
+          "ranks": [
+            2,
+            1,
+            4,
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[08时07分 ~ 20时09分]"
+        },
         {
           "title": "芯片股两连跌！AI“鬼故事”不断：Meta、Anthropic相继传出新动作，市场开始重估AI交易？",
           "url": "https://wallstreetcn.com/articles/3776101",
@@ -18,19 +32,6 @@
           "is_new": false,
           "appearance_count": 5,
           "time_info": "[00时27分 ~ 08时07分]"
-        },
-        {
-          "title": "AI焦虑暂退，科技股反弹，欧股两日连创新高，布油两日反弹但连跌四周",
-          "url": "https://wallstreetcn.com/articles/3776124",
-          "source": "华尔街见闻",
-          "ranks": [
-            2,
-            1,
-            4
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[08时07分 ~ 18时13分]"
         },
         {
           "title": "非农降温击碎鹰派叙事，道指新高，芯片股再重挫，纳指100盘中跌2%，黄金大涨",
@@ -97,6 +98,19 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "02时15分"
+        },
+        {
+          "title": "DeepSeek高峰涨价意味着什么?高盛：国内大模型竞争正回归理性",
+          "url": "https://wallstreetcn.com/articles/3776170",
+          "source": "华尔街见闻",
+          "ranks": [
+            8,
+            7,
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[12时37分 ~ 20时09分]"
         },
         {
           "title": "AI填志愿实测：信息更新可能有偏差，决策还得考生自己做",
@@ -198,18 +212,6 @@
           "time_info": "[00时27分 ~ 06时07分]"
         },
         {
-          "title": "DeepSeek高峰涨价意味着什么?高盛：国内大模型竞争正回归理性",
-          "url": "https://wallstreetcn.com/articles/3776170",
-          "source": "华尔街见闻",
-          "ranks": [
-            8,
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[12时37分 ~ 18时13分]"
-        },
-        {
           "title": "黄金暴力拉涨日内涨幅扩大至 2.3%，背后有哪些原因？这会是黄金止跌的信号吗？",
           "url": "https://www.zhihu.com/question/2056301842225525732",
           "source": "知乎",
@@ -271,6 +273,18 @@
           "time_info": "[00时27分 ~ 04时17分]"
         },
         {
+          "title": "黄金如今又看美联储的脸色了",
+          "url": "https://wallstreetcn.com/articles/3776189",
+          "source": "华尔街见闻",
+          "ranks": [
+            10,
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[18时13分 ~ 20时09分]"
+        },
+        {
           "title": "加拿大养老基金向EQT的AI基础设施建设投资17.5亿美元",
           "url": "https://wallstreetcn.com/livenews/3128806",
           "source": "华尔街见闻-快讯",
@@ -292,6 +306,17 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[12时37分 ~ 12时38分]"
+        },
+        {
+          "title": "黄金结束四周连跌！但分析师认为，持续复苏仍需三个条件",
+          "url": "https://wallstreetcn.com/articles/3776180",
+          "source": "华尔街见闻",
+          "ranks": [
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[18时13分 ~ 20时09分]"
         },
         {
           "title": "欧洲央行行长拉加德：人工智能（AI）是生产力和收益的来源。 但该技术也构成了“重大风险”。 大约十年来，我们一直在讨论网络安全风险、黑客攻击、数据盗窃等问题。 但随着AI模型的加速和深化，我们面临的风险要严重得多，因为这一切发生得非常快，而且相应的防御手段以及所需资金仍然没有准备充分。",
@@ -357,18 +382,7 @@
           "ranks": [
             8
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "18时13分"
-        },
-        {
-          "title": "黄金结束四周连跌！但分析师认为，持续复苏仍需三个条件",
-          "url": "https://wallstreetcn.com/articles/3776180",
-          "source": "华尔街见闻",
-          "ranks": [
-            9
-          ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "18时13分"
         },
@@ -382,17 +396,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "12时38分"
-        },
-        {
-          "title": "黄金如今又看美联储的脸色了",
-          "url": "https://wallstreetcn.com/articles/3776189",
-          "source": "华尔街见闻",
-          "ranks": [
-            10
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "18时13分"
         },
         {
           "title": "业内首个AI-eSIM产业协同平台成立",
@@ -439,6 +442,17 @@
           "time_info": "00时27分"
         },
         {
+          "title": "曝摄像头AirPodsPro项目暂停",
+          "url": "https://s.weibo.com/weibo?q=%23%E6%9B%9D%E6%91%84%E5%83%8F%E5%A4%B4AirPodsPro%E9%A1%B9%E7%9B%AE%E6%9A%82%E5%81%9C%23&t=31&band_rank=22&Refer=top",
+          "source": "微博",
+          "ranks": [
+            22
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时09分"
+        },
+        {
           "title": "如何看待AI模型蒸馏",
           "url": "https://s.weibo.com/weibo?q=%23%E5%A6%82%E4%BD%95%E7%9C%8B%E5%BE%85AI%E6%A8%A1%E5%9E%8B%E8%92%B8%E9%A6%8F%23&t=31&band_rank=29&Refer=top",
           "source": "微博",
@@ -464,7 +478,7 @@
     },
     {
       "keyword_group": "伊朗",
-      "match_count": 27,
+      "match_count": 30,
       "titles": [
         {
           "title": "伊朗总统在哈梅内伊葬礼上双手掩面",
@@ -521,6 +535,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "08时07分"
+        },
+        {
+          "title": "上千万伊朗人参与哈梅内伊告别仪式",
+          "url": "https://wallstreetcn.com/livenews/3128938",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            4
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时09分"
         },
         {
           "title": "伊朗总统在哈梅内伊告别仪式抹泪",
@@ -655,6 +680,30 @@
           "time_info": "[15时49分 ~ 18时13分]"
         },
         {
+          "title": "据伊朗塔斯尼姆通讯社：黎巴嫩消息人士称，以色列在萨迪金市附近进行了一次无人机袭击。",
+          "url": "https://flash.jin10.com/detail/20260704161949297800",
+          "source": "金十数据",
+          "ranks": [
+            10,
+            22
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[18时13分 ~ 20时09分]"
+        },
+        {
+          "title": "伊朗民众泪别哈梅内伊",
+          "url": "https://wallstreetcn.com/livenews/3128923",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            11,
+            17
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[18时13分 ~ 20时09分]"
+        },
+        {
           "title": "伊朗总统与俄罗斯就扩大合作进行了会谈",
           "url": "https://wallstreetcn.com/livenews/3128816",
           "source": "华尔街见闻-快讯",
@@ -665,6 +714,17 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[04时17分 ~ 06时07分]"
+        },
+        {
+          "title": "上千万伊朗人参与哈梅内伊告别仪式",
+          "url": "https://flash.jin10.com/detail/20260704184728055800",
+          "source": "金十数据",
+          "ranks": [
+            6
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时09分"
         },
         {
           "title": "以总理办公室否认计划暗杀伊朗谈判代表",
@@ -678,17 +738,6 @@
           "time_info": "00时27分"
         },
         {
-          "title": "据伊朗塔斯尼姆通讯社：黎巴嫩消息人士称，以色列在萨迪金市附近进行了一次无人机袭击。",
-          "url": "https://flash.jin10.com/detail/20260704161949297800",
-          "source": "金十数据",
-          "ranks": [
-            10
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "18时13分"
-        },
-        {
           "title": "伊朗为已故最高领袖哈梅内伊举行公众告别与悼念仪式",
           "url": "https://wallstreetcn.com/livenews/3128877",
           "source": "华尔街见闻-快讯",
@@ -698,17 +747,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "12时38分"
-        },
-        {
-          "title": "伊朗民众泪别哈梅内伊",
-          "url": "https://wallstreetcn.com/livenews/3128923",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            11
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "18时13分"
         },
         {
           "title": "伊朗为已故最高领袖哈梅内伊举行公众告别与悼念仪式",
@@ -766,6 +804,17 @@
           "time_info": "00时27分"
         },
         {
+          "title": "伊朗民众泪别哈梅内伊",
+          "url": "https://www.baidu.com/s?wd=%E4%BC%8A%E6%9C%97%E6%B0%91%E4%BC%97%E6%B3%AA%E5%88%AB%E5%93%88%E6%A2%85%E5%86%85%E4%BC%8A",
+          "source": "百度热搜",
+          "ranks": [
+            19
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时09分"
+        },
+        {
           "title": "惠誉评级：重新评估全球企业部门面临的与伊朗相关的持续风险。",
           "url": "https://flash.jin10.com/detail/20260704004150306800",
           "source": "金十数据",
@@ -780,7 +829,7 @@
     },
     {
       "keyword_group": "特朗普",
-      "match_count": 18,
+      "match_count": 22,
       "titles": [
         {
           "title": "特朗普还不死心：我平息了8场战争，却依然没拿到诺贝尔奖",
@@ -789,9 +838,20 @@
           "ranks": [
             5
           ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[18时13分 ~ 20时09分]"
+        },
+        {
+          "title": "特朗普：我们很善良，给伊朗一周时间办丧事",
+          "url": "https://news.ifeng.com/c/8uUUEfrnQmU",
+          "source": "凤凰网",
+          "ranks": [
+            2
+          ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "18时13分"
+          "time_info": "20时09分"
         },
         {
           "title": "从保守派宠儿到MAGA公敌，她为什么敢“背叛”特朗普？",
@@ -869,11 +929,45 @@
           "url": "https://wallstreetcn.com/livenews/3128926",
           "source": "华尔街见闻-快讯",
           "ranks": [
+            8,
+            14
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[18时13分 ~ 20时09分]"
+        },
+        {
+          "title": "美国250周年庆典变特朗普私人派对？",
+          "url": "https://news.ifeng.com/c/8uUV6js1fGQ",
+          "source": "凤凰网",
+          "ranks": [
+            7
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时09分"
+        },
+        {
+          "title": "日本庆祝美国国庆，无人机展示特朗普与高市同框画面",
+          "url": "https://v.ifeng.com/c/8uTnyXsavVt",
+          "source": "凤凰网",
+          "ranks": [
             8
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "18时13分"
+          "time_info": "20时09分"
+        },
+        {
+          "title": "金十数据整理：特朗普过去24小时都忙了什么？（2026-07-04）",
+          "url": "https://flash.jin10.com/detail/20260704182308917800",
+          "source": "金十数据",
+          "ranks": [
+            9
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时09分"
         },
         {
           "title": "哥伦比亚总统佩特罗：特朗普此前并不知道我被列入美国财政部海外资产控制办公室（OFAC）制裁名单，特朗普表示将对此采取行动。",
@@ -998,11 +1092,12 @@
           "ranks": [
             5,
             4,
-            3
+            3,
+            2
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[12时37分 ~ 18时13分]"
+          "appearance_count": 5,
+          "time_info": "[12时37分 ~ 20时09分]"
         },
         {
           "title": "“大空头”Burry：周三在1051.87狙空美光！美股半导体面临30%回调",
@@ -1026,8 +1121,8 @@
             10
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "15时49分"
+          "appearance_count": 2,
+          "time_info": "[15时49分 ~ 20时09分]"
         }
       ]
     },
