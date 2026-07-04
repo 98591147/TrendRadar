@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-07-04T08:07:54.619810+08:00",
-  "total_titles_processed": 575,
+  "generated_at": "2026-07-04T12:38:08.841664+08:00",
+  "total_titles_processed": 783,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "DeepSeek Ai 水球泡 谷歌 google gemini 好书推荐 chatgpt openai 白银 金价石油 黄金 热梗",
-      "match_count": 29,
+      "match_count": 34,
       "titles": [
         {
           "title": "芯片股两连跌！AI“鬼故事”不断：Meta、Anthropic相继传出新动作，市场开始重估AI交易？",
@@ -42,6 +42,18 @@
           "time_info": "[00时27分 ~ 06时07分]"
         },
         {
+          "title": "AI焦虑暂退，科技股反弹，欧股两日连创新高，布油两日反弹但连跌四周",
+          "url": "https://wallstreetcn.com/articles/3776124",
+          "source": "华尔街见闻",
+          "ranks": [
+            2,
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[08时07分 ~ 12时38分]"
+        },
+        {
           "title": "AI情绪逆转！全球股市反弹，韩股收涨5.8%，金铜拉涨，美元下跌",
           "url": "https://wallstreetcn.com/articles/3776124",
           "source": "华尔街见闻",
@@ -64,15 +76,15 @@
           "time_info": "02时15分"
         },
         {
-          "title": "AI焦虑暂退，科技股反弹，欧股两日连创新高，布油两日反弹但连跌四周",
-          "url": "https://wallstreetcn.com/articles/3776124",
-          "source": "华尔街见闻",
+          "title": "金十图示：2026年07月04日（周六）黄金ETF持仓报告",
+          "url": "https://flash.jin10.com/detail/20260704121117014800",
+          "source": "金十数据",
           "ranks": [
-            2
+            1
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "08时07分"
+          "time_info": "12时38分"
         },
         {
           "title": "AI焦虑暂退，全球股市反弹，欧股创历史新高，金铜拉涨，美元下跌",
@@ -95,6 +107,19 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "02时15分"
+        },
+        {
+          "title": "AI填志愿实测：信息更新可能有偏差，决策还得考生自己做",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33493022",
+          "source": "澎湃新闻",
+          "ranks": [
+            12,
+            13,
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 7,
+          "time_info": "[00时27分 ~ 12时38分]"
         },
         {
           "title": "受AI热潮与美联储乐观预期提振，新兴市场资产全线反弹",
@@ -153,18 +178,6 @@
           "ranks": [
             7,
             8
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[00时27分 ~ 08时07分]"
-        },
-        {
-          "title": "AI填志愿实测：信息更新可能有偏差，决策还得考生自己做",
-          "url": "https://m.thepaper.cn/newsDetail_forward_33493022",
-          "source": "澎湃新闻",
-          "ranks": [
-            12,
-            13
           ],
           "is_new": false,
           "appearance_count": 5,
@@ -244,6 +257,17 @@
           "time_info": "[00时27分 ~ 04时17分]"
         },
         {
+          "title": "DeepSeek高峰涨价意味着什么?高盛：国内大模型竞争正回归理性",
+          "url": "https://wallstreetcn.com/articles/3776170",
+          "source": "华尔街见闻",
+          "ranks": [
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[12时37分 ~ 12时38分]"
+        },
+        {
           "title": "加拿大养老基金向EQT的AI基础设施建设投资17.5亿美元",
           "url": "https://wallstreetcn.com/livenews/3128806",
           "source": "华尔街见闻-快讯",
@@ -254,6 +278,17 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[02时15分 ~ 04时17分]"
+        },
+        {
+          "title": "Meta“算力过剩”疑云背后：扎克伯格说AI进展慢了，AI负责人新模型说已追上GPT-5.5",
+          "url": "https://wallstreetcn.com/articles/3776134",
+          "source": "华尔街见闻",
+          "ranks": [
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[12时37分 ~ 12时38分]"
         },
         {
           "title": "欧洲央行行长拉加德：人工智能（AI）是生产力和收益的来源。 但该技术也构成了“重大风险”。 大约十年来，我们一直在讨论网络安全风险、黑客攻击、数据盗窃等问题。 但随着AI模型的加速和深化，我们面临的风险要严重得多，因为这一切发生得非常快，而且相应的防御手段以及所需资金仍然没有准备充分。",
@@ -308,9 +343,31 @@
           "ranks": [
             8
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "08时07分"
+        },
+        {
+          "title": "宇树高管谈具身智能ChatGPT时刻",
+          "url": "https://flash.jin10.com/detail/20260704110855518800",
+          "source": "金十数据",
+          "ranks": [
+            9
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "12时38分"
+        },
+        {
+          "title": "一周热榜精选：弱非农下加息押注退潮！大空头警告AI派对结束",
+          "url": "https://flash.jin10.com/detail/20260704095032353800",
+          "source": "金十数据",
+          "ranks": [
+            21
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "12时38分"
         },
         {
           "title": "行业最直观的风向标闪烁红灯，词元经济学动摇AI热潮叙事",
@@ -330,7 +387,7 @@
           "ranks": [
             29
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "08时07分"
         },
@@ -349,18 +406,19 @@
     },
     {
       "keyword_group": "伊朗",
-      "match_count": 17,
+      "match_count": 20,
       "titles": [
         {
           "title": "伊朗总统在哈梅内伊葬礼上双手掩面",
           "url": "https://v.ifeng.com/c/8uSml4XgzRh",
           "source": "凤凰网",
           "ranks": [
-            2
+            2,
+            3
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[00时27分 ~ 08时07分]"
+          "appearance_count": 7,
+          "time_info": "[00时27分 ~ 12时38分]"
         },
         {
           "title": "伊朗议长会见中方代表，称已解决中国船只通过海峡问题",
@@ -374,15 +432,15 @@
           "time_info": "[00时27分 ~ 04时17分]"
         },
         {
-          "title": "伊朗总统在哈梅内伊告别仪式抹泪",
-          "url": "https://www.toutiao.com/trending/7658230002110119978/",
-          "source": "今日头条",
+          "title": "现场：伊朗为哈梅内伊举行公众告别悼念仪式",
+          "url": "https://news.ifeng.com/c/8uTvqahB2zu",
+          "source": "凤凰网",
           "ranks": [
-            2
+            1
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "08时07分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[12时37分 ~ 12时38分]"
         },
         {
           "title": "全国人大常委会副委员长何维代表中方出席伊朗已故最高领袖哈梅内伊葬礼",
@@ -402,9 +460,21 @@
           "ranks": [
             3
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "08时07分"
+        },
+        {
+          "title": "伊朗总统在哈梅内伊告别仪式抹泪",
+          "url": "https://www.toutiao.com/trending/7658230002110119978/",
+          "source": "今日头条",
+          "ranks": [
+            2,
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[08时07分 ~ 12时38分]"
         },
         {
           "title": "据伊朗学生通讯社：伊朗和巴基斯坦双方在伊朗前最高领袖哈梅内伊的葬礼后举行会谈。",
@@ -514,6 +584,28 @@
           "time_info": "00时27分"
         },
         {
+          "title": "伊朗为已故最高领袖哈梅内伊举行公众告别与悼念仪式",
+          "url": "https://wallstreetcn.com/livenews/3128877",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            11
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "12时38分"
+        },
+        {
+          "title": "伊朗为已故最高领袖哈梅内伊举行公众告别与悼念仪式",
+          "url": "https://flash.jin10.com/detail/20260704103120519800",
+          "source": "金十数据",
+          "ranks": [
+            13
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "12时38分"
+        },
+        {
           "title": "据伊朗伊斯兰共和国通讯社（IRNA）：伊朗国防部副部长表示，伊朗和巴基斯坦可以成为该地区新安全安排的基石。",
           "url": "https://flash.jin10.com/detail/20260704004754888800",
           "source": "金十数据",
@@ -550,8 +642,19 @@
     },
     {
       "keyword_group": "特朗普",
-      "match_count": 11,
+      "match_count": 15,
       "titles": [
+        {
+          "title": "美国总统特朗普：伊朗非常想达成协议；因举办哈梅内伊的葬礼，给伊朗放了一周假。",
+          "url": "https://flash.jin10.com/detail/20260704113342386800",
+          "source": "金十数据",
+          "ranks": [
+            3
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "12时38分"
+        },
         {
           "title": "从保守派宠儿到MAGA公敌，她为什么敢“背叛”特朗普？",
           "url": "https://news.ifeng.com/c/8uSuVg66mIs",
@@ -560,8 +663,8 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[00时27分 ~ 08时07分]"
+          "appearance_count": 7,
+          "time_info": "[00时27分 ~ 12时38分]"
         },
         {
           "title": "借总统身份捞钱？特朗普：赚钱没犯法，不管我家人做啥都有人说“利益冲突”",
@@ -598,6 +701,17 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[04时17分 ~ 08时07分]"
+        },
+        {
+          "title": "特朗普：伊朗非常想达成协议。 因葬礼给伊朗放了一周假。",
+          "url": "https://wallstreetcn.com/livenews/3128882",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            6
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "12时38分"
         },
         {
           "title": "哥伦比亚总统佩特罗：特朗普此前并不知道我被列入美国财政部海外资产控制办公室（OFAC）制裁名单，特朗普表示将对此采取行动。",
@@ -655,6 +769,17 @@
           "time_info": "00时27分"
         },
         {
+          "title": "特朗普：美国经济正强劲腾飞！",
+          "url": "https://flash.jin10.com/detail/20260704093740277800",
+          "source": "金十数据",
+          "ranks": [
+            22
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "12时38分"
+        },
+        {
           "title": "哥伦比亚方面表示，佩特罗与特朗普在通话中讨论了非法作物替代问题。",
           "url": "https://flash.jin10.com/detail/20260703232911849800",
           "source": "金十数据",
@@ -675,12 +800,23 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "00时27分"
+        },
+        {
+          "title": "特朗普：将接受以公开交易股票形式进行的慈善捐款。",
+          "url": "https://wallstreetcn.com/livenews/3128858",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            27
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "12时38分"
         }
       ]
     },
     {
       "keyword_group": "美股",
-      "match_count": 1,
+      "match_count": 2,
       "titles": [
         {
           "title": "“大空头”Burry：周三在1051.87狙空美光！美股半导体面临30%回调",
@@ -689,11 +825,23 @@
           "ranks": [
             7,
             6,
+            5,
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 7,
+          "time_info": "[00时27分 ~ 12时38分]"
+        },
+        {
+          "title": "韩国股市杠杆失控：450亿美元资金狂飙，SK海力士单只ETF规模碾压美股科技巨头",
+          "url": "https://wallstreetcn.com/articles/3776174",
+          "source": "华尔街见闻",
+          "ranks": [
             5
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[00时27分 ~ 08时07分]"
+          "appearance_count": 2,
+          "time_info": "[12时37分 ~ 12时38分]"
         }
       ]
     },
