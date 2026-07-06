@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-07-06T11:49:31.248780+08:00",
-  "total_titles_processed": 721,
+  "generated_at": "2026-07-06T16:24:30.195864+08:00",
+  "total_titles_processed": 926,
   "failed_sources": [],
   "trends": [
     {
@@ -45,11 +45,12 @@
           "url": "https://news.ifeng.com/c/8uWz9x0USqP",
           "source": "凤凰网",
           "ranks": [
-            1
+            1,
+            3
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "11时49分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[11时49分 ~ 16时24分]"
         },
         {
           "title": "伊朗民众葬礼上向特朗普发出威胁：无耻混蛋，等着被割喉吧",
@@ -58,7 +59,7 @@
           "ranks": [
             3
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "11时49分"
         },
@@ -73,6 +74,18 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[05时04分 ~ 07时04分]"
+        },
+        {
+          "title": "特朗普：哈梅内伊葬礼上一次攻击就能全部干掉伊朗高层，但不会这么做，这样就没人谈判了",
+          "url": "https://wallstreetcn.com/articles/3776227",
+          "source": "华尔街见闻",
+          "ranks": [
+            9,
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[11时49分 ~ 16时24分]"
         },
         {
           "title": "特朗普将在北约峰会期间会晤乌克兰和叙利亚领导人",
@@ -195,17 +208,6 @@
           "time_info": "01时14分"
         },
         {
-          "title": "特朗普：哈梅内伊葬礼上一次攻击就能全部干掉伊朗高层，但不会这么做，这样就没人谈判了",
-          "url": "https://wallstreetcn.com/articles/3776227",
-          "source": "华尔街见闻",
-          "ranks": [
-            9
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "11时49分"
-        },
-        {
           "title": "特朗普据悉计划在土耳其会见泽连斯基后与普京通话",
           "url": "https://flash.jin10.com/detail/20260706050829580800",
           "source": "金十数据",
@@ -308,7 +310,7 @@
     },
     {
       "keyword_group": "DeepSeek Ai 水球泡 谷歌 google gemini 好书推荐 chatgpt openai 白银 金价石油 黄金 热梗",
-      "match_count": 17,
+      "match_count": 24,
       "titles": [
         {
           "title": "HBM之父金正浩：AI的本质是内存，GPU真正工作的时间只有10%",
@@ -335,6 +337,17 @@
           "is_new": false,
           "appearance_count": 6,
           "time_info": "[01时14分 ~ 11时49分]"
+        },
+        {
+          "title": "花旗成为第五家在伦敦场外黄金市场（全球最大的黄金交易中心）进行交易清算的银行。",
+          "url": "https://wallstreetcn.com/livenews/3129249",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            1
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时24分"
         },
         {
           "title": "现货白银站上63美元/盎司，日内涨1.03%。",
@@ -379,11 +392,12 @@
           "source": "贴吧",
           "ranks": [
             10,
-            15
+            15,
+            18
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[01时14分 ~ 11时49分]"
+          "appearance_count": 6,
+          "time_info": "[01时14分 ~ 16时24分]"
         },
         {
           "title": "ON豪言走黄金路,实力遭质疑",
@@ -391,11 +405,24 @@
           "source": "贴吧",
           "ranks": [
             24,
-            27
+            27,
+            29
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[01时14分 ~ 11时49分]"
+          "appearance_count": 6,
+          "time_info": "[01时14分 ~ 16时24分]"
+        },
+        {
+          "title": "关键考验明日来袭：三星Q2营利料狂飙17倍 但AI支出前景暗藏风险",
+          "url": "https://www.cls.cn/detail/2417526",
+          "source": "财联社热门",
+          "ranks": [
+            10,
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[11时49分 ~ 16时24分]"
         },
         {
           "title": "2026中国互联网大会将举办，聚焦AI产业化落地、算力互联互通等核心议题",
@@ -434,15 +461,15 @@
           "time_info": "07时04分"
         },
         {
-          "title": "关键考验明日来袭：三星Q2营利料狂飙17倍 但AI支出前景暗藏风险",
-          "url": "https://www.cls.cn/detail/2417526",
-          "source": "财联社热门",
+          "title": "WorkBuddy爆了，微信AI也来了——腾讯AI找到“新船票”了吗？",
+          "url": "https://wallstreetcn.com/articles/3776245",
+          "source": "华尔街见闻",
           "ranks": [
-            10
+            8
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "11时49分"
+          "time_info": "16时24分"
         },
         {
           "title": "现货黄金周一开盘高开近10美元后回落至4178.75美元/盎司。",
@@ -462,7 +489,7 @@
           "ranks": [
             11
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "11时49分"
         },
@@ -473,9 +500,20 @@
           "ranks": [
             13
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "11时49分"
+        },
+        {
+          "title": "市场消息：花旗已成为第五家在伦敦场外黄金市场（全球最大的黄金交易中心）进行交易清算的银行。",
+          "url": "https://flash.jin10.com/detail/20260706160315797800",
+          "source": "金十数据",
+          "ranks": [
+            13
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时24分"
         },
         {
           "title": "英国监管机构：金融服务业AI正引发“军备竞赛” 需扩大监管范围",
@@ -489,13 +527,35 @@
           "time_info": "07时04分"
         },
         {
+          "title": "金十图示：2026年07月06日（周一）上海黄金交易所市场行情",
+          "url": "https://flash.jin10.com/detail/20260706160215524800",
+          "source": "金十数据",
+          "ranks": [
+            15
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时24分"
+        },
+        {
+          "title": "上海黄金交易所7月6日（周一）交易行情",
+          "url": "https://flash.jin10.com/detail/20260706160109815800",
+          "source": "金十数据",
+          "ranks": [
+            16
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时24分"
+        },
+        {
           "title": "消息人士：香港强积金拟放宽黄金ETF投资限制",
           "url": "https://flash.jin10.com/detail/20260706110031892800",
           "source": "金十数据",
           "ranks": [
             23
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "11时49分"
         },
@@ -506,15 +566,37 @@
           "ranks": [
             24
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "11时49分"
+        },
+        {
+          "title": "机构：AI高端MLCC激励日韩大厂订单出货比创新高，下半年缺货风险提升",
+          "url": "https://wallstreetcn.com/livenews/3129218",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            24
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时24分"
+        },
+        {
+          "title": "韩国电信巨头KT计划在AI方面投资18万亿韩元",
+          "url": "https://flash.jin10.com/detail/20260706155213502800",
+          "source": "金十数据",
+          "ranks": [
+            27
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时24分"
         }
       ]
     },
     {
       "keyword_group": "伊朗",
-      "match_count": 11,
+      "match_count": 12,
       "titles": [
         {
           "title": "伊拉克女信众：哈梅内伊不仅属于伊朗，是所有人的领袖",
@@ -526,17 +608,6 @@
           "is_new": false,
           "appearance_count": 5,
           "time_info": "[01时14分 ~ 07时04分]"
-        },
-        {
-          "title": "伊朗最高领袖发布任免令",
-          "url": "https://news.ifeng.com/c/8uX0AQwmuwO",
-          "source": "凤凰网",
-          "ranks": [
-            2
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "11时49分"
         },
         {
           "title": "伊朗议会议长卡利巴夫：抵抗阵线与黎巴嫩问题被视为我们的红线之一。",
@@ -559,6 +630,29 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "01时14分"
+        },
+        {
+          "title": "伊朗借哈梅内伊国葬释放3个政治讯息",
+          "url": "https://news.ifeng.com/c/8uXROeZKlPw",
+          "source": "凤凰网",
+          "ranks": [
+            5
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时24分"
+        },
+        {
+          "title": "伊朗最高领袖发布任免令",
+          "url": "https://news.ifeng.com/c/8uX0AQwmuwO",
+          "source": "凤凰网",
+          "ranks": [
+            2,
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[11时49分 ~ 16时24分]"
         },
         {
           "title": "伊朗官员称该国已恢复与卡塔尔的海上贸易",
@@ -647,7 +741,7 @@
     },
     {
       "keyword_group": "美股",
-      "match_count": 5,
+      "match_count": 7,
       "titles": [
         {
           "title": "精准预测“美股动量股”暴跌后，高盛看到“逢低买入”的迹象",
@@ -678,9 +772,31 @@
           "ranks": [
             2
           ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[11时49分 ~ 16时24分]"
+        },
+        {
+          "title": "美股盘前，大型科技股普涨，美光科技涨超3%，闪迪涨超5%，英特尔涨超2%。",
+          "url": "https://wallstreetcn.com/livenews/3129248",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            2
+          ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "11时49分"
+          "time_info": "16时24分"
+        },
+        {
+          "title": "美股史上最大规模海外公司首次募资！“存储巨头”SK海力士本周五登陆纳斯达克",
+          "url": "https://wallstreetcn.com/articles/3776235",
+          "source": "华尔街见闻",
+          "ranks": [
+            6
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时24分"
         },
         {
           "title": "美股期货涨幅收窄，标普500指数期货现涨0.2%。",
@@ -689,7 +805,7 @@
           "ranks": [
             11
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "11时49分"
         },
@@ -700,9 +816,26 @@
           "ranks": [
             22
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "11时49分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "美元",
+      "match_count": 1,
+      "titles": [
+        {
+          "title": "三井住友：东证指数调整或为铠侠带来185亿美元被动资金流入",
+          "url": "https://flash.jin10.com/detail/20260706160752308800",
+          "source": "金十数据",
+          "ranks": [
+            5
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时24分"
         }
       ]
     }
