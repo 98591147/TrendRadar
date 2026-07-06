@@ -1,11 +1,387 @@
 {
-  "generated_at": "2026-07-06T16:24:30.195864+08:00",
-  "total_titles_processed": 926,
+  "generated_at": "2026-07-06T20:51:20.888815+08:00",
+  "total_titles_processed": 1130,
   "failed_sources": [],
   "trends": [
     {
+      "keyword_group": "DeepSeek Ai 水球泡 谷歌 google gemini 好书推荐 chatgpt openai 白银 金价石油 黄金 热梗",
+      "match_count": 32,
+      "titles": [
+        {
+          "title": "HBM之父金正浩：AI的本质是内存，GPU真正工作的时间只有10%",
+          "url": "https://wallstreetcn.com/articles/3776219",
+          "source": "华尔街见闻",
+          "ranks": [
+            3,
+            2,
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[01时14分 ~ 11时49分]"
+        },
+        {
+          "title": "OpenAI塌房！Scaling law原作曝bug，万亿算力全白烧",
+          "url": "https://wallstreetcn.com/articles/3776218",
+          "source": "华尔街见闻",
+          "ranks": [
+            2,
+            3,
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[01时14分 ~ 11时49分]"
+        },
+        {
+          "title": "花旗成为第五家在伦敦场外黄金市场（全球最大的黄金交易中心）进行交易清算的银行。",
+          "url": "https://wallstreetcn.com/livenews/3129249",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "16时24分"
+        },
+        {
+          "title": "现货白银站上63美元/盎司，日内涨1.03%。",
+          "url": "https://flash.jin10.com/detail/20260706062940266800",
+          "source": "金十数据",
+          "ranks": [
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "07时04分"
+        },
+        {
+          "title": "矿业公司Greatland Resource：第四季度黄金产量为79,099盎司，铜产量为3,573吨。2026财年黄金产量为328,986盎司，铜产量为14,594吨。2026财年黄金产量超出26万至31万盎司的业绩指引区间。",
+          "url": "https://flash.jin10.com/detail/20260706062759883800",
+          "source": "金十数据",
+          "ranks": [
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "07时04分"
+        },
+        {
+          "title": "有业绩支撑的非AI板块修复在即？十大券商策略来了",
+          "url": "https://www.cls.cn/detail/2417353",
+          "source": "财联社热门",
+          "ranks": [
+            13,
+            12,
+            11,
+            9,
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[01时14分 ~ 11时49分]"
+        },
+        {
+          "title": "智能体下线,AI女友凉了？",
+          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28355914&amp;topic_name=%E6%99%BA%E8%83%BD%E4%BD%93%E4%B8%8B%E7%BA%BF%2CAI%E5%A5%B3%E5%8F%8B%E5%87%89%E4%BA%86%EF%BC%9F",
+          "source": "贴吧",
+          "ranks": [
+            10,
+            15,
+            18,
+            25
+          ],
+          "is_new": false,
+          "appearance_count": 7,
+          "time_info": "[01时14分 ~ 20时51分]"
+        },
+        {
+          "title": "WorkBuddy爆了，微信AI也来了——腾讯AI找到“新船票”了吗？",
+          "url": "https://wallstreetcn.com/articles/3776245",
+          "source": "华尔街见闻",
+          "ranks": [
+            8,
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[16时24分 ~ 20时51分]"
+        },
+        {
+          "title": "ON豪言走黄金路,实力遭质疑",
+          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28355897&amp;topic_name=ON%E8%B1%AA%E8%A8%80%E8%B5%B0%E9%BB%84%E9%87%91%E8%B7%AF%2C%E5%AE%9E%E5%8A%9B%E9%81%AD%E8%B4%A8%E7%96%91",
+          "source": "贴吧",
+          "ranks": [
+            24,
+            27,
+            29
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[01时14分 ~ 16时24分]"
+        },
+        {
+          "title": "关键考验明日来袭：三星Q2营利料狂飙17倍 但AI支出前景暗藏风险",
+          "url": "https://www.cls.cn/detail/2417526",
+          "source": "财联社热门",
+          "ranks": [
+            10,
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[11时49分 ~ 16时24分]"
+        },
+        {
+          "title": "2026中国互联网大会将举办，聚焦AI产业化落地、算力互联互通等核心议题",
+          "url": "https://wallstreetcn.com/livenews/3129011",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            6,
+            19
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[01时14分 ~ 07时04分]"
+        },
+        {
+          "title": "电诈人员用AI同时和100多人聊天",
+          "url": "https://www.baidu.com/s?wd=%E7%94%B5%E8%AF%88%E4%BA%BA%E5%91%98%E7%94%A8AI%E5%90%8C%E6%97%B6%E5%92%8C100%E5%A4%9A%E4%BA%BA%E8%81%8A%E5%A4%A9",
+          "source": "百度热搜",
+          "ranks": [
+            16,
+            17,
+            14
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[01时14分 ~ 05时04分]"
+        },
+        {
+          "title": "澳大利亚黄金生产商Regis Resources：2026财年黄金产量为37.9万盎司，位于业绩指引区间上限。第四季度黄金产量为79,099盎司。",
+          "url": "https://flash.jin10.com/detail/20260706062602188800",
+          "source": "金十数据",
+          "ranks": [
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "07时04分"
+        },
+        {
+          "title": "现货黄金周一开盘高开近10美元后回落至4178.75美元/盎司。",
+          "url": "https://flash.jin10.com/detail/20260706060134131800",
+          "source": "金十数据",
+          "ranks": [
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "07时04分"
+        },
+        {
+          "title": "字节批量申请网络热梗「咕咕嘎嘎」「香蕉猫」等著作权，背后目的是什么？这算侵占网友的共创成果吗？",
+          "url": "https://www.zhihu.com/question/2057372465282512177",
+          "source": "知乎",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时51分"
+        },
+        {
+          "title": "科技股座次“大洗牌”？瑞银：半导体等“AI基石”称王，“老牌巨头”失宠！",
+          "url": "https://www.cls.cn/detail/2417331",
+          "source": "财联社热门",
+          "ranks": [
+            11
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "11时49分"
+        },
+        {
+          "title": "宽基拱手让出ETF规模“头把交椅”，黄金ETF居上，背后是什么？",
+          "url": "https://www.cls.cn/detail/2417834",
+          "source": "财联社热门",
+          "ranks": [
+            11
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时51分"
+        },
+        {
+          "title": "技术刘Pro：国际现货黄金正构筑起跳平台，白银或保持...区间震荡",
+          "url": "https://flash.jin10.com/detail/20260706201958492800",
+          "source": "金十数据",
+          "ranks": [
+            11
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时51分"
+        },
+        {
+          "title": "南向资金追踪｜单日净买超205亿港元创近一个半月新高 AI硬件概念股反被抛售",
+          "url": "https://www.cls.cn/detail/2418217",
+          "source": "财联社热门",
+          "ranks": [
+            12
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时51分"
+        },
+        {
+          "title": "AI芯片牛市遇关键考验：三星财报成“情绪分水岭”",
+          "url": "https://flash.jin10.com/detail/20260706112001979800",
+          "source": "金十数据",
+          "ranks": [
+            13
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "11时49分"
+        },
+        {
+          "title": "市场消息：花旗已成为第五家在伦敦场外黄金市场（全球最大的黄金交易中心）进行交易清算的银行。",
+          "url": "https://flash.jin10.com/detail/20260706160315797800",
+          "source": "金十数据",
+          "ranks": [
+            13
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "16时24分"
+        },
+        {
+          "title": "英国监管机构：金融服务业AI正引发“军备竞赛” 需扩大监管范围",
+          "url": "https://flash.jin10.com/detail/20260706053240940800",
+          "source": "金十数据",
+          "ranks": [
+            15
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "07时04分"
+        },
+        {
+          "title": "金十图示：2026年07月06日（周一）上海黄金交易所市场行情",
+          "url": "https://flash.jin10.com/detail/20260706160215524800",
+          "source": "金十数据",
+          "ranks": [
+            15
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "16时24分"
+        },
+        {
+          "title": "Reddit利用AI打击网站上的AI营销垃圾信息。",
+          "url": "https://wallstreetcn.com/livenews/3129376",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            15
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时51分"
+        },
+        {
+          "title": "上海黄金交易所7月6日（周一）交易行情",
+          "url": "https://flash.jin10.com/detail/20260706160109815800",
+          "source": "金十数据",
+          "ranks": [
+            16
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "16时24分"
+        },
+        {
+          "title": "香港交易所美元黄金期货成交创新高",
+          "url": "https://wallstreetcn.com/livenews/3129373",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            17
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时51分"
+        },
+        {
+          "title": "消息人士：香港强积金拟放宽黄金ETF投资限制",
+          "url": "https://flash.jin10.com/detail/20260706110031892800",
+          "source": "金十数据",
+          "ranks": [
+            23
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "11时49分"
+        },
+        {
+          "title": "A股贵金属板块再度走强，白银有色、中金岭南、湖南白银触及涨停，山金国际、赤峰黄金、西部黄金、中金黄金涨超5%。",
+          "url": "https://wallstreetcn.com/livenews/3129093",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            24
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "11时49分"
+        },
+        {
+          "title": "机构：AI高端MLCC激励日韩大厂订单出货比创新高，下半年缺货风险提升",
+          "url": "https://wallstreetcn.com/livenews/3129218",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            24
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "16时24分"
+        },
+        {
+          "title": "上海黄金交易所黄金T+D 7月6日（周一）晚盘盘初下跌0.0%报907.0元/克；<br/>上海黄金交易所白银T+D 7月6日（周一）晚盘盘初上涨0.19%报15150.0元/千克。",
+          "url": "https://flash.jin10.com/detail/20260706200038119800",
+          "source": "金十数据",
+          "ranks": [
+            25
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时51分"
+        },
+        {
+          "title": "韩国电信巨头KT计划在AI方面投资18万亿韩元",
+          "url": "https://flash.jin10.com/detail/20260706155213502800",
+          "source": "金十数据",
+          "ranks": [
+            27
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "16时24分"
+        },
+        {
+          "title": "德福科技：拟定增募资不超过28亿元，用于5万吨人工智能高端电子电路AI铜箔项目、补充流动资金。",
+          "url": "https://wallstreetcn.com/livenews/3129358",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            27
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时51分"
+        }
+      ]
+    },
+    {
       "keyword_group": "特朗普",
-      "match_count": 26,
+      "match_count": 28,
       "titles": [
         {
           "title": "特朗普对哈梅内伊葬礼感到震惊，认为伊朗民众恨他",
@@ -49,8 +425,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[11时49分 ~ 16时24分]"
+          "appearance_count": 3,
+          "time_info": "[11时49分 ~ 20时51分]"
         },
         {
           "title": "伊朗民众葬礼上向特朗普发出威胁：无耻混蛋，等着被割喉吧",
@@ -208,6 +584,17 @@
           "time_info": "01时14分"
         },
         {
+          "title": "民调：多数美国人认为特朗普在伊朗战争中得不偿失 拖累中期选举",
+          "url": "https://www.cls.cn/detail/2417917",
+          "source": "财联社热门",
+          "ranks": [
+            13
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时51分"
+        },
+        {
           "title": "特朗普据悉计划在土耳其会见泽连斯基后与普京通话",
           "url": "https://flash.jin10.com/detail/20260706050829580800",
           "source": "金十数据",
@@ -250,6 +637,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "03时22分"
+        },
+        {
+          "title": "以色列总理内塔尼亚胡：特朗普和我在很多事情上看法一致。 我与特朗普的关系“没问题”。 尚未确定访美日期。",
+          "url": "https://wallstreetcn.com/livenews/3129367",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            22
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时51分"
         },
         {
           "title": "以色列总理内塔尼亚胡：我们并不是处于永久战争状态。我和美国总统特朗普一起促成了四项和平协议。寻求我们保护的，不仅仅是黎巴嫩的基督徒，还有德鲁兹人、穆斯林、逊尼派穆斯林，以及相当多的什叶派穆斯林。",
@@ -309,294 +707,8 @@
       ]
     },
     {
-      "keyword_group": "DeepSeek Ai 水球泡 谷歌 google gemini 好书推荐 chatgpt openai 白银 金价石油 黄金 热梗",
-      "match_count": 24,
-      "titles": [
-        {
-          "title": "HBM之父金正浩：AI的本质是内存，GPU真正工作的时间只有10%",
-          "url": "https://wallstreetcn.com/articles/3776219",
-          "source": "华尔街见闻",
-          "ranks": [
-            3,
-            2,
-            1
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[01时14分 ~ 11时49分]"
-        },
-        {
-          "title": "OpenAI塌房！Scaling law原作曝bug，万亿算力全白烧",
-          "url": "https://wallstreetcn.com/articles/3776218",
-          "source": "华尔街见闻",
-          "ranks": [
-            2,
-            3,
-            5
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[01时14分 ~ 11时49分]"
-        },
-        {
-          "title": "花旗成为第五家在伦敦场外黄金市场（全球最大的黄金交易中心）进行交易清算的银行。",
-          "url": "https://wallstreetcn.com/livenews/3129249",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            1
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "16时24分"
-        },
-        {
-          "title": "现货白银站上63美元/盎司，日内涨1.03%。",
-          "url": "https://flash.jin10.com/detail/20260706062940266800",
-          "source": "金十数据",
-          "ranks": [
-            4
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "07时04分"
-        },
-        {
-          "title": "矿业公司Greatland Resource：第四季度黄金产量为79,099盎司，铜产量为3,573吨。2026财年黄金产量为328,986盎司，铜产量为14,594吨。2026财年黄金产量超出26万至31万盎司的业绩指引区间。",
-          "url": "https://flash.jin10.com/detail/20260706062759883800",
-          "source": "金十数据",
-          "ranks": [
-            5
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "07时04分"
-        },
-        {
-          "title": "有业绩支撑的非AI板块修复在即？十大券商策略来了",
-          "url": "https://www.cls.cn/detail/2417353",
-          "source": "财联社热门",
-          "ranks": [
-            13,
-            12,
-            11,
-            9,
-            4
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[01时14分 ~ 11时49分]"
-        },
-        {
-          "title": "智能体下线,AI女友凉了？",
-          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28355914&amp;topic_name=%E6%99%BA%E8%83%BD%E4%BD%93%E4%B8%8B%E7%BA%BF%2CAI%E5%A5%B3%E5%8F%8B%E5%87%89%E4%BA%86%EF%BC%9F",
-          "source": "贴吧",
-          "ranks": [
-            10,
-            15,
-            18
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[01时14分 ~ 16时24分]"
-        },
-        {
-          "title": "ON豪言走黄金路,实力遭质疑",
-          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28355897&amp;topic_name=ON%E8%B1%AA%E8%A8%80%E8%B5%B0%E9%BB%84%E9%87%91%E8%B7%AF%2C%E5%AE%9E%E5%8A%9B%E9%81%AD%E8%B4%A8%E7%96%91",
-          "source": "贴吧",
-          "ranks": [
-            24,
-            27,
-            29
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[01时14分 ~ 16时24分]"
-        },
-        {
-          "title": "关键考验明日来袭：三星Q2营利料狂飙17倍 但AI支出前景暗藏风险",
-          "url": "https://www.cls.cn/detail/2417526",
-          "source": "财联社热门",
-          "ranks": [
-            10,
-            3
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[11时49分 ~ 16时24分]"
-        },
-        {
-          "title": "2026中国互联网大会将举办，聚焦AI产业化落地、算力互联互通等核心议题",
-          "url": "https://wallstreetcn.com/livenews/3129011",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            6,
-            19
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[01时14分 ~ 07时04分]"
-        },
-        {
-          "title": "电诈人员用AI同时和100多人聊天",
-          "url": "https://www.baidu.com/s?wd=%E7%94%B5%E8%AF%88%E4%BA%BA%E5%91%98%E7%94%A8AI%E5%90%8C%E6%97%B6%E5%92%8C100%E5%A4%9A%E4%BA%BA%E8%81%8A%E5%A4%A9",
-          "source": "百度热搜",
-          "ranks": [
-            16,
-            17,
-            14
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[01时14分 ~ 05时04分]"
-        },
-        {
-          "title": "澳大利亚黄金生产商Regis Resources：2026财年黄金产量为37.9万盎司，位于业绩指引区间上限。第四季度黄金产量为79,099盎司。",
-          "url": "https://flash.jin10.com/detail/20260706062602188800",
-          "source": "金十数据",
-          "ranks": [
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "07时04分"
-        },
-        {
-          "title": "WorkBuddy爆了，微信AI也来了——腾讯AI找到“新船票”了吗？",
-          "url": "https://wallstreetcn.com/articles/3776245",
-          "source": "华尔街见闻",
-          "ranks": [
-            8
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "16时24分"
-        },
-        {
-          "title": "现货黄金周一开盘高开近10美元后回落至4178.75美元/盎司。",
-          "url": "https://flash.jin10.com/detail/20260706060134131800",
-          "source": "金十数据",
-          "ranks": [
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "07时04分"
-        },
-        {
-          "title": "科技股座次“大洗牌”？瑞银：半导体等“AI基石”称王，“老牌巨头”失宠！",
-          "url": "https://www.cls.cn/detail/2417331",
-          "source": "财联社热门",
-          "ranks": [
-            11
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "11时49分"
-        },
-        {
-          "title": "AI芯片牛市遇关键考验：三星财报成“情绪分水岭”",
-          "url": "https://flash.jin10.com/detail/20260706112001979800",
-          "source": "金十数据",
-          "ranks": [
-            13
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "11时49分"
-        },
-        {
-          "title": "市场消息：花旗已成为第五家在伦敦场外黄金市场（全球最大的黄金交易中心）进行交易清算的银行。",
-          "url": "https://flash.jin10.com/detail/20260706160315797800",
-          "source": "金十数据",
-          "ranks": [
-            13
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "16时24分"
-        },
-        {
-          "title": "英国监管机构：金融服务业AI正引发“军备竞赛” 需扩大监管范围",
-          "url": "https://flash.jin10.com/detail/20260706053240940800",
-          "source": "金十数据",
-          "ranks": [
-            15
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "07时04分"
-        },
-        {
-          "title": "金十图示：2026年07月06日（周一）上海黄金交易所市场行情",
-          "url": "https://flash.jin10.com/detail/20260706160215524800",
-          "source": "金十数据",
-          "ranks": [
-            15
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "16时24分"
-        },
-        {
-          "title": "上海黄金交易所7月6日（周一）交易行情",
-          "url": "https://flash.jin10.com/detail/20260706160109815800",
-          "source": "金十数据",
-          "ranks": [
-            16
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "16时24分"
-        },
-        {
-          "title": "消息人士：香港强积金拟放宽黄金ETF投资限制",
-          "url": "https://flash.jin10.com/detail/20260706110031892800",
-          "source": "金十数据",
-          "ranks": [
-            23
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "11时49分"
-        },
-        {
-          "title": "A股贵金属板块再度走强，白银有色、中金岭南、湖南白银触及涨停，山金国际、赤峰黄金、西部黄金、中金黄金涨超5%。",
-          "url": "https://wallstreetcn.com/livenews/3129093",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            24
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "11时49分"
-        },
-        {
-          "title": "机构：AI高端MLCC激励日韩大厂订单出货比创新高，下半年缺货风险提升",
-          "url": "https://wallstreetcn.com/livenews/3129218",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            24
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "16时24分"
-        },
-        {
-          "title": "韩国电信巨头KT计划在AI方面投资18万亿韩元",
-          "url": "https://flash.jin10.com/detail/20260706155213502800",
-          "source": "金十数据",
-          "ranks": [
-            27
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "16时24分"
-        }
-      ]
-    },
-    {
       "keyword_group": "伊朗",
-      "match_count": 12,
+      "match_count": 13,
       "titles": [
         {
           "title": "伊拉克女信众：哈梅内伊不仅属于伊朗，是所有人的领袖",
@@ -638,9 +750,20 @@
           "ranks": [
             5
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "16时24分"
+        },
+        {
+          "title": "现场：伊朗民众向灵车抛投鲜花、头巾",
+          "url": "https://news.ifeng.com/c/8uXrYG1lG4D",
+          "source": "凤凰网",
+          "ranks": [
+            5
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时51分"
         },
         {
           "title": "伊朗最高领袖发布任免令",
@@ -648,11 +771,12 @@
           "source": "凤凰网",
           "ranks": [
             2,
-            7
+            7,
+            8
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[11时49分 ~ 16时24分]"
+          "appearance_count": 3,
+          "time_info": "[11时49分 ~ 20时51分]"
         },
         {
           "title": "伊朗官员称该国已恢复与卡塔尔的海上贸易",
@@ -741,7 +865,7 @@
     },
     {
       "keyword_group": "美股",
-      "match_count": 7,
+      "match_count": 9,
       "titles": [
         {
           "title": "精准预测“美股动量股”暴跌后，高盛看到“逢低买入”的迹象",
@@ -770,11 +894,12 @@
           "url": "https://wallstreetcn.com/articles/3776130",
           "source": "华尔街见闻",
           "ranks": [
-            2
+            2,
+            3
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[11时49分 ~ 16时24分]"
+          "appearance_count": 3,
+          "time_info": "[11时49分 ~ 20时51分]"
         },
         {
           "title": "美股盘前，大型科技股普涨，美光科技涨超3%，闪迪涨超5%，英特尔涨超2%。",
@@ -783,7 +908,7 @@
           "ranks": [
             2
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "16时24分"
         },
@@ -792,11 +917,23 @@
           "url": "https://wallstreetcn.com/articles/3776235",
           "source": "华尔街见闻",
           "ranks": [
-            6
+            6,
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[16时24分 ~ 20时51分]"
+        },
+        {
+          "title": "博通美股盘前一度涨超5%，报道称博通与苹果同意将技术合作扩展至2031年，博通将为苹果开发定制ASIC芯片产品。",
+          "url": "https://wallstreetcn.com/livenews/3129383",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            10
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "16时24分"
+          "time_info": "20时51分"
         },
         {
           "title": "美股期货涨幅收窄，标普500指数期货现涨0.2%。",
@@ -808,6 +945,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "11时49分"
+        },
+        {
+          "title": "博通(AVGO.O)美股盘前拉升，现涨超4%。",
+          "url": "https://flash.jin10.com/detail/20260706200753107800",
+          "source": "金十数据",
+          "ranks": [
+            20
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时51分"
         },
         {
           "title": "警惕7月变盘！美股或遭剧烈“洗牌”，风格轮动要来了？",
@@ -833,7 +981,7 @@
           "ranks": [
             5
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "16时24分"
         }
