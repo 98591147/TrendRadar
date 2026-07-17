@@ -1,23 +1,12 @@
 {
-  "generated_at": "2026-07-17T05:03:38.072864+08:00",
-  "total_titles_processed": 466,
+  "generated_at": "2026-07-17T08:07:37.522394+08:00",
+  "total_titles_processed": 597,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "DeepSeek Ai 水球泡 谷歌 google gemini 好书推荐 chatgpt openai 白银 金价石油 黄金 热梗",
-      "match_count": 35,
+      "match_count": 39,
       "titles": [
-        {
-          "title": "半导体抛售潮重创全球股市，美股盘初涨跌互现，存储股普跌，台积电跌3%，现货黄金跌2%",
-          "url": "https://wallstreetcn.com/articles/3777075",
-          "source": "华尔街见闻",
-          "ranks": [
-            1
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[01时20分 ~ 05时03分]"
-        },
         {
           "title": "巴菲特罕见发声：当每个人都喜欢赌博时，很难找到价值，谷歌能击败95%华尔街推的票",
           "url": "https://wallstreetcn.com/articles/3777063",
@@ -26,8 +15,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[01时20分 ~ 05时03分]"
+          "appearance_count": 5,
+          "time_info": "[01时20分 ~ 08时07分]"
         },
         {
           "title": "经纬度：在上海，WAIC见证人工智能改变未来",
@@ -37,8 +26,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[01时20分 ~ 05时03分]"
+          "appearance_count": 5,
+          "time_info": "[01时20分 ~ 08时07分]"
         },
         {
           "title": "业绩预增、再签新单 AI芯片三龙头携手“报喜”",
@@ -46,6 +35,17 @@
           "source": "财联社热门",
           "ranks": [
             2
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[01时20分 ~ 08时07分]"
+        },
+        {
+          "title": "半导体抛售潮重创全球股市，美股盘初涨跌互现，存储股普跌，台积电跌3%，现货黄金跌2%",
+          "url": "https://wallstreetcn.com/articles/3777075",
+          "source": "华尔街见闻",
+          "ranks": [
+            1
           ],
           "is_new": false,
           "appearance_count": 4,
@@ -63,15 +63,48 @@
           "time_info": "[01时20分 ~ 05时03分]"
         },
         {
+          "title": "半导体抛售潮拖累美股，纳指100一度跌2%，中概再逆市涨，黄金大跌破4000",
+          "url": "https://wallstreetcn.com/articles/3777075",
+          "source": "华尔街见闻",
+          "ranks": [
+            1
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "08时07分"
+        },
+        {
           "title": "DeepMind提设国际AI模型审查机构 马斯克和奥尔特曼表支持",
           "url": "https://flash.jin10.com/detail/20260717045325097800",
           "source": "金十数据",
           "ranks": [
             1
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "05时03分"
+        },
+        {
+          "title": "伯恩斯坦：将2026年黄金价格目标上调至4533美元/盎司，因各国央行正在实现储备多元化，且预计美联储在未来一年内最多只会加息一两次。",
+          "url": "https://flash.jin10.com/detail/20260717075253072800",
+          "source": "金十数据",
+          "ranks": [
+            1
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "08时07分"
+        },
+        {
+          "title": "美国白宫通讯总监‌张振熙：懦夫。NBC和ABC不想让你听到真相。他们只想对你隐瞒事实。（此前报道称这两家媒体将不会电视直播特朗普今天黄金时段的演讲）",
+          "url": "https://flash.jin10.com/detail/20260717074910149800",
+          "source": "金十数据",
+          "ranks": [
+            2
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "08时07分"
         },
         {
           "title": "OpenAI董事长：IPO时间暂无最新消息",
@@ -85,28 +118,30 @@
           "time_info": "01时20分"
         },
         {
-          "title": "男子150万白银存金店被拒还",
-          "url": "https://www.baidu.com/s?wd=%E7%94%B7%E5%AD%90150%E4%B8%87%E7%99%BD%E9%93%B6%E5%AD%98%E9%87%91%E5%BA%97%E8%A2%AB%E6%8B%92%E8%BF%98",
-          "source": "百度热搜",
-          "ranks": [
-            26,
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[01时20分 ~ 05时03分]"
-        },
-        {
           "title": "外资机构把脉A股：AI景气度仍向好，市场正进入结构性分化新阶段",
           "url": "https://m.thepaper.cn/newsDetail_forward_33586841",
           "source": "澎湃新闻",
           "ranks": [
             9,
-            10
+            10,
+            7
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[01时20分 ~ 05时03分]"
+          "appearance_count": 5,
+          "time_info": "[01时20分 ~ 08时07分]"
+        },
+        {
+          "title": "男子150万白银存金店被拒还",
+          "url": "https://www.baidu.com/s?wd=%E7%94%B7%E5%AD%90150%E4%B8%87%E7%99%BD%E9%93%B6%E5%AD%98%E9%87%91%E5%BA%97%E8%A2%AB%E6%8B%92%E8%BF%98",
+          "source": "百度热搜",
+          "ranks": [
+            26,
+            7,
+            17
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[01时20分 ~ 08时07分]"
         },
         {
           "title": "WAIC前夕看全球AI治理变局：拒绝“富国游戏”，规则之争加快",
@@ -117,8 +152,8 @@
             13
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[01时20分 ~ 05时03分]"
+          "appearance_count": 5,
+          "time_info": "[01时20分 ~ 08时07分]"
         },
         {
           "title": "美男网红注射黄金求超能力",
@@ -129,8 +164,8 @@
             9
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[01时20分 ~ 05时03分]"
+          "appearance_count": 4,
+          "time_info": "[01时20分 ~ 08时07分]"
         },
         {
           "title": "披着AI外衣的现实短片",
@@ -138,11 +173,12 @@
           "source": "抖音",
           "ranks": [
             21,
-            22
+            22,
+            26
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[03时15分 ~ 05时03分]"
+          "appearance_count": 4,
+          "time_info": "[03时15分 ~ 08时07分]"
         },
         {
           "title": "花钱就看这?功夫女足公开用AI",
@@ -153,8 +189,20 @@
             25
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[01时20分 ~ 05时03分]"
+          "appearance_count": 4,
+          "time_info": "[01时20分 ~ 08时07分]"
+        },
+        {
+          "title": "台积电Q2净利润同比增长77.4%大超预期，毛利率达67.7%，AI芯片需求强劲势头持续 | 财报见闻",
+          "url": "https://wallstreetcn.com/articles/3777092",
+          "source": "华尔街见闻",
+          "ranks": [
+            10,
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[05时03分 ~ 08时07分]"
         },
         {
           "title": "上海黄金交易所黄金T+D 7月16日（周四）晚盘收盘下跌1.09%报870.1元/克；<br/>上海黄金交易所白银T+D 7月16日（周四）晚盘收盘下跌2.29%报13592.0元/千克。",
@@ -190,24 +238,13 @@
           "time_info": "03时16分"
         },
         {
-          "title": "台积电Q2净利润同比增长77.4%大超预期，毛利率达67.7%，AI芯片需求强劲势头持续 | 财报见闻",
-          "url": "https://wallstreetcn.com/articles/3777092",
-          "source": "华尔街见闻",
-          "ranks": [
-            10
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "05时03分"
-        },
-        {
           "title": "美股大类资产类ETF普遍下跌，新兴市场收跌2.1%，与黄金ETF、可转债ETF领跌",
           "url": "https://wallstreetcn.com/livenews/3135268",
           "source": "华尔街见闻-快讯",
           "ranks": [
             10
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "05时03分"
         },
@@ -273,9 +310,20 @@
           "ranks": [
             16
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "05时03分"
+        },
+        {
+          "title": "财晓得｜中国AI跑出加速度背后的四重底气",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33591307",
+          "source": "澎湃新闻",
+          "ranks": [
+            17
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "08时07分"
         },
         {
           "title": "谷歌(GOOG.O)在美国上线搜索AI模式应用集成功能，支持与更多应用协同。",
@@ -350,7 +398,7 @@
           "ranks": [
             22
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "05时03分"
         },
@@ -394,7 +442,7 @@
           "ranks": [
             28
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "05时03分"
         }
@@ -402,7 +450,7 @@
     },
     {
       "keyword_group": "伊朗",
-      "match_count": 27,
+      "match_count": 38,
       "titles": [
         {
           "title": "伊朗司法机构称未释放任何美国在押人员。（MIZAN）",
@@ -422,7 +470,7 @@
           "ranks": [
             1
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "05时03分"
         },
@@ -488,9 +536,20 @@
           "ranks": [
             4
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "05时03分"
+        },
+        {
+          "title": "美国众院共和党推进950亿美元预算案，涉伊朗战事经费及选举改革",
+          "url": "https://flash.jin10.com/detail/20260717074539839800",
+          "source": "金十数据",
+          "ranks": [
+            4
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "08时07分"
         },
         {
           "title": "据伊朗法尔斯通讯社：伊朗班达尔哈米尔（Bandar-e Khamir）地区的一座桥梁疑似遭到美军袭击。袭击发生在当地时间晚上11点（北京时间今日凌晨03:30）。报道称，这座桥梁是连接阿巴斯港与拉尔市的重要交通枢纽。",
@@ -499,7 +558,7 @@
           "ranks": [
             5
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "05时03分"
         },
@@ -532,7 +591,7 @@
           "ranks": [
             6
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "05时03分"
         },
@@ -570,6 +629,17 @@
           "time_info": "01时20分"
         },
         {
+          "title": "伊朗军方表示，其在一次无人机袭击中，将目标对准了巴林Sakhir基地的美国直升机和侦察机。",
+          "url": "https://wallstreetcn.com/livenews/3135322",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "08时07分"
+        },
+        {
           "title": "美国连续第六晚打击伊朗",
           "url": "https://flash.jin10.com/detail/20260717022528646800",
           "source": "金十数据",
@@ -587,7 +657,7 @@
           "ranks": [
             11
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "05时03分"
         },
@@ -603,13 +673,24 @@
           "time_info": "03时16分"
         },
         {
+          "title": "伊朗：美军事打击构成“战争罪”",
+          "url": "https://www.baidu.com/s?wd=%E4%BC%8A%E6%9C%97%EF%BC%9A%E7%BE%8E%E5%86%9B%E4%BA%8B%E6%89%93%E5%87%BB%E6%9E%84%E6%88%90%E2%80%9C%E6%88%98%E4%BA%89%E7%BD%AA%E2%80%9D",
+          "source": "百度热搜",
+          "ranks": [
+            12
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "08时07分"
+        },
+        {
           "title": "据伊朗塔斯尼姆通讯社：美国战斗机对伊朗沙赫尔机场发动了导弹袭击。",
           "url": "https://flash.jin10.com/detail/20260717040847338800",
           "source": "金十数据",
           "ranks": [
             12
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "05时03分"
         },
@@ -625,15 +706,70 @@
           "time_info": "03时16分"
         },
         {
+          "title": "美国周四袭击了伊朗境内多座桥梁。（华尔街日报）",
+          "url": "https://wallstreetcn.com/livenews/3135319",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            13
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "08时07分"
+        },
+        {
+          "title": "伊朗军方称对美在巴林军事设施发动无人机袭击",
+          "url": "https://flash.jin10.com/detail/20260717071912481800",
+          "source": "金十数据",
+          "ranks": [
+            16
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "08时07分"
+        },
+        {
+          "title": "据伊朗塔斯尼姆通讯社：伊朗军方表示，对在巴林萨基尔基地的美国直升机和侦察机实施了无人机攻击。",
+          "url": "https://flash.jin10.com/detail/20260717071138809800",
+          "source": "金十数据",
+          "ranks": [
+            17
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "08时07分"
+        },
+        {
+          "title": "据华尔街日报：一名美国高级官员表示，美军周四对伊朗境内多座桥梁发动打击，旨在切断通往阿巴斯港及霍尔木兹海峡海军基地的补给路线。伊朗利用该基地袭击船只和投射力量。",
+          "url": "https://flash.jin10.com/detail/20260717070943466800",
+          "source": "金十数据",
+          "ranks": [
+            18
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "08时07分"
+        },
+        {
           "title": "伊媒：伊朗布什尔市传出爆炸声",
           "url": "https://wallstreetcn.com/livenews/3135256",
           "source": "华尔街见闻-快讯",
           "ranks": [
             20
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "05时03分"
+        },
+        {
+          "title": "伊朗最高领袖顾问：对基础设施的袭击将危及地区能源供应",
+          "url": "https://wallstreetcn.com/livenews/3135312",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            20
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "08时07分"
         },
         {
           "title": "据伊朗迈赫尔通讯社：也门军事官员表示，以色列正协助沙特阿拉伯拦截也门的报复性攻击。",
@@ -675,9 +811,31 @@
           "ranks": [
             23
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "05时03分"
+        },
+        {
+          "title": "美国战争部长赫格塞斯：伊朗并没有控制霍尔木兹海峡。",
+          "url": "https://wallstreetcn.com/livenews/3135309",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            23
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "08时07分"
+        },
+        {
+          "title": "伊朗方面否认有美籍人员从该国监狱获释",
+          "url": "https://wallstreetcn.com/livenews/3135308",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            24
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "08时07分"
         },
         {
           "title": "据伊朗媒体：在美军对格什姆岛发动空袭后，岛上马森村附近再次传出8次爆炸声。",
@@ -686,9 +844,20 @@
           "ranks": [
             25
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "05时03分"
+        },
+        {
+          "title": "美军称拦截多艘试图突破对伊朗封锁的船只",
+          "url": "https://wallstreetcn.com/livenews/3135306",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            26
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "08时07分"
         },
         {
           "title": "伊朗重申与海湾邻国不存在敌对关系",
@@ -705,7 +874,7 @@
     },
     {
       "keyword_group": "美股",
-      "match_count": 11,
+      "match_count": 14,
       "titles": [
         {
           "title": "美PPI确认通胀降温，科技巨头力撑美股指两连阳，中概股大涨，美光、闪迪暴跌8%",
@@ -719,26 +888,49 @@
           "time_info": "[01时20分 ~ 05时03分]"
         },
         {
+          "title": "【早报】美股存储股再遭重挫；美军连续空袭伊朗；油价、金价双双下跌；多只芯片股发布重要公告",
+          "url": "https://www.cls.cn/detail/2428987",
+          "source": "财联社热门",
+          "ranks": [
+            4
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "08时07分"
+        },
+        {
           "title": "美股存储芯片指数收跌超8%",
           "url": "https://wallstreetcn.com/livenews/3135275",
           "source": "华尔街见闻-快讯",
           "ranks": [
             4
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "05时03分"
+        },
+        {
+          "title": "美股收盘：芯片股持续下挫拖累纳指跌近1.5% 存储、光通信板块领跌",
+          "url": "https://www.cls.cn/detail/2428956",
+          "source": "财联社热门",
+          "ranks": [
+            5
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "08时07分"
         },
         {
           "title": "美股期指走低 纳指期货跌1% 芯片股普遍承压 | 今夜看点",
           "url": "https://www.cls.cn/detail/2428765",
           "source": "财联社热门",
           "ranks": [
-            7
+            7,
+            8
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[01时20分 ~ 05时03分]"
+          "appearance_count": 5,
+          "time_info": "[01时20分 ~ 08时07分]"
         },
         {
           "title": "金十图示：2026年07月16日（周四）美股热门股票行情一览（美股盘中）",
@@ -769,7 +961,7 @@
           "ranks": [
             11
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "05时03分"
         },
@@ -780,7 +972,7 @@
           "ranks": [
             15
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "05时03分"
         },
@@ -791,7 +983,7 @@
           "ranks": [
             15
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "05时03分"
         },
@@ -802,7 +994,7 @@
           "ranks": [
             18
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "05时03分"
         },
@@ -813,7 +1005,7 @@
           "ranks": [
             23
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "05时03分"
         },
@@ -827,23 +1019,46 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "01时20分"
+        },
+        {
+          "title": "美股芯片股深夜大跌",
+          "url": "https://www.toutiao.com/trending/7663271539885739558/",
+          "source": "今日头条",
+          "ranks": [
+            27
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "08时07分"
         }
       ]
     },
     {
       "keyword_group": "特朗普",
-      "match_count": 8,
+      "match_count": 11,
       "titles": [
         {
           "title": "担心特朗普全国演讲乱说话，共和党人：我们被吓得“屁滚尿流”",
           "url": "https://news.ifeng.com/c/8uoXl1Ao0h2",
           "source": "凤凰网",
           "ranks": [
-            5
+            5,
+            4
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[01时20分 ~ 05时03分]"
+          "appearance_count": 5,
+          "time_info": "[01时20分 ~ 08时07分]"
+        },
+        {
+          "title": "美国首例！特朗普恼火：可怕的决定，要输给中国了",
+          "url": "https://news.ifeng.com/c/8uofMrB5Gdq",
+          "source": "凤凰网",
+          "ranks": [
+            1
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "08时07分"
         },
         {
           "title": "白宫提词员利用特朗普演讲内幕获利逾10万美元，CFTC对其展开调查",
@@ -874,7 +1089,7 @@
           "ranks": [
             5
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "05时03分"
         },
@@ -888,6 +1103,28 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "03时16分"
+        },
+        {
+          "title": "万斯驳斥特朗普亲信利用内幕获利传言",
+          "url": "https://flash.jin10.com/detail/20260717072923735800",
+          "source": "金十数据",
+          "ranks": [
+            15
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "08时07分"
+        },
+        {
+          "title": "报道：特朗普帖文花钱就能抢先看",
+          "url": "https://wallstreetcn.com/livenews/3135311",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            21
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "08时07分"
         },
         {
           "title": "白宫新闻秘书Leavitt：白宫提词器操作员被停职。 美国总统特朗普认为，被控参与下注的提词器操作员“行为可耻”。",
@@ -935,7 +1172,7 @@
           "ranks": [
             3
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "05时03分"
         },
@@ -957,7 +1194,7 @@
           "ranks": [
             26
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "05时03分"
         }
@@ -965,8 +1202,19 @@
     },
     {
       "keyword_group": "美债",
-      "match_count": 1,
+      "match_count": 2,
       "titles": [
+        {
+          "title": "逾30年的美债多头Hoisington因通胀和债务加剧转而看空",
+          "url": "https://wallstreetcn.com/livenews/3135325",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            7
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "08时07分"
+        },
         {
           "title": "美债收益率普遍涨超1个基点",
           "url": "https://wallstreetcn.com/livenews/3135247",
@@ -974,7 +1222,7 @@
           "ranks": [
             27
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "05时03分"
         }
