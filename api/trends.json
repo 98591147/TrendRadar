@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-07-17T12:09:18.058770+08:00",
-  "total_titles_processed": 812,
+  "generated_at": "2026-07-17T15:19:33.226117+08:00",
+  "total_titles_processed": 987,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "DeepSeek Ai 水球泡 谷歌 google gemini 好书推荐 chatgpt openai 白银 金价石油 黄金 热梗",
-      "match_count": 50,
+      "match_count": 59,
       "titles": [
         {
           "title": "业绩预增、再签新单 AI芯片三龙头携手“报喜”",
@@ -52,6 +52,17 @@
           "time_info": "[01时20分 ~ 05时03分]"
         },
         {
+          "title": "半导体抛售潮拖累美股，纳指100一度跌2%，中概再逆市涨，黄金大跌破4000",
+          "url": "https://wallstreetcn.com/articles/3777075",
+          "source": "华尔街见闻",
+          "ranks": [
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[08时07分 ~ 15时19分]"
+        },
+        {
           "title": "超300款全球首发AI产品即将亮相",
           "url": "https://s.weibo.com/weibo?q=%23%E8%B6%85300%E6%AC%BE%E5%85%A8%E7%90%83%E9%A6%96%E5%8F%91AI%E4%BA%A7%E5%93%81%E5%8D%B3%E5%B0%86%E4%BA%AE%E7%9B%B8%23&t=31&band_rank=3&Refer=top",
           "source": "微博",
@@ -63,15 +74,15 @@
           "time_info": "[01时20分 ~ 05时03分]"
         },
         {
-          "title": "半导体抛售潮拖累美股，纳指100一度跌2%，中概再逆市涨，黄金大跌破4000",
-          "url": "https://wallstreetcn.com/articles/3777075",
-          "source": "华尔街见闻",
+          "title": "AI站稳产业圈顶流C位",
+          "url": "https://www.douyin.com/hot/2574370",
+          "source": "抖音",
           "ranks": [
-            1
+            3
           ],
           "is_new": false,
           "appearance_count": 2,
-          "time_info": "[08时07分 ~ 12时09分]"
+          "time_info": "[12时09分 ~ 15时19分]"
         },
         {
           "title": "DeepMind提设国际AI模型审查机构 马斯克和奥尔特曼表支持",
@@ -96,6 +107,17 @@
           "time_info": "08时07分"
         },
         {
+          "title": "管理规模达470亿美元的南非基金经理减持AI芯片股 转而加码印度股市",
+          "url": "https://wallstreetcn.com/livenews/3135549",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            1
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "15时19分"
+        },
+        {
           "title": "美国白宫通讯总监‌张振熙：懦夫。NBC和ABC不想让你听到真相。他们只想对你隐瞒事实。（此前报道称这两家媒体将不会电视直播特朗普今天黄金时段的演讲）",
           "url": "https://flash.jin10.com/detail/20260717074910149800",
           "source": "金十数据",
@@ -113,7 +135,7 @@
           "ranks": [
             2
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "12时09分"
         },
@@ -124,7 +146,7 @@
           "ranks": [
             3
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "12时09分"
         },
@@ -135,29 +157,7 @@
           "ranks": [
             3
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "12时09分"
-        },
-        {
-          "title": "AI站稳产业圈顶流C位",
-          "url": "https://www.douyin.com/hot/2574370",
-          "source": "抖音",
-          "ranks": [
-            3
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "12时09分"
-        },
-        {
-          "title": "谷歌Gemini模型发布延期传闻引发担忧 股价盘中跳水逾3%",
-          "url": "https://www.cls.cn/detail/2428944",
-          "source": "财联社热门",
-          "ranks": [
-            5
-          ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "12时09分"
         },
@@ -171,6 +171,32 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "01时20分"
+        },
+        {
+          "title": "美男网红注射黄金求超能力",
+          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28356240&amp;topic_name=%E7%BE%8E%E7%94%B7%E7%BD%91%E7%BA%A2%E6%B3%A8%E5%B0%84%E9%BB%84%E9%87%91%E6%B1%82%E8%B6%85%E8%83%BD%E5%8A%9B",
+          "source": "贴吧",
+          "ranks": [
+            8,
+            9,
+            18,
+            24
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[01时20分 ~ 15时19分]"
+        },
+        {
+          "title": "谷歌Gemini模型发布延期传闻引发担忧 股价盘中跳水逾3%",
+          "url": "https://www.cls.cn/detail/2428944",
+          "source": "财联社热门",
+          "ranks": [
+            5,
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[12时09分 ~ 15时19分]"
         },
         {
           "title": "外资机构把脉A股：AI景气度仍向好，市场正进入结构性分化新阶段",
@@ -197,19 +223,6 @@
           "is_new": false,
           "appearance_count": 5,
           "time_info": "[01时20分 ~ 08时07分]"
-        },
-        {
-          "title": "美男网红注射黄金求超能力",
-          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28356240&amp;topic_name=%E7%BE%8E%E7%94%B7%E7%BD%91%E7%BA%A2%E6%B3%A8%E5%B0%84%E9%BB%84%E9%87%91%E6%B1%82%E8%B6%85%E8%83%BD%E5%8A%9B",
-          "source": "贴吧",
-          "ranks": [
-            8,
-            9,
-            18
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[01时20分 ~ 12时09分]"
         },
         {
           "title": "WAIC前夕看全球AI治理变局：拒绝“富国游戏”，规则之争加快",
@@ -266,11 +279,12 @@
           "source": "澎湃新闻",
           "ranks": [
             17,
-            20
+            20,
+            16
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[08时07分 ~ 12时09分]"
+          "appearance_count": 3,
+          "time_info": "[08时07分 ~ 15时19分]"
         },
         {
           "title": "“雷曼时刻”在逼近？大空头1.5万字长文起底：OpenAI必将崩溃，全球股市恐遭清算",
@@ -279,9 +293,21 @@
           "ranks": [
             8
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "12时09分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[12时09分 ~ 15时19分]"
+        },
+        {
+          "title": "大方之谈丨对话周伯文：一个AI科学家的世界观",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33577939",
+          "source": "澎湃新闻",
+          "ranks": [
+            14,
+            12
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[12时09分 ~ 15时19分]"
         },
         {
           "title": "上海黄金交易所黄金T+D 7月16日（周四）晚盘收盘下跌1.09%报870.1元/克；<br/>上海黄金交易所白银T+D 7月16日（周四）晚盘收盘下跌2.29%报13592.0元/千克。",
@@ -334,7 +360,7 @@
           "ranks": [
             10
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "12时09分"
         },
@@ -361,17 +387,6 @@
           "time_info": "03时16分"
         },
         {
-          "title": "大方之谈丨对话周伯文：一个AI科学家的世界观",
-          "url": "https://m.thepaper.cn/newsDetail_forward_33577939",
-          "source": "澎湃新闻",
-          "ranks": [
-            14
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "12时09分"
-        },
-        {
           "title": "谷歌Gemini 3.5 Pro交付进度落后计划数月，因技术能力未达预期目标",
           "url": "https://flash.jin10.com/detail/20260717021710042800",
           "source": "金十数据",
@@ -392,6 +407,28 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "03时16分"
+        },
+        {
+          "title": "东方财富证券陈果：市场正迎来今年的黄金买点",
+          "url": "https://wallstreetcn.com/livenews/3135527",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            14
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "15时19分"
+        },
+        {
+          "title": "知乎 2026 年 Tech Club 大会与 WAIC 世界人工智能大会同期落地，有什么新看点？",
+          "url": "https://www.zhihu.com/parker/campaign/2058682220576035800?zh_hide_nav_bar=true",
+          "source": "知乎",
+          "ranks": [
+            15
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "15时19分"
         },
         {
           "title": "GoodVision AI将在日本打造100 MW规模的AI工厂。",
@@ -422,7 +459,7 @@
           "ranks": [
             16
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "12时09分"
         },
@@ -449,6 +486,17 @@
           "time_info": "01时20分"
         },
         {
+          "title": "玉渊谭天丨中国AI的发展逻辑",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33601397",
+          "source": "澎湃新闻",
+          "ranks": [
+            19
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "15时19分"
+        },
+        {
           "title": "谷歌(GOOG.O)：Google Vids上线Gemini Omni和个人数字形象功能，面向Google AI Pro、AI Ultra订阅用户及Workspace企业客户开放。",
           "url": "https://flash.jin10.com/detail/20260717001020905800",
           "source": "金十数据",
@@ -458,6 +506,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "01时20分"
+        },
+        {
+          "title": "未来AI城市什么样？机器人掌握了哪些新技能？这里有“样板间”",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33600947",
+          "source": "澎湃新闻",
+          "ranks": [
+            20
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "15时19分"
         },
         {
           "title": "谷歌(GOOG.O)推出Gemini Omni，并更新Google Vids个人数字形象功能。",
@@ -477,7 +536,7 @@
           "ranks": [
             20
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "12时09分"
         },
@@ -548,13 +607,46 @@
           "time_info": "03时16分"
         },
         {
+          "title": "投资者撤离AI股 全球市场遭遇重挫",
+          "url": "https://flash.jin10.com/detail/20260717145040499800",
+          "source": "金十数据",
+          "ranks": [
+            26
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "15时19分"
+        },
+        {
+          "title": "软银集团拟新发行600亿日元债券 加码AI投资融资",
+          "url": "https://flash.jin10.com/detail/20260717145030071800",
+          "source": "金十数据",
+          "ranks": [
+            27
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "15时19分"
+        },
+        {
+          "title": "黄金鏖战4000点 多空巨头激辩",
+          "url": "https://www.toutiao.com/trending/7663341697681624603/",
+          "source": "今日头条",
+          "ranks": [
+            28
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "15时19分"
+        },
+        {
           "title": "特朗普已在为“输掉中期选举”做准备？他的黄金时段讲话暴露了焦虑",
           "url": "https://flash.jin10.com/detail/20260717111924751800",
           "source": "金十数据",
           "ranks": [
             28
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "12时09分"
         },
@@ -568,12 +660,23 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "05时03分"
+        },
+        {
+          "title": "磐石·科学基础大模型2.0发布 开启AI赋能基础研究全新范式",
+          "url": "https://flash.jin10.com/detail/20260717144652143800",
+          "source": "金十数据",
+          "ranks": [
+            30
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "15时19分"
         }
       ]
     },
     {
       "keyword_group": "伊朗",
-      "match_count": 42,
+      "match_count": 45,
       "titles": [
         {
           "title": "伊朗司法机构称未释放任何美国在押人员。（MIZAN）",
@@ -631,6 +734,17 @@
           "time_info": "03时16分"
         },
         {
+          "title": "伊朗称美军袭击其基础设施致8死20伤",
+          "url": "https://wallstreetcn.com/livenews/3135546",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            3
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "15时19分"
+        },
+        {
           "title": "伊朗最高领袖顾问：对基础设施的袭击将危及地区能源供应",
           "url": "https://flash.jin10.com/detail/20260717004941859800",
           "source": "金十数据",
@@ -675,6 +789,17 @@
           "time_info": "08时07分"
         },
         {
+          "title": "伊朗：造成大量美军人员死亡",
+          "url": "https://www.baidu.com/s?wd=%E4%BC%8A%E6%9C%97%EF%BC%9A%E9%80%A0%E6%88%90%E5%A4%A7%E9%87%8F%E7%BE%8E%E5%86%9B%E4%BA%BA%E5%91%98%E6%AD%BB%E4%BA%A1",
+          "source": "百度热搜",
+          "ranks": [
+            5
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "15时19分"
+        },
+        {
           "title": "据伊朗法尔斯通讯社：伊朗班达尔哈米尔（Bandar-e Khamir）地区的一座桥梁疑似遭到美军袭击。袭击发生在当地时间晚上11点（北京时间今日凌晨03:30）。报道称，这座桥梁是连接阿巴斯港与拉尔市的重要交通枢纽。",
           "url": "https://flash.jin10.com/detail/20260717044824911800",
           "source": "金十数据",
@@ -695,6 +820,17 @@
           "is_new": false,
           "appearance_count": 4,
           "time_info": "[01时20分 ~ 05时03分]"
+        },
+        {
+          "title": "美国政府新规收紧国际学生等入境居留期限 美军连续第五晚打击伊朗 | 环球市场",
+          "url": "https://www.cls.cn/detail/2428979",
+          "source": "财联社热门",
+          "ranks": [
+            12
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[12时09分 ~ 15时19分]"
         },
         {
           "title": "据伊朗迈赫尔通讯社：伊朗班达尔阿巴斯附近遭到美国袭击，霍尔木兹甘省政府称暂无人员伤亡和财产损失。",
@@ -805,17 +941,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "08时07分"
-        },
-        {
-          "title": "美国政府新规收紧国际学生等入境居留期限 美军连续第五晚打击伊朗 | 环球市场",
-          "url": "https://www.cls.cn/detail/2428979",
-          "source": "财联社热门",
-          "ranks": [
-            12
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "12时09分"
         },
         {
           "title": "据伊朗塔斯尼姆通讯社：美国战斗机对伊朗沙赫尔机场发动了导弹袭击。",
@@ -934,9 +1059,20 @@
           "ranks": [
             22
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "12时09分"
+        },
+        {
+          "title": "报道：伊朗伊斯兰革命卫队袭击位于阿曼的雷达系统",
+          "url": "https://wallstreetcn.com/livenews/3135518",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            22
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "15时19分"
         },
         {
           "title": "白宫新闻秘书Leavitt：伊朗继续与美国对话。 美方袭击伊朗，是因为伊朗违反了两国之间的谅解备忘录（MoU）。",
@@ -1000,7 +1136,7 @@
           "ranks": [
             25
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "12时09分"
         },
@@ -1022,7 +1158,7 @@
           "ranks": [
             27
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "12时09分"
         },
@@ -1063,8 +1199,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[08时07分 ~ 12时09分]"
+          "appearance_count": 3,
+          "time_info": "[08时07分 ~ 15时19分]"
         },
         {
           "title": "美股收盘：芯片股持续下挫拖累纳指跌近1.5% 存储、光通信板块领跌",
@@ -1072,11 +1208,12 @@
           "source": "财联社热门",
           "ranks": [
             5,
-            4
+            4,
+            3
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[08时07分 ~ 12时09分]"
+          "appearance_count": 3,
+          "time_info": "[08时07分 ~ 15时19分]"
         },
         {
           "title": "美股存储芯片指数收跌超8%",
@@ -1109,9 +1246,9 @@
           "ranks": [
             7
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "12时09分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[12时09分 ~ 15时19分]"
         },
         {
           "title": "金十图示：2026年07月16日（周四）美股热门股票行情一览（美股盘中）",
@@ -1153,7 +1290,7 @@
           "ranks": [
             13
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "12时09分"
         },
@@ -1219,7 +1356,7 @@
           "ranks": [
             24
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "12时09分"
         },
@@ -1238,7 +1375,7 @@
     },
     {
       "keyword_group": "特朗普",
-      "match_count": 16,
+      "match_count": 17,
       "titles": [
         {
           "title": "担心特朗普全国演讲乱说话，共和党人：我们被吓得“屁滚尿流”",
@@ -1253,6 +1390,18 @@
           "time_info": "[01时20分 ~ 08时07分]"
         },
         {
+          "title": "白宫：特朗普将出席世界杯决赛",
+          "url": "https://news.ifeng.com/c/8upEtP2Gcyf",
+          "source": "凤凰网",
+          "ranks": [
+            2,
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[12时09分 ~ 15时19分]"
+        },
+        {
           "title": "美国首例！特朗普恼火：可怕的决定，要输给中国了",
           "url": "https://news.ifeng.com/c/8uofMrB5Gdq",
           "source": "凤凰网",
@@ -1264,15 +1413,15 @@
           "time_info": "08时07分"
         },
         {
-          "title": "白宫：特朗普将出席世界杯决赛",
-          "url": "https://news.ifeng.com/c/8upEtP2Gcyf",
-          "source": "凤凰网",
+          "title": "特朗普说别人都在笑话美国",
+          "url": "https://search.bilibili.com/all?keyword=%E7%89%B9%E6%9C%97%E6%99%AE%E8%AF%B4%E5%88%AB%E4%BA%BA%E9%83%BD%E5%9C%A8%E7%AC%91%E8%AF%9D%E7%BE%8E%E5%9B%BD",
+          "source": "bilibili 热搜",
           "ranks": [
             2
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "12时09分"
+          "time_info": "15时19分"
         },
         {
           "title": "白宫提词员利用特朗普演讲内幕获利逾10万美元，CFTC对其展开调查",
@@ -1308,13 +1457,25 @@
           "time_info": "05时03分"
         },
         {
+          "title": "特朗普：我们47年前就应该攻击伊朗，那样会容易得多",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33598128",
+          "source": "澎湃新闻",
+          "ranks": [
+            17,
+            13
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[12时09分 ~ 15时19分]"
+        },
+        {
           "title": "新闻蒸馏器︱特朗普倾向扩大对伊朗军事行动，导弹已击中争议岛",
           "url": "https://m.thepaper.cn/newsDetail_forward_33596311",
           "source": "澎湃新闻",
           "ranks": [
             11
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "12时09分"
         },
@@ -1325,7 +1486,7 @@
           "ranks": [
             11
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "12时09分"
         },
@@ -1358,18 +1519,7 @@
           "ranks": [
             16
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "12时09分"
-        },
-        {
-          "title": "特朗普：我们47年前就应该攻击伊朗，那样会容易得多",
-          "url": "https://m.thepaper.cn/newsDetail_forward_33598128",
-          "source": "澎湃新闻",
-          "ranks": [
-            17
-          ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "12时09分"
         },
