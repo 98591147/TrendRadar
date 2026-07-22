@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-07-22T15:36:56.383710+08:00",
-  "total_titles_processed": 1037,
+  "generated_at": "2026-07-22T18:29:19.369712+08:00",
+  "total_titles_processed": 1212,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "DeepSeek Ai 水球泡 谷歌 google gemini 好书推荐 chatgpt openai 白银 金价石油 黄金 热梗",
-      "match_count": 71,
+      "match_count": 79,
       "titles": [
         {
           "title": "英媒爆料：中美正计划9月举行AI会谈",
@@ -97,6 +97,18 @@
           "time_info": "[01时23分 ~ 08时02分]"
         },
         {
+          "title": "Kimi 员工震惊和 OpenAI 算力的差距，为什么在这么大差距下 Kimi 还能做出来 K3 ？",
+          "url": "https://www.zhihu.com/question/2062943431668789795",
+          "source": "知乎",
+          "ranks": [
+            5,
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[12时19分 ~ 18时29分]"
+        },
+        {
           "title": "全球科技股反弹！美股存储芯片指数涨超10%，布油重回90美元上方，现货白银涨4%",
           "url": "https://wallstreetcn.com/articles/3777518",
           "source": "华尔街见闻",
@@ -108,24 +120,24 @@
           "time_info": "[01时23分 ~ 01时24分]"
         },
         {
+          "title": "历史性调仓！AI硬科技接管公募核心仓位，消费股罕见缺席十大重仓",
+          "url": "https://www.cls.cn/detail/2433795",
+          "source": "财联社热门",
+          "ranks": [
+            3,
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[15时36分 ~ 18时29分]"
+        },
+        {
           "title": "美股存储概念全线爆发！华尔街喊话坚守AI硬件股：Kimi K3将催生新需求",
           "url": "https://www.cls.cn/detail/2433303",
           "source": "财联社热门",
           "ranks": [
             4,
             2
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[12时19分 ~ 15时36分]"
-        },
-        {
-          "title": "Kimi 员工震惊和 OpenAI 算力的差距，为什么在这么大差距下 Kimi 还能做出来 K3 ？",
-          "url": "https://www.zhihu.com/question/2062943431668789795",
-          "source": "知乎",
-          "ranks": [
-            5,
-            3
           ],
           "is_new": false,
           "appearance_count": 2,
@@ -149,20 +161,54 @@
           "ranks": [
             1
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "15时36分"
         },
         {
-          "title": "历史性调仓！AI硬科技接管公募核心仓位，消费股罕见缺席十大重仓",
-          "url": "https://www.cls.cn/detail/2433795",
-          "source": "财联社热门",
+          "title": "央行：6月上海黄金交易所黄金成交6491.2吨 同比增加19.8%",
+          "url": "https://wallstreetcn.com/livenews/3138145",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            1
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时29分"
+        },
+        {
+          "title": "情侣用 AI 判断菌子毒性采了 10 余斤，被本地小孩哥筛选只剩 2 斤，AI 和小孩哥谁的判断更准？为啥会有不同？",
+          "url": "https://www.zhihu.com/question/2062587249968129781",
+          "source": "知乎",
+          "ranks": [
+            13,
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[08时01分 ~ 18时29分]"
+        },
+        {
+          "title": "看见中国AI产业的“硬核家底”",
+          "url": "https://www.toutiao.com/trending/7664428554470113321/",
+          "source": "今日头条",
           "ranks": [
             3
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "15时36分"
+          "time_info": "18时29分"
+        },
+        {
+          "title": "AI交易热情回落，美股盘前存储芯片股普跌，SK海力士跌约5%，日韩股市几乎抹去涨幅，金银走强",
+          "url": "https://wallstreetcn.com/articles/3777614",
+          "source": "华尔街见闻",
+          "ranks": [
+            4
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时29分"
         },
         {
           "title": "国际现货黄金两日暴拉，4100上方谁在接力？",
@@ -200,18 +246,6 @@
           "time_info": "[01时23分 ~ 08时02分]"
         },
         {
-          "title": "情侣用 AI 判断菌子毒性采了 10 余斤，被本地小孩哥筛选只剩 2 斤，AI 和小孩哥谁的判断更准？为啥会有不同？",
-          "url": "https://www.zhihu.com/question/2062587249968129781",
-          "source": "知乎",
-          "ranks": [
-            13,
-            1
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[08时01分 ~ 15时36分]"
-        },
-        {
           "title": "AI“斯普特尼克时刻”！Kimi K3震动硅谷，Stability AI联合创始人：推理成本还有10至50倍下降空间",
           "url": "https://wallstreetcn.com/articles/3777546",
           "source": "华尔街见闻",
@@ -247,6 +281,18 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[05时13分 ~ 07时01分]"
+        },
+        {
+          "title": "两个AI演员比内娱待爆艺人都火",
+          "url": "https://s.weibo.com/weibo?q=%E4%B8%A4%E4%B8%AAAI%E6%BC%94%E5%91%98%E6%AF%94%E5%86%85%E5%A8%B1%E5%BE%85%E7%88%86%E8%89%BA%E4%BA%BA%E9%83%BD%E7%81%AB&t=31&band_rank=13&Refer=top",
+          "source": "微博",
+          "ranks": [
+            13,
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[15时36分 ~ 18时29分]"
         },
         {
           "title": "OpenAI负责人抨击Kimi开源",
@@ -294,6 +340,30 @@
           "is_new": false,
           "appearance_count": 4,
           "time_info": "[08时01分 ~ 15时36分]"
+        },
+        {
+          "title": "AMD AI大会前英伟达秀亮CPU“战果”，Vera Rubin全面量产，超300合作伙伴部署",
+          "url": "https://wallstreetcn.com/articles/3777595",
+          "source": "华尔街见闻",
+          "ranks": [
+            10,
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[15时36分 ~ 18时29分]"
+        },
+        {
+          "title": "史无前例！OpenAI模型“失控”攻入全球最大AI开源社区 中国开源模型参与取证",
+          "url": "https://www.cls.cn/detail/2433554",
+          "source": "财联社热门",
+          "ranks": [
+            13,
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[15时36分 ~ 18时29分]"
         },
         {
           "title": "怎么看谷歌发布了 Gemini 3.6 flash 和 3.5 lite，但是 pro 又缺席？",
@@ -375,6 +445,17 @@
           "time_info": "05时13分"
         },
         {
+          "title": "震惊硅谷！OpenAI模型“失控越狱”，入侵HuggingFace“抄答案”，智谱GLM 5.2临危救场",
+          "url": "https://wallstreetcn.com/articles/3777627",
+          "source": "华尔街见闻",
+          "ranks": [
+            8
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时29分"
+        },
+        {
           "title": "周二（7月21日），美股存储芯片与硬件供应链指数涨11.12%，报213.46点。 成分股闪迪收涨14.27%，西部数据、美光科技、泰瑞达、希捷科技涨12.51%-11.14%紧随其后，应用材料、拉姆研究、Rambus也至少涨4.90%。 美国科技股七巨头（Magnificent 7）指数涨0.12%，报217.46点。 “超大”市值科技股指数涨1.24%，报436.57点。 美股超大规模云服务商（Hyperscalers）跌0.45%，报92.19点。 信息科技指数涨5.98%，报400.79点。 人工智能（AI）赢家指数涨5.99%，报401.39点。 AI软件先驱指数跌1.08%，报108.27点。 北美科技软件股指数ETF跌1.25%，报91.82美元；Global X网络安全ETF跌2.82%，纳斯达克网络安全ETF跌1.32%，ETFMG网络安全ETF跌1.98%",
           "url": "https://wallstreetcn.com/livenews/3137752",
           "source": "华尔街见闻-快讯",
@@ -392,7 +473,7 @@
           "ranks": [
             9
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "15时36分"
         },
@@ -414,20 +495,20 @@
           "ranks": [
             9
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "15时36分"
         },
         {
-          "title": "AMD AI大会前英伟达秀亮CPU“战果”，Vera Rubin全面量产，超300合作伙伴部署",
-          "url": "https://wallstreetcn.com/articles/3777595",
-          "source": "华尔街见闻",
+          "title": "580万起拍1504万成交 竞得者获赠黄金",
+          "url": "https://www.baidu.com/s?wd=580%E4%B8%87%E8%B5%B7%E6%8B%8D1504%E4%B8%87%E6%88%90%E4%BA%A4+%E7%AB%9E%E5%BE%97%E8%80%85%E8%8E%B7%E8%B5%A0%E9%BB%84%E9%87%91",
+          "source": "百度热搜",
           "ranks": [
             10
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "15时36分"
+          "time_info": "18时29分"
         },
         {
           "title": "AI交换芯片走到聚光灯下：英伟达发布Spectrum-6 或推动Token生成能力倍增",
@@ -436,7 +517,7 @@
           "ranks": [
             10
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "15时36分"
         },
@@ -447,7 +528,7 @@
           "ranks": [
             10
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "15时36分"
         },
@@ -573,15 +654,15 @@
           "time_info": "01时24分"
         },
         {
-          "title": "史无前例！OpenAI模型“失控”攻入全球最大AI开源社区 中国开源模型参与取证",
-          "url": "https://www.cls.cn/detail/2433554",
-          "source": "财联社热门",
+          "title": "两个AI演员比内娱待爆艺人都火",
+          "url": "https://www.baidu.com/s?wd=%E4%B8%A4%E4%B8%AAAI%E6%BC%94%E5%91%98%E6%AF%94%E5%86%85%E5%A8%B1%E5%BE%85%E7%88%86%E8%89%BA%E4%BA%BA%E9%83%BD%E7%81%AB",
+          "source": "百度热搜",
           "ranks": [
             13
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "15时36分"
+          "time_info": "18时29分"
         },
         {
           "title": "谷歌发布一系列更低成本的Gemini模型",
@@ -595,15 +676,15 @@
           "time_info": "01时24分"
         },
         {
-          "title": "两个AI演员比内娱待爆艺人都火",
-          "url": "https://s.weibo.com/weibo?q=%E4%B8%A4%E4%B8%AAAI%E6%BC%94%E5%91%98%E6%AF%94%E5%86%85%E5%A8%B1%E5%BE%85%E7%88%86%E8%89%BA%E4%BA%BA%E9%83%BD%E7%81%AB&t=31&band_rank=13&Refer=top",
-          "source": "微博",
+          "title": "吧友做梗图催更DeepSeekV4",
+          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28356411&amp;topic_name=%E5%90%A7%E5%8F%8B%E5%81%9A%E6%A2%97%E5%9B%BE%E5%82%AC%E6%9B%B4DeepSeekV4",
+          "source": "贴吧",
           "ranks": [
-            13
+            14
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "15时36分"
+          "time_info": "18时29分"
         },
         {
           "title": "上海黄金交易所黄金T+D 7月21日（周二）晚盘收盘上涨0.87%报889.96元/克；<br/>上海黄金交易所白银T+D 7月21日（周二）晚盘收盘上涨2.19%报14360.0元/千克。",
@@ -656,7 +737,7 @@
           "ranks": [
             17
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "15时36分"
         },
@@ -689,7 +770,7 @@
           "ranks": [
             18
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "15时36分"
         },
@@ -703,6 +784,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "01时24分"
+        },
+        {
+          "title": "高盛：看好金山办公AI智能体产品，但股价估值过高",
+          "url": "https://flash.jin10.com/detail/20260722180817525800",
+          "source": "金十数据",
+          "ranks": [
+            19
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时29分"
         },
         {
           "title": "全球最大白银ETF--iShares Silver Trust持仓较上日减少8.44吨，当前持仓量为15044.45吨。欢迎点击查看数据中心...",
@@ -722,7 +814,7 @@
           "ranks": [
             20
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "15时36分"
         },
@@ -810,7 +902,7 @@
           "ranks": [
             29
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "15时36分"
         }
@@ -818,7 +910,7 @@
     },
     {
       "keyword_group": "伊朗",
-      "match_count": 42,
+      "match_count": 44,
       "titles": [
         {
           "title": "伊朗还有两大杀手锏",
@@ -860,7 +952,7 @@
           "ranks": [
             2
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "15时36分"
         },
@@ -927,7 +1019,7 @@
           "ranks": [
             6
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "15时36分"
         },
@@ -1097,6 +1189,17 @@
           "time_info": "03时28分"
         },
         {
+          "title": "约旦军方称伊朗向该国发射了6枚导弹",
+          "url": "https://wallstreetcn.com/livenews/3138112",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            19
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时29分"
+        },
+        {
           "title": "伊朗外长阿拉格齐与法国外长巴罗通话，伊朗外长阿拉格齐指责法国外交官在德黑兰行为不可接受，并称霍尔木兹海峡局势升级责任在美国。",
           "url": "https://flash.jin10.com/detail/20260722002835074800",
           "source": "金十数据",
@@ -1117,6 +1220,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "03时28分"
+        },
+        {
+          "title": "伊朗总统披露穆杰塔巴近况",
+          "url": "https://s.weibo.com/weibo?q=%23%E4%BC%8A%E6%9C%97%E6%80%BB%E7%BB%9F%E6%8A%AB%E9%9C%B2%E7%A9%86%E6%9D%B0%E5%A1%94%E5%B7%B4%E8%BF%91%E5%86%B5%23&t=31&band_rank=20&Refer=top",
+          "source": "微博",
+          "ranks": [
+            20
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时29分"
         },
         {
           "title": "巴基斯坦政府：巴基斯坦总理会见伊朗内政部长，伊朗内政部长肯定了巴基斯坦方面为促成伊斯兰堡谅解备忘录作出的努力。",
@@ -1213,7 +1327,7 @@
           "ranks": [
             24
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "15时36分"
         },
@@ -1235,7 +1349,7 @@
           "ranks": [
             25
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "15时36分"
         },
@@ -1287,7 +1401,7 @@
     },
     {
       "keyword_group": "特朗普",
-      "match_count": 37,
+      "match_count": 41,
       "titles": [
         {
           "title": "特朗普：可能很快打击伊朗“镐山”核设施",
@@ -1299,6 +1413,17 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[08时01分 ~ 08时02分]"
+        },
+        {
+          "title": "特朗普承认美方干预中国事务，并称“今时不同往日”",
+          "url": "https://news.ifeng.com/c/8uy1V150ZKO",
+          "source": "凤凰网",
+          "ranks": [
+            1
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时29分"
         },
         {
           "title": "核能企业Oklo和X-energy已加入特朗普政府推动的新核反应堆建设计划，旨在加快为人工智能数据中心提供能源支持。",
@@ -1407,6 +1532,17 @@
           "time_info": "[01时23分 ~ 03时28分]"
         },
         {
+          "title": "这条40余年的禁令，被特朗普解除了",
+          "url": "https://news.ifeng.com/c/8uxiWY6YntB",
+          "source": "凤凰网",
+          "ranks": [
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[12时19分 ~ 18时29分]"
+        },
+        {
           "title": "特朗普称将打击伊朗地下核设施 美官员暗示将很快出台新关税 | 环球市场",
           "url": "https://www.cls.cn/detail/2433256",
           "source": "财联社热门",
@@ -1417,17 +1553,6 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[08时01分 ~ 12时19分]"
-        },
-        {
-          "title": "这条40余年的禁令，被特朗普解除了",
-          "url": "https://news.ifeng.com/c/8uxiWY6YntB",
-          "source": "凤凰网",
-          "ranks": [
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[12时19分 ~ 15时36分]"
         },
         {
           "title": "美国总统特朗普下周（一）将前往密歇根州，初选将在那之后举行。（美联社）",
@@ -1492,9 +1617,20 @@
           "ranks": [
             9
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "15时36分"
+        },
+        {
+          "title": "英国国防大臣斯特里廷：美国总统特朗普有权要求欧洲在国防上增加支出。",
+          "url": "https://flash.jin10.com/detail/20260722181049082800",
+          "source": "金十数据",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时29分"
         },
         {
           "title": "特朗普：如果也门胡塞武装封锁红海，美国将采取行动",
@@ -1503,7 +1639,7 @@
           "ranks": [
             12
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "15时36分"
         },
@@ -1517,6 +1653,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "07时01分"
+        },
+        {
+          "title": "金十数据整理：特朗普过去24小时都忙了什么？（2026-07-22）",
+          "url": "https://flash.jin10.com/detail/20260722180952590800",
+          "source": "金十数据",
+          "ranks": [
+            13
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时29分"
         },
         {
           "title": "特朗普：胡塞武装若封锁红海，美国将采取行动",
@@ -1613,9 +1760,20 @@
           "ranks": [
             19
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "15时36分"
+        },
+        {
+          "title": "调查：特朗普“MAGA”群体中，支持伊朗战争的比例下滑13%",
+          "url": "https://flash.jin10.com/detail/20260722180759591800",
+          "source": "金十数据",
+          "ranks": [
+            20
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时29分"
         },
         {
           "title": "特朗普“淡化”与伊朗谈判可能性，并称将在红海航运受威胁时出手",
@@ -1727,11 +1885,12 @@
           "url": "https://wallstreetcn.com/articles/3777518",
           "source": "华尔街见闻",
           "ranks": [
-            1
+            1,
+            2
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[08时01分 ~ 15时36分]"
+          "appearance_count": 5,
+          "time_info": "[08时01分 ~ 18时29分]"
         },
         {
           "title": "全球科技股反弹！纳指涨2%，美股存储芯片指数涨超10%，布油重回90美元上方",
@@ -1766,8 +1925,8 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[12时19分 ~ 15时36分]"
+          "appearance_count": 3,
+          "time_info": "[12时19分 ~ 18时29分]"
         },
         {
           "title": "美股全线高开 闪迪、西部数据均涨超8%",
