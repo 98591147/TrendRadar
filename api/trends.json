@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-07-24T15:34:28.738684+08:00",
-  "total_titles_processed": 1016,
+  "generated_at": "2026-07-24T18:21:39.436144+08:00",
+  "total_titles_processed": 1202,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "DeepSeek Ai 水球泡 谷歌 google gemini 好书推荐 chatgpt openai 白银 金价石油 黄金 热梗",
-      "match_count": 64,
+      "match_count": 72,
       "titles": [
         {
           "title": "谷歌Q2自由现金流首次转负，上调全年资本开支至最高2050亿美元，云业务爆发82%增长｜财报见闻",
@@ -13,18 +13,6 @@
           "source": "华尔街见闻",
           "ranks": [
             1
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[00时38分 ~ 08时03分]"
-        },
-        {
-          "title": "谷歌电话会：警告现金流压力将持续，但\"需求仍超过投资增速\"，Gemini 4已启动训练",
-          "url": "https://wallstreetcn.com/articles/3777723",
-          "source": "华尔街见闻",
-          "ranks": [
-            4,
-            3
           ],
           "is_new": false,
           "appearance_count": 5,
@@ -39,8 +27,20 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[06时07分 ~ 15时34分]"
+          "appearance_count": 5,
+          "time_info": "[06时07分 ~ 18时21分]"
+        },
+        {
+          "title": "谷歌电话会：警告现金流压力将持续，但\"需求仍超过投资增速\"，Gemini 4已启动训练",
+          "url": "https://wallstreetcn.com/articles/3777723",
+          "source": "华尔街见闻",
+          "ranks": [
+            4,
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[00时38分 ~ 08时03分]"
         },
         {
           "title": "油价飙至六周高位，美股指承压收跌，AI基建股盘后大涨，金银再走强",
@@ -83,9 +83,20 @@
           "ranks": [
             2
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "15时34分"
+        },
+        {
+          "title": "全球最大的通用AI机器人公司智元创新表示，公司已启动赴港上市流程",
+          "url": "https://wallstreetcn.com/livenews/3139415",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            3
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时21分"
         },
         {
           "title": "AMD(AMD.O)与Cerebras系统将推出结合AMD Helios GPU服务器机架与Cerebras晶圆级芯片的AI推理方案。",
@@ -108,6 +119,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "12时17分"
+        },
+        {
+          "title": "AI需求火热！英特尔财报会实录：CPU景气周期将延续至2028年",
+          "url": "https://www.cls.cn/detail/2435979",
+          "source": "财联社热门",
+          "ranks": [
+            5
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时21分"
         },
         {
           "title": "美称欧盟对谷歌开罚单及向空客放贷之举有损贸易稳定",
@@ -139,11 +161,12 @@
             18,
             19,
             16,
-            15
+            15,
+            13
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[00时38分 ~ 15时34分]"
+          "appearance_count": 8,
+          "time_info": "[00时38分 ~ 18时21分]"
         },
         {
           "title": "AI每赚1块钱，谷歌花出去2块",
@@ -194,6 +217,18 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[00时38分 ~ 02时15分]"
+        },
+        {
+          "title": "如何看待新晋菲尔兹奖得主 Jacob Tsimerman 颁奖当天宣布加入 OpenAI？",
+          "url": "https://www.zhihu.com/question/2063832242242184073",
+          "source": "知乎",
+          "ranks": [
+            17,
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[15时34分 ~ 18时21分]"
         },
         {
           "title": "谷歌云CEO：随着云业务表现远超预期，客户支出激增50%",
@@ -278,11 +313,24 @@
           "url": "https://wallstreetcn.com/articles/3777819",
           "source": "华尔街见闻",
           "ranks": [
-            6
+            6,
+            8
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[12时17分 ~ 15时34分]"
+          "appearance_count": 3,
+          "time_info": "[12时17分 ~ 18时21分]"
+        },
+        {
+          "title": "男子用 AI 伪造水果腐烂照片，恶意仅退款百余次套现，被判诈骗罪，当地也被平台标记高风险，如何看待此事？",
+          "url": "https://www.zhihu.com/question/2063396759536154240",
+          "source": "知乎",
+          "ranks": [
+            8,
+            12
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[12时17分 ~ 18时21分]"
         },
         {
           "title": "又两家PCB大厂公告！百亿投资能买回一张AI“船票”吗",
@@ -309,16 +357,15 @@
           "time_info": "[00时38分 ~ 02时15分]"
         },
         {
-          "title": "男子用 AI 伪造水果腐烂照片，恶意仅退款百余次套现，被判诈骗罪，当地也被平台标记高风险，如何看待此事？",
-          "url": "https://www.zhihu.com/question/2063396759536154240",
+          "title": "金价连涨四天，现货黄金重回 4100 美元，深圳水贝挤满购金人，如何看待黄金当下行情？",
+          "url": "https://www.zhihu.com/question/2063412432022901058",
           "source": "知乎",
           "ranks": [
-            8,
-            12
+            20
           ],
           "is_new": false,
           "appearance_count": 2,
-          "time_info": "[12时17分 ~ 15时34分]"
+          "time_info": "[15时34分 ~ 18时21分]"
         },
         {
           "title": "OpenAI总裁布罗克曼表示，目标始终是为用户需要完成的一切任务提供最便宜模型。",
@@ -352,6 +399,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "08时03分"
+        },
+        {
+          "title": "马斯克最新访谈：AI可能灭绝人类，但就像一枚20%概率会爆炸的火箭，我还是会坐上去享受旅程！",
+          "url": "https://wallstreetcn.com/articles/3777836",
+          "source": "华尔街见闻",
+          "ranks": [
+            9
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时21分"
         },
         {
           "title": "中国AI大反超，美国还能挡多久？",
@@ -420,6 +478,17 @@
           "time_info": "02时15分"
         },
         {
+          "title": "亚马逊升级Alexa+AI助手，新增多项智能代理功能",
+          "url": "https://wallstreetcn.com/livenews/3139397",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            11
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时21分"
+        },
+        {
           "title": "如何评价《白银之城》二测体验？",
           "url": "https://www.zhihu.com/question/2063652031517218535",
           "source": "知乎",
@@ -459,9 +528,31 @@
           "ranks": [
             16
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "15时34分"
+        },
+        {
+          "title": "DeepSeek纠结了10秒还是决定谄媚",
+          "url": "https://s.weibo.com/weibo?q=DeepSeek%E7%BA%A0%E7%BB%93%E4%BA%8610%E7%A7%92%E8%BF%98%E6%98%AF%E5%86%B3%E5%AE%9A%E8%B0%84%E5%AA%9A&t=31&band_rank=16&Refer=top",
+          "source": "微博",
+          "ranks": [
+            16
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时21分"
+        },
+        {
+          "title": "新闻蒸馏器｜OpenAI模型失控事件后，美国两党议员推动“AI终止开关法案”",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33650370",
+          "source": "澎湃新闻",
+          "ranks": [
+            17
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时21分"
         },
         {
           "title": "韩国股市黄金时代的47天",
@@ -470,7 +561,7 @@
           "ranks": [
             17
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "15时34分"
         },
@@ -484,17 +575,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "04时15分"
-        },
-        {
-          "title": "如何看待新晋菲尔兹奖得主 Jacob Tsimerman 颁奖当天宣布加入 OpenAI？",
-          "url": "https://www.zhihu.com/question/2063832242242184073",
-          "source": "知乎",
-          "ranks": [
-            17
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "15时34分"
         },
         {
           "title": "报道：印度白银进口因新许可证制度受阻而大幅下滑",
@@ -514,7 +594,7 @@
           "ranks": [
             18
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "15时34分"
         },
@@ -536,7 +616,7 @@
           "ranks": [
             20
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "15时34分"
         },
@@ -550,17 +630,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "02时15分"
-        },
-        {
-          "title": "金价连涨四天，现货黄金重回 4100 美元，深圳水贝挤满购金人，如何看待黄金当下行情？",
-          "url": "https://www.zhihu.com/question/2063412432022901058",
-          "source": "知乎",
-          "ranks": [
-            20
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "15时34分"
         },
         {
           "title": "OpenAI总裁兼联合创始人Brockman：很高兴欢迎Jacob Tsimerman（2026年菲尔兹奖得主）加入团队！",
@@ -651,6 +720,17 @@
           "time_info": "12时17分"
         },
         {
+          "title": "为什么美元石油黄金一起涨",
+          "url": "https://www.toutiao.com/trending/7665964732095925779/",
+          "source": "今日头条",
+          "ranks": [
+            24
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时21分"
+        },
+        {
           "title": "OpenAI预计将大规模部署AMD Helios。",
           "url": "https://flash.jin10.com/detail/20260724010730197800",
           "source": "金十数据",
@@ -684,13 +764,24 @@
           "time_info": "02时15分"
         },
         {
+          "title": "欧洲央行调查76家企业：AI投资升温，但制造业仍在寻找“出路”",
+          "url": "https://flash.jin10.com/detail/20260724175007668800",
+          "source": "金十数据",
+          "ranks": [
+            25
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时21分"
+        },
+        {
           "title": "【小鹏人形机器人正小批量试生产，量产产线进入最后联调阶段】小鹏人形机器人已在广州工厂正式开启小批量试生产，同时量产产线进入最后联调阶段，量产冲刺正式进入倒计时。此前，小鹏集团内部召开机器人量产动员大会，明确了关键时间节点：2026年实现人形机器人量产，预计2027年起将陆续进驻全球小鹏门店及商业场景，承担导购、讲解等服务。据悉，小鹏机器人业务整合集团在硬件、AI大模型、供应链及营销等模块能力，并将汽车业务积累的软硬件协同研发、智能制造与全球化渠道经验，系统性地复用于机器人领域，加速高阶人形机器人的量产与商业化进程。（新浪科技）",
           "url": "https://wallstreetcn.com/livenews/3139267",
           "source": "华尔街见闻-快讯",
           "ranks": [
             25
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "15时34分"
         },
@@ -701,7 +792,7 @@
           "ranks": [
             26
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "15时34分"
         },
@@ -742,7 +833,7 @@
     },
     {
       "keyword_group": "伊朗",
-      "match_count": 37,
+      "match_count": 39,
       "titles": [
         {
           "title": "据德黑兰时报：英国外交人员撤离德黑兰是美方施压伊朗的“心理战”。德国大使认为，因为英国把伊朗革命卫队列为威胁后，伊朗可能会驱逐英国外交官，所以英国提前撤离人员避免被动。",
@@ -811,6 +902,18 @@
           "time_info": "08时03分"
         },
         {
+          "title": "伊朗公布美军近期袭击伤亡数据",
+          "url": "https://news.ifeng.com/c/8v0yEqjepG6",
+          "source": "凤凰网",
+          "ranks": [
+            5,
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[12时17分 ~ 18时21分]"
+        },
+        {
           "title": "【以军举行紧急局势安全评估会议，防长称已为应对伊朗局势做好“全方位准备”】当地时间23日，据以色列方面消息，以色列国防部长卡茨当天表示，鉴于当前与伊朗的紧张局势不断升级，以色列方面目前已为“所有可能发生的情况”做好了准备。 据称，卡茨当天召集以军总参谋长扎米尔及多名军方高级官员，在国防部总部举行了紧急局势安全评估会议。卡茨在会议结束时向伊朗方面发出了严厉警告。他宣称，如果伊朗选择对以色列发动任何形式的袭击，“都将承受来自以方的毁灭性打击”。（央视）",
           "url": "https://wallstreetcn.com/livenews/3139021",
           "source": "华尔街见闻-快讯",
@@ -821,18 +924,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[02时15分 ~ 04时15分]"
-        },
-        {
-          "title": "伊朗公布美军近期袭击伤亡数据",
-          "url": "https://news.ifeng.com/c/8v0yEqjepG6",
-          "source": "凤凰网",
-          "ranks": [
-            5,
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[12时17分 ~ 15时34分]"
         },
         {
           "title": "伊朗称袭击美国亚马逊公司在巴林的数据基础设施，这个地方有多重要？将造成哪些影响？",
@@ -925,6 +1016,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "04时15分"
+        },
+        {
+          "title": "伊拉克否认替美向伊朗转交停火提议",
+          "url": "https://wallstreetcn.com/livenews/3139400",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            9
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时21分"
         },
         {
           "title": "伊朗、胡塞武装：已做好应战准备",
@@ -1114,6 +1216,17 @@
           "time_info": "04时15分"
         },
         {
+          "title": "美国将用伊朗资金“赔偿”遭袭船只",
+          "url": "https://www.toutiao.com/trending/7665110482323308585/",
+          "source": "今日头条",
+          "ranks": [
+            25
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时21分"
+        },
+        {
           "title": "伊拉克总理访德黑兰期间，伊朗与伊拉克签署多项谅解备忘录",
           "url": "https://wallstreetcn.com/livenews/3138971",
           "source": "华尔街见闻-快讯",
@@ -1142,7 +1255,7 @@
           "ranks": [
             29
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "15时34分"
         },
@@ -1161,7 +1274,7 @@
     },
     {
       "keyword_group": "特朗普",
-      "match_count": 25,
+      "match_count": 26,
       "titles": [
         {
           "title": "特朗普：我们与伊朗只是小规模冲突",
@@ -1182,8 +1295,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[12时17分 ~ 15时34分]"
+          "appearance_count": 3,
+          "time_info": "[12时17分 ~ 18时21分]"
         },
         {
           "title": "美国总统特朗普提名的美国消费者金融保护局负责人表示，将对裁减该机构大部分员工的计划“保持开放态度”。",
@@ -1195,6 +1308,21 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "00时38分"
+        },
+        {
+          "title": "伊拉克与科威特边境口岸遭伊朗打击，特朗普：若再袭沙特船只，美国将施以“重大军事惩罚”",
+          "url": "https://wallstreetcn.com/articles/3777791",
+          "source": "华尔街见闻",
+          "ranks": [
+            10,
+            8,
+            7,
+            5,
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 7,
+          "time_info": "[02时15分 ~ 18时21分]"
         },
         {
           "title": "美国司法部在总统特朗普飞机调查中撤销针对纽约时报的传唤。",
@@ -1219,20 +1347,6 @@
           "time_info": "08时03分"
         },
         {
-          "title": "伊拉克与科威特边境口岸遭伊朗打击，特朗普：若再袭沙特船只，美国将施以“重大军事惩罚”",
-          "url": "https://wallstreetcn.com/articles/3777791",
-          "source": "华尔街见闻",
-          "ranks": [
-            10,
-            8,
-            7,
-            5
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[02时15分 ~ 15时34分]"
-        },
-        {
           "title": "委内瑞拉石油多着呢！特朗普：我们才不需要霍尔木兹海峡",
           "url": "https://m.thepaper.cn/newsDetail_forward_33643805",
           "source": "澎湃新闻",
@@ -1247,15 +1361,16 @@
           "time_info": "[00时38分 ~ 15时34分]"
         },
         {
-          "title": "特朗普放话美国不需要霍尔木兹、伊朗袭一船就炸一桥或电厂，伊警告报复美利益设施、“谁都别想卖油”",
-          "url": "https://wallstreetcn.com/articles/3777708",
+          "title": "油价破百！胡塞武装开辟“红海战场”，特朗普权衡“更大规模战争”，乌克兰也来“火上浇油”",
+          "url": "https://wallstreetcn.com/articles/3777830",
           "source": "华尔街见闻",
           "ranks": [
-            7
+            8,
+            5
           ],
           "is_new": false,
           "appearance_count": 2,
-          "time_info": "[00时38分 ~ 02时15分]"
+          "time_info": "[15时34分 ~ 18时21分]"
         },
         {
           "title": "美国会要让特朗普“踩刹车”，众院通过议案要求停止对伊朗军事行动",
@@ -1266,8 +1381,19 @@
             9
           ],
           "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[12时17分 ~ 18时21分]"
+        },
+        {
+          "title": "特朗普放话美国不需要霍尔木兹、伊朗袭一船就炸一桥或电厂，伊警告报复美利益设施、“谁都别想卖油”",
+          "url": "https://wallstreetcn.com/articles/3777708",
+          "source": "华尔街见闻",
+          "ranks": [
+            7
+          ],
+          "is_new": false,
           "appearance_count": 2,
-          "time_info": "[12时17分 ~ 15时34分]"
+          "time_info": "[00时38分 ~ 02时15分]"
         },
         {
           "title": "特朗普称将用被冻结的伊朗资金赔偿船只及货物损失 | 环球市场",
@@ -1293,17 +1419,6 @@
           "time_info": "04时15分"
         },
         {
-          "title": "油价破百！胡塞武装开辟“红海战场”，特朗普权衡“更大规模战争”，乌克兰也来“火上浇油”",
-          "url": "https://wallstreetcn.com/articles/3777830",
-          "source": "华尔街见闻",
-          "ranks": [
-            8
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "15时34分"
-        },
-        {
           "title": "加拿大总理卡尼：如果到8月19日（特朗普关税生效日）仍然无法与美国达成贸易协议，一切都是可能的。",
           "url": "https://wallstreetcn.com/livenews/3139040",
           "source": "华尔街见闻-快讯",
@@ -1313,6 +1428,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "04时15分"
+        },
+        {
+          "title": "金十数据整理：特朗普过去24小时都忙了什么？（2026-07-24）",
+          "url": "https://flash.jin10.com/detail/20260724180204955800",
+          "source": "金十数据",
+          "ranks": [
+            11
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时21分"
         },
         {
           "title": "伊朗驻古巴大使馆针对特朗普的指控和夸张言论，在其X账号上发布了一张图片，并表示，特朗普的言论和推文毫无价值，甚至可以用来当厕纸。",
@@ -1387,7 +1513,7 @@
           "ranks": [
             17
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "15时34分"
         },
@@ -1450,8 +1576,19 @@
     },
     {
       "keyword_group": "美股",
-      "match_count": 10,
+      "match_count": 11,
       "titles": [
+        {
+          "title": "“关税战”来最惨的1天！美股“科技龙头”Mag 7单日市值蒸发近8000亿美元",
+          "url": "https://wallstreetcn.com/articles/3777828",
+          "source": "华尔街见闻",
+          "ranks": [
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[12时17分 ~ 18时21分]"
+        },
         {
           "title": "美股收盘：七巨头齐跌特斯拉重挫14% 纳指降2%布油站上100美元",
           "url": "https://www.cls.cn/detail/2435694",
@@ -1463,17 +1600,6 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[08时03分 ~ 15时34分]"
-        },
-        {
-          "title": "“关税战”来最惨的1天！美股“科技龙头”Mag 7单日市值蒸发近8000亿美元",
-          "url": "https://wallstreetcn.com/articles/3777828",
-          "source": "华尔街见闻",
-          "ranks": [
-            4
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[12时17分 ~ 15时34分]"
         },
         {
           "title": "美股",
@@ -1499,6 +1625,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "06时07分"
+        },
+        {
+          "title": "15个月来最惨烈一天：美股“七巨头”单日市值蒸发约8000亿美元",
+          "url": "https://www.cls.cn/detail/2435936",
+          "source": "财联社热门",
+          "ranks": [
+            11
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时21分"
         },
         {
           "title": "美股七巨头齐跌 特斯拉重挫14%",
