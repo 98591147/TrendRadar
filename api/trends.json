@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-07-27T20:27:39.901859+08:00",
-  "total_titles_processed": 1166,
+  "generated_at": "2026-07-27T23:44:34.879740+08:00",
+  "total_titles_processed": 1330,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "伊朗",
-      "match_count": 65,
+      "match_count": 69,
       "titles": [
         {
           "title": "伊朗革命卫队披露美军死亡人数",
@@ -54,6 +54,18 @@
           "time_info": "[01时05分 ~ 06时08分]"
         },
         {
+          "title": "伊朗外交部回应商船遇袭：要求追究乌克兰政府支持者责任",
+          "url": "https://news.ifeng.com/c/8v6QrUZwqR8",
+          "source": "凤凰网",
+          "ranks": [
+            5,
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[20时27分 ~ 23时44分]"
+        },
+        {
           "title": "伊朗外交部发言人巴加埃：伊朗与美国之间的信息交流以及调解人的活动仍在继续。",
           "url": "https://flash.jin10.com/detail/20260727030445297800",
           "source": "金十数据",
@@ -93,20 +105,20 @@
           "ranks": [
             4
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "20时27分"
         },
         {
-          "title": "伊朗外交部回应商船遇袭：要求追究乌克兰政府支持者责任",
-          "url": "https://news.ifeng.com/c/8v6QrUZwqR8",
+          "title": "事关美国军机部署，伊朗第3次警告保加利亚",
+          "url": "https://news.ifeng.com/c/8v6pJifxdFC",
           "source": "凤凰网",
           "ranks": [
             5
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "20时27分"
+          "time_info": "23时44分"
         },
         {
           "title": "据美联社：美国五角大楼官方公布的伊朗战争死亡人数中，不再包含在近期战斗中丧生的4名美军士兵，他们与207名伤员一同被归入新的“海外行动”类别。",
@@ -154,6 +166,19 @@
           "time_info": "[01时05分 ~ 06时08分]"
         },
         {
+          "title": "美伊暂停互袭的背后：伊朗称就霍尔木兹海峡航运管理与阿曼会谈有进展，美军弹药吃紧",
+          "url": "https://wallstreetcn.com/articles/3777973",
+          "source": "华尔街见闻",
+          "ranks": [
+            7,
+            6,
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[12时38分 ~ 23时44分]"
+        },
+        {
           "title": "俄罗斯外交部：阿拉格齐向拉夫罗夫通报了当前为缓和因美国袭击伊朗而引发的中东紧张局势所开展的外交努力。",
           "url": "https://flash.jin10.com/detail/20260727003153619800",
           "source": "金十数据",
@@ -188,19 +213,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[01时05分 ~ 03时15分]"
-        },
-        {
-          "title": "美伊暂停互袭的背后：伊朗称就霍尔木兹海峡航运管理与阿曼会谈有进展，美军弹药吃紧",
-          "url": "https://wallstreetcn.com/articles/3777973",
-          "source": "华尔街见闻",
-          "ranks": [
-            7,
-            6,
-            5
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[12时38分 ~ 20时27分]"
         },
         {
           "title": "伊朗革命卫队胡齐斯坦省指挥官：美军在中东地区的基地有超过288个目标被摧毁。",
@@ -239,6 +251,20 @@
           "is_new": false,
           "appearance_count": 4,
           "time_info": "[01时05分 ~ 06时08分]"
+        },
+        {
+          "title": "内塔尼亚胡：伊朗政权倒台，战争才会结束",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33664858",
+          "source": "澎湃新闻",
+          "ranks": [
+            19,
+            17,
+            9,
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[12时38分 ~ 23时44分]"
         },
         {
           "title": "伊朗称就霍尔木兹海峡航运管理与阿曼会谈有进展",
@@ -282,19 +308,6 @@
           "source": "凤凰网",
           "ranks": [
             8
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[12时38分 ~ 20时27分]"
-        },
-        {
-          "title": "内塔尼亚胡：伊朗政权倒台，战争才会结束",
-          "url": "https://m.thepaper.cn/newsDetail_forward_33664858",
-          "source": "澎湃新闻",
-          "ranks": [
-            19,
-            17,
-            9
           ],
           "is_new": false,
           "appearance_count": 3,
@@ -365,7 +378,7 @@
           "ranks": [
             7
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "20时27分"
         },
@@ -379,6 +392,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "16时34分"
+        },
+        {
+          "title": "对伊朗停火，美国这次是“不打了”还是“打不了”？",
+          "url": "https://news.ifeng.com/c/8v6m9Pp9uJ2",
+          "source": "凤凰网",
+          "ranks": [
+            8
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时44分"
         },
         {
           "title": "伊朗称与阿曼就霍尔木兹海峡进行的会谈与美国无关",
@@ -513,6 +537,17 @@
           "time_info": "03时15分"
         },
         {
+          "title": "伊朗议会议员哈兹里安：从法律角度来看，阿曼无法在未与伊朗协调的情况下开放霍尔木兹海峡。",
+          "url": "https://flash.jin10.com/detail/20260727224406834800",
+          "source": "金十数据",
+          "ranks": [
+            15
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时44分"
+        },
+        {
           "title": "伊朗能源部长在谈及可再生能源发展时表示，上周已有70兆瓦的太阳能发电项目投入运行；本周还将有约100兆瓦的太阳能发电项目投入运行，且这一进程将持续进行。",
           "url": "https://flash.jin10.com/detail/20260726233459980800",
           "source": "金十数据",
@@ -541,7 +576,7 @@
           "ranks": [
             19
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "20时27分"
         },
@@ -596,7 +631,7 @@
           "ranks": [
             22
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "20时27分"
         },
@@ -621,6 +656,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "16时34分"
+        },
+        {
+          "title": "对伊朗停火 美国是不打了还是打不了",
+          "url": "https://www.baidu.com/s?wd=%E5%AF%B9%E4%BC%8A%E6%9C%97%E5%81%9C%E7%81%AB+%E7%BE%8E%E5%9B%BD%E6%98%AF%E4%B8%8D%E6%89%93%E4%BA%86%E8%BF%98%E6%98%AF%E6%89%93%E4%B8%8D%E4%BA%86",
+          "source": "百度热搜",
+          "ranks": [
+            23
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时44分"
         },
         {
           "title": "伊朗称超288个美军在中东基地目标于近期冲突中遭打击",
@@ -662,7 +708,7 @@
           "ranks": [
             24
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "20时27分"
         },
@@ -747,7 +793,7 @@
     },
     {
       "keyword_group": "DeepSeek Ai 水球泡 谷歌 google gemini 好书推荐 chatgpt openai 白银 金价石油 黄金 热梗",
-      "match_count": 51,
+      "match_count": 66,
       "titles": [
         {
           "title": "【早报】美股芯片股重挫；油价跳水、黄金微涨；视网膜芯片获准在欧上市；宁德时代抛出A股史上最大规模回购方案",
@@ -768,11 +814,24 @@
             3,
             8,
             13,
-            15
+            15,
+            17
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[01时05分 ~ 20时27分]"
+          "appearance_count": 9,
+          "time_info": "[01时05分 ~ 23时44分]"
+        },
+        {
+          "title": "全世界都在 ALL in AI ，AI 真的是第四次工业革命吗？人类的科技树是否点错了？",
+          "url": "https://www.zhihu.com/question/2052464126996353859",
+          "source": "知乎",
+          "ranks": [
+            4,
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[20时27分 ~ 23时44分]"
         },
         {
           "title": "OpenAI模型失控始末曝光，Hugging Face“索赔”1亿美元算力",
@@ -785,6 +844,28 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[12时38分 ~ 16时34分]"
+        },
+        {
+          "title": "Kimi AI：发布 Kimi K3的模型权重和技术报告。Kimi K3是我们目前能力最强的模型，这款模型拥有2.8万亿参数的 MoE（混合专家）模型，具备原生视觉理解能力，并支持100万 Token上下文窗口。",
+          "url": "https://flash.jin10.com/detail/20260727231719610800",
+          "source": "金十数据",
+          "ranks": [
+            1
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时44分"
+        },
+        {
+          "title": "各个行业被AI取代的概率",
+          "url": "https://s.weibo.com/weibo?q=%E5%90%84%E4%B8%AA%E8%A1%8C%E4%B8%9A%E8%A2%ABAI%E5%8F%96%E4%BB%A3%E7%9A%84%E6%A6%82%E7%8E%87&t=31&band_rank=1&Refer=top",
+          "source": "微博",
+          "ranks": [
+            1
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时44分"
         },
         {
           "title": "不要长期向AI倾泻心事",
@@ -807,7 +888,7 @@
           "ranks": [
             2
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "20时27分"
         },
@@ -823,26 +904,26 @@
           "time_info": "12时38分"
         },
         {
-          "title": "AI挤占DRAM颗粒供应 又一模组厂预警“无货可卖”风险",
-          "url": "https://www.cls.cn/detail/2437715",
-          "source": "财联社热门",
+          "title": "英伟达在OpenAI联合创始人伊利亚·苏茨克沃的安全超级智能项目中投资达数十亿美元。（The Information）",
+          "url": "https://wallstreetcn.com/livenews/3140408",
+          "source": "华尔街见闻-快讯",
           "ranks": [
             4
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "20时27分"
+          "time_info": "23时44分"
         },
         {
-          "title": "全世界都在 ALL in AI ，AI 真的是第四次工业革命吗？人类的科技树是否点错了？",
-          "url": "https://www.zhihu.com/question/2052464126996353859",
-          "source": "知乎",
+          "title": "据The Information：英伟达在OpenAI联合创始人伊利亚·苏茨克沃的安全超级智能项目中投资达数十亿美元。",
+          "url": "https://flash.jin10.com/detail/20260727230812803800",
+          "source": "金十数据",
           "ranks": [
-            4
+            5
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "20时27分"
+          "time_info": "23时44分"
         },
         {
           "title": "谁还没跳ACAI拖拉机舞",
@@ -885,6 +966,32 @@
           "time_info": "[05时01分 ~ 06时08分]"
         },
         {
+          "title": "AI挤占DRAM颗粒供应 又一模组厂预警“无货可卖”风险",
+          "url": "https://www.cls.cn/detail/2437715",
+          "source": "财联社热门",
+          "ranks": [
+            4,
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[20时27分 ~ 23时44分]"
+        },
+        {
+          "title": "OpenAI失控入侵,遭索赔1亿算力",
+          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28356534&amp;topic_name=OpenAI%E5%A4%B1%E6%8E%A7%E5%85%A5%E4%BE%B5%2C%E9%81%AD%E7%B4%A2%E8%B5%941%E4%BA%BF%E7%AE%97%E5%8A%9B",
+          "source": "贴吧",
+          "ranks": [
+            4,
+            9,
+            11,
+            12
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[12时38分 ~ 23时44分]"
+        },
+        {
           "title": "OpenAI失控AI内幕曝光：越狱一周才被发现 还有智能体曾留下“逃脱秘籍”",
           "url": "https://www.cls.cn/detail/2437261",
           "source": "财联社热门",
@@ -907,19 +1014,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[01时05分 ~ 03时15分]"
-        },
-        {
-          "title": "OpenAI失控入侵,遭索赔1亿算力",
-          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28356534&amp;topic_name=OpenAI%E5%A4%B1%E6%8E%A7%E5%85%A5%E4%BE%B5%2C%E9%81%AD%E7%B4%A2%E8%B5%941%E4%BA%BF%E7%AE%97%E5%8A%9B",
-          "source": "贴吧",
-          "ranks": [
-            4,
-            9,
-            11
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[12时38分 ~ 20时27分]"
         },
         {
           "title": "AI还要跌多久",
@@ -997,6 +1091,19 @@
           "time_info": "[03时15分 ~ 08时03分]"
         },
         {
+          "title": "黄金，在等待什么？",
+          "url": "https://wallstreetcn.com/articles/3777972",
+          "source": "华尔街见闻",
+          "ranks": [
+            9,
+            8,
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[16时34分 ~ 23时44分]"
+        },
+        {
           "title": "如何看待米哈游创始人「蔡浩宇」海外团队 AI 产品 AnuNeko 突然宣布永久停运？",
           "url": "https://www.zhihu.com/question/2064803992841069459",
           "source": "知乎",
@@ -1032,18 +1139,6 @@
           "time_info": "[05时01分 ~ 06时08分]"
         },
         {
-          "title": "黄金，在等待什么？",
-          "url": "https://wallstreetcn.com/articles/3777972",
-          "source": "华尔街见闻",
-          "ranks": [
-            9,
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[16时34分 ~ 20时27分]"
-        },
-        {
           "title": "特朗普在社交平台上发布了一张飞机袭击哈尔克岛的AI图片。",
           "url": "https://flash.jin10.com/detail/20260727034241267800",
           "source": "金十数据",
@@ -1054,6 +1149,42 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[05时01分 ~ 06时08分]"
+        },
+        {
+          "title": "美银8月市场预测：股市历来不妙，美元和黄金将“迎东风”！",
+          "url": "https://www.cls.cn/detail/2437764",
+          "source": "财联社热门",
+          "ranks": [
+            9,
+            11
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[20时27分 ~ 23时44分]"
+        },
+        {
+          "title": "虞书欣疑似被AI融脸和声音",
+          "url": "https://s.weibo.com/weibo?q=%23%E8%99%9E%E4%B9%A6%E6%AC%A3%E7%96%91%E4%BC%BC%E8%A2%ABAI%E8%9E%8D%E8%84%B8%E5%92%8C%E5%A3%B0%E9%9F%B3%23&t=31&band_rank=11&Refer=top",
+          "source": "微博",
+          "ranks": [
+            11,
+            13
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[20时27分 ~ 23时44分]"
+        },
+        {
+          "title": "全网厌恶AI脸，但这个被裁掉的女孩绕过了“恐怖谷”",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33662866",
+          "source": "澎湃新闻",
+          "ranks": [
+            18,
+            16
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[20时27分 ~ 23时44分]"
         },
         {
           "title": "知情人士称，英伟达正就为OpenAI俄亥俄州数据中心项目提供约2500亿美元财务担保进行谈判。（华尔街日报）",
@@ -1067,15 +1198,26 @@
           "time_info": "08时03分"
         },
         {
-          "title": "美银8月市场预测：股市历来不妙，美元和黄金将“迎东风”！",
-          "url": "https://www.cls.cn/detail/2437764",
-          "source": "财联社热门",
+          "title": "DeepSeek说他先去吃饭了",
+          "url": "https://s.weibo.com/weibo?q=DeepSeek%E8%AF%B4%E4%BB%96%E5%85%88%E5%8E%BB%E5%90%83%E9%A5%AD%E4%BA%86&t=31&band_rank=7&Refer=top",
+          "source": "微博",
+          "ranks": [
+            7
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时44分"
+        },
+        {
+          "title": "花40亿token做出AI督学官",
+          "url": "https://search.bilibili.com/all?keyword=%E8%8A%B140%E4%BA%BFtoken%E5%81%9A%E5%87%BAAI%E7%9D%A3%E5%AD%A6%E5%AE%98",
+          "source": "bilibili 热搜",
           "ranks": [
             9
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "20时27分"
+          "time_info": "23时44分"
         },
         {
           "title": "OpenAI：出现影响ChatGPT的较高错误率。已实施缓解措施，并在监控ChatGPT的恢复情况。",
@@ -1111,17 +1253,6 @@
           "time_info": "08时03分"
         },
         {
-          "title": "虞书欣疑似被AI融脸和声音",
-          "url": "https://s.weibo.com/weibo?q=%23%E8%99%9E%E4%B9%A6%E6%AC%A3%E7%96%91%E4%BC%BC%E8%A2%ABAI%E8%9E%8D%E8%84%B8%E5%92%8C%E5%A3%B0%E9%9F%B3%23&t=31&band_rank=11&Refer=top",
-          "source": "微博",
-          "ranks": [
-            11
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "20时27分"
-        },
-        {
           "title": "据华尔街日报：知情人士称，英伟达(NVDA.O)正就为OpenAI俄亥俄州数据中心项目提供约2500亿美元财务担保进行谈判。",
           "url": "https://flash.jin10.com/detail/20260727072121648800",
           "source": "金十数据",
@@ -1150,7 +1281,7 @@
           "ranks": [
             13
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "20时27分"
         },
@@ -1199,6 +1330,17 @@
           "time_info": "12时38分"
         },
         {
+          "title": "特朗普连发数十张AI图遭吐槽",
+          "url": "https://www.douyin.com/hot/2586656",
+          "source": "抖音",
+          "ranks": [
+            16
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时44分"
+        },
+        {
           "title": "北航副教授用小学知识讲透AI原理",
           "url": "https://s.weibo.com/weibo?q=%E5%8C%97%E8%88%AA%E5%89%AF%E6%95%99%E6%8E%88%E7%94%A8%E5%B0%8F%E5%AD%A6%E7%9F%A5%E8%AF%86%E8%AE%B2%E9%80%8FAI%E5%8E%9F%E7%90%86&t=31&band_rank=17&Refer=top",
           "source": "微博",
@@ -1208,17 +1350,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "12时38分"
-        },
-        {
-          "title": "全网厌恶AI脸，但这个被裁掉的女孩绕过了“恐怖谷”",
-          "url": "https://m.thepaper.cn/newsDetail_forward_33662866",
-          "source": "澎湃新闻",
-          "ranks": [
-            18
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "20时27分"
         },
         {
           "title": "金十图示：2026年07月27日（周一）白银ETF持仓报告",
@@ -1238,7 +1369,7 @@
           "ranks": [
             18
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "20时27分"
         },
@@ -1265,15 +1396,37 @@
           "time_info": "12时38分"
         },
         {
+          "title": "OpenAI的CEO Altman将与美国高级官员们预览众多新款模型。（CNBC）",
+          "url": "https://wallstreetcn.com/livenews/3140389",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            19
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时44分"
+        },
+        {
           "title": "用AI把这一秒过火做成民国解密游戏",
           "url": "https://s.weibo.com/weibo?q=%23%E7%94%A8AI%E6%8A%8A%E8%BF%99%E4%B8%80%E7%A7%92%E8%BF%87%E7%81%AB%E5%81%9A%E6%88%90%E6%B0%91%E5%9B%BD%E8%A7%A3%E5%AF%86%E6%B8%B8%E6%88%8F%23&t=31&band_rank=19&Refer=top",
           "source": "微博",
           "ranks": [
             19
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "20时27分"
+        },
+        {
+          "title": "Anthropic 刚招了研究王阳明的哲学教授，你觉得其他 AI 公司会跟进吗？",
+          "url": "https://www.zhihu.com/question/2058547288499119870",
+          "source": "知乎",
+          "ranks": [
+            20
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时44分"
         },
         {
           "title": "美国AI霸权正在被自己人亲手撕碎吗",
@@ -1282,7 +1435,7 @@
           "ranks": [
             21
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "20时27分"
         },
@@ -1293,9 +1446,53 @@
           "ranks": [
             21
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "20时27分"
+        },
+        {
+          "title": "报道：PIMCO“放弃警告”，现在拥抱AI热潮，主导大型交易条款制定",
+          "url": "https://wallstreetcn.com/livenews/3140387",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            21
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时44分"
+        },
+        {
+          "title": "英伟达信用违约保护成本创纪录最大升幅，AI基建交易引发循环融资忧虑",
+          "url": "https://wallstreetcn.com/livenews/3140386",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            22
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时44分"
+        },
+        {
+          "title": "黄金跌不下去了吗",
+          "url": "https://www.toutiao.com/trending/7667152885049724462/",
+          "source": "今日头条",
+          "ranks": [
+            24
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时44分"
+        },
+        {
+          "title": "国内首部AI长片首播",
+          "url": "https://www.baidu.com/s?wd=%E5%9B%BD%E5%86%85%E9%A6%96%E9%83%A8AI%E9%95%BF%E7%89%87%E9%A6%96%E6%92%AD",
+          "source": "百度热搜",
+          "ranks": [
+            25
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时44分"
         },
         {
           "title": "OpenAI宣布在爱尔兰扩张，预计新增250个新岗位",
@@ -1304,7 +1501,7 @@
           "ranks": [
             26
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "20时27分"
         },
@@ -1320,6 +1517,17 @@
           "time_info": "01时05分"
         },
         {
+          "title": "真有人把AI的照片当成自己",
+          "url": "https://s.weibo.com/weibo?q=%E7%9C%9F%E6%9C%89%E4%BA%BA%E6%8A%8AAI%E7%9A%84%E7%85%A7%E7%89%87%E5%BD%93%E6%88%90%E8%87%AA%E5%B7%B1&t=31&band_rank=27&Refer=top",
+          "source": "微博",
+          "ranks": [
+            27
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时44分"
+        },
+        {
           "title": "安徽卫视播AI剧",
           "url": "https://s.weibo.com/weibo?q=%23%E5%AE%89%E5%BE%BD%E5%8D%AB%E8%A7%86%E6%92%ADAI%E5%89%A7%23&t=31&band_rank=29&Refer=top",
           "source": "微博",
@@ -1329,6 +1537,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "12时38分"
+        },
+        {
+          "title": "国务院国资委：将深入推进央企“AI+”专项行动，加快算力基础设施建设",
+          "url": "https://wallstreetcn.com/livenews/3140376",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            30
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时44分"
         },
         {
           "title": "一家三口AI识菇中毒4岁女童进ICU",
@@ -1345,7 +1564,7 @@
     },
     {
       "keyword_group": "特朗普",
-      "match_count": 24,
+      "match_count": 29,
       "titles": [
         {
           "title": "特朗普下令暂停空袭伊朗",
@@ -1406,15 +1625,37 @@
           "time_info": "16时34分"
         },
         {
+          "title": "特朗普：为了谈判，已经决定暂停袭击伊朗",
+          "url": "https://wallstreetcn.com/livenews/3140411",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            1
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时44分"
+        },
+        {
           "title": "3个选项，特朗普举棋未定",
           "url": "https://news.ifeng.com/c/8v6CmboAaqd",
           "source": "凤凰网",
           "ranks": [
             2
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "20时27分"
+        },
+        {
+          "title": "特朗普：伊朗谈判窗口有限，若谈判破裂将重启军事行动",
+          "url": "https://flash.jin10.com/detail/20260727231254381800",
+          "source": "金十数据",
+          "ranks": [
+            2
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时44分"
         },
         {
           "title": "特朗普下令暂停空袭伊朗",
@@ -1426,6 +1667,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "01时05分"
+        },
+        {
+          "title": "特朗普威胁对欧盟加征巨额报复性关税，为何又是“301调查”？",
+          "url": "https://news.ifeng.com/c/8v6of60c6nV",
+          "source": "凤凰网",
+          "ranks": [
+            4
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时44分"
         },
         {
           "title": "特朗普叫停对伊朗空袭 为霍尔木兹海峡谈判留出空间",
@@ -1538,13 +1790,35 @@
           "time_info": "[05时01分 ~ 06时08分]"
         },
         {
+          "title": "美时政评论员：特朗普不希望赖清德搞“抗中保台”",
+          "url": "https://news.ifeng.com/c/8v6kAaPHBHd",
+          "source": "凤凰网",
+          "ranks": [
+            6
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时44分"
+        },
+        {
+          "title": "据以色列第12频道：美国总统特朗普表示，他不会在谈判上花费太多时间；如果谈判失败，他将依靠强有力的军事措施。",
+          "url": "https://flash.jin10.com/detail/20260727230622433800",
+          "source": "金十数据",
+          "ranks": [
+            6
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时44分"
+        },
+        {
           "title": "克里姆林宫发言人佩斯科夫：普京即将举行的会谈不会涉及特朗普，但仍具有重要意义。",
           "url": "https://flash.jin10.com/detail/20260727194347581800",
           "source": "金十数据",
           "ranks": [
             8
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "20时27分"
         },
@@ -1566,7 +1840,7 @@
           "ranks": [
             11
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "20时27分"
         },
@@ -1577,7 +1851,7 @@
           "ranks": [
             15
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "20时27分"
         },
@@ -1621,7 +1895,7 @@
           "ranks": [
             27
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "20时27分"
         }
@@ -1629,7 +1903,7 @@
     },
     {
       "keyword_group": "美股",
-      "match_count": 4,
+      "match_count": 8,
       "titles": [
         {
           "title": "美股石油股盘前走低，雪佛龙(CVX.N)盘前下跌2.7%，埃克森美孚石油(XOM.N)下跌2.9%，康菲石油(COP.N)下跌3.2%。",
@@ -1643,6 +1917,17 @@
           "time_info": "16时34分"
         },
         {
+          "title": "美股高开低走，存储大跌、阿斯麦跌8%自动停牌，布油一度大跌7%、债市走强",
+          "url": "https://wallstreetcn.com/articles/3777993",
+          "source": "华尔街见闻",
+          "ranks": [
+            4
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时44分"
+        },
+        {
           "title": "提醒：下周一（7月27日）美股盘后，铿腾电子（CDNS）、Rambus将发布业绩报告。 下周二美股盘前，康宁公司（GLW）、波音、可口可乐将发布业绩报告； 美股盘后，希捷科技、恩智浦将、福特汽车发布业绩报告。 下周三美股盘后，微软、Meta、高通、Arm控股、拉姆研究发布业绩报告。 下周四美股盘后，苹果、亚马逊、Coinbase发布业绩报告。 下周五美股盘前，雪佛龙、埃克森美孚发布业绩报告。",
           "url": "https://wallstreetcn.com/livenews/3139854",
           "source": "华尔街见闻-快讯",
@@ -1653,6 +1938,28 @@
           "is_new": false,
           "appearance_count": 4,
           "time_info": "[01时05分 ~ 06时08分]"
+        },
+        {
+          "title": "美伊暂停交火提振市场情绪 美股期指上涨 油价大幅回落 | 今夜看点",
+          "url": "https://www.cls.cn/detail/2438191",
+          "source": "财联社热门",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时44分"
+        },
+        {
+          "title": "美国中期选举进入百日倒计时！高盛：美股8月起将逐步感受冲击",
+          "url": "https://www.cls.cn/detail/2438003",
+          "source": "财联社热门",
+          "ranks": [
+            12
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时44分"
         },
         {
           "title": "美股存储概念股盘前走高，SK海力士(SKHY.O)上涨6%，美光科技(MU.O)涨3.6%，闪迪(SNDK.O)上涨5%，希捷科技(STX.O)上涨3.9%。英伟达(NVDA.O)盘前上涨1%，英特尔(INTC.O)涨3%，博通(AVGO.O)涨2%。",
@@ -1675,6 +1982,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "16时34分"
+        },
+        {
+          "title": "美股存储芯片指数跌超7%，成分股闪迪跌9.2%，泰瑞达跌5.2%，西部数据跌5%，希捷科技跌4.4%，美光跌4.3%，拉姆研究跌4.3%。 此外，SK海力士ADR跌幅扩大至6％，报145.44美元/股，创上市以来新低，盘中市值1.06万亿美元。 费城半导体指数跌4%，英伟达跌约3.8%。",
+          "url": "https://wallstreetcn.com/livenews/3140393",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            16
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时44分"
         }
       ]
     },
@@ -1689,7 +2007,7 @@
           "ranks": [
             5
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "20时27分"
         }
