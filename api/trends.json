@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-07-29T14:34:06.672191+08:00",
-  "total_titles_processed": 1042,
+  "generated_at": "2026-07-29T17:40:01.062753+08:00",
+  "total_titles_processed": 1228,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "DeepSeek Ai 水球泡 谷歌 google gemini 好书推荐 chatgpt openai 白银 金价石油 黄金 热梗",
-      "match_count": 57,
+      "match_count": 61,
       "titles": [
         {
           "title": "AI泡沫的金丝雀，刚刚死去.....",
@@ -19,8 +19,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[00时42分 ~ 14时34分]"
+          "appearance_count": 12,
+          "time_info": "[00时42分 ~ 17时40分]"
         },
         {
           "title": "关键时刻惠誉也来泼冷水：AI市场回调正成为全球主要信用风险",
@@ -98,6 +98,18 @@
           "time_info": "[00时42分 ~ 06时06分]"
         },
         {
+          "title": "如何看待某历史学老师在期中考试的题目中加入白色隐藏文字，导致 35 位学生中的 32 位因使用 AI 成绩不及格？",
+          "url": "https://www.zhihu.com/question/2065158710427751418",
+          "source": "知乎",
+          "ranks": [
+            3,
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[14时33分 ~ 17时40分]"
+        },
+        {
           "title": "印度成首个被AI做空的国家",
           "url": "https://s.weibo.com/weibo?q=%E5%8D%B0%E5%BA%A6%E6%88%90%E9%A6%96%E4%B8%AA%E8%A2%ABAI%E5%81%9A%E7%A9%BA%E7%9A%84%E5%9B%BD%E5%AE%B6&t=31&band_rank=4&Refer=top",
           "source": "微博",
@@ -108,17 +120,6 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[04时18分 ~ 08时01分]"
-        },
-        {
-          "title": "如何看待某历史学老师在期中考试的题目中加入白色隐藏文字，导致 35 位学生中的 32 位因使用 AI 成绩不及格？",
-          "url": "https://www.zhihu.com/question/2065158710427751418",
-          "source": "知乎",
-          "ranks": [
-            3
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[14时33分 ~ 14时34分]"
         },
         {
           "title": "美股收盘：AI概念延续“血色一夜”",
@@ -193,7 +194,7 @@
           "ranks": [
             2
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "14时34分"
         },
@@ -218,6 +219,19 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "08时01分"
+        },
+        {
+          "title": "费城半导体指数跌破11200点关键支撑，AI牛市悬了！",
+          "url": "https://wallstreetcn.com/articles/3778137",
+          "source": "华尔街见闻",
+          "ranks": [
+            8,
+            10,
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 7,
+          "time_info": "[08时00分 ~ 17时40分]"
         },
         {
           "title": "康宁三季度业绩指引略逊预期 AI光通信业务增速放缓 股价盘中跌近20%",
@@ -273,16 +287,26 @@
           "time_info": "[00时42分 ~ 11时29分]"
         },
         {
-          "title": "费城半导体指数跌破11200点关键支撑，AI牛市悬了！",
-          "url": "https://wallstreetcn.com/articles/3778137",
+          "title": "股价仍跌超10%！SK海力士电话会：未见AI投资放缓迹象，HBM4已提前量产，长协不会导致供应过剩",
+          "url": "https://wallstreetcn.com/articles/3778177",
           "source": "华尔街见闻",
           "ranks": [
-            8,
-            10
+            8
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[08时00分 ~ 14时34分]"
+          "appearance_count": 4,
+          "time_info": "[14时33分 ~ 17时40分]"
+        },
+        {
+          "title": "为什么黄金几乎在所有文明里都是贵重金属，并且作为了货币？",
+          "url": "https://www.zhihu.com/question/23846763",
+          "source": "知乎",
+          "ranks": [
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[14时33分 ~ 17时40分]"
         },
         {
           "title": "AI公司 原版书籍销毁",
@@ -311,6 +335,29 @@
           "time_info": "[00时42分 ~ 08时01分]"
         },
         {
+          "title": "大连之眼不会错过任何一个热梗",
+          "url": "https://www.douyin.com/hot/2589100",
+          "source": "抖音",
+          "ranks": [
+            25,
+            29
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[14时33分 ~ 17时40分]"
+        },
+        {
+          "title": "AI存储需求炸裂，希捷上季营收超预期增近50%、毛利率大幅跃升突破50%，指引更强劲｜财报见闻",
+          "url": "https://wallstreetcn.com/articles/3778163",
+          "source": "华尔街见闻",
+          "ranks": [
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[11时29分 ~ 17时40分]"
+        },
+        {
           "title": "美股AI硬件板块暴跌 美光科技跌逾12%",
           "url": "https://www.baidu.com/s?wd=%E7%BE%8E%E8%82%A1AI%E7%A1%AC%E4%BB%B6%E6%9D%BF%E5%9D%97%E6%9A%B4%E8%B7%8C+%E7%BE%8E%E5%85%89%E7%A7%91%E6%8A%80%E8%B7%8C%E9%80%BE12%25",
           "source": "百度热搜",
@@ -335,28 +382,6 @@
           "time_info": "[08时00分 ~ 11时29分]"
         },
         {
-          "title": "股价仍跌超10%！SK海力士电话会：未见AI投资放缓迹象，HBM4已提前量产，长协不会导致供应过剩",
-          "url": "https://wallstreetcn.com/articles/3778177",
-          "source": "华尔街见闻",
-          "ranks": [
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[14时33分 ~ 14时34分]"
-        },
-        {
-          "title": "为什么黄金几乎在所有文明里都是贵重金属，并且作为了货币？",
-          "url": "https://www.zhihu.com/question/23846763",
-          "source": "知乎",
-          "ranks": [
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[14时33分 ~ 14时34分]"
-        },
-        {
           "title": "AI重现被困师生救援事件",
           "url": "https://search.bilibili.com/all?keyword=AI%E9%87%8D%E7%8E%B0%E8%A2%AB%E5%9B%B0%E5%B8%88%E7%94%9F%E6%95%91%E6%8F%B4%E4%BA%8B%E4%BB%B6",
           "source": "bilibili 热搜",
@@ -367,6 +392,28 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[00时42分 ~ 02时17分]"
+        },
+        {
+          "title": "希捷财报会实录：AI打开存储长期景气，HAMR技术持续推升盈利",
+          "url": "https://www.cls.cn/detail/2439752",
+          "source": "财联社热门",
+          "ranks": [
+            13
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[17时39分 ~ 17时40分]"
+        },
+        {
+          "title": "明星为什么愿意把脸“卖”给AI",
+          "url": "https://www.baidu.com/s?wd=%E6%98%8E%E6%98%9F%E4%B8%BA%E4%BB%80%E4%B9%88%E6%84%BF%E6%84%8F%E6%8A%8A%E8%84%B8%E2%80%9C%E5%8D%96%E2%80%9D%E7%BB%99AI",
+          "source": "百度热搜",
+          "ranks": [
+            14
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[17时39分 ~ 17时40分]"
         },
         {
           "title": "为什么西方古代黄金文物多见大件的冠冕、圣杯，而中国古代更倾向于将黄金做成细小的错金银、金辟邪或马饰？",
@@ -391,17 +438,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[00时42分 ~ 06时06分]"
-        },
-        {
-          "title": "大连之眼不会错过任何一个热梗",
-          "url": "https://www.douyin.com/hot/2589100",
-          "source": "抖音",
-          "ranks": [
-            25
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[14时33分 ~ 14时34分]"
         },
         {
           "title": "SpaceXAI：GROK 4.5现已在GitHub Copilot上发布。",
@@ -437,6 +473,17 @@
           "time_info": "04时18分"
         },
         {
+          "title": "赢学入脑,法国声称AI超中国",
+          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28356609&amp;topic_name=%E8%B5%A2%E5%AD%A6%E5%85%A5%E8%84%91%2C%E6%B3%95%E5%9B%BD%E5%A3%B0%E7%A7%B0AI%E8%B6%85%E4%B8%AD%E5%9B%BD",
+          "source": "贴吧",
+          "ranks": [
+            8
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "17时40分"
+        },
+        {
           "title": "AI短剧半年规模超220亿元，产业爆发重塑内容生产逻辑",
           "url": "https://wallstreetcn.com/livenews/3141243",
           "source": "华尔街见闻-快讯",
@@ -446,17 +493,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "08时01分"
-        },
-        {
-          "title": "AI存储需求炸裂，希捷上季营收超预期增近50%、毛利率大幅跃升突破50%，指引更强劲｜财报见闻",
-          "url": "https://wallstreetcn.com/articles/3778163",
-          "source": "华尔街见闻",
-          "ranks": [
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "11时29分"
         },
         {
           "title": "xAI面向Grok推出Build模型。 Grok Build模型处于早期测试阶段，针对的是SuperGrok Heavy超级订阅者。",
@@ -531,7 +567,7 @@
           "ranks": [
             17
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "14时34分"
         },
@@ -624,6 +660,17 @@
           "time_info": "08时01分"
         },
         {
+          "title": "国投白银LOF提示二级市场溢价风险",
+          "url": "https://flash.jin10.com/detail/20260729171452234800",
+          "source": "金十数据",
+          "ranks": [
+            24
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "17时40分"
+        },
+        {
           "title": "SK海力士利润创纪录，但未能满足投资者对AI的极高预期",
           "url": "https://wallstreetcn.com/livenews/3141227",
           "source": "华尔街见闻-快讯",
@@ -671,7 +718,7 @@
     },
     {
       "keyword_group": "伊朗",
-      "match_count": 42,
+      "match_count": 43,
       "titles": [
         {
           "title": "美暂停打击伊朗的军事行动，是因为美军被打疼了？",
@@ -765,6 +812,17 @@
           "time_info": "[00时42分 ~ 06时06分]"
         },
         {
+          "title": "专家：乌克兰对伊朗商船动手，是在向美国交“投名状”",
+          "url": "https://news.ifeng.com/c/8v8Yy57TOBs",
+          "source": "凤凰网",
+          "ranks": [
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[11时29分 ~ 17时40分]"
+        },
+        {
           "title": "伊朗导弹甩开美军多枚拦截弹画面",
           "url": "https://www.toutiao.com/trending/7666729375357865515/",
           "source": "今日头条",
@@ -778,15 +836,16 @@
           "time_info": "[00时42分 ~ 06时06分]"
         },
         {
-          "title": "专家：乌克兰对伊朗商船动手，是在向美国交“投名状”",
-          "url": "https://news.ifeng.com/c/8v8Yy57TOBs",
-          "source": "凤凰网",
+          "title": "对伊朗军事行动以来，美以领导人首次会晤",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33678142",
+          "source": "澎湃新闻",
           "ranks": [
-            8
+            16,
+            17
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[11时29分 ~ 14时34分]"
+          "appearance_count": 5,
+          "time_info": "[11时29分 ~ 17时40分]"
         },
         {
           "title": "7月29日投资避雷针：伊朗发射多枚导弹袭击驻中东美军 WTI原油期货早盘一度涨超5%",
@@ -795,18 +854,6 @@
           "ranks": [
             10,
             11
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[11时29分 ~ 14时34分]"
-        },
-        {
-          "title": "对伊朗军事行动以来，美以领导人首次会晤",
-          "url": "https://m.thepaper.cn/newsDetail_forward_33678142",
-          "source": "澎湃新闻",
-          "ranks": [
-            16,
-            17
           ],
           "is_new": false,
           "appearance_count": 3,
@@ -1024,6 +1071,17 @@
           "time_info": "04时18分"
         },
         {
+          "title": "俄外交部：乌方打击里海水域伊朗商船是“侵略行径”",
+          "url": "https://wallstreetcn.com/livenews/3141587",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            18
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "17时40分"
+        },
+        {
           "title": "据伊朗媒体Fars News：位于伊拉克埃尔比勒省哈里尔的美军基地发生火灾。",
           "url": "https://flash.jin10.com/detail/20260729032652627800",
           "source": "金十数据",
@@ -1148,7 +1206,7 @@
     },
     {
       "keyword_group": "特朗普",
-      "match_count": 27,
+      "match_count": 31,
       "titles": [
         {
           "title": "特朗普被发现在格雷厄姆葬礼打瞌睡",
@@ -1206,6 +1264,50 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[08时00分 ~ 08时01分]"
+        },
+        {
+          "title": "卢拉讽刺特朗普：每个巴西公民都能享有总统同等医疗待遇",
+          "url": "https://v.ifeng.com/c/8v9pAhXFNg6",
+          "source": "凤凰网",
+          "ranks": [
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[17时39分 ~ 17时40分]"
+        },
+        {
+          "title": "国际油价急涨5%！特朗普按下冲突“暂停键”后 伊朗首袭驻中东美军",
+          "url": "https://www.cls.cn/detail/2439731",
+          "source": "财联社热门",
+          "ranks": [
+            11
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[17时39分 ~ 17时40分]"
+        },
+        {
+          "title": "特朗普被发现在格雷厄姆葬礼打瞌睡，白宫：他在缅怀",
+          "url": "https://v.ifeng.com/c/8v8ALtYnwhG",
+          "source": "凤凰网",
+          "ranks": [
+            11
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[17时39分 ~ 17时40分]"
+        },
+        {
+          "title": "明查｜特朗普的替身出现了？先把视频暂停一下",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33674010",
+          "source": "澎湃新闻",
+          "ranks": [
+            12
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[17时39分 ~ 17时40分]"
         },
         {
           "title": "铁粉深陷特朗普“杀猪盘”血本无归",
@@ -1291,7 +1393,7 @@
           "ranks": [
             13
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "14时34分"
         },
@@ -1445,7 +1547,7 @@
           "ranks": [
             30
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "14时34分"
         }
@@ -1453,7 +1555,7 @@
     },
     {
       "keyword_group": "美股",
-      "match_count": 17,
+      "match_count": 18,
       "titles": [
         {
           "title": "美股期指走势分化 芯片股继续下挫 道指期货涨近1% | 今夜看点",
@@ -1470,17 +1572,6 @@
           "time_info": "[00时42分 ~ 11时29分]"
         },
         {
-          "title": "美股涨跌不一，半导体连续两日遭抛售，苹果市值首次突破5万亿美元，金银油齐跌",
-          "url": "https://wallstreetcn.com/articles/3778080",
-          "source": "华尔街见闻",
-          "ranks": [
-            1
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[08时00分 ~ 14时34分]"
-        },
-        {
           "title": "康宁美股盘前暴跌15%！Q2营收利润双超预期，但Q3收入指引不够“惊喜”| 财报见闻",
           "url": "https://wallstreetcn.com/articles/3778135",
           "source": "华尔街见闻",
@@ -1488,11 +1579,12 @@
             8,
             7,
             6,
-            4
+            4,
+            5
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[00时42分 ~ 14时34分]"
+          "appearance_count": 12,
+          "time_info": "[00时42分 ~ 17时40分]"
         },
         {
           "title": "中国DRAM巨头搅动全球格局，美股存储芯片跳水，SK海力士破发，闪迪一个月接近腰斩",
@@ -1506,6 +1598,18 @@
           "time_info": "[00时42分 ~ 04时18分]"
         },
         {
+          "title": "美股涨跌不一，半导体连续两日遭抛售，苹果市值首次突破5万亿美元，金银油齐跌",
+          "url": "https://wallstreetcn.com/articles/3778080",
+          "source": "华尔街见闻",
+          "ranks": [
+            1,
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 7,
+          "time_info": "[08时00分 ~ 17时40分]"
+        },
+        {
           "title": "希捷科技(STX.O)美股盘后涨超8%，其营收指引高于预期。",
           "url": "https://flash.jin10.com/detail/20260729041437595800",
           "source": "金十数据",
@@ -1515,6 +1619,20 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "04时18分"
+        },
+        {
+          "title": "美股半导体崩盘,闪迪跌破新低",
+          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28356568&amp;topic_name=%E7%BE%8E%E8%82%A1%E5%8D%8A%E5%AF%BC%E4%BD%93%E5%B4%A9%E7%9B%98%2C%E9%97%AA%E8%BF%AA%E8%B7%8C%E7%A0%B4%E6%96%B0%E4%BD%8E",
+          "source": "贴吧",
+          "ranks": [
+            11,
+            17,
+            20,
+            27
+          ],
+          "is_new": false,
+          "appearance_count": 8,
+          "time_info": "[00时42分 ~ 17时40分]"
         },
         {
           "title": "长鑫上市后，美股「半导体 - 芯片板块」普跌，SK 海力士破发，早盘韩股熔断，日经大跌，对此你怎么看？",
@@ -1530,19 +1648,6 @@
           "time_info": "[00时42分 ~ 06时06分]"
         },
         {
-          "title": "美股半导体崩盘,闪迪跌破新低",
-          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28356568&amp;topic_name=%E7%BE%8E%E8%82%A1%E5%8D%8A%E5%AF%BC%E4%BD%93%E5%B4%A9%E7%9B%98%2C%E9%97%AA%E8%BF%AA%E8%B7%8C%E7%A0%B4%E6%96%B0%E4%BD%8E",
-          "source": "贴吧",
-          "ranks": [
-            11,
-            17,
-            20
-          ],
-          "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[00时42分 ~ 14时34分]"
-        },
-        {
           "title": "美股芯片存储大跌",
           "url": "https://www.douyin.com/hot/2588858",
           "source": "抖音",
@@ -1553,6 +1658,17 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[11时29分 ~ 14时34分]"
+        },
+        {
+          "title": "美联储决议与Meta、微软财报在即，美股期指涨跌互现，存储股盘前续跌，油价涨超3%",
+          "url": "https://wallstreetcn.com/articles/3778176",
+          "source": "华尔街见闻",
+          "ranks": [
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[17时39分 ~ 17时40分]"
         },
         {
           "title": "美股光通信、存储大跌 闪迪跌逾14%",
@@ -1649,7 +1765,7 @@
           "ranks": [
             24
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "14时34分"
         }
