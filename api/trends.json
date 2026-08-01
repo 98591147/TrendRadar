@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-08-01T14:33:32.966124+08:00",
-  "total_titles_processed": 837,
+  "generated_at": "2026-08-01T17:08:04.563726+08:00",
+  "total_titles_processed": 973,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "DeepSeek Ai 水球泡 谷歌 google gemini 好书推荐 chatgpt openai 白银 金价石油 黄金 热梗",
-      "match_count": 56,
+      "match_count": 62,
       "titles": [
         {
           "title": "美股财报季后的思考：科技巨头们，谁能更快将AI算力变成真金白银？",
@@ -13,11 +13,12 @@
           "source": "财联社热门",
           "ranks": [
             2,
-            1
+            1,
+            3
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[03时38分 ~ 14时33分]"
+          "appearance_count": 8,
+          "time_info": "[03时38分 ~ 17时08分]"
         },
         {
           "title": "AI盈利兑现主导交易，亚马逊涨15%力撑纳指收涨，苹果重挫7%，30年美债收益率涨破5.27%",
@@ -27,8 +28,22 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[07时03分 ~ 14时33分]"
+          "appearance_count": 6,
+          "time_info": "[07时03分 ~ 17时08分]"
+        },
+        {
+          "title": "达利欧重大判断：教科书式AI资产泡沫，80年一次的“大周期”已进入尾声",
+          "url": "https://wallstreetcn.com/articles/3778421",
+          "source": "华尔街见闻",
+          "ranks": [
+            9,
+            8,
+            4,
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 8,
+          "time_info": "[03时38分 ~ 17时08分]"
         },
         {
           "title": "本轮牛市“最大神话”落幕！短短数周，“AI股神”被击溃，Citadel出手收购全部仓位",
@@ -52,6 +67,17 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[03时38分 ~ 05时09分]"
+        },
+        {
+          "title": "DeepSeek 居然会对用户说「我去吃饭了」「我去睡了」，为啥会出现这样的现象？",
+          "url": "https://www.zhihu.com/question/2066223484309434997",
+          "source": "知乎",
+          "ranks": [
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[17时07分 ~ 17时08分]"
         },
         {
           "title": "DeepSeek（官方 API 接入 Agent）居然会对用户说「我去吃饭了」、「我去睡了」，为啥会这样？",
@@ -90,19 +116,6 @@
           "time_info": "[03时38分 ~ 14时33分]"
         },
         {
-          "title": "达利欧重大判断：教科书式AI资产泡沫，80年一次的“大周期”已进入尾声",
-          "url": "https://wallstreetcn.com/articles/3778421",
-          "source": "华尔街见闻",
-          "ranks": [
-            9,
-            8,
-            4
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[03时38分 ~ 14时33分]"
-        },
-        {
           "title": "DeepSeek V4 正式版发布，使用体验如何？和降价后的 GPT5.6 luna 对比谁更有优势？",
           "url": "https://www.zhihu.com/question/2066526486505461299",
           "source": "知乎",
@@ -114,15 +127,18 @@
           "time_info": "03时38分"
         },
         {
-          "title": "DeepSeek V4 flash 上线，相较 Kimi K3 各有哪些优劣？现版本大模型中你的选择是啥？",
-          "url": "https://www.zhihu.com/question/2066599476764964006",
-          "source": "知乎",
+          "title": "AI生成的作品算艺术吗",
+          "url": "https://www.douyin.com/hot/2591797",
+          "source": "抖音",
           "ranks": [
-            5
+            6,
+            8,
+            12,
+            9
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "14时33分"
+          "is_new": false,
+          "appearance_count": 8,
+          "time_info": "[03时38分 ~ 17时08分]"
         },
         {
           "title": "“AI股神”崩了，“带血的筹码”出了，华尔街押注：AI见底了！",
@@ -135,6 +151,32 @@
           "is_new": false,
           "appearance_count": 4,
           "time_info": "[03时38分 ~ 07时04分]"
+        },
+        {
+          "title": "亚马逊财报提振AI信心 美股期指走高 苹果盘前跌近8% | 今夜看点",
+          "url": "https://www.cls.cn/detail/2442973",
+          "source": "财联社热门",
+          "ranks": [
+            8,
+            10,
+            12,
+            13
+          ],
+          "is_new": false,
+          "appearance_count": 8,
+          "time_info": "[03时38分 ~ 17时08分]"
+        },
+        {
+          "title": "OpenAI：我们黑了不止一家公司，Anthropic：我也是",
+          "url": "https://wallstreetcn.com/articles/3778448",
+          "source": "华尔街见闻",
+          "ranks": [
+            7,
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[11时13分 ~ 17时08分]"
         },
         {
           "title": "DeepSeek V4 flash 正式版发布，有哪些亮点值得关注？",
@@ -150,31 +192,16 @@
           "time_info": "[03时38分 ~ 07时04分]"
         },
         {
-          "title": "AI生成的作品算艺术吗",
-          "url": "https://www.douyin.com/hot/2591797",
-          "source": "抖音",
+          "title": "DeepSeek V4 flash 上线，相较 Kimi K3 各有哪些优劣？现版本大模型中你的选择是啥？",
+          "url": "https://www.zhihu.com/question/2066599476764964006",
+          "source": "知乎",
           "ranks": [
-            6,
-            8,
-            12
+            5,
+            10
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[03时38分 ~ 14时33分]"
-        },
-        {
-          "title": "亚马逊财报提振AI信心 美股期指走高 苹果盘前跌近8% | 今夜看点",
-          "url": "https://www.cls.cn/detail/2442973",
-          "source": "财联社热门",
-          "ranks": [
-            8,
-            10,
-            12,
-            13
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[03时38分 ~ 14时33分]"
+          "appearance_count": 3,
+          "time_info": "[14时33分 ~ 17时08分]"
         },
         {
           "title": "实测DeepSeek V4 Flash",
@@ -182,11 +209,25 @@
           "source": "bilibili 热搜",
           "ranks": [
             2,
-            19
+            19,
+            18
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[11时13分 ~ 14时33分]"
+          "appearance_count": 4,
+          "time_info": "[11时13分 ~ 17时08分]"
+        },
+        {
+          "title": "“AI股神”最新表态：再也不碰杠杆了",
+          "url": "https://www.cls.cn/detail/2443109",
+          "source": "财联社热门",
+          "ranks": [
+            13,
+            6,
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[07时03分 ~ 17时08分]"
         },
         {
           "title": "【每日收评】创业板指冲高回落涨3.06%，AI应用端全线爆发，存储芯片板块尾盘跳水",
@@ -227,19 +268,6 @@
           "is_new": false,
           "appearance_count": 5,
           "time_info": "[03时38分 ~ 14时33分]"
-        },
-        {
-          "title": "“AI股神”最新表态：再也不碰杠杆了",
-          "url": "https://www.cls.cn/detail/2443109",
-          "source": "财联社热门",
-          "ranks": [
-            13,
-            6,
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[07时03分 ~ 14时33分]"
         },
         {
           "title": "保时捷女销冠回应被AI合成不雅视频",
@@ -293,15 +321,38 @@
           "time_info": "[03时38分 ~ 07时04分]"
         },
         {
-          "title": "OpenAI：我们黑了不止一家公司，Anthropic：我也是",
-          "url": "https://wallstreetcn.com/articles/3778448",
+          "title": "头部AI再失控 Claude黑进三家公司",
+          "url": "https://www.baidu.com/s?wd=%E5%A4%B4%E9%83%A8AI%E5%86%8D%E5%A4%B1%E6%8E%A7+Claude%E9%BB%91%E8%BF%9B%E4%B8%89%E5%AE%B6%E5%85%AC%E5%8F%B8",
+          "source": "百度热搜",
+          "ranks": [
+            17,
+            27
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[14时33分 ~ 17时08分]"
+        },
+        {
+          "title": "“AI股神”致信投资者：遭遇“银行挤兑”，再也不加杠杆了，今年仍涨80%，我们能东山再起",
+          "url": "https://wallstreetcn.com/articles/3778476",
           "source": "华尔街见闻",
           "ranks": [
-            7
+            9
           ],
           "is_new": false,
           "appearance_count": 2,
-          "time_info": "[11时13分 ~ 14时33分]"
+          "time_info": "[17时07分 ~ 17时08分]"
+        },
+        {
+          "title": "“黑色7月”以“两连涨”收尾，“AI交易”见底了吗？",
+          "url": "https://wallstreetcn.com/articles/3778474",
+          "source": "华尔街见闻",
+          "ranks": [
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[17时07分 ~ 17时08分]"
         },
         {
           "title": "消息人士：OpenAI调查人员发现更多AI智能体突破隔离的证据",
@@ -314,6 +365,28 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[05时09分 ~ 07时04分]"
+        },
+        {
+          "title": "摩根士丹利邢自强：AI投资“半场休息”，下半场逻辑已变",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33692011",
+          "source": "澎湃新闻",
+          "ranks": [
+            13
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[17时07分 ~ 17时08分]"
+        },
+        {
+          "title": "美股财报季AI赛道赢家显现：云计算三巨头本周市值暴增10万亿",
+          "url": "https://www.cls.cn/detail/2443270",
+          "source": "财联社热门",
+          "ranks": [
+            13
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[17时07分 ~ 17时08分]"
         },
         {
           "title": "市场消息：据消息人士透露，OpenAI调查人员发现有证据表明，有其他AI智能体已突破了管控限制。",
@@ -424,7 +497,7 @@
           "ranks": [
             11
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "14时33分"
         },
@@ -446,7 +519,7 @@
           "ranks": [
             12
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "14时33分"
         },
@@ -495,17 +568,6 @@
           "time_info": "11时13分"
         },
         {
-          "title": "头部AI再失控 Claude黑进三家公司",
-          "url": "https://www.baidu.com/s?wd=%E5%A4%B4%E9%83%A8AI%E5%86%8D%E5%A4%B1%E6%8E%A7+Claude%E9%BB%91%E8%BF%9B%E4%B8%89%E5%AE%B6%E5%85%AC%E5%8F%B8",
-          "source": "百度热搜",
-          "ranks": [
-            17
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "14时33分"
-        },
-        {
           "title": "OpenAI：GPT-5.4和GPT-5.4mini将从8月31日起不再向登录ChatGPT的用户提供。 这些模型仍将在OpenAI API以及使用API密钥进行身份验证的Codex会话中继续提供。",
           "url": "https://wallstreetcn.com/livenews/3143487",
           "source": "华尔街见闻-快讯",
@@ -523,7 +585,7 @@
           "ranks": [
             17
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "14时33分"
         },
@@ -589,7 +651,7 @@
           "ranks": [
             22
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "14时33分"
         },
@@ -605,13 +667,24 @@
           "time_info": "05时09分"
         },
         {
+          "title": "超聚变AI Lab平台上线DeepSeek-V4-Flash正式版",
+          "url": "https://flash.jin10.com/detail/20260801151758117800",
+          "source": "金十数据",
+          "ranks": [
+            25
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "17时08分"
+        },
+        {
           "title": "DeepSeek V4 Flash对比",
           "url": "https://search.bilibili.com/all?keyword=DeepSeek%20V4%20Flash%E5%AF%B9%E6%AF%94",
           "source": "bilibili 热搜",
           "ranks": [
             26
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "14时33分"
         },
@@ -663,7 +736,7 @@
     },
     {
       "keyword_group": "伊朗",
-      "match_count": 21,
+      "match_count": 29,
       "titles": [
         {
           "title": "伊朗“波斯湾海峡管理局”宣布霍尔木兹海峡暂停通行",
@@ -689,6 +762,17 @@
           "time_info": "07时04分"
         },
         {
+          "title": "伊朗称中东地区国家应重新考虑与美国的“合作与结盟”",
+          "url": "https://flash.jin10.com/detail/20260801164731787800",
+          "source": "金十数据",
+          "ranks": [
+            1
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "17时08分"
+        },
+        {
           "title": "据媒体报道，美国和以色列准备轰炸伊朗的能源目标。WTI原油期货在收盘之后电子交易盘走高，目前交投于86美元附近。",
           "url": "https://wallstreetcn.com/livenews/3143471",
           "source": "华尔街见闻-快讯",
@@ -698,6 +782,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "05时09分"
+        },
+        {
+          "title": "伊朗军方称近期使用新型无人机",
+          "url": "https://wallstreetcn.com/livenews/3143579",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            1
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "17时08分"
         },
         {
           "title": "伊朗革命卫队一天发表三份声明",
@@ -728,7 +823,7 @@
           "ranks": [
             3
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "14时33分"
         },
@@ -742,6 +837,51 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "07时04分"
+        },
+        {
+          "title": "科威特称，伊朗无人机袭击科威特北部政府设施，袭击其北部政府设施。",
+          "url": "https://wallstreetcn.com/livenews/3143576",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            4
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "17时08分"
+        },
+        {
+          "title": "美以计划对伊朗能源设施发动迄今最猛烈轰炸",
+          "url": "https://news.ifeng.com/c/8vE4QnKuvOF",
+          "source": "凤凰网",
+          "ranks": [
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[11时13分 ~ 17时08分]"
+        },
+        {
+          "title": "伊朗警告打击美以能源基础设施",
+          "url": "https://news.ifeng.com/c/8vE5HdfLPru",
+          "source": "凤凰网",
+          "ranks": [
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[11时13分 ~ 17时08分]"
+        },
+        {
+          "title": "伊朗“波斯湾海峡管理局”宣布霍尔木兹海峡暂停通行",
+          "url": "https://wallstreetcn.com/articles/3778449",
+          "source": "华尔街见闻",
+          "ranks": [
+            8,
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[11时13分 ~ 17时08分]"
         },
         {
           "title": "伊朗打击美军空中任务后勤保障枢纽",
@@ -768,39 +908,6 @@
           "time_info": "[03时38分 ~ 07时04分]"
         },
         {
-          "title": "美以计划对伊朗能源设施发动迄今最猛烈轰炸",
-          "url": "https://news.ifeng.com/c/8vE4QnKuvOF",
-          "source": "凤凰网",
-          "ranks": [
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[11时13分 ~ 14时33分]"
-        },
-        {
-          "title": "伊朗警告打击美以能源基础设施",
-          "url": "https://news.ifeng.com/c/8vE5HdfLPru",
-          "source": "凤凰网",
-          "ranks": [
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[11时13分 ~ 14时33分]"
-        },
-        {
-          "title": "伊朗“波斯湾海峡管理局”宣布霍尔木兹海峡暂停通行",
-          "url": "https://wallstreetcn.com/articles/3778449",
-          "source": "华尔街见闻",
-          "ranks": [
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[11时13分 ~ 14时33分]"
-        },
-        {
           "title": "伊朗在霍尔木兹击中并扣留2艘油轮",
           "url": "https://www.toutiao.com/trending/7668445091514155050/",
           "source": "今日头条",
@@ -810,6 +917,28 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[03时38分 ~ 05时09分]"
+        },
+        {
+          "title": "伊朗军方称近期使用新型无人机",
+          "url": "https://flash.jin10.com/detail/20260801163642334800",
+          "source": "金十数据",
+          "ranks": [
+            6
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "17时08分"
+        },
+        {
+          "title": "伊朗警告称美国海军封锁可能导致更多海峡关闭",
+          "url": "https://wallstreetcn.com/livenews/3143573",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            7
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "17时08分"
         },
         {
           "title": "据CBS：美国和以色列正准备最早于本周末轰炸伊朗的能源相关目标。",
@@ -823,6 +952,17 @@
           "time_info": "07时04分"
         },
         {
+          "title": "科威特军方：伊朗的攻击波及到一家民用公司的设备，造成了由于弹片落下而导致的物质损失，地点在布比扬岛。",
+          "url": "https://flash.jin10.com/detail/20260801161340356800",
+          "source": "金十数据",
+          "ranks": [
+            12
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "17时08分"
+        },
+        {
           "title": "伊朗：已制定计划应对潜在美以袭击",
           "url": "https://www.toutiao.com/trending/7668829809023402026/",
           "source": "今日头条",
@@ -832,6 +972,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "11时13分"
+        },
+        {
+          "title": "科威特军方：伊朗的攻击波及多处重要设施，袭击了位于北部的一处政府机构。",
+          "url": "https://flash.jin10.com/detail/20260801161127749800",
+          "source": "金十数据",
+          "ranks": [
+            14
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "17时08分"
         },
         {
           "title": "伊朗最高国家安全委员会秘书：全球经济、能源市场和美国选民将为持续的海上封锁和美国的局势升级付出代价。",
@@ -851,7 +1002,7 @@
           "ranks": [
             18
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "14时33分"
         },
@@ -865,6 +1016,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "03时38分"
+        },
+        {
+          "title": "据伊朗法尔斯通讯社：伊朗军方发言人称，我们近期已投入使用新型无人机，相关细节将在未来几天内公布。我们的无人机航程足以覆盖以色列领土。",
+          "url": "https://flash.jin10.com/detail/20260801153027574800",
+          "source": "金十数据",
+          "ranks": [
+            20
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "17时08分"
         },
         {
           "title": "伊朗称击毁驻约旦美军基地 3 架 F-35，哪些信息值得关注？",
@@ -903,7 +1065,7 @@
     },
     {
       "keyword_group": "特朗普",
-      "match_count": 14,
+      "match_count": 16,
       "titles": [
         {
           "title": "特朗普称与哈马斯及加沙其他武装团体达成解除武装协议",
@@ -930,6 +1092,17 @@
           "time_info": "[03时38分 ~ 07时04分]"
         },
         {
+          "title": "多国应对西班牙飞地移民危机，特朗普：这是入侵",
+          "url": "https://news.ifeng.com/c/8vEF0vvkrzw",
+          "source": "凤凰网",
+          "ranks": [
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[11时13分 ~ 17时08分]"
+        },
+        {
           "title": "美官员：特朗普已下令对伊朗发动新一轮袭击",
           "url": "https://news.ifeng.com/c/8vDwIljTGY5",
           "source": "凤凰网",
@@ -939,17 +1112,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[07时03分 ~ 07时04分]"
-        },
-        {
-          "title": "多国应对西班牙飞地移民危机，特朗普：这是入侵",
-          "url": "https://news.ifeng.com/c/8vEF0vvkrzw",
-          "source": "凤凰网",
-          "ranks": [
-            4
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[11时13分 ~ 14时33分]"
         },
         {
           "title": "五角大楼发言人：美国国防部随时准备执行特朗普总统的指示。",
@@ -989,11 +1151,12 @@
           "url": "https://wallstreetcn.com/articles/3778460",
           "source": "华尔街见闻",
           "ranks": [
-            9
+            9,
+            6
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[11时13分 ~ 14时33分]"
+          "appearance_count": 4,
+          "time_info": "[11时13分 ~ 17时08分]"
         },
         {
           "title": "新一轮袭击箭在弦上？美官员称特朗普已下令 伊朗厉声警告",
@@ -1002,9 +1165,31 @@
           "ranks": [
             8
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "14时33分"
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[14时33分 ~ 17时08分]"
+        },
+        {
+          "title": "你和特朗普谁是老大？内塔尼亚胡：他是大股东，但我也有底线",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33690982",
+          "source": "澎湃新闻",
+          "ranks": [
+            16
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[14时33分 ~ 17时08分]"
+        },
+        {
+          "title": "美官员称特朗普已下令对伊朗发动新袭击：可能本周末启动",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33692652",
+          "source": "澎湃新闻",
+          "ranks": [
+            15
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[17时07分 ~ 17时08分]"
         },
         {
           "title": "白宫：特朗普认定未来4年对进口石英表面产品实施关税配额是适当的。",
@@ -1029,15 +1214,15 @@
           "time_info": "07时04分"
         },
         {
-          "title": "你和特朗普谁是老大？内塔尼亚胡：他是大股东，但我也有底线",
-          "url": "https://m.thepaper.cn/newsDetail_forward_33690982",
-          "source": "澎湃新闻",
+          "title": "特朗普最新支持率公布",
+          "url": "https://wallstreetcn.com/livenews/3143570",
+          "source": "华尔街见闻-快讯",
           "ranks": [
-            16
+            10
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "14时33分"
+          "time_info": "17时08分"
         },
         {
           "title": "美官员称特朗普已下令对伊朗发动新一轮袭击，最早可能周末开始行动",
@@ -1068,6 +1253,18 @@
       "match_count": 8,
       "titles": [
         {
+          "title": "美股收盘：超级权重托举指数V型反转 中国金龙指数五连阳",
+          "url": "https://www.cls.cn/detail/2443155",
+          "source": "财联社热门",
+          "ranks": [
+            7,
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[07时03分 ~ 17时08分]"
+        },
+        {
           "title": "周五（7月31日），美股行业ETF涨跌各异，可选消费ETF收涨3.29%，网络股指数ETF涨2.59%，能源业ETF涨1%，半导体ETF涨0.3%，科技行业ETF跌0.22%，医疗业ETF跌0.59%，生物科技指数ETF跌1.87%。 2026年1-7月，半导体ETF累计上涨50.09%，能源业ETF涨35.03%，全球科技股指数ETF、科技行业ETF至少涨22.09%，可选消费ETF则累跌2.39%。",
           "url": "https://wallstreetcn.com/livenews/3143468",
           "source": "华尔街见闻-快讯",
@@ -1077,18 +1274,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "05时09分"
-        },
-        {
-          "title": "美股收盘：超级权重托举指数V型反转 中国金龙指数五连阳",
-          "url": "https://www.cls.cn/detail/2443155",
-          "source": "财联社热门",
-          "ranks": [
-            7,
-            1
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[07时03分 ~ 14时33分]"
         },
         {
           "title": "日元偷袭，美元盘中跌破 100 且兑日元急挫超 3%，美股 SOX 指数盘内涨超 8%，大宗商品异动，发生了什么？",
