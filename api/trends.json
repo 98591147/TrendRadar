@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-08-06T16:40:21.038098+08:00",
-  "total_titles_processed": 1094,
+  "generated_at": "2026-08-06T19:27:00.311947+08:00",
+  "total_titles_processed": 1274,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "DeepSeek Ai 水球泡 谷歌 google gemini 好书推荐 chatgpt openai 白银 金价石油 黄金 热梗",
-      "match_count": 76,
+      "match_count": 84,
       "titles": [
         {
           "title": "SpaceX暴跌13%拖累科技板块，标普纳指高位回调，黄金飙涨4%，原油冲高回落",
@@ -16,8 +16,34 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[07时02分 ~ 16时40分]"
+          "appearance_count": 7,
+          "time_info": "[07时02分 ~ 19时27分]"
+        },
+        {
+          "title": "突破4200美元阻力位！黄金“重置”完成，或迎来数月来最佳上涨窗口",
+          "url": "https://wallstreetcn.com/articles/3778759",
+          "source": "华尔街见闻",
+          "ranks": [
+            8,
+            5,
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 7,
+          "time_info": "[07时02分 ~ 19时27分]"
+        },
+        {
+          "title": "如何看待 DeepSeek 8 月 6 日公告称即将大幅度涨价？",
+          "url": "https://www.zhihu.com/question/2068628771687625392",
+          "source": "知乎",
+          "ranks": [
+            4,
+            3,
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[13时52分 ~ 19时27分]"
         },
         {
           "title": "【早报】2家存储巨头，公布业绩；SpaceX，市值蒸发1.5万亿元；黄金大涨、原油下跌；长鑫拒绝苹果压价",
@@ -43,6 +69,18 @@
           "time_info": "[01时41分 ~ 05时13分]"
         },
         {
+          "title": "DeepSeek预告将大幅涨价 V4正式版发布进入倒计时",
+          "url": "https://www.cls.cn/detail/2447135",
+          "source": "财联社热门",
+          "ranks": [
+            3,
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[16时40分 ~ 19时27分]"
+        },
+        {
           "title": "SpaceX上市后首份财报营收增92%大超预期，星链独撑利润，AI亏损收窄但支出高于预期｜财报见闻",
           "url": "https://wallstreetcn.com/articles/3778691",
           "source": "华尔街见闻",
@@ -54,17 +92,15 @@
           "time_info": "[01时41分 ~ 05时13分]"
         },
         {
-          "title": "突破4200美元阻力位！黄金“重置”完成，或迎来数月来最佳上涨窗口",
-          "url": "https://wallstreetcn.com/articles/3778759",
-          "source": "华尔街见闻",
+          "title": "美前国防官员撰文炒作“中国AI威胁”，专家：贼喊捉贼",
+          "url": "https://news.ifeng.com/c/8vNCMzGV09R",
+          "source": "凤凰网",
           "ranks": [
-            8,
-            5,
-            4
+            3
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[07时02分 ~ 16时40分]"
+          "appearance_count": 2,
+          "time_info": "[19时26分 ~ 19时27分]"
         },
         {
           "title": "半年来最大涨幅！昨日全球市场“最炸裂资产”：黄金……",
@@ -79,16 +115,15 @@
           "time_info": "[13时52分 ~ 16时40分]"
         },
         {
-          "title": "如何看待 DeepSeek 8 月 6 日公告称即将大幅度涨价？",
-          "url": "https://www.zhihu.com/question/2068628771687625392",
-          "source": "知乎",
+          "title": "一图看懂 | 金价刚突破4300美元关口，黄金股早已悄悄涨了30%",
+          "url": "https://www.cls.cn/detail/2447296",
+          "source": "财联社热门",
           "ranks": [
-            4,
-            3
+            4
           ],
           "is_new": false,
           "appearance_count": 2,
-          "time_info": "[13时52分 ~ 16时40分]"
+          "time_info": "[19时26分 ~ 19时27分]"
         },
         {
           "title": "外资机构密集发声，AI资本开支拐点隐现",
@@ -100,17 +135,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "07时02分"
-        },
-        {
-          "title": "DeepSeek预告将大幅涨价 V4正式版发布进入倒计时",
-          "url": "https://www.cls.cn/detail/2447135",
-          "source": "财联社热门",
-          "ranks": [
-            3
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "16时40分"
         },
         {
           "title": "谷歌首席科学家Jeff Dean：明天将是我在谷歌工作的最后一天。",
@@ -169,28 +193,17 @@
           "time_info": "[10时44分 ~ 13时52分]"
         },
         {
-          "title": "现货黄金突破4300美元关口",
-          "url": "https://www.douyin.com/hot/2599355",
-          "source": "抖音",
-          "ranks": [
-            8,
-            1
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[13时52分 ~ 16时40分]"
-        },
-        {
           "title": "DeepSeek拟上调API服务定价",
           "url": "https://www.douyin.com/hot/2599312",
           "source": "抖音",
           "ranks": [
             1,
-            9
+            9,
+            17
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[13时52分 ~ 16时40分]"
+          "appearance_count": 4,
+          "time_info": "[13时52分 ~ 19时27分]"
         },
         {
           "title": "DeepSeek拟调高API价格",
@@ -198,7 +211,32 @@
           "source": "bilibili 热搜",
           "ranks": [
             1,
-            19
+            19,
+            23
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[13时52分 ~ 19时27分]"
+        },
+        {
+          "title": "AI需求力挺闪迪上季营收超预期增近四倍，拟豪掷140亿回购，但本季指引逊色 | 财报见闻",
+          "url": "https://wallstreetcn.com/articles/3778788",
+          "source": "华尔街见闻",
+          "ranks": [
+            8,
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[10时44分 ~ 19时27分]"
+        },
+        {
+          "title": "现货黄金突破4300美元关口",
+          "url": "https://www.douyin.com/hot/2599355",
+          "source": "抖音",
+          "ranks": [
+            8,
+            1
           ],
           "is_new": false,
           "appearance_count": 2,
@@ -253,17 +291,6 @@
           "time_info": "[01时41分 ~ 07时02分]"
         },
         {
-          "title": "AI需求力挺闪迪上季营收超预期增近四倍，拟豪掷140亿回购，但本季指引逊色 | 财报见闻",
-          "url": "https://wallstreetcn.com/articles/3778788",
-          "source": "华尔街见闻",
-          "ranks": [
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[10时44分 ~ 16时40分]"
-        },
-        {
           "title": "怎么看 OpenAI 提到下一代 Harness 将脱离 PC，两三个月后现在的 Codex 工作方式会淘汰？",
           "url": "https://www.zhihu.com/question/2068265537105302957",
           "source": "知乎",
@@ -289,6 +316,19 @@
           "is_new": false,
           "appearance_count": 4,
           "time_info": "[01时41分 ~ 07时02分]"
+        },
+        {
+          "title": "DeepSeek宣布大幅涨价，业内人士预计V4 Pro正式版即将发布",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33728016",
+          "source": "澎湃新闻",
+          "ranks": [
+            16,
+            13,
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[13时52分 ~ 19时27分]"
         },
         {
           "title": "华夏出版社标注「书籍内容禁用于 AI 训练」，这种标注实际约束力有多大？能作为维权依据吗？",
@@ -330,6 +370,18 @@
           "time_info": "[01时41分 ~ 05时13分]"
         },
         {
+          "title": "DeepSeek拟上调API服务价格",
+          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28356822&amp;topic_name=DeepSeek%E6%8B%9F%E4%B8%8A%E8%B0%83API%E6%9C%8D%E5%8A%A1%E4%BB%B7%E6%A0%BC",
+          "source": "贴吧",
+          "ranks": [
+            6,
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[16时40分 ~ 19时27分]"
+        },
+        {
           "title": "现货黄金突破4300美元",
           "url": "https://www.toutiao.com/trending/7670717450970730025/",
           "source": "今日头条",
@@ -353,16 +405,37 @@
           "time_info": "[13时52分 ~ 16时40分]"
         },
         {
-          "title": "DeepSeek宣布大幅涨价，业内人士预计V4 Pro正式版即将发布",
-          "url": "https://m.thepaper.cn/newsDetail_forward_33728016",
-          "source": "澎湃新闻",
+          "title": "单日大涨4%！黄金是隔夜市场“最亮的资产”",
+          "url": "https://wallstreetcn.com/articles/3778799",
+          "source": "华尔街见闻",
           "ranks": [
-            16,
-            13
+            8
           ],
           "is_new": false,
           "appearance_count": 2,
-          "time_info": "[13时52分 ~ 16时40分]"
+          "time_info": "[19时26分 ~ 19时27分]"
+        },
+        {
+          "title": "黄金单日暴涨188美元：宏观只是导火索，逼空才是主角",
+          "url": "https://wallstreetcn.com/articles/3778800",
+          "source": "华尔街见闻",
+          "ranks": [
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[19时26分 ~ 19时27分]"
+        },
+        {
+          "title": "电在“伤害”数据中心？全球电力剧烈波动加剧硬件损耗，AI资本回报进一步承压",
+          "url": "https://www.cls.cn/detail/2447281",
+          "source": "财联社热门",
+          "ranks": [
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[19时26分 ~ 19时27分]"
         },
         {
           "title": "谷歌首席科学家Jeff Dean离职创业",
@@ -374,6 +447,17 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[10时44分 ~ 10时45分]"
+        },
+        {
+          "title": "戚薇用AI解锁末世",
+          "url": "https://www.douyin.com/hot/2599650",
+          "source": "抖音",
+          "ranks": [
+            28
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[19时26分 ~ 19时27分]"
         },
         {
           "title": "中国黄金协会：2026年上半年，国内黄金ETF增仓量同比下降66.17%",
@@ -396,17 +480,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "03时38分"
-        },
-        {
-          "title": "DeepSeek拟上调API服务价格",
-          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28356822&amp;topic_name=DeepSeek%E6%8B%9F%E4%B8%8A%E8%B0%83API%E6%9C%8D%E5%8A%A1%E4%BB%B7%E6%A0%BC",
-          "source": "贴吧",
-          "ranks": [
-            6
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "16时40分"
         },
         {
           "title": "摩根大通CEO戴蒙：市场杠杆相当高。 市场杠杆越高，发生市场动荡的概率就越大。 AI Token相关支出 “将得到控制”。（CNBC）",
@@ -470,9 +543,20 @@
           "ranks": [
             9
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "16时40分"
+        },
+        {
+          "title": "英国央行：AI正在提升英国的生产率，但也对就业造成负面影响",
+          "url": "https://flash.jin10.com/detail/20260806185551254800",
+          "source": "金十数据",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时27分"
         },
         {
           "title": "韩国黄金时代去哪了",
@@ -481,7 +565,7 @@
           "ranks": [
             12
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "16时40分"
         },
@@ -492,7 +576,7 @@
           "ranks": [
             12
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "16时40分"
         },
@@ -558,7 +642,7 @@
           "ranks": [
             14
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "16时40分"
         },
@@ -580,7 +664,7 @@
           "ranks": [
             15
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "16时40分"
         },
@@ -616,6 +700,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "13时52分"
+        },
+        {
+          "title": "戚薇真的把自己做成AI了",
+          "url": "https://s.weibo.com/weibo?q=%23%E6%88%9A%E8%96%87%E7%9C%9F%E7%9A%84%E6%8A%8A%E8%87%AA%E5%B7%B1%E5%81%9A%E6%88%90AI%E4%BA%86%23&t=31&band_rank=17&Refer=top",
+          "source": "微博",
+          "ranks": [
+            17
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时27分"
         },
         {
           "title": "金十图示：2026年08月06日（周四）白银ETF持仓报告",
@@ -701,7 +796,7 @@
           "ranks": [
             22
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "16时40分"
         },
@@ -745,7 +840,7 @@
           "ranks": [
             24
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "16时40分"
         },
@@ -778,7 +873,7 @@
           "ranks": [
             26
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "16时40分"
         },
@@ -874,7 +969,7 @@
     },
     {
       "keyword_group": "伊朗",
-      "match_count": 46,
+      "match_count": 50,
       "titles": [
         {
           "title": "伊朗的最后一张牌",
@@ -889,14 +984,14 @@
         },
         {
           "title": "伊朗总统：最高领袖决策过程遭人利用",
-          "url": "https://news.ifeng.com/c/8vMnd0UIy30",
-          "source": "凤凰网",
+          "url": "https://www.toutiao.com/trending/7670008339098750483/",
+          "source": "今日头条",
           "ranks": [
-            1
+            2
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "16时40分"
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[16时40分 ~ 19时27分]"
         },
         {
           "title": "伊朗称与阿曼接近达成协议，海峡现有两条航道将关闭",
@@ -910,15 +1005,17 @@
           "time_info": "05时13分"
         },
         {
-          "title": "伊朗总统：最高领袖决策过程遭人利用",
-          "url": "https://www.toutiao.com/trending/7670008339098750483/",
-          "source": "今日头条",
+          "title": "伊朗称与阿曼接近达成协议，海峡现有两条航道将关闭，“收费标准”仍是核心分歧",
+          "url": "https://wallstreetcn.com/articles/3778783",
+          "source": "华尔街见闻",
           "ranks": [
-            2
+            7,
+            6,
+            5
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "16时40分"
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[10时44分 ~ 19时27分]"
         },
         {
           "title": "伊朗副外长：我们与阿曼讨论了在霍尔木兹海峡建立联合航行管理中心。",
@@ -952,6 +1049,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "13时52分"
+        },
+        {
+          "title": "伊朗情报部门在该国境内逮捕多名摩萨德特工",
+          "url": "https://wallstreetcn.com/livenews/3146002",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            4
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时27分"
         },
         {
           "title": "伊朗副外长：近期未与美国进行谈判。",
@@ -998,6 +1106,18 @@
           "time_info": "13时52分"
         },
         {
+          "title": "伊朗总统：最高领袖决策过程遭人利用",
+          "url": "https://news.ifeng.com/c/8vMnd0UIy30",
+          "source": "凤凰网",
+          "ranks": [
+            1,
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[16时40分 ~ 19时27分]"
+        },
+        {
           "title": "伊朗：美国说准备恢复履行承诺",
           "url": "https://wallstreetcn.com/livenews/3145532",
           "source": "华尔街见闻-快讯",
@@ -1022,18 +1142,6 @@
           "time_info": "[01时41分 ~ 03时38分]"
         },
         {
-          "title": "伊朗称与阿曼接近达成协议，海峡现有两条航道将关闭，“收费标准”仍是核心分歧",
-          "url": "https://wallstreetcn.com/articles/3778783",
-          "source": "华尔街见闻",
-          "ranks": [
-            7,
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[10时44分 ~ 16时40分]"
-        },
-        {
           "title": "伊朗与阿曼会谈最新细节曝光",
           "url": "https://news.ifeng.com/c/8vM5VvMgc8P",
           "source": "凤凰网",
@@ -1043,6 +1151,18 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[10时44分 ~ 13时52分]"
+        },
+        {
+          "title": "伊朗总统：最高领袖决策过程遭人利用",
+          "url": "https://www.baidu.com/s?wd=%E4%BC%8A%E6%9C%97%E6%80%BB%E7%BB%9F%EF%BC%9A%E6%9C%80%E9%AB%98%E9%A2%86%E8%A2%96%E5%86%B3%E7%AD%96%E8%BF%87%E7%A8%8B%E9%81%AD%E4%BA%BA%E5%88%A9%E7%94%A8",
+          "source": "百度热搜",
+          "ranks": [
+            7,
+            16
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[16时40分 ~ 19时27分]"
         },
         {
           "title": "国际金价大幅飙升 伊朗称与阿曼接近达成协议 | 环球市场",
@@ -1055,6 +1175,17 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[10时44分 ~ 13时52分]"
+        },
+        {
+          "title": "伊朗总统：目前与最高领袖联络困难 其决策过程遭人利用",
+          "url": "https://www.cls.cn/detail/2447200",
+          "source": "财联社热门",
+          "ranks": [
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[19时26分 ~ 19时27分]"
         },
         {
           "title": "机构：霍尔木兹海峡重开后，伊朗仍将建立机制“确保维持和平”",
@@ -1077,17 +1208,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "01时41分"
-        },
-        {
-          "title": "伊朗总统：最高领袖决策过程遭人利用",
-          "url": "https://www.baidu.com/s?wd=%E4%BC%8A%E6%9C%97%E6%80%BB%E7%BB%9F%EF%BC%9A%E6%9C%80%E9%AB%98%E9%A2%86%E8%A2%96%E5%86%B3%E7%AD%96%E8%BF%87%E7%A8%8B%E9%81%AD%E4%BA%BA%E5%88%A9%E7%94%A8",
-          "source": "百度热搜",
-          "ranks": [
-            7
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "16时40分"
         },
         {
           "title": "伊朗副外长：美国在信息中表示，已准备好重返其承诺。",
@@ -1286,6 +1406,28 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "10时45分"
+        },
+        {
+          "title": "伊朗总统称没有力量能让伊朗屈服",
+          "url": "https://wallstreetcn.com/livenews/3145983",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            18
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时27分"
+        },
+        {
+          "title": "伊朗总统称与最高领袖联络非常困难",
+          "url": "https://s.weibo.com/weibo?q=%23%E4%BC%8A%E6%9C%97%E6%80%BB%E7%BB%9F%E7%A7%B0%E4%B8%8E%E6%9C%80%E9%AB%98%E9%A2%86%E8%A2%96%E8%81%94%E7%BB%9C%E9%9D%9E%E5%B8%B8%E5%9B%B0%E9%9A%BE%23&t=31&band_rank=18&Refer=top",
+          "source": "微博",
+          "ranks": [
+            18
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时27分"
         },
         {
           "title": "伊朗副外长：伊朗与阿曼商定的霍尔木兹海峡潜在过境路线可能在2至4个月内有效。",
@@ -1562,7 +1704,7 @@
           "ranks": [
             14
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "16时40分"
         },
@@ -1617,7 +1759,7 @@
           "ranks": [
             20
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "16时40分"
         },
@@ -1724,7 +1866,7 @@
     },
     {
       "keyword_group": "美股",
-      "match_count": 11,
+      "match_count": 12,
       "titles": [
         {
           "title": "美股收盘：道指再创历史新高 SpaceX与AMD拖累纳指走低",
@@ -1791,7 +1933,7 @@
           "ranks": [
             10
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "16时40分"
         },
@@ -1805,6 +1947,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "05时13分"
+        },
+        {
+          "title": "AppLovin美股盘前跌超16%，公司二季度营收不及预期。",
+          "url": "https://wallstreetcn.com/livenews/3145991",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            12
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时27分"
         },
         {
           "title": "Cirrus Logics Inc.（CRUS）美股盘后跌7.1%。 该公司第一财季净销售4.597亿美元，分析师预期4.602亿美元。 预计第二财季净收入5.10亿-5.7亿美元，分析师预期5.566亿美元。",
@@ -1835,7 +1988,7 @@
           "ranks": [
             23
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "16时40分"
         },
