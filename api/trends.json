@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-08-11T03:59:04.906502+08:00",
-  "total_titles_processed": 514,
+  "generated_at": "2026-08-11T04:53:59.637852+08:00",
+  "total_titles_processed": 566,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "DeepSeek Ai 水球泡 谷歌 google gemini 好书推荐 chatgpt openai 白银 金价石油 黄金 热梗",
-      "match_count": 33,
+      "match_count": 41,
       "titles": [
         {
           "title": "美股开盘三大指数下挫，纳指跌0.1%，英特尔跌约3%，霍尔木兹谈判僵局推升油价，黄金维持高位",
@@ -15,8 +15,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[00时07分 ~ 03时59分]"
+          "appearance_count": 7,
+          "time_info": "[00时07分 ~ 04时53分]"
         },
         {
           "title": "MLCC供应告急引发抢货潮！国巨：越来越多AI客户抢签长协锁定产能",
@@ -26,8 +26,8 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[00时07分 ~ 03时59分]"
+          "appearance_count": 7,
+          "time_info": "[00时07分 ~ 04时53分]"
         },
         {
           "title": "Meta发布小型AI模型，一块显卡即可本地运行，扎克伯格喊话美国政府：降低对开源AI的准入门槛",
@@ -38,8 +38,8 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[00时07分 ~ 03时59分]"
+          "appearance_count": 7,
+          "time_info": "[00时07分 ~ 04时53分]"
         },
         {
           "title": "OpenAI曝光GPT-6！传10万亿参数，8月强行发布",
@@ -51,8 +51,30 @@
             7
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[00时07分 ~ 03时59分]"
+          "appearance_count": 7,
+          "time_info": "[00时07分 ~ 04时53分]"
+        },
+        {
+          "title": "大摩启动1.5万亿美元美国创新基础设施计划 聚焦AI等前沿技术",
+          "url": "https://flash.jin10.com/detail/20260811044638936800",
+          "source": "金十数据",
+          "ranks": [
+            3
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "04时53分"
+        },
+        {
+          "title": "据悉OpenAI回购70亿美元员工股份",
+          "url": "https://flash.jin10.com/detail/20260811044344828800",
+          "source": "金十数据",
+          "ranks": [
+            4
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "04时53分"
         },
         {
           "title": "【焦点复盘】微盘股指数7连涨站上年线，全市场近百股涨停，AI赋能持续催热创新药概念",
@@ -62,8 +84,8 @@
             7
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[00时07分 ~ 03时59分]"
+          "appearance_count": 7,
+          "time_info": "[00时07分 ~ 04时53分]"
         },
         {
           "title": "创业板触底回升跌0.7%，医药、消费大涨，芯片算力集体下挫、寒武纪跌超6%，港股老铺黄金大涨12%",
@@ -73,8 +95,8 @@
             9
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[00时07分 ~ 03时59分]"
+          "appearance_count": 7,
+          "time_info": "[00时07分 ~ 04时53分]"
         },
         {
           "title": "OpenAI刊发针对AI基础设施问题向美国得州州长发送的信函。",
@@ -96,8 +118,8 @@
             21
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时07分 ~ 03时59分]"
+          "appearance_count": 5,
+          "time_info": "[00时07分 ~ 04时53分]"
         },
         {
           "title": "OpenAI推出GPT-5.6-Cyber，面向安全人员开放更强AI能力",
@@ -171,6 +193,28 @@
           "time_info": "[01时53分 ~ 01时54分]"
         },
         {
+          "title": "英伟达(NVDA.O)CEO黄仁勋：（谈5000亿美元AI基建融资计划）相关交易将支持人工智能的广泛应用。资金全部来自第三方资本。",
+          "url": "https://flash.jin10.com/detail/20260811042651352800",
+          "source": "金十数据",
+          "ranks": [
+            8
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "04时53分"
+        },
+        {
+          "title": "英伟达CEO黄仁勋：相关交易将支持AI的大范围建设。 （与5000亿美元融资相关的）所有资金都是第三方资本。（CNBC）",
+          "url": "https://wallstreetcn.com/livenews/3147688",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            8
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "04时53分"
+        },
+        {
           "title": "OpenAI推出GPT-5.6-Cyber 面向安全人员开放更强AI能力",
           "url": "https://flash.jin10.com/detail/20260811012108617800",
           "source": "金十数据",
@@ -180,6 +224,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "01时54分"
+        },
+        {
+          "title": "大摩：计划未来十年促成最高1.5万亿美元资金，用于美国创新基建计划，涵盖AI、半导体等战略领域",
+          "url": "https://wallstreetcn.com/livenews/3147686",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "04时53分"
         },
         {
           "title": "高盛研判中国AI股：近期回调已释放核心风险，建议多元布局四大主线",
@@ -204,6 +259,17 @@
           "time_info": "03时01分"
         },
         {
+          "title": "英伟达宣布联手六大金融巨头，布局5000亿美元AI基建融资体系",
+          "url": "https://flash.jin10.com/detail/20260811041811135800",
+          "source": "金十数据",
+          "ranks": [
+            12
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "04时53分"
+        },
+        {
           "title": "现货白银日内涨幅扩大至3.00%，现报65.44美元/盎司。",
           "url": "https://flash.jin10.com/detail/20260811023443695800",
           "source": "金十数据",
@@ -221,7 +287,7 @@
           "ranks": [
             13
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "03时59分"
         },
@@ -235,6 +301,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "03时01分"
+        },
+        {
+          "title": "英伟达：联手高盛等华尔街巨头，建立AI算力基础设施融资平台，来撬动超过5000亿美元的第三方资本",
+          "url": "https://wallstreetcn.com/livenews/3147680",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            15
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "04时53分"
         },
         {
           "title": "OpenAI：GPT-5.6-Cyber并未参与利用漏洞攻击Hugging Face，其他即将发布的模型也不存在参与相关事件的情况。",
@@ -276,7 +353,7 @@
           "ranks": [
             17
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "03时59分"
         },
@@ -331,7 +408,7 @@
           "ranks": [
             19
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "03时59分"
         },
@@ -345,6 +422,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "01时54分"
+        },
+        {
+          "title": "孙女用AI把奶奶P进《西游记》",
+          "url": "https://www.toutiao.com/trending/7672253690623508506/",
+          "source": "今日头条",
+          "ranks": [
+            22
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "04时53分"
         },
         {
           "title": "美国得克萨斯州州长阿博特：OpenAI已经作出承诺，会严格遵循当地数据中心的相关规范标准。",
@@ -383,7 +471,7 @@
     },
     {
       "keyword_group": "特朗普",
-      "match_count": 31,
+      "match_count": 35,
       "titles": [
         {
           "title": "还剩85天，特朗普全面收缩，伊朗左冲右突",
@@ -393,8 +481,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[00时07分 ~ 03时59分]"
+          "appearance_count": 7,
+          "time_info": "[00时07分 ~ 04时53分]"
         },
         {
           "title": "伊朗回应特朗普“棋局”比喻：伊朗人是“专业棋手”",
@@ -404,8 +492,8 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[00时07分 ~ 03时59分]"
+          "appearance_count": 7,
+          "time_info": "[00时07分 ~ 04时53分]"
         },
         {
           "title": "新闻蒸馏器｜内塔尼亚胡公开拒绝美国15点加沙计划，与特朗普罕见摊牌",
@@ -417,8 +505,8 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[00时07分 ~ 03时59分]"
+          "appearance_count": 7,
+          "time_info": "[00时07分 ~ 04时53分]"
         },
         {
           "title": "特朗普称要向伊朗索赔",
@@ -428,8 +516,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[03时58分 ~ 03时59分]"
+          "appearance_count": 3,
+          "time_info": "[03时58分 ~ 04时53分]"
         },
         {
           "title": "据美国哥伦比亚广播公司（CBS）：消息人士表示，美国总统特朗普计划于当地时间周一签署一项有关儿童疫苗政策的行政命令。",
@@ -443,35 +531,13 @@
           "time_info": "01时54分"
         },
         {
-          "title": "美国总统特朗普：我和内塔尼亚胡之间的关系非常好。",
-          "url": "https://flash.jin10.com/detail/20260811034348679800",
-          "source": "金十数据",
-          "ranks": [
-            1
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "03时59分"
-        },
-        {
           "title": "特朗普否认华尔街日报关于他与沃什谈话的报道，称：我非常尊重美联储主席沃什。 几天前还曾与沃什短暂对话过一次。 自从沃什接任美联储主席以来，和他谈过一次。",
           "url": "https://wallstreetcn.com/livenews/3147674",
           "source": "华尔街见闻-快讯",
           "ranks": [
             1
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "03时59分"
-        },
-        {
-          "title": "美国总统特朗普声称：你们会知道（关于伊朗问题的消息）的。",
-          "url": "https://wallstreetcn.com/livenews/3147672",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            3
-          ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "03时59分"
         },
@@ -487,24 +553,13 @@
           "time_info": "01时54分"
         },
         {
-          "title": "美国总统特朗普签署关于疫苗推荐的命令。",
-          "url": "https://wallstreetcn.com/livenews/3147671",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            4
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "03时59分"
-        },
-        {
           "title": "美国总统特朗普：自沃什获得任命以来，我只与他通过一次电话。（否认华尔街日报报道称双方频繁通话）",
           "url": "https://flash.jin10.com/detail/20260811033805170800",
           "source": "金十数据",
           "ranks": [
             5
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "03时59分"
         },
@@ -516,8 +571,8 @@
             10
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[00时07分 ~ 03时59分]"
+          "appearance_count": 7,
+          "time_info": "[00时07分 ~ 04时53分]"
         },
         {
           "title": "释疑｜总在开盘前喊停？从两万五千条交易数据，看特朗普投资“玄学”",
@@ -529,8 +584,44 @@
             20
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[00时07分 ~ 03时59分]"
+          "appearance_count": 7,
+          "time_info": "[00时07分 ~ 04时53分]"
+        },
+        {
+          "title": "美国总统特朗普：我和内塔尼亚胡之间的关系非常好。",
+          "url": "https://flash.jin10.com/detail/20260811034348679800",
+          "source": "金十数据",
+          "ranks": [
+            1,
+            24
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[03时59分 ~ 04时53分]"
+        },
+        {
+          "title": "美国总统特朗普声称：你们会知道（关于伊朗问题的消息）的。",
+          "url": "https://wallstreetcn.com/livenews/3147672",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            3,
+            21
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[03时59分 ~ 04时53分]"
+        },
+        {
+          "title": "美国总统特朗普签署关于疫苗推荐的命令。",
+          "url": "https://wallstreetcn.com/livenews/3147671",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            4,
+            22
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[03时59分 ~ 04时53分]"
         },
         {
           "title": "美国总统特朗普将于当地时间周一签署关于儿童接种疫苗的行政命令。（CBS）",
@@ -587,7 +678,7 @@
           "ranks": [
             6
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "03时59分"
         },
@@ -598,9 +689,20 @@
           "ranks": [
             7
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "03时59分"
+        },
+        {
+          "title": "特朗普称自沃什履新以来仅与其短暂交谈一次 否认频繁沟通",
+          "url": "https://flash.jin10.com/detail/20260811042819105800",
+          "source": "金十数据",
+          "ranks": [
+            7
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "04时53分"
         },
         {
           "title": "美国总统特朗普：我们已经对整个霍尔木兹海峡进行了扫雷。",
@@ -609,7 +711,7 @@
           "ranks": [
             8
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "03时59分"
         },
@@ -620,9 +722,31 @@
           "ranks": [
             9
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "03时59分"
+        },
+        {
+          "title": "特朗普媒体科技集团(DJT.O)第二季度营收170万美元，第二季度净亏损2.381亿美元，调整后EBITDA亏损2.235亿美元。",
+          "url": "https://flash.jin10.com/detail/20260811042521507800",
+          "source": "金十数据",
+          "ranks": [
+            9
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "04时53分"
+        },
+        {
+          "title": "特朗普媒体科技集团二季度净利润2.38亿美元，上年同期亏损0.2亿美元。",
+          "url": "https://wallstreetcn.com/livenews/3147687",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            9
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "04时53分"
         },
         {
           "title": "特朗普延长《琼斯法案》航运豁免90天 适用范围转向能源运输",
@@ -642,7 +766,7 @@
           "ranks": [
             13
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "03时59分"
         },
@@ -675,7 +799,7 @@
           "ranks": [
             15
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "03时59分"
         },
@@ -686,7 +810,7 @@
           "ranks": [
             16
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "03时59分"
         },
@@ -697,9 +821,20 @@
           "ranks": [
             18
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "03时59分"
+        },
+        {
+          "title": "特朗普：自从沃什接任美联储主席以来，和他谈过一次",
+          "url": "https://wallstreetcn.com/livenews/3147674",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            19
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "04时53分"
         },
         {
           "title": "据Axios：特朗普政府正在制定一项行政命令，计划将儿童麻疹、腮腺炎和风疹联合疫苗拆分为三针，并要求在不同医疗就诊中分别接种。",
@@ -738,7 +873,7 @@
     },
     {
       "keyword_group": "伊朗",
-      "match_count": 20,
+      "match_count": 22,
       "titles": [
         {
           "title": "伊朗最高安全官员换人，雷扎伊何许人也？",
@@ -748,8 +883,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[00时07分 ~ 03时59分]"
+          "appearance_count": 7,
+          "time_info": "[00时07分 ~ 04时53分]"
         },
         {
           "title": "伊朗的5个条件，美国是否会照单全收？",
@@ -813,22 +948,24 @@
           "ranks": [
             7,
             26,
-            21
+            21,
+            18
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时07分 ~ 03时59分]"
+          "appearance_count": 5,
+          "time_info": "[00时07分 ~ 04时53分]"
         },
         {
           "title": "伊朗：每当华盛顿发现自己无力开展外交，就会退而诉诸制裁",
           "url": "https://wallstreetcn.com/livenews/3147668",
           "source": "华尔街见闻-快讯",
           "ranks": [
-            6
+            6,
+            24
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "03时59分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[03时59分 ~ 04时53分]"
         },
         {
           "title": "市场消息：伊朗最高领袖任命六名新军事指挥官。",
@@ -864,6 +1001,28 @@
           "time_info": "00时07分"
         },
         {
+          "title": "伊朗总统称与最高领袖会谈七八个小时，其健康状况很好",
+          "url": "https://wallstreetcn.com/livenews/3147684",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            12
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "04时53分"
+        },
+        {
+          "title": "德国外长瓦德富尔：在与伊朗外长阿拉格奇的通话中，我敦促伊朗与地区邻国和美国进行建设性谈判，以结束冲突。霍尔木兹海峡必须无条件开放，确保所有船只自由安全地航行。",
+          "url": "https://flash.jin10.com/detail/20260811041240333800",
+          "source": "金十数据",
+          "ranks": [
+            14
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "04时53分"
+        },
+        {
           "title": "巴基斯坦外交部：伊朗外长同巴基斯坦外长讨论地区与国际局势。 双方就地区及国际事态交换看法，重点围绕地区局势演变以及维护和平稳定的各项努力。 巴外长与阿拉格齐复盘巴、土、沙三方《麦加协议》的各项条款，并着重强调该协议对促进地区和平安全的目标。",
           "url": "https://wallstreetcn.com/livenews/3147587",
           "source": "华尔街见闻-快讯",
@@ -892,7 +1051,7 @@
           "ranks": [
             21
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "03时59分"
         },
@@ -903,7 +1062,7 @@
           "ranks": [
             22
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "03时59分"
         },
@@ -914,7 +1073,7 @@
           "ranks": [
             23
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "03时59分"
         },
@@ -925,7 +1084,7 @@
           "ranks": [
             24
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "03时59分"
         },
@@ -966,8 +1125,85 @@
     },
     {
       "keyword_group": "美股",
-      "match_count": 2,
+      "match_count": 9,
       "titles": [
+        {
+          "title": "周一（8月10日），美股存储芯片与硬件供应链指数跌1.22%，报184.13点，美股盘初冲高回落，结束交易前30分钟内（再次）开启一波显著下跌的行情。 成分股Rambus收跌5.55%，泰瑞达跌3.75%，应用材料跌3.16%，美光科技、拉姆研究、希捷科技至少跌1.45%，西部数据收涨0.93%，闪迪涨2.12%。 此外，铠侠ADR跌4.01%，SK海力士ADR跌1.9%。",
+          "url": "https://wallstreetcn.com/livenews/3147690",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            6
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "04时53分"
+        },
+        {
+          "title": "美股大类资产类ETF多数收跌，布油基金涨约6.8%",
+          "url": "https://wallstreetcn.com/livenews/3147685",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            11
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "04时53分"
+        },
+        {
+          "title": "Hims & Hers美股盘后涨4%。",
+          "url": "https://wallstreetcn.com/livenews/3147682",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            13
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "04时53分"
+        },
+        {
+          "title": "周一（8月10日），美股行业ETF普遍收跌，全球航空业ETF跌3.38%，半导体ETF跌2.28%，全球科技股指数ETF、科技行业ETF至多跌1.03%，网络股指数ETF涨1.29%，能源业ETF涨4.68%。 标普500指数的11个板块中，房地产板块收跌1.23%，公用事业、信息技术/科技板块至多跌1.11%，能源板块涨4.63%。",
+          "url": "https://wallstreetcn.com/livenews/3147681",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            14
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "04时53分"
+        },
+        {
+          "title": "金十图示：2026年08月10日（周一）美股热门股票行情一览（美股收盘）",
+          "url": "https://flash.jin10.com/detail/20260811040544089800",
+          "source": "金十数据",
+          "ranks": [
+            19
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "04时53分"
+        },
+        {
+          "title": "金十图示：2026年08月10日（周一）热门中概股行情一览（美股收盘）",
+          "url": "https://flash.jin10.com/detail/20260811040524679800",
+          "source": "金十数据",
+          "ranks": [
+            21
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "04时53分"
+        },
+        {
+          "title": "美股收盘：三大股指收跌 金龙指数涨1.6%",
+          "url": "https://flash.jin10.com/detail/20260811040205708800",
+          "source": "金十数据",
+          "ranks": [
+            22
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "04时53分"
+        },
         {
           "title": "美股三大指数集体走低，纳指跌0.51%，道指跌0.25%， 标普500指数跌0.17%。",
           "url": "https://flash.jin10.com/detail/20260811004521998800",
@@ -994,18 +1230,30 @@
     },
     {
       "keyword_group": "美元",
-      "match_count": 2,
+      "match_count": 3,
       "titles": [
         {
           "title": "周一（8月10日）纽约尾盘，ICE美元指数涨0.29%，刷新日高至99.829点，整体处于上涨状态，亚太盘初以来冲高回落、北京时间16:15回落至99.603点刷新日低，之后一度持续扩大涨幅。 彭博美元指数涨0.25%，逼近21:53刷新的日高1203.67点。",
           "url": "https://wallstreetcn.com/livenews/3147664",
           "source": "华尔街见闻-快讯",
           "ranks": [
-            10
+            10,
+            28
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[03时59分 ~ 04时53分]"
+        },
+        {
+          "title": "北美科技软件股指数ETF收涨2.26%，报105.01美元，逼近6月1日收盘位107.68美元和2025年9月份顶部117.97美元。",
+          "url": "https://wallstreetcn.com/livenews/3147689",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            7
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "03时59分"
+          "time_info": "04时53分"
         },
         {
           "title": "美元指数10日上涨",
@@ -1014,7 +1262,7 @@
           "ranks": [
             11
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "03时59分"
         }
