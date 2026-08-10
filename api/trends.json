@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-08-10T14:12:33.693755+08:00",
-  "total_titles_processed": 997,
+  "generated_at": "2026-08-10T16:29:00.257514+08:00",
+  "total_titles_processed": 1158,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "DeepSeek Ai 水球泡 谷歌 google gemini 好书推荐 chatgpt openai 白银 金价石油 黄金 热梗",
-      "match_count": 35,
+      "match_count": 40,
       "titles": [
         {
           "title": "中国7月CPI同比涨幅收窄至0.5%，PPI同比上涨3.5%，AI驱动平板电脑价格环比上涨11.3%",
@@ -37,11 +37,12 @@
           "ranks": [
             10,
             6,
-            5
+            5,
+            3
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[03时35分 ~ 14时12分]"
+          "appearance_count": 12,
+          "time_info": "[03时35分 ~ 16时29分]"
         },
         {
           "title": "AI硬件涨价潮传导3C租赁：需求翻倍，租赁商拆售显卡内存|一线",
@@ -115,11 +116,12 @@
           "source": "贴吧",
           "ranks": [
             20,
-            25
+            25,
+            30
           ],
           "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[00时38分 ~ 14时12分]"
+          "appearance_count": 12,
+          "time_info": "[00时38分 ~ 16时29分]"
         },
         {
           "title": "退市新规征求意见，全球芯片LOF跌停，白银LOF重挫",
@@ -165,7 +167,7 @@
           "ranks": [
             4
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "14时12分"
         },
@@ -181,6 +183,18 @@
           "time_info": "07时34分"
         },
         {
+          "title": "高盛：中国AI板块不存在整体泡沫 三大细分领域最具投资价值",
+          "url": "https://www.cls.cn/detail/2449732",
+          "source": "财联社热门",
+          "ranks": [
+            6,
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[14时12分 ~ 16时29分]"
+        },
+        {
           "title": "数学家张寿武获颁基础科学奖章，笑称“不敢跟AI交流”",
           "url": "https://wallstreetcn.com/livenews/3147103",
           "source": "华尔街见闻-快讯",
@@ -192,6 +206,19 @@
           "is_new": false,
           "appearance_count": 7,
           "time_info": "[00时38分 ~ 06时34分]"
+        },
+        {
+          "title": "67 岁农户听信 AI 喷农药致 150 亩地一夜枯萎，老人听 AI 翻车的事层出不穷，有啥办法能帮助他们辨别吗？",
+          "url": "https://www.zhihu.com/question/2069770698055050765",
+          "source": "知乎",
+          "ranks": [
+            9,
+            4,
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[12时04分 ~ 16时29分]"
         },
         {
           "title": "为什么程序员大多都拥抱 AI，而音乐人却抗拒并隔离 AI 音乐池？",
@@ -207,16 +234,17 @@
           "time_info": "[09时58分 ~ 14时12分]"
         },
         {
-          "title": "67 岁农户听信 AI 喷农药致 150 亩地一夜枯萎，老人听 AI 翻车的事层出不穷，有啥办法能帮助他们辨别吗？",
-          "url": "https://www.zhihu.com/question/2069770698055050765",
-          "source": "知乎",
+          "title": "OpenAI曝光GPT-6！传10万亿参数，8月强行发布",
+          "url": "https://wallstreetcn.com/articles/3779038",
+          "source": "华尔街见闻",
           "ranks": [
-            9,
-            4
+            10,
+            8,
+            5
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[12时04分 ~ 14时12分]"
+          "appearance_count": 4,
+          "time_info": "[12时04分 ~ 16时29分]"
         },
         {
           "title": "毛宁向世界分享AI“中式天庭”",
@@ -245,27 +273,26 @@
           "time_info": "[06时34分 ~ 07时34分]"
         },
         {
-          "title": "OpenAI曝光GPT-6！传10万亿参数，8月强行发布",
-          "url": "https://wallstreetcn.com/articles/3779038",
-          "source": "华尔街见闻",
+          "title": "券商晨会精华：AI制药大有可为，产业链有望持续受益",
+          "url": "https://www.cls.cn/detail/2449501",
+          "source": "财联社热门",
           "ranks": [
-            10,
-            8
+            12
           ],
           "is_new": false,
           "appearance_count": 2,
-          "time_info": "[12时04分 ~ 14时12分]"
+          "time_info": "[16时28分 ~ 16时29分]"
         },
         {
-          "title": "高盛：中国AI板块不存在整体泡沫 三大细分领域最具投资价值",
-          "url": "https://www.cls.cn/detail/2449732",
-          "source": "财联社热门",
+          "title": "孙女用AI把奶奶P进《西游记》",
+          "url": "https://www.toutiao.com/trending/7672253690623508506/",
+          "source": "今日头条",
           "ranks": [
-            6
+            17
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "14时12分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[16时28分 ~ 16时29分]"
         },
         {
           "title": "百度搭子连续推出生产力套件，加码AI办公",
@@ -274,7 +301,7 @@
           "ranks": [
             7
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "14时12分"
         },
@@ -296,7 +323,7 @@
           "ranks": [
             8
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "14时12分"
         },
@@ -321,6 +348,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "09时59分"
+        },
+        {
+          "title": "AI挤占短剧业,真人演员遭偷家",
+          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28357005&amp;topic_name=AI%E6%8C%A4%E5%8D%A0%E7%9F%AD%E5%89%A7%E4%B8%9A%2C%E7%9C%9F%E4%BA%BA%E6%BC%94%E5%91%98%E9%81%AD%E5%81%B7%E5%AE%B6",
+          "source": "贴吧",
+          "ranks": [
+            14
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时29分"
         },
         {
           "title": "现货白银向下触及63美元/盎司，日内跌0.84%。",
@@ -362,9 +400,20 @@
           "ranks": [
             19
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "14时12分"
+        },
+        {
+          "title": "AI桌宠可以联机去对方桌面串门",
+          "url": "https://s.weibo.com/weibo?q=AI%E6%A1%8C%E5%AE%A0%E5%8F%AF%E4%BB%A5%E8%81%94%E6%9C%BA%E5%8E%BB%E5%AF%B9%E6%96%B9%E6%A1%8C%E9%9D%A2%E4%B8%B2%E9%97%A8&t=31&band_rank=19&Refer=top",
+          "source": "微博",
+          "ranks": [
+            19
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时29分"
         },
         {
           "title": "现货白银日内涨幅达1.00%，现报64.17美元/盎司。",
@@ -373,7 +422,7 @@
           "ranks": [
             20
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "14时12分"
         },
@@ -395,9 +444,20 @@
           "ranks": [
             22
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "14时12分"
+        },
+        {
+          "title": "第一批用AI租房的受益者出现了",
+          "url": "https://s.weibo.com/weibo?q=%E7%AC%AC%E4%B8%80%E6%89%B9%E7%94%A8AI%E7%A7%9F%E6%88%BF%E7%9A%84%E5%8F%97%E7%9B%8A%E8%80%85%E5%87%BA%E7%8E%B0%E4%BA%86&t=31&band_rank=22&Refer=top",
+          "source": "微博",
+          "ranks": [
+            22
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时29分"
         },
         {
           "title": "“金虫”没有退场：黄金多头等待债市转向，看涨押注正在升温",
@@ -425,7 +485,7 @@
     },
     {
       "keyword_group": "伊朗",
-      "match_count": 27,
+      "match_count": 36,
       "titles": [
         {
           "title": "伊朗婉转回应最高领袖病危传闻",
@@ -465,6 +525,17 @@
           "time_info": "[00时38分 ~ 12时04分]"
         },
         {
+          "title": "伊朗高层变动，最高领袖发出新任命",
+          "url": "https://news.ifeng.com/c/8vSqCKLbBLT",
+          "source": "凤凰网",
+          "ranks": [
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[09时58分 ~ 16时29分]"
+        },
+        {
           "title": "伊朗最高领袖与总统会谈",
           "url": "https://www.toutiao.com/trending/7670941843498287158/",
           "source": "今日头条",
@@ -473,22 +544,23 @@
             2,
             18,
             25,
-            19
+            19,
+            13
           ],
           "is_new": false,
-          "appearance_count": 13,
-          "time_info": "[00时38分 ~ 14时12分]"
+          "appearance_count": 15,
+          "time_info": "[00时38分 ~ 16时29分]"
         },
         {
-          "title": "伊朗高层变动，最高领袖发出新任命",
-          "url": "https://news.ifeng.com/c/8vSqCKLbBLT",
+          "title": "伊朗密集更换高层，释放何种信号？",
+          "url": "https://news.ifeng.com/c/8vTT2C4rKru",
           "source": "凤凰网",
           "ranks": [
-            1
+            2
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[09时58分 ~ 14时12分]"
+          "appearance_count": 3,
+          "time_info": "[14时12分 ~ 16时29分]"
         },
         {
           "title": "伊朗议会批准霍尔木兹海峡安全纲要",
@@ -513,15 +585,26 @@
           "time_info": "[00时38分 ~ 07时34分]"
         },
         {
-          "title": "伊朗密集更换高层，释放何种信号？",
-          "url": "https://news.ifeng.com/c/8vTT2C4rKru",
+          "title": "伊朗的5个条件，美国是否会照单全收？",
+          "url": "https://news.ifeng.com/c/8vTVeZD1iIn",
           "source": "凤凰网",
+          "ranks": [
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[16时28分 ~ 16时29分]"
+        },
+        {
+          "title": "伊朗：伊朗议长加利巴夫和伊朗外长阿拉格奇将在适当时机访问巴基斯坦。",
+          "url": "https://wallstreetcn.com/livenews/3147367",
+          "source": "华尔街见闻-快讯",
           "ranks": [
             2
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "14时12分"
+          "time_info": "16时29分"
         },
         {
           "title": "俄媒称伊朗布什尔核电站新机组建设仍在继续",
@@ -536,6 +619,18 @@
           "is_new": false,
           "appearance_count": 8,
           "time_info": "[00时38分 ~ 07时34分]"
+        },
+        {
+          "title": "美军基地遭袭，伊朗公布最新卫星对比图",
+          "url": "https://news.ifeng.com/c/8vT6dxUIQom",
+          "source": "凤凰网",
+          "ranks": [
+            6,
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[09时58分 ~ 16时29分]"
         },
         {
           "title": "伊朗总统：愿保持沟通，但绝不会坐等任何外部势力",
@@ -670,17 +765,6 @@
           "time_info": "[04时36分 ~ 06时34分]"
         },
         {
-          "title": "美军基地遭袭，伊朗公布最新卫星对比图",
-          "url": "https://news.ifeng.com/c/8vT6dxUIQom",
-          "source": "凤凰网",
-          "ranks": [
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[09时58分 ~ 14时12分]"
-        },
-        {
           "title": "据沙特媒体哈达斯（Alhadath）：也门国家抵抗力量表示，胡塞武装是伊朗的工具，其决策权掌握在伊朗手中。该组织企图通过制造混乱、激化紧张局势来为伊朗服务，以帮助其缓解外部压力。也门国家抵抗力量强调，胡塞武装并非和平工具，而是“战争工具”，与其达成和平毫无可能。该组织同时警告，胡塞武装的冒险行为绝不会被姑息纵容。",
           "url": "https://flash.jin10.com/detail/20260810003151519800",
           "source": "金十数据",
@@ -705,6 +789,39 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[00时38分 ~ 02时44分]"
+        },
+        {
+          "title": "伊朗外交部发言人：伊朗正随时提升自身能力以应对任何事件。",
+          "url": "https://flash.jin10.com/detail/20260810160946434800",
+          "source": "金十数据",
+          "ranks": [
+            7
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时29分"
+        },
+        {
+          "title": "伊朗：与阿曼有关霍尔木兹海峡的协议包含海上服务费。",
+          "url": "https://wallstreetcn.com/livenews/3147358",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            9
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时29分"
+        },
+        {
+          "title": "伊朗外交部发言人：重新开放海峡需美国结束封锁并予以赔偿。",
+          "url": "https://wallstreetcn.com/livenews/3147356",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时29分"
         },
         {
           "title": "伊朗最高领袖与总统会谈",
@@ -740,6 +857,17 @@
           "time_info": "07时34分"
         },
         {
+          "title": "伊朗外交部发言人：德黑兰与伊斯兰堡之间的双边关系，特别是在近几个月来，变得越来越重要，这些互访是两国邻邦关系不断发展过程中自然而然的一部分。",
+          "url": "https://flash.jin10.com/detail/20260810160422548800",
+          "source": "金十数据",
+          "ranks": [
+            20
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时29分"
+        },
+        {
           "title": "伊朗高层重要人事变动",
           "url": "https://s.weibo.com/weibo?q=%23%E4%BC%8A%E6%9C%97%E9%AB%98%E5%B1%82%E9%87%8D%E8%A6%81%E4%BA%BA%E4%BA%8B%E5%8F%98%E5%8A%A8%23&t=31&band_rank=20&Refer=top",
           "source": "微博",
@@ -749,6 +877,39 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "05时35分"
+        },
+        {
+          "title": "伊朗外交部发言人：已收到巴基斯坦对伊朗外长阿拉格齐和伊朗议会议长卡利巴夫的邀请，访问将在适当的时候进行。",
+          "url": "https://flash.jin10.com/detail/20260810160412431800",
+          "source": "金十数据",
+          "ranks": [
+            21
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时29分"
+        },
+        {
+          "title": "伊朗外交部发言人：就此，近日，伊朗工业、科学和内政部长已赴巴基斯坦，就各项专业议题进行了磋商。",
+          "url": "https://flash.jin10.com/detail/20260810160322491800",
+          "source": "金十数据",
+          "ranks": [
+            23
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时29分"
+        },
+        {
+          "title": "伊朗外交部发言人：作为关系密切且不断发展的两个邻国，伊朗与巴基斯坦之间的互访和会晤是完全自然的事情。",
+          "url": "https://flash.jin10.com/detail/20260810160301255800",
+          "source": "金十数据",
+          "ranks": [
+            24
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时29分"
         },
         {
           "title": "伊朗陆军司令：将回应任何敌对行动",
@@ -765,7 +926,7 @@
     },
     {
       "keyword_group": "特朗普",
-      "match_count": 18,
+      "match_count": 20,
       "titles": [
         {
           "title": "特朗普宣布：将向关键矿产和电池项目投资30亿美元",
@@ -788,8 +949,8 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 12,
-          "time_info": "[01时34分 ~ 14时12分]"
+          "appearance_count": 14,
+          "time_info": "[01时34分 ~ 16时29分]"
         },
         {
           "title": "霍尔木兹协议临门一脚却卡死：伊朗抬高条件，特朗普突然降调改打“耐心牌”",
@@ -825,6 +986,19 @@
           "time_info": "[00时38分 ~ 07时34分]"
         },
         {
+          "title": "特朗普这是此地无银三百两吗？",
+          "url": "https://news.ifeng.com/c/8vT8RYkNUYi",
+          "source": "凤凰网",
+          "ranks": [
+            10,
+            9,
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[09时58分 ~ 16时29分]"
+        },
+        {
           "title": "特朗普公布新任总统助理人选",
           "url": "https://news.ifeng.com/c/8vT8RYkNUQr",
           "source": "凤凰网",
@@ -837,17 +1011,16 @@
           "time_info": "[09时58分 ~ 12时04分]"
         },
         {
-          "title": "特朗普这是此地无银三百两吗？",
-          "url": "https://news.ifeng.com/c/8vT8RYkNUYi",
+          "title": "2架飞机靠近特朗普高尔夫俱乐部，F-16出动拦截",
+          "url": "https://news.ifeng.com/c/8vT4r6JlFq0",
           "source": "凤凰网",
           "ranks": [
-            10,
             9,
-            5
+            8
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[09时58分 ~ 14时12分]"
+          "appearance_count": 6,
+          "time_info": "[09时58分 ~ 16时29分]"
         },
         {
           "title": "美媒：特朗普暂缓对伊动武，称正“低调处理”伊朗问题",
@@ -903,16 +1076,15 @@
           "time_info": "[03时35分 ~ 05时35分]"
         },
         {
-          "title": "2架飞机靠近特朗普高尔夫俱乐部，F-16出动拦截",
-          "url": "https://news.ifeng.com/c/8vT4r6JlFq0",
+          "title": "美媒焦虑：特朗普这招伤不了中国，买单的将是盟友和自己",
+          "url": "https://news.ifeng.com/c/8vTIjJmGwAk",
           "source": "凤凰网",
           "ranks": [
-            9,
-            8
+            11
           ],
           "is_new": false,
           "appearance_count": 4,
-          "time_info": "[09时58分 ~ 14时12分]"
+          "time_info": "[12时04分 ~ 16时29分]"
         },
         {
           "title": "据英国金融时报：前美国安全官员警告，美国总统特朗普正在拆除美国的防护屏障。",
@@ -940,15 +1112,15 @@
           "time_info": "[04时36分 ~ 05时35分]"
         },
         {
-          "title": "美媒焦虑：特朗普这招伤不了中国，买单的将是盟友和自己",
-          "url": "https://news.ifeng.com/c/8vTIjJmGwAk",
-          "source": "凤凰网",
+          "title": "新闻蒸馏器｜内塔尼亚胡公开拒绝美国15点加沙计划，与特朗普罕见摊牌",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33750452",
+          "source": "澎湃新闻",
           "ranks": [
-            11
+            10
           ],
           "is_new": false,
           "appearance_count": 2,
-          "time_info": "[12时04分 ~ 14时12分]"
+          "time_info": "[16时28分 ~ 16时29分]"
         },
         {
           "title": "内塔尼亚胡认为在加沙计划上跟特朗普作对“没有风险”",
@@ -961,6 +1133,17 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[00时38分 ~ 01时34分]"
+        },
+        {
+          "title": "前美国官员：特朗普使美国安全恶化",
+          "url": "https://www.toutiao.com/trending/7671249968112173098/",
+          "source": "今日头条",
+          "ranks": [
+            22
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[16时28分 ~ 16时29分]"
         },
         {
           "title": "美媒：美官员称特朗普耐心应对伊朗僵局，重点聚焦海峡通航",
@@ -1024,6 +1207,23 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[06时34分 ~ 07时34分]"
+        }
+      ]
+    },
+    {
+      "keyword_group": "美债",
+      "match_count": 1,
+      "titles": [
+        {
+          "title": "巴克莱：日本投资者7月份减持美债 买入欧洲发达市场债券",
+          "url": "https://wallstreetcn.com/livenews/3147365",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            4
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时29分"
         }
       ]
     },
