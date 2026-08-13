@@ -1,22 +1,35 @@
 {
-  "generated_at": "2026-08-14T05:49:30.529279+08:00",
-  "total_titles_processed": 491,
+  "generated_at": "2026-08-14T07:43:50.366571+08:00",
+  "total_titles_processed": 580,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "DeepSeek Ai 水球泡 谷歌 google gemini 好书推荐 chatgpt openai 白银 金价石油 黄金 热梗",
-      "match_count": 32,
+      "match_count": 39,
       "titles": [
         {
           "title": "怎么看 DeepSeek 8 月 17 日涨价后的价格，这个峰谷定价你接受吗？",
           "url": "https://www.zhihu.com/question/2071318356477662328",
           "source": "知乎",
           "ranks": [
-            1
+            1,
+            2
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时05分 ~ 05时49分]"
+          "appearance_count": 5,
+          "time_info": "[00时05分 ~ 07时43分]"
+        },
+        {
+          "title": "DeepSeek宣布API涨价，8月17日起峰值价格最高涨至27元，新版V4 Pro正式上线",
+          "url": "https://wallstreetcn.com/articles/3779377",
+          "source": "华尔街见闻",
+          "ranks": [
+            4,
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[00时05分 ~ 07时43分]"
         },
         {
           "title": "美温和CPI缓解加息压力，光通信领涨美股，Nebius暴涨超34%，美元、黄金齐涨",
@@ -31,18 +44,6 @@
           "time_info": "[00时05分 ~ 05时49分]"
         },
         {
-          "title": "DeepSeek宣布API涨价，8月17日起峰值价格最高涨至27元，新版V4 Pro正式上线",
-          "url": "https://wallstreetcn.com/articles/3779377",
-          "source": "华尔街见闻",
-          "ranks": [
-            4,
-            3
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时05分 ~ 05时49分]"
-        },
-        {
           "title": "AI给假网,吧友中招银狐病毒",
           "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28357340&amp;topic_name=AI%E7%BB%99%E5%81%87%E7%BD%91%2C%E5%90%A7%E5%8F%8B%E4%B8%AD%E6%8B%9B%E9%93%B6%E7%8B%90%E7%97%85%E6%AF%92",
           "source": "贴吧",
@@ -50,8 +51,32 @@
             4
           ],
           "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[00时06分 ~ 07时43分]"
+        },
+        {
+          "title": "俱往矣!DeepSeek大幅涨价",
+          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28357395&amp;topic_name=%E4%BF%B1%E5%BE%80%E7%9F%A3%21DeepSeek%E5%A4%A7%E5%B9%85%E6%B6%A8%E4%BB%B7",
+          "source": "贴吧",
+          "ranks": [
+            3
+          ],
+          "is_new": false,
           "appearance_count": 3,
-          "time_info": "[00时06分 ~ 05时49分]"
+          "time_info": "[04时46分 ~ 07时43分]"
+        },
+        {
+          "title": "如何评价在 8 月 13 日发布的 DeepSeek Harness？",
+          "url": "https://www.zhihu.com/question/2071335529577239335",
+          "source": "知乎",
+          "ranks": [
+            6,
+            2,
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[00时05分 ~ 07时43分]"
         },
         {
           "title": "DeepSeek V4 Pro正式版深夜“突袭”：多项测试逼近Fable 5，撞车Grok 4.6",
@@ -63,17 +88,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[00时05分 ~ 00时06分]"
-        },
-        {
-          "title": "俱往矣!DeepSeek大幅涨价",
-          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28357395&amp;topic_name=%E4%BF%B1%E5%BE%80%E7%9F%A3%21DeepSeek%E5%A4%A7%E5%B9%85%E6%B6%A8%E4%BB%B7",
-          "source": "贴吧",
-          "ranks": [
-            3
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[04时46分 ~ 05时49分]"
         },
         {
           "title": "DeepSeek API确认涨价",
@@ -89,15 +103,15 @@
           "time_info": "[00时05分 ~ 05时49分]"
         },
         {
-          "title": "OpenAI 上市前年化营收突破 400 亿美元",
-          "url": "https://wallstreetcn.com/livenews/3149336",
-          "source": "华尔街见闻-快讯",
+          "title": "【早报】高达100%，美国将对进口无人机及零部件征收关税；美存储股集体走强；原油、黄金双双下行",
+          "url": "https://www.cls.cn/detail/2454005",
+          "source": "财联社热门",
           "ranks": [
-            2
+            3
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "05时49分"
+          "time_info": "07时43分"
         },
         {
           "title": "OpenAI在不到一年内任命新首席营收官",
@@ -117,21 +131,9 @@
           "ranks": [
             5
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "05时49分"
-        },
-        {
-          "title": "如何评价在 8 月 13 日发布的 DeepSeek Harness？",
-          "url": "https://www.zhihu.com/question/2071335529577239335",
-          "source": "知乎",
-          "ranks": [
-            6,
-            2
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时05分 ~ 05时49分]"
         },
         {
           "title": "DeepSeek Harness发布",
@@ -143,8 +145,32 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时05分 ~ 05时49分]"
+          "appearance_count": 5,
+          "time_info": "[00时05分 ~ 07时43分]"
+        },
+        {
+          "title": "DeepSeek官方Agent发布",
+          "url": "https://search.bilibili.com/all?keyword=DeepSeek%E5%AE%98%E6%96%B9Agent%E5%8F%91%E5%B8%83",
+          "source": "bilibili 热搜",
+          "ranks": [
+            14,
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[05时49分 ~ 07时43分]"
+        },
+        {
+          "title": "OpenAI 上市前年化营收突破 400 亿美元",
+          "url": "https://wallstreetcn.com/livenews/3149336",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            2,
+            16
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[05时49分 ~ 07时43分]"
         },
         {
           "title": "DeepSeek智能体曝光！人人用得起的Agent？",
@@ -153,23 +179,12 @@
           "ranks": [
             9,
             8,
-            7
+            7,
+            6
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时05分 ~ 05时49分]"
-        },
-        {
-          "title": "AI服务器订单爆发！联想Q1财季营收同比增43%，经调整净利润增176%，股价大涨创新高 | 财报见闻",
-          "url": "https://wallstreetcn.com/articles/3779354",
-          "source": "华尔街见闻",
-          "ranks": [
-            10,
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时05分 ~ 05时49分]"
+          "appearance_count": 5,
+          "time_info": "[00时05分 ~ 07时43分]"
         },
         {
           "title": "用AI给小时候的自己做头像",
@@ -178,11 +193,52 @@
           "ranks": [
             14,
             10,
-            11
+            11,
+            6
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时05分 ~ 05时49分]"
+          "appearance_count": 5,
+          "time_info": "[00时05分 ~ 07时43分]"
+        },
+        {
+          "title": "AI服务器订单爆发！联想Q1财季营收同比增43%，经调整净利润增176%，股价大涨创新高 | 财报见闻",
+          "url": "https://wallstreetcn.com/articles/3779354",
+          "source": "华尔街见闻",
+          "ranks": [
+            10,
+            9,
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[00时05分 ~ 07时43分]"
+        },
+        {
+          "title": "用AI给朋友做个专属小游戏",
+          "url": "https://www.douyin.com/hot/2608715",
+          "source": "抖音",
+          "ranks": [
+            17,
+            23,
+            19,
+            13
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[00时05分 ~ 07时43分]"
+        },
+        {
+          "title": "AI拍出中国版怪奇物语",
+          "url": "https://www.douyin.com/hot/2608564",
+          "source": "抖音",
+          "ranks": [
+            25,
+            17,
+            16
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[00时05分 ~ 07时43分]"
         },
         {
           "title": "如何看待 Deepseek Harness 发布？",
@@ -198,31 +254,6 @@
           "time_info": "[00时05分 ~ 05时49分]"
         },
         {
-          "title": "用AI给朋友做个专属小游戏",
-          "url": "https://www.douyin.com/hot/2608715",
-          "source": "抖音",
-          "ranks": [
-            17,
-            23,
-            19
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时05分 ~ 05时49分]"
-        },
-        {
-          "title": "AI拍出中国版怪奇物语",
-          "url": "https://www.douyin.com/hot/2608564",
-          "source": "抖音",
-          "ranks": [
-            25,
-            17
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时05分 ~ 05时49分]"
-        },
-        {
           "title": "光速关服,AI虚拟歌姬停运",
           "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28357199&amp;topic_name=%E5%85%89%E9%80%9F%E5%85%B3%E6%9C%8D%2CAI%E8%99%9A%E6%8B%9F%E6%AD%8C%E5%A7%AC%E5%81%9C%E8%BF%90",
           "source": "贴吧",
@@ -231,8 +262,21 @@
             26
           ],
           "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[00时06分 ~ 07时43分]"
+        },
+        {
+          "title": "受益AI需求外溢，中芯国际Q2营收突破30亿美元，净利暴增近4倍，Q3收入环比预增2%至4%｜财报见闻",
+          "url": "https://wallstreetcn.com/articles/3779371",
+          "source": "华尔街见闻",
+          "ranks": [
+            10,
+            9,
+            7
+          ],
+          "is_new": false,
           "appearance_count": 3,
-          "time_info": "[00时06分 ~ 05时49分]"
+          "time_info": "[04时46分 ~ 07时43分]"
         },
         {
           "title": "AI“循环融资”越来越仰赖一件事：英伟达GPU能保值多久……",
@@ -269,16 +313,16 @@
           "time_info": "[00时05分 ~ 00时06分]"
         },
         {
-          "title": "受益AI需求外溢，中芯国际Q2营收突破30亿美元，净利暴增近4倍，Q3收入环比预增2%至4%｜财报见闻",
-          "url": "https://wallstreetcn.com/articles/3779371",
-          "source": "华尔街见闻",
+          "title": "周四（8月13日）纽约尾盘，现货黄金跌1.34%，报4350.20美元/盎司。 现货白银跌1.43%，报64.427美元/盎司，日内震荡下行，交投于66.303-64.219美元。 COMEX铜期货跌0.35%，报6.5326美元/磅，盘中一度走V收复跌幅，美PPI数据后较日高回落收跌。",
+          "url": "https://wallstreetcn.com/livenews/3149326",
+          "source": "华尔街见闻-快讯",
           "ranks": [
             10,
-            9
+            24
           ],
           "is_new": false,
           "appearance_count": 2,
-          "time_info": "[04时46分 ~ 05时49分]"
+          "time_info": "[05时49分 ~ 07时43分]"
         },
         {
           "title": "黄金后市何去何从？业内预测：年内仍有上行空间，最高看向7150美元！",
@@ -325,6 +369,17 @@
           "time_info": "[00时05分 ~ 00时06分]"
         },
         {
+          "title": "AI驱动半导体景气度高涨，两大晶圆厂第二季度收入均创新高",
+          "url": "https://wallstreetcn.com/livenews/3149345",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            7
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "07时43分"
+        },
+        {
           "title": "位列全球第二，国内高校团队AI安全攻防测评获佳绩",
           "url": "https://wallstreetcn.com/livenews/3149243",
           "source": "华尔街见闻-快讯",
@@ -336,26 +391,48 @@
           "time_info": "00时06分"
         },
         {
-          "title": "周四（8月13日）纽约尾盘，现货黄金跌1.34%，报4350.20美元/盎司。 现货白银跌1.43%，报64.427美元/盎司，日内震荡下行，交投于66.303-64.219美元。 COMEX铜期货跌0.35%，报6.5326美元/磅，盘中一度走V收复跌幅，美PPI数据后较日高回落收跌。",
-          "url": "https://wallstreetcn.com/livenews/3149326",
-          "source": "华尔街见闻-快讯",
+          "title": "DeepSeek Harness 开发者预览版：一切皆插件",
+          "url": "https://wallstreetcn.com/articles/3779385",
+          "source": "华尔街见闻",
+          "ranks": [
+            9
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "07时43分"
+        },
+        {
+          "title": "“大空头”再炮轰：英伟达AI扩张有“安然的影子”、危害“高出几个数量级”",
+          "url": "https://wallstreetcn.com/articles/3779359",
+          "source": "华尔街见闻",
           "ranks": [
             10
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "05时49分"
+          "time_info": "07时43分"
         },
         {
-          "title": "DeepSeek官方Agent发布",
-          "url": "https://search.bilibili.com/all?keyword=DeepSeek%E5%AE%98%E6%96%B9Agent%E5%8F%91%E5%B8%83",
-          "source": "bilibili 热搜",
+          "title": "全球最大黄金ETF--SPDR Gold Trust持仓较上日减少2.568吨，当前持仓量为1023.243吨。",
+          "url": "https://flash.jin10.com/detail/20260814061842030800",
+          "source": "金十数据",
           "ranks": [
-            14
+            18
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "05时49分"
+          "time_info": "07时43分"
+        },
+        {
+          "title": "DeepSeek官网撤公告疑似回滚",
+          "url": "https://s.weibo.com/weibo?q=DeepSeek%E5%AE%98%E7%BD%91%E6%92%A4%E5%85%AC%E5%91%8A%E7%96%91%E4%BC%BC%E5%9B%9E%E6%BB%9A&t=31&band_rank=19&Refer=top",
+          "source": "微博",
+          "ranks": [
+            19
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "07时43分"
         },
         {
           "title": "周四（8月13日），万得美国科技股七巨头（Magnificent 7）指数涨0.82%。 特斯拉涨3.80%，Meta Platforms涨2.74%，苹果涨1.01%，微软涨0.90%，英伟达涨0.56%，谷歌涨0.44%，亚马逊跌0.80%。",
@@ -367,6 +444,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "04时46分"
+        },
+        {
+          "title": "全球最大白银ETF--iShares Silver Trust持仓较上日增加22.49吨，当前持仓量为15336.03吨。欢迎点击查看数据中心...",
+          "url": "https://flash.jin10.com/detail/20260814060656298800",
+          "source": "金十数据",
+          "ranks": [
+            23
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "07时43分"
         },
         {
           "title": "让DeepSeek给小说取架空国名",
@@ -383,7 +471,7 @@
     },
     {
       "keyword_group": "特朗普",
-      "match_count": 20,
+      "match_count": 21,
       "titles": [
         {
           "title": "深度｜为逼光伏制造回流，特朗普再挥大棒：瞄准对手，反伤自身",
@@ -391,11 +479,12 @@
           "source": "澎湃新闻",
           "ranks": [
             3,
-            1
+            1,
+            4
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时05分 ~ 05时49分]"
+          "appearance_count": 5,
+          "time_info": "[00时05分 ~ 07时43分]"
         },
         {
           "title": "特朗普秘密“换机”返美，除赫格塞思外的3名亲信都是谁？",
@@ -403,11 +492,12 @@
           "source": "凤凰网",
           "ranks": [
             4,
-            2
+            2,
+            7
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时05分 ~ 05时49分]"
+          "appearance_count": 5,
+          "time_info": "[00时05分 ~ 07时43分]"
         },
         {
           "title": "特朗普宣称美国“完全掌控”霍尔木兹海峡",
@@ -427,7 +517,7 @@
           "ranks": [
             3
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "05时49分"
         },
@@ -438,7 +528,7 @@
           "ranks": [
             4
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "05时49分"
         },
@@ -450,8 +540,8 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时05分 ~ 05时49分]"
+          "appearance_count": 5,
+          "time_info": "[00时05分 ~ 07时43分]"
         },
         {
           "title": "特朗普女婿计划下周访问以色列，就加沙问题进行会谈",
@@ -483,7 +573,7 @@
           "ranks": [
             6
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "05时49分"
         },
@@ -505,7 +595,7 @@
           "ranks": [
             8
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "05时49分"
         },
@@ -516,9 +606,20 @@
           "ranks": [
             9
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "05时49分"
+        },
+        {
+          "title": "美媒：肯尼迪中心决定将特朗普名字印在大楼外墙上",
+          "url": "https://flash.jin10.com/detail/20260814065155550800",
+          "source": "金十数据",
+          "ranks": [
+            9
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "07时43分"
         },
         {
           "title": "白宫：美国总统特朗普已签署一份国家安全总统备忘录，旨在解决海军舰船建造与维修计划中长期存在的关键问题。",
@@ -527,7 +628,7 @@
           "ranks": [
             10
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "05时49分"
         },
@@ -538,7 +639,7 @@
           "ranks": [
             12
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "05时49分"
         },
@@ -549,7 +650,7 @@
           "ranks": [
             13
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "05时49分"
         },
@@ -560,7 +661,7 @@
           "ranks": [
             14
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "05时49分"
         },
@@ -571,7 +672,7 @@
           "ranks": [
             15
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "05时49分"
         },
@@ -604,7 +705,7 @@
           "ranks": [
             28
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "05时49分"
         }
@@ -612,18 +713,19 @@
     },
     {
       "keyword_group": "伊朗",
-      "match_count": 13,
+      "match_count": 19,
       "titles": [
         {
           "title": "伊朗：将以持久战消耗美国",
           "url": "https://news.ifeng.com/c/8vYfWkn57YW",
           "source": "凤凰网",
           "ranks": [
-            1
+            1,
+            5
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时05分 ~ 05时49分]"
+          "appearance_count": 5,
+          "time_info": "[00时05分 ~ 07时43分]"
         },
         {
           "title": "被伊朗打成外交收缩？美驻中东使馆拟长期精简人员",
@@ -633,8 +735,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时05分 ~ 05时49分]"
+          "appearance_count": 5,
+          "time_info": "[00时05分 ~ 07时43分]"
         },
         {
           "title": "伊朗将正式加入金砖国家新开发银行",
@@ -671,6 +773,28 @@
           "time_info": "04时46分"
         },
         {
+          "title": "美国财长贝森特：我们将针对伊朗采取前所未有的措施。",
+          "url": "https://flash.jin10.com/detail/20260814071558616800",
+          "source": "金十数据",
+          "ranks": [
+            1
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "07时43分"
+        },
+        {
+          "title": "据伊朗法尔斯通讯社：巴勒斯坦消息人士称，以色列军队对加沙东部的多个地点发动了攻击。",
+          "url": "https://flash.jin10.com/detail/20260814071431945800",
+          "source": "金十数据",
+          "ranks": [
+            2
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "07时43分"
+        },
+        {
           "title": "美防长称可“无限期维持”对伊朗海上封锁",
           "url": "https://wallstreetcn.com/livenews/3149317",
           "source": "华尔街见闻-快讯",
@@ -695,6 +819,28 @@
           "time_info": "[04时46分 ~ 05时49分]"
         },
         {
+          "title": "美国能源部长赖特：我们对伊朗的制裁扼杀了其经济，使其在地区的影响力减弱。对其经济的压制最终将导致伊朗政权崩溃。",
+          "url": "https://flash.jin10.com/detail/20260814070112323800",
+          "source": "金十数据",
+          "ranks": [
+            6
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "07时43分"
+        },
+        {
+          "title": "美国能源部长赖特：美国知道每天有多少艘船只进出霍尔木兹海峡。 每天有800万至900万桶石油经由霍尔木兹海峡运输。 伊朗正试图以全球经济为要挟。 美国护送和运送货物的能力正在增强。 霍尔木兹海峡石油运输量将继续增加。",
+          "url": "https://wallstreetcn.com/livenews/3149346",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            6
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "07时43分"
+        },
+        {
           "title": "美国在伊朗冲突中损失约25%的“死神”无人机。（华盛顿邮报）",
           "url": "https://wallstreetcn.com/livenews/3149244",
           "source": "华尔街见闻-快讯",
@@ -706,6 +852,17 @@
           "time_info": "00时06分"
         },
         {
+          "title": "伊朗划“红线” 美军组特遣队 海峡博弈再度升级",
+          "url": "https://wallstreetcn.com/livenews/3149343",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            9
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "07时43分"
+        },
+        {
           "title": "伊朗最高领袖顾问：若条件得不到满足 或升级冲突",
           "url": "https://wallstreetcn.com/livenews/3149241",
           "source": "华尔街见闻-快讯",
@@ -715,6 +872,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "00时06分"
+        },
+        {
+          "title": "美国能源部长赖特：伊朗正试图以全球经济为要挟。",
+          "url": "https://flash.jin10.com/detail/20260814064748613800",
+          "source": "金十数据",
+          "ranks": [
+            12
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "07时43分"
         },
         {
           "title": "美国副总统万斯：（关于伊朗）霍尔木兹海峡冲突结束后，油价将回归稳定。",
@@ -764,7 +932,7 @@
     },
     {
       "keyword_group": "美股",
-      "match_count": 8,
+      "match_count": 9,
       "titles": [
         {
           "title": "美PPI数据再缓加息压力，美股高开，Cerebras跌12%，金油齐跌",
@@ -778,6 +946,17 @@
           "is_new": false,
           "appearance_count": 4,
           "time_info": "[00时05分 ~ 05时49分]"
+        },
+        {
+          "title": "美股收盘：三大指数齐升标普收新高 存储板块走强闪迪涨逾13%",
+          "url": "https://www.cls.cn/detail/2453979",
+          "source": "财联社热门",
+          "ranks": [
+            2
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "07时43分"
         },
         {
           "title": "美股三大指数开盘上涨",
@@ -821,7 +1000,7 @@
           "ranks": [
             7
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "05时49分"
         },
@@ -873,8 +1052,8 @@
             7
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时05分 ~ 05时49分]"
+          "appearance_count": 5,
+          "time_info": "[00时05分 ~ 07时43分]"
         },
         {
           "title": "如何看待 10 年期、 30 年期美债中标利率都达到 2007 年全球金融危机以来最高水平？",
@@ -885,8 +1064,8 @@
             9
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[04时46分 ~ 05时49分]"
+          "appearance_count": 3,
+          "time_info": "[04时46分 ~ 07时43分]"
         },
         {
           "title": "美国PPI数据公布日，美债收益率普遍下挫",
